@@ -1,0 +1,134 @@
+# Changelog
+
+Every Kroma Studio release, newest first, written for the people who use Kroma.
+
+Each version's section is that release's notes: it's written here first, before the release, and the GitHub release on [Heang-Dev/kroma](https://github.com/Heang-Dev/kroma/releases) uses it word for word. The same notes appear on the website's [Changelog](https://heang-dev.github.io/kroma/changelog/).
+
+## 0.1.10 — 2026-11-27
+
+Batch: run many videos through the same steps, then post each one in the right format.
+
+- **Batch** (in the left menu). Add videos from the Download Center or from project files, choose the steps once (Subtitles, Translate, Find characters, Voice-over, Remove original voices, Subtitle style, Export), and press **Process**. Each video goes through them one after another and stops before posting.
+- **Follow every video.** See the progress of each one, retry a failed video from the step that failed, look back at earlier runs, and open a video's details to see every step it went through.
+- **Ready to post.** For each video and platform, Kroma picks the format (YouTube 16:9; TikTok, Facebook and Reels 9:16) and writes the post text. Post one video or **Post selected**.
+- **The Post panel** exports and uploads the right format for each platform.
+- **Download Center → Batch.** Send finished downloads straight to Batch.
+- **Notifications** for each video in a batch, and a summary when the run ends.
+- **Clearer empty pages.** Media, Voices, Story, Subtitles, the bell and Settings search show a picture and what to do next when there's nothing there yet.
+
+## 0.1.9 — 2026-11-27
+
+Notifications, and a better list of supported sites.
+
+- **Notifications.** A bell in the title bar keeps everything that finished or failed — downloads, subtitles, translation, voice-overs, exports, posts, stories — with a button to retry or open it. When Kroma is in the background, your computer tells you too.
+- **Settings → Notifications**: turn notifications or their sound off, only be told about failures, choose which kinds you want, and send a test.
+- **Supported sites** is now a grid: Chinese sites first, what works on each, and **Open site** to visit it.
+- **Check for updates follows "Update automatically".** With it off, checking only tells you a new version is out; you choose when to download.
+
+
+## 0.1.8 — 2026-11-27
+
+Dropdowns you can search, and adding characters to a story.
+
+- **Every dropdown can be searched.** Lists open with a search box: type "king", "girl" or "narrator" to find a voice. The current choice has a ✓ and is shown straight away; voices are grouped (your voices, then the presets by kind, then instant voices) with a line about how each one sounds.
+- **Story → Add character.** Type a name in the Cast panel and press Add: a new line starts for them in the script, with a fitting voice you can change.
+- A character shows up in the cast as soon as you start their line.
+
+
+## 0.1.7 — 2026-11-27
+
+The Download Center, and one look for every page.
+
+- **Download Center** (Downloads in the left menu). Paste links — a Bilibili, Douyin or YouTube video, a whole series, a collection, a multi-part upload or a channel; share messages work too. **Find videos** lists them all; tick the ones you want, choose the quality, and **Download**. Each video becomes **its own project**, numbered in a folder for the series, ready to translate and voice.
+- **The queue** downloads 1–3 at a time with speed and time left, keeps going while you work, picks up after a restart, never downloads the same video twice, and waits when a site asks it to slow down.
+- **Import files / a folder**: episodes you already have become one project each, in the right order (EP1, EP2 … EP10), with their .srt subtitles.
+- **Supported sites**: Chinese sites first; ✓ means it works, **Free only** means free episodes download and VIP episodes are locked.
+- **YouTube** works without installing anything else.
+- **One look for every page**: the same header on Voices, Story and Downloads; Voices has filters and search; a wider left menu so every label fits.
+
+
+## 0.1.6 — 2026-11-27
+
+Kroma's own voice engine, and a cleaner, steadier interface.
+
+- **The voice engine is built in.** Settings → Voice Engine → **Install voice engine** sets it up once (about 2 GB, a few minutes); then **Start**. Nothing else to install or run. The first start downloads the voice model (about 5 GB). Turn on **Start the engine with Kroma** to have voices ready every time.
+- **Free Colab GPU, in one click.** Choose **Google Colab** and press **Open in Colab**; paste the address it prints.
+- **Story studio, laid out like an editor.** Your stories on the left; **Write** (the script with Insert Pause and speaker buttons, and the cast beside it) and **Listen** (the player and every line with ↻ to speak it again).
+- **Voice engine status in the status bar** on every page: start it from there.
+- **Settings → Voice Engine** shows what to do next: Install, Start, Stop, Update or Remove.
+- **Everything lines up**: one height for every button, field and dropdown, borders instead of shadows, side panels that open wide enough and stretch their switches, button labels that fit, long names that end in "…".
+- The **status bar is on every page**, and the voice players look the same everywhere.
+- Importing from Khmer Voice Studio is gone: Kroma has everything itself, and makes its preset voice samples on its own.
+
+
+## 0.1.5 — 2026-11-27
+
+Story studio, and updates you can follow.
+
+- **Story studio.** A new **Story** page in the left menu: write a story one line per speaker (`Sokha: …` or `សុខា៖ …`), give every character their own voice and style, and Kroma reads it with the Khmer Voice Studio engine. Add `[pause 2s]` for a pause and `Sokha (whisper): …` for one line's own style. Not happy with one line? Press ↻ to speak just that line again; the rest stays the same and the earlier version is kept. Save the audio (with its .srt subtitles) wherever you like.
+- **Updates you can follow.** The update card shows the speed and time left, and a dropped connection picks up where it stopped instead of starting over. Minimize the card into the status bar and keep working; click it to open it again.
+- **Check for updates** from the status bar at any time.
+- **Settings** in the left menu has its label like the other items, and the Settings page shows which version you're running.
+- **The purple Kroma icon** in the title bar. After an update, the Dock and Finder show the new icon straight away.
+- The **Next** hint sits right after the steps in the status bar.
+
+
+## 0.1.4 — 2026-11-27
+
+A new look, and fixes that matter when Kroma runs on your computer.
+
+- **New logo.** The purple Kroma Studio icon.
+- **Your edits are safe.** **Get subtitles**, **Translate all** and **Import .srt** now ask before replacing lines you already have (and Undo brings them back).
+- **Any language from the site.** Kroma uses the site's own subtitles in English or other languages too, not only Chinese.
+- **Words follow your language.** "Make Thai subtitles", "the original line above the translation", and so on.
+- **Shortcuts on Windows and Linux** show Ctrl, Shift and Backspace. **Save as a new file** and **New window** are listed in Settings → Shortcuts.
+- **Khmer Voice Studio import** has its own folder setting in **Settings → Voice Engine**.
+- The **Export** step stays ticked after a restart. Deleting a cloned voice moves the project and its characters to an instant voice.
+
+Kroma updates itself: this version downloads in the background and asks you to restart.
+
+
+## 0.1.3 — 2026-11-27
+
+A cleaner editor, laid out like Orca.
+
+- **Steps at the bottom.** The step bar (Video → Subtitles → Khmer → Characters → Voices → Style → Export) is now a slim status bar along the bottom of the window, with **Next** at the right end.
+- **Updates in a card.** New versions now show in a card in the bottom-right corner: download progress, then **Restart to update** or **Later**. After **Later**, a small **Restart to update** stays in the status bar.
+- Notices sit just above the status bar.
+
+Kroma updates itself: if you have 0.1.1 or 0.1.2, this version downloads in the background and asks you to restart.
+
+
+## 0.1.2 — 2026-11-27
+
+Fixes automatic updates on Windows and Linux (AppImage). macOS updates were already working.
+
+From now on Kroma updates itself: it downloads new versions in the background and shows **Restart to update** in the title bar.
+
+
+## 0.1.1 — 2026-11-27
+
+Automatic updates: Kroma now checks for new versions, downloads them in the background and shows **Restart to update** in the title bar. From this version on, you'll never need to download Kroma again by hand.
+
+- Settings → About → Updates: check now, update automatically on or off
+- The code is open source (MIT): https://github.com/Heang-Dev/KROMA.STUDIO
+
+If you have 0.1.0, download this version once; after that updates come by themselves.
+
+
+## 0.1.0 — 2026-11-27
+
+First release for macOS (Apple silicon), Windows 10/11 and Linux.
+
+- Download from 1,000+ sites, subtitles from the site or cloud speech-to-text
+- Translate to Khmer (or Thai, Vietnamese, Lao, English, Indonesian, Malay)
+- Characters with their own voices: 36 Khmer preset voices, voice cloning, instant voices
+- Remove the original voices, blur burned-in subtitles, add logos and text
+- Export Small / Standard / High, and post to YouTube, Facebook and TikTok in one click
+- Free translation and speech to text: Gemini (free tier) or Google Translate, with Groq or OpenAI Whisper for speech to text
+- Find who says each line, record your own voice to clone, and timing that never cuts a voice line short
+- Paste a share message and Kroma pulls out the link and the title; download errors are explained in plain words
+- A timeline that shows frames of the video and its waveform
+- Light, dark or system theme, interface zoom (⌘ + / − / 0), resizable panels, and several windows at once
+
+The installers aren't code-signed yet: see the README for opening them on each system.
