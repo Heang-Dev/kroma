@@ -35,7 +35,7 @@
 | **Windows** 10 / 11 (x64) | `Kroma-Studio-Setup-<version>.exe` | [Download](https://github.com/Heang-Dev/kroma/releases/latest) |
 | **Linux** (x64) | `.AppImage` (any distro) or `.deb` (Ubuntu, Debian) | [Download](https://github.com/Heang-Dev/kroma/releases/latest) |
 
-Install it once: Kroma updates itself. New versions download in the background and a **Restart to update** card appears in the bottom-right corner. Every version and its notes are on the [changelog](https://heang-dev.github.io/kroma/changelog/).
+Install it once: Kroma updates itself. New versions download in the background and a **Restart to update** card appears in the bottom-right corner. Every version and its notes are on the [changelog](https://heang-dev.github.io/kroma/changelog/), and in [CHANGELOG.md](CHANGELOG.md).
 
 ### The installers aren't code-signed yet
 
@@ -63,6 +63,15 @@ Install it once: Kroma updates itself. New versions download in the background a
 <td valign="top"><b>Post in one click.</b> AI-written titles, text and hashtags for YouTube, Facebook and TikTok.</td>
 </tr>
 </table>
+
+## More in Kroma
+
+- **Batch.** Add many videos at once, from the Download Center or your project files, choose the steps once (subtitles, translate, characters, voice-over, style, export, post text) and press **Process**. Each video goes through every step while you do something else, then waits in **Ready to post** so you check it first.
+- **The right format for each platform.** YouTube gets 16:9; TikTok, Facebook and Reels get 9:16. Kroma exports each format it needs and uploads the right file to each platform.
+- **Download Center.** Paste a whole series, a playlist or a channel, tick the episodes you want, and each video becomes its own project, numbered in a folder. The queue keeps going while you work and picks up after a restart.
+- **Story studio.** Write a story one line per speaker, give every character a voice, and Kroma reads it aloud. Save the audio with its subtitles.
+- **A voice engine built in.** One button installs it on your computer, or run it on a free Google Colab GPU. [Voice engine →](https://heang-dev.github.io/kroma/docs/0.1/voice-engine/)
+- **Notifications.** A bell in the title bar keeps everything that finished or failed, with **Retry** or **Open**, and your computer tells you when Kroma is in the background.
 
 ## About this repository
 
