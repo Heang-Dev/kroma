@@ -6,15 +6,23 @@ Each version's section is that release's notes: it's written here first, before 
 
 ## 0.1.10 — 2026-11-27
 
-Batch: run many videos through the same steps, then post each one in the right format.
+**Batch: process many videos at once**
 
-- **Batch** (in the left menu). Add videos from the Download Center or from project files, choose the steps once (Subtitles, Translate, Find characters, Voice-over, Remove original voices, Subtitle style, Export), and press **Process**. Each video goes through them one after another and stops before posting.
-- **Follow every video.** See the progress of each one, retry a failed video from the step that failed, look back at earlier runs, and open a video's details to see every step it went through.
-- **Ready to post.** For each video and platform, Kroma picks the format (YouTube 16:9; TikTok, Facebook and Reels 9:16) and writes the post text. Post one video or **Post selected**.
-- **The Post panel** exports and uploads the right format for each platform.
-- **Download Center → Batch.** Send finished downloads straight to Batch.
-- **Notifications** for each video in a batch, and a summary when the run ends.
-- **Clearer empty pages.** Media, Voices, Story, Subtitles, the bell and Settings search show a picture and what to do next when there's nothing there yet.
+- New **Batch** page. Add videos from the Download Center (or any project files), choose the steps once: subtitles, translate, find characters, voice-over, remove original voices, subtitle style, export, post text. Then press **Process**. Each video goes through every step, one after another, while you do something else.
+- It stops before posting, so you check each video first. Finished videos wait in **Ready to post**.
+- Follow every video's progress step by step. If a step fails, Kroma says why and you can **Retry from here** or **Fix by hand**. The list is kept, so after a restart you see where things stopped.
+- In the Download Center, tick finished downloads and send them to Batch.
+- You get a notification for each video and a summary when the batch is done.
+
+**The right format for each platform**
+
+- When posting, choose the format for each platform: YouTube 16:9, and TikTok, Facebook and Reels 9:16 by default. Kroma exports each format it needs and uploads the right file to each platform. This works in the Post panel and in Ready to post.
+
+**Nicer empty pages**
+
+- Pages with nothing in them yet now show a small illustration and say what to do next.
+
+Only post videos you have the right to use, and only clone voices with the speaker's permission.
 
 ## 0.1.9 — 2026-11-27
 
