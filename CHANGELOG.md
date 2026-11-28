@@ -4,6 +4,15 @@ Every Kroma Studio release, newest first, written for the people who use Kroma.
 
 Each version's section is that release's notes: it's written here first, before the release, and the GitHub release on [Heang-Dev/kroma](https://github.com/Heang-Dev/kroma/releases) uses it word for word. The same notes appear on the website's [Changelog](https://heang-dev.github.io/kroma/changelog/).
 
+## 0.1.12 — 2026-11-28
+
+More reliable updates on the Mac.
+
+- **Updates download once.** Checking for updates while a download is already running no longer starts a second download of the same file, which could make the progress jump back and forth and spoil the download.
+- **A damaged download is caught.** Kroma checks the downloaded update against the one on GitHub, and downloads it again instead of installing a broken copy.
+- **A downloaded update survives a restart.** If you quit Kroma before pressing **Restart to update**, the update is ready straight away next time, without downloading it again.
+- **If an update can't be installed, Kroma says why.** When your Mac doesn't let Kroma replace itself in Applications, Kroma reopens as before, tells you what happened, and opens the new Kroma Studio in Finder so you can drag it into Applications. You can also allow Kroma Studio in **System Settings → Privacy & Security → App Management**.
+
 ## 0.1.11 — 2026-11-28
 
 Your API keys stay saved through updates, Kroma opens where you work, and notifications can make a sound.
