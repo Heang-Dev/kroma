@@ -35,7 +35,7 @@
 | **Windows** 10 / 11 (x64) | `Kroma-Studio-Setup-<version>.exe` | [Download](https://github.com/Heang-Dev/kroma/releases/latest) |
 | **Linux** (x64) | `.AppImage` (any distro) or `.deb` (Ubuntu, Debian) | [Download](https://github.com/Heang-Dev/kroma/releases/latest) |
 
-Install it once: Kroma updates itself. New versions download in the background and a **Restart to update** card appears in the bottom-right corner. Every version and its notes are on the [changelog](https://heang-dev.github.io/kroma/changelog/), and in [CHANGELOG.md](CHANGELOG.md).
+Install it once: Kroma updates itself. New versions download in the background and a **Restart to update** card appears in the bottom-right corner. Every version and its notes are on the [changelog](https://heang-dev.github.io/kroma/changelog/), and in [CHANGELOG.md](CHANGELOG.md) ([ខ្មែរ](CHANGELOG.km.md)).
 
 ### The installers aren't code-signed yet
 
