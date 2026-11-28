@@ -4,6 +4,16 @@ Every Kroma Studio release, newest first, written for the people who use Kroma.
 
 Each version's section is that release's notes: it's written here first, before the release, and the GitHub release on [Heang-Dev/kroma](https://github.com/Heang-Dev/kroma/releases) uses it word for word. The same notes appear on the website's [Changelog](https://heang-dev.github.io/kroma/changelog/).
 
+## 0.2.0 — 2026-11-28
+
+Tools for whole series: hide the original subtitles automatically, animated captions, one spelling for every name, your own styles, and numbered episode covers.
+
+- **Hide original subtitles.** In **Objects**, **Hide original subtitles** now finds the Chinese subtitles burned into the video and puts a blur box exactly over them for the whole video, whether the video uses **Blur**, **Bars** or **Crop**. If it finds none it says so. Batch can do it too: turn on **Hide original subtitles** in its steps.
+- **Animated captions.** In **Style → Subtitle style → Animation**, choose how each line appears: **Fade in**, **Pop** or **Slide up**. Or let the words follow the voice: **Spoken word** lights up the word being said (pick its colour in **Spoken word colour**), and **Word by word** shows words as they're said. The preview and the exported video move the same way.
+- **Series glossary.** In **Translate → Series glossary**, names and terms get one spelling that every episode in the same folder uses. Kroma fills it in after a series' first translation, **Find names** adds more, and you can fix or remove any name. Gemini and Claude follow it; with Google Translate, the names are swapped in before translating.
+- **Save as my style.** In **Style**, **Save as my style** keeps your whole subtitle look (font, colours, size, position, animation) under **My styles**, for every project and for Batch.
+- **Episode covers.** In **Post → Cover**, make a thumbnail with the episode number (**ភាគ ៥**, **EP 5**, **Part 5** or your own word) and the series title, in four designs (**Badge**, **Big number**, **Banner**, **Minimal**) and any colour. The number is read from the episode's name ("05 - …", "EP12", "第27集"). Kroma picks a sharp frame, keeps hidden subtitles blurred, and **Save covers** saves 16:9 (YouTube) and 9:16 (TikTok, Reels) covers next to the exported videos. Batch can make covers for a whole series with **Make covers**.
+
 ## 0.1.13 — 2026-11-28
 
 Many more subtitle styles, with Khmer display fonts, shadows and glows.

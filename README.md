@@ -13,7 +13,7 @@
 <h2 align="center">Turn any video into a Khmer video.</h2>
 
 <p align="center">
-  Download from YouTube, Bilibili, Douyin and 1,000+ sites. Get the subtitles, translate them to Khmer, give every character their own voice, and post to YouTube, Facebook and TikTok. One free, open-source desktop app.
+  Download a video or a whole series from YouTube, Bilibili, Douyin and 1,000+ sites. Get the subtitles, translate them to Khmer, give every character their own voice, and post to YouTube, Facebook and TikTok. One free, open-source desktop app.
 </p>
 
 <h3 align="center">
@@ -51,7 +51,7 @@ Install it once: Kroma updates itself. New versions download in the background a
 <td width="50%"><img src="https://raw.githubusercontent.com/Heang-Dev/KROMA.STUDIO/main/docs/assets/readme-voices-dark.jpg" alt="The Khmer voice library" width="100%" /></td>
 </tr>
 <tr>
-<td valign="top"><b>Khmer that sounds like Khmer.</b> Gemini (free), Google Translate (free, no key) or Claude, with lines that fit their time on screen. Thai, Vietnamese, Lao, English, Indonesian and Malay too.</td>
+<td valign="top"><b>Khmer that sounds like Khmer.</b> Gemini (free), Google Translate (free, no key) or Claude, with lines that fit their time on screen, and a series glossary so every name is spelled the same in every episode. Thai, Vietnamese, Lao, English, Indonesian and Malay too.</td>
 <td valign="top"><b>A voice for every character.</b> 36 Khmer voices, your own cloned voice, or free instant voices. The original voices are removed; music and effects stay.</td>
 </tr>
 <tr>
@@ -59,18 +59,19 @@ Install it once: Kroma updates itself. New versions download in the background a
 <td width="50%"><img src="https://raw.githubusercontent.com/Heang-Dev/KROMA.STUDIO/main/docs/assets/readme-post-dark.jpg" alt="Posting to YouTube, Facebook and TikTok" width="100%" /></td>
 </tr>
 <tr>
-<td valign="top"><b>Your style.</b> Khmer subtitles your way, original subtitles blurred away, your logo on top. 16:9, 9:16 and 1:1.</td>
-<td valign="top"><b>Post in one click.</b> AI-written titles, text and hashtags for YouTube, Facebook and TikTok.</td>
+<td valign="top"><b>Your style.</b> 33 subtitle styles, Khmer display fonts and animated captions. The burned-in original subtitles are found and blurred automatically. 16:9, 9:16 and 1:1.</td>
+<td valign="top"><b>Post in one click.</b> AI-written titles, text and hashtags for YouTube, Facebook and TikTok, the right format for each, and numbered episode covers.</td>
 </tr>
 </table>
 
 ## More in Kroma
 
-- **Batch.** Add many videos at once, from the Download Center or your project files, choose the steps once (subtitles, translate, characters, voice-over, style, export, post text) and press **Process**. Each video goes through every step while you do something else, then waits in **Ready to post** so you check it first.
+- **Batch.** Add many videos at once, from the Download Center or your project files, choose the steps once (subtitles, translate, characters, voice-over, hide the original subtitles, style, export, covers, post text) and press **Process**. Each video goes through every step while you do something else, then waits in **Ready to post** so you check it first.
 - **The right format for each platform.** YouTube gets 16:9; TikTok, Facebook and Reels get 9:16. Kroma exports each format it needs and uploads the right file to each platform.
 - **Download Center.** Paste a whole series, a playlist or a channel, tick the episodes you want, and each video becomes its own project, numbered in a folder. The queue keeps going while you work and picks up after a restart.
+- **Series glossary, my styles and episode covers.** One spelling for every name across a series, your subtitle look saved for every project, and a numbered thumbnail for every episode. [Release notes →](https://heang-dev.github.io/kroma/docs/0.2/release-notes/)
 - **Story studio.** Write a story one line per speaker, give every character a voice, and Kroma reads it aloud. Save the audio with its subtitles.
-- **A voice engine built in.** One button installs it on your computer, or run it on a free Google Colab GPU. [Voice engine →](https://heang-dev.github.io/kroma/docs/0.1/voice-engine/)
+- **A voice engine built in.** One button installs it on your computer, or run it on a free Google Colab GPU. [Voice engine →](https://heang-dev.github.io/kroma/docs/0.2/voice-engine/)
 - **Notifications.** A bell in the title bar keeps everything that finished or failed, with **Retry** or **Open**, and your computer tells you when Kroma is in the background.
 
 ## About this repository
