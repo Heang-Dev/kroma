@@ -4,6 +4,17 @@ Every Kroma Studio release, newest first, written for the people who use Kroma.
 
 Each version's section is that release's notes: it's written here first, before the release, and the GitHub release on [Heang-Dev/kroma](https://github.com/Heang-Dev/kroma/releases) uses it word for word. The same notes appear on the website's [Changelog](https://heang-dev.github.io/kroma/changelog/).
 
+## 0.1.13 — 2026-11-28
+
+Many more subtitle styles, with Khmer display fonts, shadows and glows.
+
+- **33 subtitle styles** in **Style → Subtitle style → Preset**, in four groups: **Outlined**, **Glow**, **Khmer fonts** and **On a box**. Each one shows as a small preview, drawn exactly as it will look in your exported video. Picking one changes the colours, outline, box, shadow and font; your size, position and **Bilingual** setting stay as they are.
+- **Khmer display fonts.** Seven fonts now come with Kroma: Koulen, Moul, Battambang, Bayon, Dangrek, Fasthand and Hanuman. Choose one in **Font**, or pick a style that uses it, such as **Moul gold**, **Poster**, **Comic**, **Serif** or **Handwritten**.
+- **Shadow and glow.** A new **Shadow** slider adds a soft shadow under the text. **Shadow colour** turns it into a glow, as in **Gold glow**, **Fire**, **Ice** and **Magic**.
+- More boxes: **Light box**, **White box**, **Highlight**, **Violet box**, **Red box**, **News**, **Blue box** and **Green box**.
+- **Batch** offers every style in its **Subtitle style** list.
+- Your existing projects keep exactly the look they had.
+
 ## 0.1.12 — 2026-11-28
 
 More reliable updates on the Mac.
