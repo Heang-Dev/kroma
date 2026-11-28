@@ -2,7 +2,7 @@
 
 Every Kroma Studio release, newest first, written for the people who use Kroma.
 
-Each version's section is that release's notes: it's written here first, before the release, and the GitHub release on [Heang-Dev/kroma](https://github.com/Heang-Dev/kroma/releases) uses it word for word. The same notes appear on the website's [Changelog](https://heang-dev.github.io/kroma/changelog/). In Khmer: [CHANGELOG.km.md](CHANGELOG.km.md).
+Each version's section is that release's notes: it's written here first, before the release, and the GitHub release on [Heang-Dev/kroma](https://github.com/Heang-Dev/kroma/releases) uses it word for word. The same notes appear on the website's [Changelog](https://heang-dev.github.io/kroma/changelog/).
 
 ## 0.2.3 — 2026-11-28
 
