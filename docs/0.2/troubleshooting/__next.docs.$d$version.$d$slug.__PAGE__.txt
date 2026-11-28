@@ -1,0 +1,448 @@
+1:"$Sreact.fragment"
+2:"/kroma/_next/static/chunks/04vt5_qdxg31o.js"
+3:"/kroma/_next/static/chunks/0w3ftlzy945zl.js"
+4:"/kroma/_next/static/chunks/2m9t-wks40qyw.js"
+5:"/kroma/_next/static/chunks/1a4ohd0pkdhou.js"
+6:I[19738,["$2","$3","$4","$5"],"HeaderBar"]
+7:I[39756,["$2","$3","$4","$5"],"default"]
+8:I[37457,["$2","$3","$4","$5"],"default"]
+9:I[19738,["$2","$3","$4","$5"],"FooterBar"]
+14:"/kroma/_next/static/chunks/2ffur98r21h0b.js"
+15:I[22016,["$2","$3","$4","$5","$14"],""]
+16:I[32016,["$2","$3","$4","$5","$14"],"VersionPicker"]
+1c:"ViewportBoundary"
+1d:I[97367,["$2","$3","$4","$5"],"$1c"]
+1e:"MetadataBoundary"
+1f:I[97367,["$2","$3","$4","$5"],"$1e"]
+20:"$Sreact.suspense"
+:HL["/kroma/_next/static/chunks/3kygz3hykdx6f.css","style"]
+b:X
+10:X
+10:C
+13:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto w-[min(1280px,100%-32px)] grid grid-cols-1 gap-6 pt-6 pb-10 lg:gap-10 lg:pt-10 lg:grid-cols-[230px_1fr] xl:grid-cols-[230px_1fr_200px]","children":[["$","aside",null,{"className":"lg:sticky lg:top-[84px] lg:max-h-[calc(100vh-100px)] lg:self-start lg:overflow-y-auto lg:pr-2","children":[["$","$L15",null,{"href":"/docs/0.2/","className":"mb-3 block text-xs tracking-wider text-muted-foreground uppercase no-underline hover:text-foreground","children":"Documentation"}],["$","$L16",null,{"versions":[{"version":"0.2","label":"0.2.x","released":"2026-11-28"},{"version":"0.1","label":"0.1.x","released":"2026-11-27"}],"current":"0.2","slug":"troubleshooting","slugsByVersion":{"0.2":["installation","configuration","updates","the-editor","first-video","downloading","subtitles","translation","style-and-objects","export","batch","characters-and-voices","voice-library","voice-engine","voice-cloning","story","posting","keyboard-shortcuts","projects-and-files","settings","notifications","troubleshooting","release-notes","upgrade"],"0.1":["installation","configuration","updates","the-editor","first-video","downloading","subtitles","translation","style-and-objects","export","characters-and-voices","voice-library","voice-engine","voice-cloning","posting","keyboard-shortcuts","projects-and-files","settings","troubleshooting","release-notes","upgrade"]},"lang":"en","latestLabel":"latest"}],"$L17"]}],"$L18","$L19"]}],null,"$L1a"]}],"p":"$@1b","v":null,"s":"$b"}}]]
+11:[["children",{"s":{"n":"slug","t":"d","k":"troubleshooting","s":[]},"h":65632,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$L8",null,{}]}]]}],"p":"$@12","v":"$10","s":"$b"},"c":"$Q13"}]]
+e:[["children",{"s":{"n":"version","t":"d","k":"0.2","s":[]},"h":196704,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$L8",null,{}]}]]}],"p":"$@f","v":"$10","s":"$b"},"c":"$Q11"}]]
+c:[["children",{"s":"docs","h":131168,"d":{"r":["$","$1","c",{"children":[[["$","script","script-0",{"src":"/kroma/_next/static/chunks/2ffur98r21h0b.js","async":true}]],["$","$L7",null,{"parallelRouterKey":"children","template":["$","$L8",null,{}]}]]}],"p":"$@d","v":null,"s":"$b"},"c":"$Qe"}]]
+0:{"t":{"t":{"s":"","h":131152,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/kroma/_next/static/chunks/3kygz3hykdx6f.css","precedence":"next"}],["$","script","script-0",{"src":"/kroma/_next/static/chunks/04vt5_qdxg31o.js","async":true}],["$","script","script-1",{"src":"/kroma/_next/static/chunks/0w3ftlzy945zl.js","async":true}],["$","script","script-2",{"src":"/kroma/_next/static/chunks/2m9t-wks40qyw.js","async":true}],["$","script","script-3",{"src":"/kroma/_next/static/chunks/1a4ohd0pkdhou.js","async":true}]],["$","html",null,{"lang":"en","className":"z61v7q_variable -suo1a_variable","suppressHydrationWarning":true,"children":[["$","head",null,{"children":["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(a){try{let b=document.documentElement,c=location.pathname.slice(a.length)||\"/\",d=\"/km\"===c||c.startsWith(\"/km/\");b.lang=d?\"km\":\"en\";let e=localStorage.getItem(\"kroma-theme\");b.classList.toggle(\"dark\",e?\"dark\"===e:matchMedia(\"(prefers-color-scheme: dark)\").matches);let f=localStorage.getItem(\"kroma-lang\"),g=!1;try{let b=new URL(document.referrer);g=b.origin===location.origin&&(b.pathname+\"/\").startsWith(a+\"/\")}catch{}if(!f||g)return;let h=location.search+location.hash;\"km\"!==f||d?\"en\"===f&&d&&location.replace(a+(c.slice(3)||\"/\")+h):location.replace(a+\"/km\"+(\"/\"===c?\"/\":c)+h)}catch{}})(\"/kroma\")"}}]}],["$","body",null,{"className":"flex min-h-svh flex-col","children":[["$","$L6",null,{"stars":0}],["$","div",null,{"className":"flex-1","children":["$","$L7",null,{"parallelRouterKey":"children","template":["$","$L8",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}]}],["$","$L9",null,{"latest":{"version":"0.2.3","date":"2026-11-28T09:36:49Z"}}]]}]]}]]}],"p":"$@a","v":null,"s":"$b"},"c":"$Qc"},"h":{"r":["$","$1","h",{"children":[null,["$","$L1d",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L1f",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$20",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Troubleshooting · v0.2 · Docs · Kroma Studio"}],["$","meta","1",{"name":"description","content":"Download videos from YouTube, Bilibili, Douyin and 1,000+ sites, translate the subtitles to Khmer, give every character a voice, and post to YouTube, Facebook and TikTok. A free desktop app for macOS, Windows and Linux."}],["$","meta","2",{"property":"og:title","content":"Troubleshooting · v0.2 · Docs · Kroma Studio"}],["$","meta","3",{"property":"og:description","content":"Everything about Kroma Studio, from installing it to posting your videos."}],["$","meta","4",{"property":"og:site_name","content":"Kroma Studio"}],["$","meta","5",{"property":"og:locale","content":"en_US"}],["$","meta","6",{"property":"og:image","content":"https://heang-dev.github.io/kroma/assets/og-docs.png"}],["$","meta","7",{"property":"og:image:width","content":"1200"}],["$","meta","8",{"property":"og:image:height","content":"630"}],["$","meta","9",{"property":"og:image:alt","content":"The Kroma Studio docs"}],["$","meta","10",{"property":"og:type","content":"website"}],["$","meta","11",{"name":"twitter:card","content":"summary_large_image"}],"$L21","$L22","$L23","$L24","$L25","$L26","$L27","$L28"]}]}],null]}],"$L29"]}],"p":"$@2a","v":null,"s":"$b"}},"a":"$@2b","u":"$@2c","b":"Hf2A-8s-tskzwG8lj9Zm4"}
+2d:I[45613,["$2","$3","$4","$5","$14"],"DocsNavToggle"]
+35:I[51896,["$2","$3","$4","$5","$14"],"DocsToc"]
+36:I[97367,["$2","$3","$4","$5"],"OutletBoundary"]
+38:I[27201,["$2","$3","$4","$5"],"IconMark"]
+17:["$","$L2d",null,{"current":"Troubleshooting","label":"Documentation","children":["$","nav",null,{"aria-label":"Documentation","className":"mt-5 grid gap-5","children":[["$","div","Getting started",{"children":[["$","p",null,{"className":"mb-1.5 px-2 text-[12px] font-semibold","children":"Getting started"}],["$","ul",null,{"className":"grid list-none gap-0.5 border-l p-0","children":[["$","li","installation",{"children":["$","$L15",null,{"href":"/docs/0.2/installation/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Installation"}]}],["$","li","configuration",{"children":["$","$L15",null,{"href":"/docs/0.2/configuration/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Add your keys"}]}],["$","li","updates",{"children":["$","$L15",null,{"href":"/docs/0.2/updates/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Updates"}]}],["$","li","the-editor",{"children":["$","$L15",null,{"href":"/docs/0.2/the-editor/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"The editor"}]}]]}]]}],["$","div","Making videos",{"children":[["$","p",null,{"className":"mb-1.5 px-2 text-[12px] font-semibold","children":"Making videos"}],["$","ul",null,{"className":"grid list-none gap-0.5 border-l p-0","children":[["$","li","first-video",{"children":["$","$L15",null,{"href":"/docs/0.2/first-video/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Your first video"}]}],["$","li","downloading",{"children":["$","$L15",null,{"href":"/docs/0.2/downloading/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Downloading videos"}]}],["$","li","subtitles",{"children":["$","$L15",null,{"href":"/docs/0.2/subtitles/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Subtitles"}]}],["$","li","translation",{"children":["$","$L15",null,{"href":"/docs/0.2/translation/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Translation"}]}],["$","li","style-and-objects",{"children":["$","$L15",null,{"href":"/docs/0.2/style-and-objects/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Style & objects"}]}],["$","li","export",{"children":["$","$L15",null,{"href":"/docs/0.2/export/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Export"}]}],["$","li","batch",{"children":["$","$L15",null,{"href":"/docs/0.2/batch/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Batch"}]}]]}]]}],["$","div","Voices",{"children":["$L2e","$L2f"]}],"$L30","$L31","$L32"]}]}]
+33:T68a6,<p>Find the message you see, or the problem you have, and follow the steps. Messages in quotes are exactly what Kroma shows.</p>
+<p>When a task fails, Kroma shows a red note at the bottom of the window with a title like <strong>Download failed</strong> or <strong>Export failed</strong>, and the reason underneath. It&#39;s also kept in the <a href="/kroma/docs/0.2/notifications/">bell</a> in the title bar, so you can read it later, and often has a <strong>Retry</strong> button. The sections below are sorted by that task.</p>
+<h2 id="installing-and-opening"><a class="anchor" href="#installing-and-opening" aria-hidden="true">#</a>Installing and opening</h2><h3 id="macos-kroma-studio-is-damaged-or-it-won-t-open"><a class="anchor" href="#macos-kroma-studio-is-damaged-or-it-won-t-open" aria-hidden="true">#</a>macOS: &quot;Kroma Studio is damaged&quot; or it won&#39;t open</h3><p>Kroma isn&#39;t signed with an Apple certificate yet, so macOS blocks it the first time. Move it into <strong>Applications</strong>, then run this once in Terminal:</p>
+<div class="code-block"><pre><code class="language-bash">xattr -cr &quot;/Applications/Kroma Studio.app&quot;</code></pre></div><p>Then open it again. See <a href="/kroma/docs/0.2/installation/#macos">Installation</a>.</p>
+<h3 id="windows-windows-protected-your-pc"><a class="anchor" href="#windows-windows-protected-your-pc" aria-hidden="true">#</a>Windows: &quot;Windows protected your PC&quot;</h3><p>The installer isn&#39;t code-signed yet. Click <strong>More info</strong>, then <strong>Run anyway</strong>.</p>
+<h3 id="linux-the-appimage-does-nothing"><a class="anchor" href="#linux-the-appimage-does-nothing" aria-hidden="true">#</a>Linux: the AppImage does nothing</h3><p>Make it executable first:</p>
+<div class="code-block"><pre><code class="language-bash">chmod +x Kroma-Studio-*.AppImage &amp;&amp; ./Kroma-Studio-*.AppImage</code></pre></div><p>Or install the <code>.deb</code> instead.</p>
+<h3 id="i-open-kroma-but-no-new-window-appears"><a class="anchor" href="#i-open-kroma-but-no-new-window-appears" aria-hidden="true">#</a>I open Kroma but no new window appears</h3><p>Kroma only runs once. Opening it again brings the open window to the front. To work on a second project, use <strong>File → New Window</strong> (⇧⌘N / Ctrl+Shift+N). See <a href="/kroma/docs/0.2/projects-and-files/#only-one-kroma-at-a-time">Projects and files</a>.</p>
+<p>On a Mac, Kroma keeps running after you close its last window. Click the Dock icon to get a window back.</p>
+<h2 id="missing-ffmpeg-or-yt-dlp"><a class="anchor" href="#missing-ffmpeg-or-yt-dlp" aria-hidden="true">#</a>Missing FFmpeg or yt-dlp</h2><p>A red bar at the top of the editor says <strong>Missing ffmpeg, ffprobe, yt-dlp. Install with:</strong> and shows the command for your system. <strong>Settings → About → Tools</strong> shows the same thing, tool by tool.</p>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>System</th>
+<th>What to do</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>macOS</td>
+<td>Install <a href="https://brew.sh" target="_blank" rel="noreferrer">Homebrew</a>, then run <code>brew install ffmpeg yt-dlp</code>.</td>
+</tr>
+<tr>
+<td>Windows</td>
+<td>They come with Kroma. If they&#39;re missing, reinstall Kroma, or run <code>winget install Gyan.FFmpeg</code> and <code>winget install yt-dlp.yt-dlp</code>.</td>
+</tr>
+<tr>
+<td>Linux</td>
+<td>They come with Kroma. If they&#39;re missing, run <code>sudo apt install ffmpeg yt-dlp</code>.</td>
+</tr>
+</tbody></table></div>
+<p>Restart Kroma after installing. Kroma looks in the usual install places (Homebrew, WinGet, Scoop, Chocolatey, <code>/usr/local/bin</code> and others), so you don&#39;t need to change any system settings.</p>
+<p>You may also see &quot;ffmpeg is not installed. Install it with: …&quot; (or the same for yt-dlp) when a task needs the tool.</p>
+<h2 id="downloading-from-a-link"><a class="anchor" href="#downloading-from-a-link" aria-hidden="true">#</a>Downloading from a link</h2><div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Message</th>
+<th>What to do</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>&quot;Paste a link that starts with https:// (a share message with a link in it works too).&quot;</td>
+<td>Copy the full link. A share message from Douyin or Bilibili works too, as long as it contains the link.</td>
+</tr>
+<tr>
+<td>&quot;This link isn&#39;t a video page Kroma can download from. Open the video itself and copy its link, or check the site is supported.&quot;</td>
+<td>You copied a link to a channel, a search or a home page. Open the video and copy its own link.</td>
+</tr>
+<tr>
+<td>&quot;This video needs you to be signed in. Choose your browser in Settings → Downloads, sign in to the site there, then try again.&quot;</td>
+<td>Pick your browser in <a href="/kroma/docs/0.2/settings/#downloads">Settings → Downloads</a>, sign in to the site in that browser, and try again.</td>
+</tr>
+<tr>
+<td>&quot;This video is protected (encrypted), so it can&#39;t be downloaded.&quot;</td>
+<td>The video uses DRM. Kroma can&#39;t download it.</td>
+</tr>
+<tr>
+<td>&quot;The video isn&#39;t available any more (removed, or the link is wrong).&quot;</td>
+<td>Check the link in your browser.</td>
+</tr>
+<tr>
+<td>&quot;This video isn&#39;t available from your country.&quot;</td>
+<td>The site blocks it where you are.</td>
+</tr>
+<tr>
+<td>&quot;The connection failed. Check your internet and try again.&quot;</td>
+<td>Check your internet and try again.</td>
+</tr>
+<tr>
+<td>&quot;The download finished but no video file was found.&quot;</td>
+<td>Try again. If it keeps happening, report it (see below).</td>
+</tr>
+</tbody></table></div>
+<p>More tips:</p>
+<ul>
+<li><strong>Only 720p or lower from Bilibili?</strong> Bilibili gives 1080p only when you&#39;re signed in. Choose your browser in <strong>Settings → Downloads</strong>.</li>
+<li><strong>Safari logins don&#39;t work?</strong> Safari also needs Full Disk Access: macOS <strong>System Settings → Privacy &amp; Security → Full Disk Access</strong>, turn on Kroma Studio.</li>
+<li><strong>A site that used to work stopped working?</strong> Sites change often. On Windows and Linux, update Kroma: its yt-dlp is updated with it. On a Mac, run <code>brew upgrade yt-dlp</code>.</li>
+<li>If the site&#39;s subtitles fail to download, Kroma shows &quot;Retrying without the site&#39;s subtitles…&quot; and downloads the video anyway. You can make subtitles with speech to text instead.</li>
+</ul>
+<h3 id="the-download-center"><a class="anchor" href="#the-download-center" aria-hidden="true">#</a>The Download Center</h3><div class="table-wrap"><table>
+<thead>
+<tr>
+<th>What you see</th>
+<th>What to do</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>&quot;No links found. Paste links that start with https://, one per line.&quot;</td>
+<td>Paste the full links (or share messages that contain them), one per line.</td>
+</tr>
+<tr>
+<td>The queue pauses: &quot;The site wants a break (too many downloads in a row)…&quot;</td>
+<td>Bilibili or YouTube is slowing you down. Wait (Bilibili: a few minutes; YouTube: up to an hour) and press <strong>Resume</strong>, or turn on browser logins in <strong>Settings → Downloads</strong>.</td>
+</tr>
+<tr>
+<td><strong>Already downloaded</strong></td>
+<td>Kroma downloaded that video before, so it doesn&#39;t download it twice. To get it again, remove it from the list first (<strong>Remove from the list (the files stay)</strong>), then add it again.</td>
+</tr>
+<tr>
+<td>&quot;No video files in that folder&quot;</td>
+<td><strong>Import a folder…</strong> only looks directly in that folder (not in folders inside it), for mp4, mov, mkv, webm, m4v, avi and flv files.</td>
+</tr>
+<tr>
+<td>&quot;No video in this file (sound only).&quot; or &quot;Kroma can&#39;t read this file (damaged, or not a video).&quot;</td>
+<td>That file can&#39;t become a project. Untick it.</td>
+</tr>
+<tr>
+<td><strong>Free only</strong> next to a site</td>
+<td>Free episodes download; VIP episodes are protected (DRM) and can&#39;t be downloaded by any app like this one.</td>
+</tr>
+</tbody></table></div>
+<h2 id="ai-keys-and-limits"><a class="anchor" href="#ai-keys-and-limits" aria-hidden="true">#</a>AI keys and limits</h2><h3 id="missing-keys"><a class="anchor" href="#missing-keys" aria-hidden="true">#</a>Missing keys</h3><div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Message</th>
+<th>What to do</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>&quot;Add your free Gemini key in Settings → Translation, or choose Google Translate there.&quot;</td>
+<td>Add a Gemini key, or switch the translator to Google Translate. See <a href="/kroma/docs/0.2/configuration/">Add your keys</a>.</td>
+</tr>
+<tr>
+<td>&quot;Add your Anthropic API key in Settings to translate with Claude.&quot;</td>
+<td>Add a Claude key, or pick another translator.</td>
+</tr>
+<tr>
+<td>&quot;Add your free Gemini key in Settings → Translation (speech to text uses it too), or choose Groq in Settings → Speech to Text.&quot;</td>
+<td>Speech to text uses Gemini by default. Add the key, or choose Groq.</td>
+</tr>
+<tr>
+<td>&quot;Add your speech-to-text API key in Settings → Speech to Text (Groq is free to start).&quot;</td>
+<td>Add your Groq or OpenAI key.</td>
+</tr>
+<tr>
+<td>&quot;Writing posts needs an AI: add a free Gemini key (or a Claude key) in Settings → Translation.&quot;</td>
+<td>Google Translate can&#39;t write posts. Add a Gemini or Claude key.</td>
+</tr>
+<tr>
+<td>&quot;Finding characters needs your free Gemini key (Settings → Translation) or a Claude key.&quot;</td>
+<td>Same as above.</td>
+</tr>
+</tbody></table></div>
+<h3 id="a-key-can-t-be-read"><a class="anchor" href="#a-key-can-t-be-read" aria-hidden="true">#</a>A key can&#39;t be read</h3><p><em>A key is saved, but this version of Kroma can&#39;t read it from the keychain.</em> The key is still stored, but this copy of Kroma isn&#39;t allowed to read it (this can happen on a Mac after an update). Paste it again, or reopen Kroma and choose <strong>Always Allow</strong> when your Mac asks. If a key is missing altogether after an update from before 0.1.11, paste it again in <strong>Settings → Translation</strong>, <strong>Speech to Text</strong> or <strong>Posting</strong>.</p>
+<h3 id="a-key-is-refused"><a class="anchor" href="#a-key-is-refused" aria-hidden="true">#</a>A key is refused</h3><div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Message</th>
+<th>What to do</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>&quot;The Gemini API key was refused. Check it in Settings → Translation.&quot;</td>
+<td>Copy the key again from Google AI Studio and use <strong>Replace</strong>.</td>
+</tr>
+<tr>
+<td>&quot;The Anthropic API key was refused. Check it in Settings.&quot;</td>
+<td>Copy the key again from the Claude console.</td>
+</tr>
+<tr>
+<td>&quot;The speech-to-text API key was refused. Check it in Settings.&quot;</td>
+<td>Copy your Groq or OpenAI key again.</td>
+</tr>
+<tr>
+<td>&quot;This Gemini key can&#39;t use that model. Pick another model in Settings → Translation.&quot;</td>
+<td>Choose a Flash model.</td>
+</tr>
+<tr>
+<td>&quot;That Gemini model isn&#39;t available. Pick another one in Settings → Translation.&quot;</td>
+<td>Choose another model from the list.</td>
+</tr>
+</tbody></table></div>
+<h3 id="gemini-is-busy-or-out-of-free-requests"><a class="anchor" href="#gemini-is-busy-or-out-of-free-requests" aria-hidden="true">#</a>Gemini is busy or out of free requests</h3><div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Message</th>
+<th>What it means</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>&quot;Gemini is busy, retrying in … s…&quot;</td>
+<td>Normal on the free tier. Kroma waits and tries again by itself.</td>
+</tr>
+<tr>
+<td>&quot;Gemini&#39;s free daily limit is reached, using the lighter Flash-Lite model…&quot;</td>
+<td>Kroma switched to a lighter model to keep going.</td>
+</tr>
+<tr>
+<td>&quot;Gemini was busy, so … lines used Google Translate.&quot;</td>
+<td>The job finished, but some lines used Google Translate. Later, press <strong>Translate all</strong> for Gemini&#39;s better wording.</td>
+</tr>
+<tr>
+<td>&quot;Gemini&#39;s free limit is used up for now. Wait a minute, lower &#39;Parallel requests&#39;, or switch to Google Translate.&quot;</td>
+<td>Wait, or set <strong>Parallel requests</strong> to 2 in <a href="/kroma/docs/0.2/settings/#speed">Settings → Translation</a>.</td>
+</tr>
+<tr>
+<td>&quot;Gemini&#39;s free daily limit is used up (it resets tomorrow). Switch to Google Translate, or add a Groq key for speech to text.&quot;</td>
+<td>Use Google Translate or Claude today, and Groq for speech to text.</td>
+</tr>
+<tr>
+<td>&quot;Gemini is very busy right now. Try again in a few minutes.&quot;</td>
+<td>Google&#39;s servers are overloaded. Wait a little.</td>
+</tr>
+<tr>
+<td>&quot;Gemini didn&#39;t answer in time (it&#39;s very busy right now).&quot;</td>
+<td>Same. Try again later.</td>
+</tr>
+</tbody></table></div>
+<p>Other services:</p>
+<ul>
+<li>&quot;Claude is rate limiting this key. Lower &#39;parallel requests&#39; in Settings or try again shortly.&quot;</li>
+<li>&quot;Google Translate is busy (too many requests). Try again in a few minutes, or use Gemini.&quot;</li>
+</ul>
+<h3 id="some-lines-weren-t-translated"><a class="anchor" href="#some-lines-weren-t-translated" aria-hidden="true">#</a>Some lines weren&#39;t translated</h3><p>&quot;Translated … of … lines&quot; with &quot;… need another try.&quot; Press <strong>Translate missing</strong> on the notice, or <strong>Only missing</strong> in <strong>Translate → Step by step</strong>. It only sends the lines that are still empty.</p>
+<h3 id="no-speech-was-found"><a class="anchor" href="#no-speech-was-found" aria-hidden="true">#</a>&quot;No speech was found.&quot;</h3><p>Speech to text heard nothing it could write down. Check the video has speech, and that <strong>Spoken language</strong> in the <strong>Translate</strong> panel is right.</p>
+<h2 id="voices"><a class="anchor" href="#voices" aria-hidden="true">#</a>Voices</h2><h3 id="can-t-reach-the-voice-engine-at"><a class="anchor" href="#can-t-reach-the-voice-engine-at" aria-hidden="true">#</a>&quot;Can&#39;t reach the voice engine at …&quot;</h3><p>Designed and cloned voices need the voice engine to be running. Open <a href="/kroma/docs/0.2/settings/#voice-engine">Settings → Voice Engine</a> and press <strong>Start engine</strong> (or <strong>Install voice engine</strong> first if it says &quot;Not installed&quot;), then press <strong>Check</strong>. If you use Colab, keep its notebook running and check the address. A Colab address changes every time you start the notebook, so paste the new one. Or use the instant voices, which don&#39;t need the engine. See <a href="/kroma/docs/0.2/voice-engine/">The voice engine</a>.</p>
+<h3 id="the-voice-engine-refused-the-token"><a class="anchor" href="#the-voice-engine-refused-the-token" aria-hidden="true">#</a>&quot;The voice engine refused the token.&quot;</h3><p>Copy the token the Colab notebook prints into <strong>Settings → Voice Engine → Token</strong>.</p>
+<h3 id="instant-voices-fail"><a class="anchor" href="#instant-voices-fail" aria-hidden="true">#</a>Instant voices fail</h3><p>&quot;The voice service didn&#39;t answer. Check your internet and try again.&quot; or &quot;The voice service timed out&quot;. The instant voices come from an online service. Check your internet and press <strong>Make voice-over</strong> again. Lines already done are kept.</p>
+<h3 id="voiced-lines-not-done-press-again-to-finish-them"><a class="anchor" href="#voiced-lines-not-done-press-again-to-finish-them" aria-hidden="true">#</a>&quot;Voiced … lines; … not done. Press again to finish them.&quot;</h3><p>Press the voice-over button in the <strong>Voice</strong> panel again (it then reads <strong>Voice the … new lines</strong>). It only makes the lines that are missing.</p>
+<h3 id="i-still-hear-the-original-voices"><a class="anchor" href="#i-still-hear-the-original-voices" aria-hidden="true">#</a>I still hear the original voices</h3><ul>
+<li>Check that <strong>Voice → Mix → Remove the original voices</strong> is on.</li>
+<li>Removing voices needs <a href="/kroma/docs/0.2/installation/">uv</a>. Without it you see &quot;Removing voices needs uv. Install it with: …&quot;. <strong>Settings → About → Tools</strong> shows the command for your system.</li>
+<li>The first time, Kroma downloads the voice-removal tool and model. That can take a while: wait for it to finish.</li>
+<li>If removing fails, Kroma says &quot;The original voices are still in&quot;. Try again from <strong>Voice → Mix</strong>, then export again.</li>
+</ul>
+<h3 id="the-microphone-doesn-t-work-mac"><a class="anchor" href="#the-microphone-doesn-t-work-mac" aria-hidden="true">#</a>The microphone doesn&#39;t work (Mac)</h3><p>&quot;Kroma isn&#39;t allowed to use the microphone. Turn it on in System Settings → Privacy &amp; Security → Microphone, then try again.&quot; Press <strong>Open Microphone settings</strong>, turn on Kroma Studio, and try again.</p>
+<h2 id="exporting"><a class="anchor" href="#exporting" aria-hidden="true">#</a>Exporting</h2><h3 id="an-export-fails"><a class="anchor" href="#an-export-fails" aria-hidden="true">#</a>An export fails</h3><p>When an export fails, Kroma saves the full details in a file called <code>last-export-error.log</code> in its settings folder:</p>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>System</th>
+<th>File</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>macOS</td>
+<td><code>~/Library/Application Support/Kroma Studio/last-export-error.log</code></td>
+</tr>
+<tr>
+<td>Windows</td>
+<td><code>%APPDATA%\Kroma Studio\last-export-error.log</code></td>
+</tr>
+<tr>
+<td>Linux</td>
+<td><code>~/.config/Kroma Studio/last-export-error.log</code></td>
+</tr>
+</tbody></table></div>
+<p>Each failed export replaces it. Attach it when you <a href="#reporting-a-problem">report the problem</a>.</p>
+<p>Things to check first:</p>
+<ul>
+<li><strong>&quot;The timeline is empty.&quot;</strong> Add a video to the timeline.</li>
+<li><strong>A video, image or voice file was moved or deleted.</strong> The project only points to its files. Put them back where they were. See <a href="/kroma/docs/0.2/projects-and-files/#the-project-file">Projects and files</a>.</li>
+<li><strong>The disk is full.</strong> Free some space, or <a href="/kroma/docs/0.2/projects-and-files/#clearing-space">clear Kroma&#39;s cache</a>.</li>
+<li><strong>&quot;Some lines have no voice yet; they&#39;ll be silent.&quot;</strong> This isn&#39;t an error. Press <strong>Make voice-over</strong> before exporting to fill them.</li>
+</ul>
+<h3 id="export-is-slow"><a class="anchor" href="#export-is-slow" aria-hidden="true">#</a>Export is slow</h3><p><strong>High</strong> takes about three times as long as <strong>Standard</strong>. On a Mac, <strong>Standard</strong> is the fastest because it uses the Mac&#39;s video chip. See <a href="/kroma/docs/0.2/export/">Export</a>.</p>
+<h2 id="batch-and-series-tools"><a class="anchor" href="#batch-and-series-tools" aria-hidden="true">#</a>Batch and series tools</h2><div class="table-wrap"><table>
+<thead>
+<tr>
+<th>What you see</th>
+<th>What to do</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><strong>Failed at …</strong> on a video</td>
+<td>Click <strong>See why</strong> for the reason. Fix it, then press <strong>Retry from here</strong>, or <strong>Fix by hand</strong> to open the project on that step. Every step done so far is kept. See <a href="/kroma/docs/0.2/batch/#step-details">Batch</a>.</td>
+</tr>
+<tr>
+<td>&quot;The project file was moved or deleted.&quot;</td>
+<td>Batch opens each project from its file. Put it back, or remove the video from the list and add the project again.</td>
+</tr>
+<tr>
+<td>&quot;That saved style was deleted. Choose another subtitle style in the steps.&quot;</td>
+<td>The style chosen in <strong>Subtitle style</strong> was deleted from <strong>My styles</strong>. Pick another one.</td>
+</tr>
+<tr>
+<td><strong>Stopped at …</strong></td>
+<td>You pressed <strong>Stop</strong>, or Kroma closed during the batch. Press <strong>Resume</strong>.</td>
+</tr>
+<tr>
+<td>New, Open and Save are greyed out</td>
+<td>A batch is using the editor. Wait for it, or press <strong>Stop</strong> in the bar at the top.</td>
+</tr>
+<tr>
+<td>&quot;No burned-in subtitles found&quot;</td>
+<td>Kroma didn&#39;t find subtitles burned into the video. If there are some, move the box it placed over them by hand. In Batch this isn&#39;t a failure.</td>
+</tr>
+<tr>
+<td>&quot;Finding names needs Gemini or Claude: add a key in Settings → Translation.&quot;</td>
+<td>The series glossary finds names with Gemini or Claude. With Google Translate, add names by hand.</td>
+</tr>
+<tr>
+<td>&quot;Save the project first: the glossary is shared by the projects in its folder.&quot;</td>
+<td>Save the project (⌘S) in its series folder.</td>
+</tr>
+<tr>
+<td>The cover shows no episode number</td>
+<td>The project&#39;s name has no number Kroma recognises. Type it in <strong>Post → Cover → Episode</strong>, or name the project like <code>05 - Title</code>.</td>
+</tr>
+</tbody></table></div>
+<h2 id="notifications"><a class="anchor" href="#notifications" aria-hidden="true">#</a>Notifications</h2><p><strong>No system notifications, or no sound?</strong> Press <strong>Send test</strong> in <strong>Settings → Notifications</strong>. If nothing shows outside Kroma, open <strong>Not seeing them?</strong> and allow Kroma Studio in your system&#39;s notification settings, with sound. Also check that Focus or Do Not Disturb is off. See <a href="/kroma/docs/0.2/notifications/#not-seeing-them">Notifications</a>.</p>
+<h2 id="posting"><a class="anchor" href="#posting" aria-hidden="true">#</a>Posting</h2><div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Message</th>
+<th>What to do</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>&quot;Connect your accounts first&quot; / &quot;Add your Upload-Post API key in Settings → Posting first.&quot;</td>
+<td>Add your key in <a href="/kroma/docs/0.2/settings/#posting">Settings → Posting</a>.</td>
+</tr>
+<tr>
+<td>&quot;Upload-Post refused the API key. Copy it again from app.upload-post.com → API Keys into Settings → Posting.&quot;</td>
+<td>Copy the key again.</td>
+</tr>
+<tr>
+<td>&quot;This month&#39;s Upload-Post uploads are used up (the free plan has 10). Upgrade the plan or wait for next month.&quot;</td>
+<td>Upgrade your Upload-Post plan, or wait.</td>
+</tr>
+<tr>
+<td>&quot;Choose your Facebook Page&quot;</td>
+<td>Pick the Page in <strong>Settings → Posting → Facebook Page</strong>.</td>
+</tr>
+<tr>
+<td>&quot;Can&#39;t reach Upload-Post. Check your internet connection.&quot;</td>
+<td>Check your internet.</td>
+</tr>
+<tr>
+<td>&quot;Upload-Post didn&#39;t answer in time. Check your internet and try again.&quot;</td>
+<td>Try again. Kroma never posts the same video twice for one try.</td>
+</tr>
+<tr>
+<td>&quot;Still processing on the platform. Check it there in a few minutes.&quot;</td>
+<td>The upload worked; the platform is still working on it. Check YouTube, Facebook or TikTok later.</td>
+</tr>
+<tr>
+<td>&quot;Stopped following the post. It may still finish on the platforms.&quot;</td>
+<td>You cancelled while Kroma was waiting. The post may still appear.</td>
+</tr>
+</tbody></table></div>
+<p>An account that says &quot;sign-in expired: press Connect&quot; in <strong>Settings → Posting</strong> needs you to press <strong>Connect</strong> and sign in again. TikTok needs Upload-Post&#39;s Basic plan. See <a href="/kroma/docs/0.2/posting/">Posting</a>.</p>
+<h2 id="updates"><a class="anchor" href="#updates" aria-hidden="true">#</a>Updates</h2><div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Message</th>
+<th>What to do</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>&quot;Couldn&#39;t reach GitHub to check for updates.&quot;</td>
+<td>Check your internet, then <strong>Settings → About → Check now</strong>.</td>
+</tr>
+<tr>
+<td>&quot;No releases found yet.&quot;</td>
+<td>Nothing to install. Try again later.</td>
+</tr>
+<tr>
+<td>&quot;Kroma can&#39;t replace itself in …. Drag the new Kroma Studio from the window that opened into Applications.&quot;</td>
+<td>Mac: Kroma isn&#39;t in your Applications folder (for example you opened it from the disk image). Drag the new app into <strong>Applications</strong> and open it from there.</td>
+</tr>
+<tr>
+<td>&quot;The downloaded update is missing. Check for updates again.&quot;</td>
+<td>Press <strong>Check now</strong> in <strong>Settings → About</strong>.</td>
+</tr>
+<tr>
+<td>&quot;The update couldn&#39;t be installed&quot;: &quot;macOS didn&#39;t let Kroma replace itself…&quot;</td>
+<td>Mac: allow Kroma Studio in <strong>System Settings → Privacy &amp; Security → App Management</strong> and update again, or drag the new Kroma Studio from the Finder window into <strong>Applications</strong>. See <a href="/kroma/docs/0.2/updates/#on-a-mac">Updates</a>.</td>
+</tr>
+<tr>
+<td>&quot;The download was damaged. It will download again on the next check.&quot;</td>
+<td>Nothing to do: Kroma downloads it again.</td>
+</tr>
+</tbody></table></div>
+<p><strong>No update shows up?</strong> Kroma checks about 8 seconds after it starts and then every 4 hours. Press <strong>Check now</strong> to check right away. If <strong>Update automatically</strong> is off, Kroma only tells you a new version exists, even when you press <strong>Check now</strong>: press <strong>Download</strong> on the card at the bottom right. Version 0.1.0 can&#39;t update itself; install a newer version by hand once. See <a href="/kroma/docs/0.2/updates/">Updates</a> and <a href="/kroma/docs/0.2/upgrade/">Upgrade guide</a>.</p>
+<p><strong>Linux <code>.deb</code>:</strong> the update opens in your system&#39;s installer and asks for your password. Kroma can&#39;t finish it for you.</p>
+<h2 id="reporting-a-problem"><a class="anchor" href="#reporting-a-problem" aria-hidden="true">#</a>Reporting a problem</h2><p>If none of this helps, <a href="https://github.com/Heang-Dev/KROMA.STUDIO/issues" target="_blank" rel="noreferrer">open an issue on GitHub</a>. Include:</p>
+<ol>
+<li>Your Kroma version: <strong>Settings → About</strong> shows it, for example <strong>Kroma Studio 0.2.0</strong>.</li>
+<li>Your system: macOS, Windows or Linux, and its version.</li>
+<li>What you did, what you expected, and the exact message Kroma showed.</li>
+<li>For an export problem, attach <code>last-export-error.log</code> (see <a href="#an-export-fails">An export fails</a>).</li>
+<li>For a download problem, the link you used, if it&#39;s public.</li>
+</ol>
+<p>Kroma doesn&#39;t keep other log files, so the message on screen is the most useful thing to copy.</p>
+<p><strong>Never</strong> paste your API keys into an issue, and don&#39;t attach <code>settings.json</code>.</p>
+18:["$","main",null,{"className":"min-w-0","children":[false,[["$","p",null,{"className":"text-[12.5px] font-medium tracking-[0.08em] text-brand uppercase","children":"Reference"}],["$","h1",null,{"className":"mt-2 text-[clamp(28px,4vw,40px)] font-semibold","children":"Troubleshooting"}],["$","div",null,{"className":"docs-prose mt-6","dangerouslySetInnerHTML":{"__html":"$33"}}]],"$L34"]}]
+19:["$","aside",null,{"className":"hidden xl:sticky xl:top-[84px] xl:block xl:self-start","children":[["$","p",null,{"className":"text-xs tracking-wider text-muted-foreground uppercase","children":"On this page"}],["$","$L35",null,{"items":[{"depth":2,"id":"installing-and-opening","text":"Installing and opening"},{"depth":3,"id":"macos-kroma-studio-is-damaged-or-it-won-t-open","text":"macOS: \"Kroma Studio is damaged\" or it won't open"},{"depth":3,"id":"windows-windows-protected-your-pc","text":"Windows: \"Windows protected your PC\""},{"depth":3,"id":"linux-the-appimage-does-nothing","text":"Linux: the AppImage does nothing"},{"depth":3,"id":"i-open-kroma-but-no-new-window-appears","text":"I open Kroma but no new window appears"},{"depth":2,"id":"missing-ffmpeg-or-yt-dlp","text":"Missing FFmpeg or yt-dlp"},{"depth":2,"id":"downloading-from-a-link","text":"Downloading from a link"},{"depth":3,"id":"the-download-center","text":"The Download Center"},{"depth":2,"id":"ai-keys-and-limits","text":"AI keys and limits"},{"depth":3,"id":"missing-keys","text":"Missing keys"},{"depth":3,"id":"a-key-can-t-be-read","text":"A key can't be read"},{"depth":3,"id":"a-key-is-refused","text":"A key is refused"},{"depth":3,"id":"gemini-is-busy-or-out-of-free-requests","text":"Gemini is busy or out of free requests"},{"depth":3,"id":"some-lines-weren-t-translated","text":"Some lines weren't translated"},{"depth":3,"id":"no-speech-was-found","text":"\"No speech was found.\""},{"depth":2,"id":"voices","text":"Voices"},{"depth":3,"id":"can-t-reach-the-voice-engine-at","text":"\"Can't reach the voice engine at …\""},{"depth":3,"id":"the-voice-engine-refused-the-token","text":"\"The voice engine refused the token.\""},{"depth":3,"id":"instant-voices-fail","text":"Instant voices fail"},{"depth":3,"id":"voiced-lines-not-done-press-again-to-finish-them","text":"\"Voiced … lines; … not done. Press again to finish them.\""},{"depth":3,"id":"i-still-hear-the-original-voices","text":"I still hear the original voices"},{"depth":3,"id":"the-microphone-doesn-t-work-mac","text":"The microphone doesn't work (Mac)"},{"depth":2,"id":"exporting","text":"Exporting"},{"depth":3,"id":"an-export-fails","text":"An export fails"},{"depth":3,"id":"export-is-slow","text":"Export is slow"},{"depth":2,"id":"batch-and-series-tools","text":"Batch and series tools"},{"depth":2,"id":"notifications","text":"Notifications"},{"depth":2,"id":"posting","text":"Posting"},{"depth":2,"id":"updates","text":"Updates"},{"depth":2,"id":"reporting-a-problem","text":"Reporting a problem"}]}]]}]
+1a:["$","$L36",null,{"children":["$","$20",null,{"name":"Next.MetadataOutlet","children":"$@37"}]}]
+21:["$","meta","12",{"name":"twitter:title","content":"Troubleshooting · v0.2 · Docs · Kroma Studio"}]
+22:["$","meta","13",{"name":"twitter:description","content":"Everything about Kroma Studio, from installing it to posting your videos."}]
+23:["$","meta","14",{"name":"twitter:image","content":"https://heang-dev.github.io/kroma/assets/og-docs.png"}]
+24:["$","meta","15",{"name":"twitter:image:alt","content":"The Kroma Studio docs"}]
+25:["$","meta","16",{"name":"twitter:image:width","content":"1200"}]
+26:["$","meta","17",{"name":"twitter:image:height","content":"630"}]
+27:["$","link","18",{"rel":"icon","href":"/kroma/assets/kroma-favicon.png"}]
+28:["$","$L38","19",{}]
+29:["$","meta",null,{"name":"next-size-adjust","content":""}]
+39:I[23051,["$2","$3","$4","$5","$14"],"CodeCopy"]
+3a:I[5014,["$2","$3","$4","$5","$14"],"default"]
+b:300
+2e:["$","p",null,{"className":"mb-1.5 px-2 text-[12px] font-semibold","children":"Voices"}]
+2f:["$","ul",null,{"className":"grid list-none gap-0.5 border-l p-0","children":[["$","li","characters-and-voices",{"children":["$","$L15",null,{"href":"/docs/0.2/characters-and-voices/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Characters & voices"}]}],["$","li","voice-library",{"children":["$","$L15",null,{"href":"/docs/0.2/voice-library/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Voice library"}]}],["$","li","voice-engine",{"children":["$","$L15",null,{"href":"/docs/0.2/voice-engine/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"The voice engine"}]}],["$","li","voice-cloning",{"children":["$","$L15",null,{"href":"/docs/0.2/voice-cloning/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Voice cloning"}]}],["$","li","story",{"children":["$","$L15",null,{"href":"/docs/0.2/story/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Story studio"}]}]]}]
+30:["$","div","Publishing",{"children":[["$","p",null,{"className":"mb-1.5 px-2 text-[12px] font-semibold","children":"Publishing"}],["$","ul",null,{"className":"grid list-none gap-0.5 border-l p-0","children":[["$","li","posting",{"children":["$","$L15",null,{"href":"/docs/0.2/posting/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Posting"}]}]]}]]}]
+31:["$","div","Reference",{"children":[["$","p",null,{"className":"mb-1.5 px-2 text-[12px] font-semibold","children":"Reference"}],["$","ul",null,{"className":"grid list-none gap-0.5 border-l p-0","children":[["$","li","keyboard-shortcuts",{"children":["$","$L15",null,{"href":"/docs/0.2/keyboard-shortcuts/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Keyboard shortcuts"}]}],["$","li","projects-and-files",{"children":["$","$L15",null,{"href":"/docs/0.2/projects-and-files/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Projects and files"}]}],["$","li","settings",{"children":["$","$L15",null,{"href":"/docs/0.2/settings/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Settings"}]}],["$","li","notifications",{"children":["$","$L15",null,{"href":"/docs/0.2/notifications/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Notifications"}]}],["$","li","troubleshooting",{"children":["$","$L15",null,{"href":"/docs/0.2/troubleshooting/","aria-current":"page","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors rounded-r-md border-brand bg-brand/10 font-medium text-brand","children":"Troubleshooting"}]}]]}]]}]
+32:["$","div","This version",{"children":[["$","p",null,{"className":"mb-1.5 px-2 text-[12px] font-semibold","children":"This version"}],["$","ul",null,{"className":"grid list-none gap-0.5 border-l p-0","children":[["$","li","release-notes",{"children":["$","$L15",null,{"href":"/docs/0.2/release-notes/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Release notes"}]}],["$","li","upgrade",{"children":["$","$L15",null,{"href":"/docs/0.2/upgrade/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Upgrade guide"}]}]]}]]}]
+34:[["$","$L39",null,{"copy":"Copy","copied":"Copied"}],["$","div",null,{"className":"mt-14 grid gap-3 border-t pt-6 sm:grid-cols-2","children":[["$","$L15",null,{"href":"/docs/0.2/notifications/","className":"group rounded-lg border p-4 no-underline hover:bg-accent/50","children":[["$","span",null,{"className":"flex items-center gap-1.5 text-xs text-muted-foreground","children":[["$","$L3a",null,{"icon":{"name":"arrow-left","size":24,"node":[["path",{"d":"m12 19-7-7 7-7","key":"1l729n"}],["path",{"d":"M19 12H5","key":"x3x0zl"}]]},"className":"size-3.5"}]," ","Previous"]}],["$","span",null,{"className":"mt-1 block text-[14px] font-medium","children":"Notifications"}]]}],["$","$L15",null,{"href":"/docs/0.2/release-notes/","className":"group rounded-lg border p-4 text-right no-underline hover:bg-accent/50","children":[["$","span",null,{"className":"flex items-center justify-end gap-1.5 text-xs text-muted-foreground","children":["Next"," ",["$","$L3a",null,{"icon":{"name":"arrow-right","size":24,"node":[["path",{"d":"M5 12h14","key":"1ays0h"}],["path",{"d":"m12 5 7 7-7 7","key":"xquz4c"}]]},"className":"size-3.5"}]]}],["$","span",null,{"className":"mt-1 block text-[14px] font-medium","children":"Release notes"}]]}]]}],["$","a",null,{"href":"https://github.com/Heang-Dev/KROMA.STUDIO/edit/main/website/content/docs/0.2/en/troubleshooting.md","target":"_blank","rel":"noreferrer","className":"mt-6 inline-flex items-center gap-1.5 text-[13px] text-muted-foreground no-underline hover:text-foreground","children":[["$","$L3a",null,{"icon":{"name":"pencil","size":24,"node":[["path",{"d":"M21.174 6.812a1 1 0 0 0-3.986-3.987L3.842 16.174a2 2 0 0 0-.5.83l-1.321 4.352a.5.5 0 0 0 .623.622l4.353-1.32a2 2 0 0 0 .83-.497z","key":"1a8usu"}],["path",{"d":"m15 5 4 4","key":"1mk7zo"}]]},"className":"size-3.5"}]," ","Edit this page on GitHub"]}]]
+37:null
+2c:true
+b:C
+2b:0
+12:"$undefined"
+f:"$undefined"
+d:"$undefined"
+a:"$undefined"
+2a:"$undefined"
+1b:"$undefined"

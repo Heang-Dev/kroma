@@ -1,0 +1,288 @@
+1:"$Sreact.fragment"
+3:"/kroma/_next/static/chunks/04vt5_qdxg31o.js"
+4:"/kroma/_next/static/chunks/0w3ftlzy945zl.js"
+5:"/kroma/_next/static/chunks/2m9t-wks40qyw.js"
+6:"/kroma/_next/static/chunks/1a4ohd0pkdhou.js"
+7:I[39756,["$3","$4","$5","$6"],"default"]
+8:I[37457,["$3","$4","$5","$6"],"default"]
+11:I[97367,["$3","$4","$5","$6"],"OutletBoundary"]
+12:"$Sreact.suspense"
+14:"ViewportBoundary"
+15:I[97367,["$3","$4","$5","$6"],"$14"]
+17:"MetadataBoundary"
+18:I[97367,["$3","$4","$5","$6"],"$17"]
+1a:I[68027,["$3","$4","$5","$6"],"default",1]
+:HL["/kroma/_next/static/chunks/3kygz3hykdx6f.css","style"]
+:HL["/kroma/_next/static/media/07a39a8a4660cc7c-s.p.0r6juujl39pe6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/kroma/_next/static/media/ac3f6c3e4821ab39-s.p.3dytz707x2doa.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/kroma/_next/static/media/ecc70a8daf50308c-s.p.2wf6rvog29rnd.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+d:X
+f:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":["$L10",null,["$","$L11",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]]}],"p":false,"v":null}}]]
+e:[["children",{"s":{"n":"slug","t":"d","k":"projects-and-files","s":[]},"h":66048,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$d"},"c":"$Qf"}]]
+c:[["children",{"s":{"n":"version","t":"d","k":"0.1","s":[]},"h":197120,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$d"},"c":"$Qe"}]]
+b:[["children",{"s":"docs","h":131584,"d":{"r":["$","$1","c",{"children":[[["$","script","script-0",{"src":"/kroma/_next/static/chunks/2ffur98r21h0b.js","async":true,"nonce":"$undefined"}]],["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":null},"c":"$Qc"}]]
+a:[["children",{"s":"km","h":131584,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":null},"c":"$Qb"}]]
+0:{"P":null,"c":["","km","docs","0.1","projects-and-files",""],"q":"","i":false,"t":{"t":{"s":"","h":131600,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/kroma/_next/static/chunks/3kygz3hykdx6f.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/kroma/_next/static/chunks/04vt5_qdxg31o.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/kroma/_next/static/chunks/0w3ftlzy945zl.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/kroma/_next/static/chunks/2m9t-wks40qyw.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/kroma/_next/static/chunks/1a4ohd0pkdhou.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"z61v7q_variable -suo1a_variable","suppressHydrationWarning":true,"children":[["$","head",null,{"children":["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(a){try{let b=document.documentElement,c=location.pathname.slice(a.length)||\"/\",d=\"/km\"===c||c.startsWith(\"/km/\");b.lang=d?\"km\":\"en\";let e=localStorage.getItem(\"kroma-theme\");b.classList.toggle(\"dark\",e?\"dark\"===e:matchMedia(\"(prefers-color-scheme: dark)\").matches);let f=localStorage.getItem(\"kroma-lang\"),g=!1;try{let b=new URL(document.referrer);g=b.origin===location.origin&&(b.pathname+\"/\").startsWith(a+\"/\")}catch{}if(!f||g)return;let h=location.search+location.hash;\"km\"!==f||d?\"en\"===f&&d&&location.replace(a+(c.slice(3)||\"/\")+h):location.replace(a+\"/km\"+(\"/\"===c?\"/\":c)+h)}catch{}})(\"/kroma\")"}}]}],["$","body",null,{"className":"flex min-h-svh flex-col","children":["$L2",["$","div",null,{"className":"flex-1","children":["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],"$L9"]}]]}]]}],"p":false,"v":null},"c":"$Qa"},"h":{"r":["$","$1","h",{"children":[null,["$","$L15",null,{"children":"$L16"}],["$","$L18",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$12",null,{"name":"Next.Metadata","children":"$L19"}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":false,"v":null}},"m":"$undefined","G":["$1a",[["$","link","0",{"rel":"stylesheet","href":"/kroma/_next/static/chunks/3kygz3hykdx6f.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"Hf2A-8s-tskzwG8lj9Zm4"}
+1b:I[19738,["$3","$4","$5","$6"],"HeaderBar"]
+1c:I[19738,["$3","$4","$5","$6"],"FooterBar"]
+d:C
+2:["$","$L1b",null,{"stars":0}]
+9:["$","$L1c",null,{"latest":{"version":"0.2.3","date":"2026-11-28T09:36:49Z"}}]
+1d:"/kroma/_next/static/chunks/2ffur98r21h0b.js"
+1e:I[22016,["$3","$4","$5","$6","$1d"],""]
+1f:I[32016,["$3","$4","$5","$6","$1d"],"VersionPicker"]
+20:I[45613,["$3","$4","$5","$6","$1d"],"DocsNavToggle"]
+10:["$","div",null,{"className":"mx-auto w-[min(1280px,100%-32px)] grid grid-cols-1 gap-6 pt-6 pb-10 lg:gap-10 lg:pt-10 lg:grid-cols-[230px_1fr] xl:grid-cols-[230px_1fr_200px]","children":[["$","aside",null,{"className":"lg:sticky lg:top-[84px] lg:max-h-[calc(100vh-100px)] lg:self-start lg:overflow-y-auto lg:pr-2","children":[["$","$L1e",null,{"href":"/km/docs/0.1/","className":"mb-3 block text-xs tracking-wider text-muted-foreground uppercase no-underline hover:text-foreground","children":"ឯកសារណែនាំ"}],["$","$L1f",null,{"versions":[{"version":"0.2","label":"0.2.x","released":"2026-11-28"},{"version":"0.1","label":"0.1.x","released":"2026-11-27"}],"current":"0.1","slug":"projects-and-files","slugsByVersion":{"0.2":["installation","configuration","updates","the-editor","first-video","downloading","subtitles","translation","style-and-objects","export","batch","characters-and-voices","voice-library","voice-engine","voice-cloning","story","posting","keyboard-shortcuts","projects-and-files","settings","notifications","troubleshooting","release-notes","upgrade"],"0.1":["installation","configuration","updates","the-editor","first-video","downloading","subtitles","translation","style-and-objects","export","characters-and-voices","voice-library","voice-engine","voice-cloning","posting","keyboard-shortcuts","projects-and-files","settings","troubleshooting","release-notes","upgrade"]},"lang":"km","latestLabel":"ថ្មីបំផុត"}],["$","$L20",null,{"current":"គម្រោង និងឯកសារ","label":"ឯកសារណែនាំ","children":["$","nav",null,{"aria-label":"ឯកសារណែនាំ","className":"mt-5 grid gap-5","children":[["$","div","ចាប់ផ្តើម",{"children":[["$","p",null,{"className":"mb-1.5 px-2 text-[12px] font-semibold","children":"ចាប់ផ្តើម"}],["$","ul",null,{"className":"grid list-none gap-0.5 border-l p-0","children":[["$","li","installation",{"children":["$","$L1e",null,{"href":"/km/docs/0.1/installation/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"ការដំឡើង"}]}],["$","li","configuration",{"children":["$","$L1e",null,{"href":"/km/docs/0.1/configuration/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"បន្ថែម key របស់អ្នក"}]}],["$","li","updates",{"children":["$","$L1e",null,{"href":"/km/docs/0.1/updates/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"ការធ្វើបច្ចុប្បន្នភាព"}]}],["$","li","the-editor",{"children":["$","$L1e",null,{"href":"/km/docs/0.1/the-editor/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"កម្មវិធីកែ"}]}]]}]]}],["$","div","ការធ្វើវីដេអូ",{"children":[["$","p",null,{"className":"mb-1.5 px-2 text-[12px] font-semibold","children":"ការធ្វើវីដេអូ"}],["$","ul",null,{"className":"grid list-none gap-0.5 border-l p-0","children":[["$","li","first-video",{"children":["$","$L1e",null,{"href":"/km/docs/0.1/first-video/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"វីដេអូដំបូងរបស់អ្នក"}]}],["$","li","downloading",{"children":["$","$L1e",null,{"href":"/km/docs/0.1/downloading/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"ការទាញយកវីដេអូ"}]}],"$L21","$L22","$L23","$L24"]}]]}],"$L25","$L26","$L27","$L28"]}]}]]}],"$L29","$L2a"]}]
+2b:I[5014,["$3","$4","$5","$6","$1d"],"default"]
+2e:I[51896,["$3","$4","$5","$6","$1d"],"DocsToc"]
+21:["$","li","subtitles",{"children":["$","$L1e",null,{"href":"/km/docs/0.1/subtitles/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"អក្សររត់"}]}]
+22:["$","li","translation",{"children":["$","$L1e",null,{"href":"/km/docs/0.1/translation/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"ការបកប្រែ"}]}]
+23:["$","li","style-and-objects",{"children":["$","$L1e",null,{"href":"/km/docs/0.1/style-and-objects/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"រចនាប័ទ្ម និងវត្ថុ"}]}]
+24:["$","li","export",{"children":["$","$L1e",null,{"href":"/km/docs/0.1/export/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"នាំចេញ"}]}]
+25:["$","div","សំឡេង",{"children":[["$","p",null,{"className":"mb-1.5 px-2 text-[12px] font-semibold","children":"សំឡេង"}],["$","ul",null,{"className":"grid list-none gap-0.5 border-l p-0","children":[["$","li","characters-and-voices",{"children":["$","$L1e",null,{"href":"/km/docs/0.1/characters-and-voices/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"តួអង្គ និងសំឡេង"}]}],["$","li","voice-library",{"children":["$","$L1e",null,{"href":"/km/docs/0.1/voice-library/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"បណ្ណាល័យសំឡេង"}]}],["$","li","voice-engine",{"children":["$","$L1e",null,{"href":"/km/docs/0.1/voice-engine/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"ម៉ាស៊ីនសំឡេង"}]}],["$","li","voice-cloning",{"children":["$","$L1e",null,{"href":"/km/docs/0.1/voice-cloning/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"ការចម្លងសំឡេង"}]}]]}]]}]
+26:["$","div","ការបង្ហោះ",{"children":[["$","p",null,{"className":"mb-1.5 px-2 text-[12px] font-semibold","children":"ការបង្ហោះ"}],["$","ul",null,{"className":"grid list-none gap-0.5 border-l p-0","children":[["$","li","posting",{"children":["$","$L1e",null,{"href":"/km/docs/0.1/posting/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"ការបង្ហោះ"}]}]]}]]}]
+27:["$","div","ឯកសារយោង",{"children":[["$","p",null,{"className":"mb-1.5 px-2 text-[12px] font-semibold","children":"ឯកសារយោង"}],["$","ul",null,{"className":"grid list-none gap-0.5 border-l p-0","children":[["$","li","keyboard-shortcuts",{"children":["$","$L1e",null,{"href":"/km/docs/0.1/keyboard-shortcuts/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"ផ្លូវកាត់ក្តារចុច"}]}],["$","li","projects-and-files",{"children":["$","$L1e",null,{"href":"/km/docs/0.1/projects-and-files/","aria-current":"page","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors rounded-r-md border-brand bg-brand/10 font-medium text-brand","children":"គម្រោង និងឯកសារ"}]}],["$","li","settings",{"children":["$","$L1e",null,{"href":"/km/docs/0.1/settings/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"ការកំណត់"}]}],["$","li","troubleshooting",{"children":["$","$L1e",null,{"href":"/km/docs/0.1/troubleshooting/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"ដោះស្រាយបញ្ហា"}]}]]}]]}]
+28:["$","div","កំណែនេះ",{"children":[["$","p",null,{"className":"mb-1.5 px-2 text-[12px] font-semibold","children":"កំណែនេះ"}],["$","ul",null,{"className":"grid list-none gap-0.5 border-l p-0","children":[["$","li","release-notes",{"children":["$","$L1e",null,{"href":"/km/docs/0.1/release-notes/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"កំណត់ចំណាំកំណែ"}]}],["$","li","upgrade",{"children":["$","$L1e",null,{"href":"/km/docs/0.1/upgrade/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"ការណែនាំអំពីការដំឡើងកំណែ"}]}]]}]]}]
+2c:T5cdf,<p>ទំព័រនេះពន្យល់ពីរបៀបដែល Kroma រក្សាការងាររបស់អ្នក៖ ឯកសារគម្រោង ការរក្សាទុកស្វ័យប្រវត្តិ វីនដូបន្ថែម និងទីតាំងឯកសារនីមួយៗនៅលើកុំព្យូទ័ររបស់អ្នក។</p>
+<h2 id="ឯកសារគម្រោង"><a class="anchor" href="#ឯកសារគម្រោង" aria-hidden="true">#</a>ឯកសារគម្រោង</h2><p>គម្រោង Kroma មួយ គឺជាឯកសារតែមួយដែលបញ្ចប់ដោយ <strong>.kroma</strong>។ វាជាឯកសារអត្ថបទតូចមួយ (ក្នុងទម្រង់ហៅថា JSON) ដែលផ្ទុកការកែសម្រួលរបស់អ្នក៖</p>
+<ul>
+<li>ឈ្មោះគម្រោង រាងស៊ុម (16:9, 9:16 ឬ 1:1) និងរបៀបដែលវីដេអូដាក់ក្នុងស៊ុម</li>
+<li>បញ្ជីវីដេអូដែលអ្នកបានបន្ថែម និងទីតាំងនៃវីដេអូនីមួយៗនៅលើកុំព្យូទ័ររបស់អ្នក</li>
+<li>ឃ្លីបនៅលើ timeline (ផ្នែកណាខ្លះនៃវីដេអូណា)</li>
+<li>បន្ទាត់អក្សររត់នីមួយៗ៖ ពេលវេលា អត្ថបទដើម ការបកប្រែ និងអ្នកណាជាអ្នកនិយាយ</li>
+<li>រចនាប័ទ្មអក្សររត់</li>
+<li>កំណត់ចំណាំរបស់អ្នកសម្រាប់អ្នកបកប្រែ</li>
+<li>ការកំណត់សំឡេងបញ្ចូល៖ សំឡេង តួអង្គ ល្បឿន កម្រិតសំឡេង និងកន្លែងរក្សាទុកបន្ទាត់សំឡេងនីមួយៗ</li>
+<li>វត្ថុនៅលើវីដេអូ (ប្រអប់ព្រិល រូបភាព អត្ថបទ)</li>
+<li>ភាសាបកប្រែ</li>
+<li>ការបង្ហោះលើបណ្តាញសង្គមដែលបានសរសេរសម្រាប់វីដេអូ និងកន្លែងដែលអ្នកបានបង្ហោះវា</li>
+</ul>
+<p><strong>អ្វីដែលវាមិនផ្ទុក៖</strong> វីដេអូ ការថតសំឡេង និងរូបភាពខ្លួនឯង។ គម្រោងគ្រាន់តែចងចាំថាពួកវា <em>នៅឯណា</em> ប៉ុណ្ណោះ។ ទុកឯកសារទាំងនោះនៅកន្លែងដើម បើមិនដូច្នោះទេ គម្រោងរកវាមិនឃើញ។ មើល <a href="#ផ្លាស់គម្រោងទៅកុំព្យូទ័រផ្សេង">ផ្លាស់គម្រោងទៅកុំព្យូទ័រផ្សេង</a>។</p>
+<h2 id="ការរក្សាទុក"><a class="anchor" href="#ការរក្សាទុក" aria-hidden="true">#</a>ការរក្សាទុក</h2><div class="table-wrap"><table>
+<thead>
+<tr>
+<th>ប៊ូតុង ឬគ្រាប់ចុច</th>
+<th>អ្វីដែលវាធ្វើ</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><strong>Save project</strong> (⌘S / Ctrl+S)</td>
+<td>រក្សាទុកទៅក្នុងឯកសាររបស់គម្រោង។ លើកដំបូង វាសួររកឈ្មោះ និងកន្លែង។</td>
+</tr>
+<tr>
+<td>⇧⌘S / Ctrl+Shift+S</td>
+<td>រក្សាទុកជាឯកសារថ្មី។ សួររកឈ្មោះ និងកន្លែងរាល់ពេល។</td>
+</tr>
+<tr>
+<td><strong>Open project</strong> (⌘O / Ctrl+O)</td>
+<td>បើកឯកសារ <code>.kroma</code>។</td>
+</tr>
+<tr>
+<td><strong>New project</strong> (⌘N / Ctrl+N)</td>
+<td>ចាប់ផ្តើមគម្រោងទទេមួយឈ្មោះ <strong>Untitled</strong>។</td>
+</tr>
+</tbody></table></div>
+<p>ប៊ូតុង <strong>Save project</strong>, <strong>Open project</strong> និង <strong>New project</strong> នៅខាងស្តាំខាងលើនៃវីនដូ។</p>
+<p>ប្រអប់រក្សាទុក និងបើក ចាប់ផ្តើមនៅក្នុង<a href="#ទីតាំងឯកសារ">ថតបណ្ណាល័យ Kroma Studio</a> របស់អ្នក ហើយឈ្មោះឯកសារចាប់ផ្តើមដោយឈ្មោះគម្រោង។ ពេលអ្នកបន្ថែមវីដេអូដំបូង Kroma ដាក់ឈ្មោះគម្រោងតាមវីដេអូនោះ។ ចុចលើឈ្មោះនៅខាងលើ ដើម្បីប្តូរវា។</p>
+<p>ចំណុចតូចមួយនៅក្បែរឈ្មោះគម្រោង មានន័យថា <strong>Unsaved changes</strong>៖ គម្រោងបានផ្លាស់ប្តូរ តាំងពីពេលអ្នករក្សាទុកវាទៅក្នុងឯកសារលើកចុងក្រោយ។</p>
+<p>បើអ្នកចាប់ផ្តើមគម្រោងថ្មី ខណៈគម្រោងបច្ចុប្បន្នមិនដែលបានរក្សាទុកទៅក្នុងឯកសារ Kroma សួរអ្នកជាមុនសិន៖ <em>&quot;Start a new project? The current one isn&#39;t saved to a file (it stays in autosave until you start another).&quot;</em></p>
+<h2 id="ការរក្សាទុកស្វ័យប្រវត្តិ-និងការស្តារ"><a class="anchor" href="#ការរក្សាទុកស្វ័យប្រវត្តិ-និងការស្តារ" aria-hidden="true">#</a>ការរក្សាទុកស្វ័យប្រវត្តិ និងការស្តារ</h2><p>អ្នកមិនចាំបាច់រក្សាទុក ដើម្បីការពារការងាររបស់អ្នកទេ។ ប្រហែលមួយវិនាទីកន្លះ បន្ទាប់ពីការផ្លាស់ប្តូរនីមួយៗ Kroma សរសេរគម្រោងដែលកំពុងបើកទៅក្នុងឯកសាររក្សាទុកស្វ័យប្រវត្តិ (autosave)។</p>
+<p>ពេលអ្នកបើក Kroma ម្តងទៀត វាបើកគម្រោងចុងក្រោយរបស់អ្នកមកវិញ ហើយបង្ហាញ <strong>Reopened your last project.</strong> នេះក៏ជួយពេលកម្មវិធីគាំង ដាច់ភ្លើង ឬបិទ Kroma ដោយមិនបានរក្សាទុកផងដែរ។ បើគម្រោងបានរក្សាទុកទៅក្នុងឯកសារ វាបើកមកវិញភ្ជាប់នឹងឯកសារនោះ។ បើមិនទាន់ទេ វាបើកមកវិញជាមួយចំណុចមិនទាន់រក្សាទុក ដើម្បីរំលឹកអ្នកឱ្យរក្សាទុកវា។</p>
+<p>Autosave រក្សាគម្រោងមួយក្នុងមួយវីនដូ។ ការចាប់ផ្តើមគម្រោងថ្មីជំនួសវា។ ដូច្នេះសម្រាប់ការងារដែលអ្នកចង់រក្សា សូមប្រើ <strong>Save project</strong> ផងដែរ។</p>
+<p>ប្រវត្តិ Undo (១០០ ជំហាន) មិនត្រូវបានរក្សាទុកទេ៖ បន្ទាប់ពី Kroma បើកឡើងវិញ អ្នកមិនអាច undo ការផ្លាស់ប្តូរពីមុននោះបានទេ។</p>
+<h2 id="វីនដូច្រើន"><a class="anchor" href="#វីនដូច្រើន" aria-hidden="true">#</a>វីនដូច្រើន</h2><p>អ្នកអាចធ្វើការលើគម្រោងពីរក្នុងពេលតែមួយ ម្នាក់ៗក្នុងវីនដូរបស់ខ្លួន។</p>
+<ul>
+<li><strong>File → New Window</strong> (⇧⌘N / Ctrl+Shift+N)</li>
+<li>Mac៖ ចុចកណ្ដុរស្តាំលើ Kroma ក្នុង Dock → <strong>New Window</strong></li>
+<li>Windows៖ ចុចកណ្ដុរស្តាំលើ Kroma នៅលើ taskbar → <strong>New Window</strong></li>
+</ul>
+<p>វីនដូនីមួយៗមានគម្រោងផ្ទាល់ខ្លួន និងកន្លែង autosave ផ្ទាល់ខ្លួន៖</p>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>វីនដូ</th>
+<th>Autosave</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>វីនដូទីមួយ</td>
+<td><code>autosave.json</code>។ បើកមកវិញពេល Kroma ចាប់ផ្តើម។</td>
+</tr>
+<tr>
+<td>វីនដូបន្ថែមនីមួយៗ</td>
+<td><code>autosave-2.json</code>, <code>autosave-3.json</code> …។ ត្រូវបានលុបពេលអ្នកបិទវីនដូនោះ។</td>
+</tr>
+</tbody></table></div>
+<p>ដោយសារ autosave របស់វីនដូបន្ថែមបាត់ទៅវិញ Kroma សួរមុនពេលអ្នកបិទវីនដូបន្ថែម ដែលគម្រោងរបស់វាមិនទាន់រក្សាទុកទៅក្នុងឯកសារ៖ <strong>Close this window?</strong> ជ្រើស <strong>Cancel</strong> រក្សាទុកគម្រោង រួចបិទវា។</p>
+<h2 id="kroma-តែមួយក្នុងពេលតែមួយ"><a class="anchor" href="#kroma-តែមួយក្នុងពេលតែមួយ" aria-hidden="true">#</a>Kroma តែមួយក្នុងពេលតែមួយ</h2><p>Kroma ដំណើរការតែម្តងប៉ុណ្ណោះ។ បើអ្នកបើកវាម្តងទៀតខណៈវាកំពុងដំណើរការ (ពី Dock, ម៉ឺនុយ Start ឬផ្លូវកាត់លើ desktop) វានាំវីនដូដែលកំពុងបើកមកខាងមុខ ជំនួសឱ្យការបើកច្បាប់ទីពីរ។ នេះការពារមិនឱ្យច្បាប់ពីរសរសេរឯកសារ autosave តែមួយ។ <strong>New Window</strong> លើ taskbar បើកវីនដូថ្មីក្នុង Kroma ដែលកំពុងដំណើរការ។</p>
+<p>លើ Mac ការបិទវីនដូទាំងអស់ទុក Kroma ឱ្យនៅដំណើរការ។ ចុចរូបតំណាងរបស់វាក្នុង Dock ដើម្បីបើកវីនដូម្តងទៀត។ លើ Windows និង Linux ការបិទវីនដូចុងក្រោយ គឺបិទ Kroma តែម្តង។</p>
+<h2 id="ទីតាំងឯកសារ"><a class="anchor" href="#ទីតាំងឯកសារ" aria-hidden="true">#</a>ទីតាំងឯកសារ</h2><p>Kroma ប្រើថតពីរ។</p>
+<h3 id="ថតការកំណត់"><a class="anchor" href="#ថតការកំណត់" aria-hidden="true">#</a>ថតការកំណត់</h3><p>ការកំណត់ key និង autosave របស់អ្នក។</p>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>ប្រព័ន្ធ</th>
+<th>ថត</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>macOS</td>
+<td><code>~/Library/Application Support/Kroma Studio</code></td>
+</tr>
+<tr>
+<td>Windows</td>
+<td><code>%APPDATA%\Kroma Studio</code></td>
+</tr>
+<tr>
+<td>Linux</td>
+<td><code>~/.config/Kroma Studio</code></td>
+</tr>
+</tbody></table></div>
+<p><code>~</code> មានន័យថាថតផ្ទះ (home) របស់អ្នក។ លើ Windows បិទភ្ជាប់ <code>%APPDATA%\Kroma Studio</code> ទៅក្នុងរបារអាសយដ្ឋានរបស់ File Explorer ដើម្បីបើកវា។</p>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>ឯកសារ</th>
+<th>វាជាអ្វី</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><code>settings.json</code></td>
+<td>អ្វីៗទាំងអស់ក្នុង <a href="/kroma/km/docs/0.1/settings/">Settings</a>។ API key ត្រូវបានអ៊ិនគ្រីប (មើលខាងក្រោម)។</td>
+</tr>
+<tr>
+<td><code>autosave.json</code>, <code>autosave-2.json</code> …</td>
+<td>គម្រោងដែលបានរក្សាទុកស្វ័យប្រវត្តិរបស់វីនដូនីមួយៗ</td>
+</tr>
+<tr>
+<td><code>last-export-error.log</code></td>
+<td>ព័ត៌មានលម្អិតនៃការនាំចេញចុងក្រោយដែលបរាជ័យ (មើល <a href="/kroma/km/docs/0.1/troubleshooting/#ការនាំចេញបរាជ័យ">ដោះស្រាយបញ្ហា</a>)</td>
+</tr>
+<tr>
+<td><code>updates</code></td>
+<td>កំណែថ្មីដែលបានទាញយក លើ macOS និង Linux <code>.deb</code></td>
+</tr>
+</tbody></table></div>
+<h3 id="ថតបណ្ណាល័យ-kroma-studio"><a class="anchor" href="#ថតបណ្ណាល័យ-kroma-studio" aria-hidden="true">#</a>ថតបណ្ណាល័យ Kroma Studio</h3><p>វីដេអូរបស់អ្នក និងអ្វីៗដែល Kroma បង្កើតចេញពីវា។ វានៅក្នុងថត Movies លើ Mac និងថត Videos លើ Windows និង Linux៖</p>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>ប្រព័ន្ធ</th>
+<th>ថត</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>macOS</td>
+<td><code>~/Movies/Kroma Studio</code></td>
+</tr>
+<tr>
+<td>Windows</td>
+<td><code>C:\Users\&lt;you&gt;\Videos\Kroma Studio</code></td>
+</tr>
+<tr>
+<td>Linux</td>
+<td><code>~/Videos/Kroma Studio</code></td>
+</tr>
+</tbody></table></div>
+<p><strong>Settings → Folders → Library folder → Open</strong> នាំអ្នកទៅទីនោះផ្ទាល់។</p>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>នៅខាងក្នុង</th>
+<th>វាជាអ្វី</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><code>Exports</code></td>
+<td>វីដេអូដែលរួចរាល់ និងឯកសារអក្សររត់ (លុះត្រាតែអ្នកជ្រើសថតនាំចេញផ្សេង)</td>
+</tr>
+<tr>
+<td><code>downloads</code></td>
+<td>វីដេអូដែលទាញយកពីតំណ។ ការទាញយកនីមួយៗមានថតផ្ទាល់ខ្លួន ជាមួយអក្សររត់របស់គេហទំព័រនៅក្បែរវីដេអូ។</td>
+</tr>
+<tr>
+<td><code>voices</code></td>
+<td>សំឡេងក្លូនរបស់អ្នក និងគំរូសំឡេងដែលបានរក្សាទុករបស់ template សំឡេង</td>
+</tr>
+<tr>
+<td><code>voice-cache</code></td>
+<td>បន្ទាត់សំឡេងបញ្ចូលនីមួយៗដែលបាននិយាយរួច</td>
+</tr>
+<tr>
+<td><code>recordings</code></td>
+<td>ការថតដែលអ្នកបានថតដោយមីក្រូហ្វូនសម្រាប់ក្លូន</td>
+</tr>
+<tr>
+<td><code>cache/visuals</code></td>
+<td>រូបភាពលើ timeline និងរលកសំឡេង</td>
+</tr>
+<tr>
+<td><code>cache/separated</code></td>
+<td>សំឡេងតន្ត្រី និងបរិយាកាស ដែលបង្កើតដោយ <strong>Remove the original voices</strong></td>
+</tr>
+<tr>
+<td><code>cache/separator-models</code></td>
+<td>ម៉ូដែលដកសំឡេង ដែលទាញយកលើកដំបូងដែលអ្នកប្រើវា</td>
+</tr>
+<tr>
+<td><code>*.kroma</code></td>
+<td>គម្រោងដែលអ្នកបានរក្សាទុកនៅទីនេះ (កន្លែងលំនាំដើម)</td>
+</tr>
+</tbody></table></div>
+<p>អ្នកអាចផ្លាស់វីដេអូនាំចេញ និងវីដេអូទាញយកទៅកន្លែងផ្សេងនៅក្នុង <a href="/kroma/km/docs/0.1/settings/#folders">Settings → Folders</a>។ ថតបណ្ណាល័យខ្លួនឯងមិនអាចផ្លាស់ទីបានទេ។</p>
+<h2 id="key-របស់អ្នកនៅលើថាស"><a class="anchor" href="#key-របស់អ្នកនៅលើថាស" aria-hidden="true">#</a>key របស់អ្នកនៅលើថាស</h2><p>API key ត្រូវបានអ៊ិនគ្រីបដោយ keychain នៃប្រព័ន្ធរបស់អ្នក មុនពេលសរសេរទៅក្នុង <code>settings.json</code> ហើយវាដំណើរការតែលើកុំព្យូទ័រដែលបានរក្សាទុកវាប៉ុណ្ណោះ។ លើប្រព័ន្ធ Linux ខ្លះ មិនមាន keychain ទេ៖ នៅទីនោះ key ត្រូវបានរក្សាទុកជាអត្ថបទធម្មតា ដូច្នេះសូមរក្សាឯកសារនោះជាឯកជន។</p>
+<h2 id="ផ្លាស់គម្រោងទៅកុំព្យូទ័រផ្សេង"><a class="anchor" href="#ផ្លាស់គម្រោងទៅកុំព្យូទ័រផ្សេង" aria-hidden="true">#</a>ផ្លាស់គម្រោងទៅកុំព្យូទ័រផ្សេង</h2><p>ឯកសារ <code>.kroma</code> គ្រាន់តែចង្អុលទៅឯកសាររបស់អ្នក តាមទីតាំងពេញរបស់វា ឧទាហរណ៍ <code>/Users/dara/Movies/Kroma Studio/downloads/…</code>។ Kroma មិនមានប៊ូតុងសម្រាប់ស្វែងរកឯកសារដែលបានផ្លាស់ទីវិញទេ។ ដើម្បីផ្លាស់គម្រោង៖</p>
+<ol>
+<li>ចម្លងឯកសារ <code>.kroma</code> <strong>និង</strong>ថតបណ្ណាល័យ Kroma Studio (ជាមួយថត <code>downloads</code>, <code>voice-cache</code>, <code>voices</code> និង <code>cache</code> របស់វា)។ ចម្លងវីដេអូ ឬរូបភាពណាដែលអ្នកបានបន្ថែមពីកន្លែងផ្សេងផងដែរ។</li>
+<li>ដាក់វានៅ<strong>កន្លែងដដែលបេះបិទ</strong>លើកុំព្យូទ័រថ្មី។ វិធីនេះដំណើរការល្អបំផុតរវាងកុំព្យូទ័រពីរប្រភេទដូចគ្នា (Mac ទៅ Mac, Windows ទៅ Windows) ដែលមានឈ្មោះអ្នកប្រើដូចគ្នា។</li>
+<li>បើកគម្រោងដោយ <strong>Open project</strong>។</li>
+</ol>
+<p>បើថតលើកុំព្យូទ័រថ្មីខុសគ្នា វិធីងាយបំផុតគឺចាប់ផ្តើមគម្រោងថ្មីនៅទីនោះ ហើយយកអក្សររត់របស់អ្នកទៅជាមួយ៖</p>
+<ol>
+<li>នៅលើកុំព្យូទ័រចាស់ បើកផ្ទាំង <strong>Post</strong> ហើយនៅក្រោម <strong>Subtitle files</strong> រក្សាទុកឯកសារ <code>.srt</code> ដែលបានបកប្រែ (សម្រាប់ខ្មែរ គឺ <strong>Khmer .srt</strong>)។</li>
+<li>នៅលើកុំព្យូទ័រថ្មី បន្ថែមវីដេអូម្តងទៀត រួចប្រើ <strong>Import an .srt file</strong> នៅខាងលើបញ្ជីអក្សររត់។</li>
+</ol>
+<p>ឯកសារ <code>.srt</code> មួយផ្ទុកតែភាសាមួយ ដូច្នេះវិធីនេះនាំមកវិញតែការបកប្រែ មិនមែនបន្ទាត់ដើម អ្នកនិយាយ ឬសំឡេងបញ្ចូលទេ។</p>
+<p>key មិនផ្លាស់ទីតាមទេ៖ វាជាប់សោនឹងកុំព្យូទ័រដែលបានរក្សាទុកវា។ សូមបន្ថែមវាម្តងទៀតក្នុង <a href="/kroma/km/docs/0.1/settings/">Settings</a> លើកុំព្យូទ័រថ្មី។</p>
+<h2 id="បង្កើនទំហំទំនេរ"><a class="anchor" href="#បង្កើនទំហំទំនេរ" aria-hidden="true">#</a>បង្កើនទំហំទំនេរ</h2><p>Kroma មិនមានប៊ូតុង «សម្អាត cache» ទេ ប៉ុន្តែអ្នកអាចលុបថតទាំងនេះក្នុងថតបណ្ណាល័យដោយខ្លួនឯង ពេល Kroma បិទ៖</p>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>ថត</th>
+<th>លុបបានដោយសុវត្ថិភាពឬទេ?</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><code>cache/visuals</code></td>
+<td>បាន គ្រប់ពេល។ Kroma បង្កើតរូបភាព timeline ម្តងទៀតពេលត្រូវការ។</td>
+</tr>
+<tr>
+<td><code>cache/separator-models</code></td>
+<td>បាន។ វាត្រូវបានទាញយកម្តងទៀត ពេលអ្នកដកសំឡេងលើកក្រោយ។</td>
+</tr>
+<tr>
+<td><code>downloads</code></td>
+<td>តែសម្រាប់គម្រោងដែលអ្នកធ្វើរួចហើយ។ គម្រោងដែលប្រើវីដេអូដែលបានលុប មិនអាចចាក់ ឬនាំចេញវាបានទេ។</td>
+</tr>
+<tr>
+<td><code>voice-cache</code></td>
+<td>តែសម្រាប់គម្រោងដែលអ្នកធ្វើរួចហើយ។ គម្រោងនឹងបាត់បន្ទាត់សំឡេងរបស់វា។</td>
+</tr>
+<tr>
+<td><code>cache/separated</code></td>
+<td>តែសម្រាប់គម្រោងដែលអ្នកធ្វើរួចហើយ។ គម្រោងដែលបានដកសំឡេងនិយាយដើម នឹងបាត់សំឡេងនោះ។</td>
+</tr>
+<tr>
+<td><code>voices</code>, <code>recordings</code></td>
+<td>ទេ។ ទាំងនេះជាសំឡេងក្លូនរបស់អ្នក។ សូមលុបសំឡេងពីទំព័រ <strong>Voices</strong> ជំនួសវិញ។</td>
+</tr>
+</tbody></table></div>
+<p>វីដេអូដែលរួចរាល់ក្នុង <code>Exports</code> ជារបស់អ្នក រក្សាទុក ឬលុបតាមចិត្ត។</p>
+29:["$","main",null,{"className":"min-w-0","children":[["$","div",null,{"role":"note","className":"mb-6 flex flex-wrap items-center gap-x-3 gap-y-1 rounded-lg border border-warning/40 bg-warning/10 px-4 py-3 text-[13px]","children":[["$","$L2b",null,{"ref":"$undefined","icon":{"name":"triangle-exclamation-point","size":24,"node":[["path",{"d":"m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3","key":"wmoenq"}],["path",{"d":"M12 9v4","key":"juzpu7"}],["path",{"d":"M12 17h.01","key":"p32p05"}]],"aliases":["alert-triangle","triangle-alert"]},"className":"size-4 shrink-0 text-warning"}],["$","span",null,{"children":"អ្នកកំពុងអានឯកសារណែនាំសម្រាប់ Kroma 0.1។ កំណែថ្មីបំផុតគឺ 0.2.x។"}],["$","$L1e",null,{"href":"/km/docs/0.2/projects-and-files/","className":"font-medium underline underline-offset-2","children":["ទៅកាន់ឯកសារណែនាំថ្មីបំផុត"," →"]}]]}],[["$","p",null,{"className":"text-[12.5px] font-medium tracking-[0.08em] text-brand uppercase","children":"ឯកសារយោង"}],["$","h1",null,{"className":"mt-2 text-[clamp(28px,4vw,40px)] font-semibold","children":"គម្រោង និងឯកសារ"}],["$","div",null,{"className":"docs-prose mt-6","dangerouslySetInnerHTML":{"__html":"$2c"}}]],"$L2d"]}]
+2a:["$","aside",null,{"className":"hidden xl:sticky xl:top-[84px] xl:block xl:self-start","children":[["$","p",null,{"className":"text-xs tracking-wider text-muted-foreground uppercase","children":"នៅលើទំព័រនេះ"}],["$","$L2e",null,{"items":[{"depth":2,"id":"ឯកសារគម្រោង","text":"ឯកសារគម្រោង"},{"depth":2,"id":"ការរក្សាទុក","text":"ការរក្សាទុក"},{"depth":2,"id":"ការរក្សាទុកស្វ័យប្រវត្តិ-និងការស្តារ","text":"ការរក្សាទុកស្វ័យប្រវត្តិ និងការស្តារ"},{"depth":2,"id":"វីនដូច្រើន","text":"វីនដូច្រើន"},{"depth":2,"id":"kroma-តែមួយក្នុងពេលតែមួយ","text":"Kroma តែមួយក្នុងពេលតែមួយ"},{"depth":2,"id":"ទីតាំងឯកសារ","text":"ទីតាំងឯកសារ"},{"depth":3,"id":"ថតការកំណត់","text":"ថតការកំណត់"},{"depth":3,"id":"ថតបណ្ណាល័យ-kroma-studio","text":"ថតបណ្ណាល័យ Kroma Studio"},{"depth":2,"id":"key-របស់អ្នកនៅលើថាស","text":"key របស់អ្នកនៅលើថាស"},{"depth":2,"id":"ផ្លាស់គម្រោងទៅកុំព្យូទ័រផ្សេង","text":"ផ្លាស់គម្រោងទៅកុំព្យូទ័រផ្សេង"},{"depth":2,"id":"បង្កើនទំហំទំនេរ","text":"បង្កើនទំហំទំនេរ"}]}]]}]
+2f:I[23051,["$3","$4","$5","$6","$1d"],"CodeCopy"]
+2d:[["$","$L2f",null,{"copy":"ចម្លង","copied":"បានចម្លង"}],["$","div",null,{"className":"mt-14 grid gap-3 border-t pt-6 sm:grid-cols-2","children":[["$","$L1e",null,{"href":"/km/docs/0.1/keyboard-shortcuts/","className":"group rounded-lg border p-4 no-underline hover:bg-accent/50","children":[["$","span",null,{"className":"flex items-center gap-1.5 text-xs text-muted-foreground","children":[["$","$L2b",null,{"ref":"$undefined","icon":{"name":"arrow-left","size":24,"node":[["path",{"d":"m12 19-7-7 7-7","key":"1l729n"}],["path",{"d":"M19 12H5","key":"x3x0zl"}]]},"className":"size-3.5"}]," ","មុន"]}],["$","span",null,{"className":"mt-1 block text-[14px] font-medium","children":"ផ្លូវកាត់ក្តារចុច"}]]}],["$","$L1e",null,{"href":"/km/docs/0.1/settings/","className":"group rounded-lg border p-4 text-right no-underline hover:bg-accent/50","children":[["$","span",null,{"className":"flex items-center justify-end gap-1.5 text-xs text-muted-foreground","children":["បន្ទាប់"," ",["$","$L2b",null,{"ref":"$undefined","icon":{"name":"arrow-right","size":24,"node":[["path",{"d":"M5 12h14","key":"1ays0h"}],["path",{"d":"m12 5 7 7-7 7","key":"xquz4c"}]]},"className":"size-3.5"}]]}],["$","span",null,{"className":"mt-1 block text-[14px] font-medium","children":"ការកំណត់"}]]}]]}],["$","a",null,{"href":"https://github.com/Heang-Dev/KROMA.STUDIO/edit/main/website/content/docs/0.1/km/projects-and-files.md","target":"_blank","rel":"noreferrer","className":"mt-6 inline-flex items-center gap-1.5 text-[13px] text-muted-foreground no-underline hover:text-foreground","children":[["$","$L2b",null,{"ref":"$undefined","icon":{"name":"pencil","size":24,"node":[["path",{"d":"M21.174 6.812a1 1 0 0 0-3.986-3.987L3.842 16.174a2 2 0 0 0-.5.83l-1.321 4.352a.5.5 0 0 0 .623.622l4.353-1.32a2 2 0 0 0 .83-.497z","key":"1a8usu"}],["path",{"d":"m15 5 4 4","key":"1mk7zo"}]]},"className":"size-3.5"}]," ","កែទំព័រនេះនៅលើ GitHub"]}]]
+16:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+30:I[27201,["$3","$4","$5","$6"],"IconMark"]
+13:null
+19:[["$","title","0",{"children":"គម្រោង និងឯកសារ · v0.1 · ឯកសារណែនាំ · Kroma Studio"}],["$","meta","1",{"name":"description","content":"Download videos from YouTube, Bilibili, Douyin and 1,000+ sites, translate the subtitles to Khmer, give every character a voice, and post to YouTube, Facebook and TikTok. A free desktop app for macOS, Windows and Linux."}],["$","meta","2",{"property":"og:title","content":"គម្រោង និងឯកសារ · v0.1 · ឯកសារណែនាំ · Kroma Studio"}],["$","meta","3",{"property":"og:description","content":"គ្រប់យ៉ាងអំពី Kroma Studio ចាប់ពីការដំឡើង រហូតដល់ការបង្ហោះវីដេអូរបស់អ្នក។"}],["$","meta","4",{"property":"og:site_name","content":"Kroma Studio"}],["$","meta","5",{"property":"og:locale","content":"km_KH"}],["$","meta","6",{"property":"og:image","content":"https://heang-dev.github.io/kroma/assets/og-docs-km.png"}],["$","meta","7",{"property":"og:image:width","content":"1200"}],["$","meta","8",{"property":"og:image:height","content":"630"}],["$","meta","9",{"property":"og:image:alt","content":"ឯកសារណែនាំ Kroma Studio"}],["$","meta","10",{"property":"og:type","content":"website"}],["$","meta","11",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","12",{"name":"twitter:title","content":"គម្រោង និងឯកសារ · v0.1 · ឯកសារណែនាំ · Kroma Studio"}],["$","meta","13",{"name":"twitter:description","content":"គ្រប់យ៉ាងអំពី Kroma Studio ចាប់ពីការដំឡើង រហូតដល់ការបង្ហោះវីដេអូរបស់អ្នក។"}],["$","meta","14",{"name":"twitter:image","content":"https://heang-dev.github.io/kroma/assets/og-docs-km.png"}],["$","meta","15",{"name":"twitter:image:alt","content":"ឯកសារណែនាំ Kroma Studio"}],["$","meta","16",{"name":"twitter:image:width","content":"1200"}],["$","meta","17",{"name":"twitter:image:height","content":"630"}],["$","link","18",{"rel":"icon","href":"/kroma/assets/kroma-favicon.png"}],["$","$L30","19",{}]]

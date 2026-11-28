@@ -1,0 +1,365 @@
+1:"$Sreact.fragment"
+2:"/kroma/_next/static/chunks/04vt5_qdxg31o.js"
+3:"/kroma/_next/static/chunks/0w3ftlzy945zl.js"
+4:"/kroma/_next/static/chunks/2m9t-wks40qyw.js"
+5:"/kroma/_next/static/chunks/1a4ohd0pkdhou.js"
+6:I[19738,["$2","$3","$4","$5"],"HeaderBar"]
+7:I[39756,["$2","$3","$4","$5"],"default"]
+8:I[37457,["$2","$3","$4","$5"],"default"]
+9:I[19738,["$2","$3","$4","$5"],"FooterBar"]
+16:"/kroma/_next/static/chunks/2ffur98r21h0b.js"
+17:I[22016,["$2","$3","$4","$5","$16"],""]
+18:I[32016,["$2","$3","$4","$5","$16"],"VersionPicker"]
+1e:"ViewportBoundary"
+1f:I[97367,["$2","$3","$4","$5"],"$1e"]
+20:"MetadataBoundary"
+21:I[97367,["$2","$3","$4","$5"],"$20"]
+22:"$Sreact.suspense"
+:HL["/kroma/_next/static/chunks/3kygz3hykdx6f.css","style"]
+b:X
+12:X
+12:C
+15:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto w-[min(1280px,100%-32px)] grid grid-cols-1 gap-6 pt-6 pb-10 lg:gap-10 lg:pt-10 lg:grid-cols-[230px_1fr] xl:grid-cols-[230px_1fr_200px]","children":[["$","aside",null,{"className":"lg:sticky lg:top-[84px] lg:max-h-[calc(100vh-100px)] lg:self-start lg:overflow-y-auto lg:pr-2","children":[["$","$L17",null,{"href":"/km/docs/0.1/","className":"mb-3 block text-xs tracking-wider text-muted-foreground uppercase no-underline hover:text-foreground","children":"ឯកសារណែនាំ"}],["$","$L18",null,{"versions":[{"version":"0.2","label":"0.2.x","released":"2026-11-28"},{"version":"0.1","label":"0.1.x","released":"2026-11-27"}],"current":"0.1","slug":"troubleshooting","slugsByVersion":{"0.2":["installation","configuration","updates","the-editor","first-video","downloading","subtitles","translation","style-and-objects","export","batch","characters-and-voices","voice-library","voice-engine","voice-cloning","story","posting","keyboard-shortcuts","projects-and-files","settings","notifications","troubleshooting","release-notes","upgrade"],"0.1":["installation","configuration","updates","the-editor","first-video","downloading","subtitles","translation","style-and-objects","export","characters-and-voices","voice-library","voice-engine","voice-cloning","posting","keyboard-shortcuts","projects-and-files","settings","troubleshooting","release-notes","upgrade"]},"lang":"km","latestLabel":"ថ្មីបំផុត"}],"$L19"]}],"$L1a","$L1b"]}],null,"$L1c"]}],"p":"$@1d","v":null,"s":"$b"}}]]
+13:[["children",{"s":{"n":"slug","t":"d","k":"troubleshooting","s":[]},"h":65632,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$L8",null,{}]}]]}],"p":"$@14","v":"$12","s":"$b"},"c":"$Q15"}]]
+10:[["children",{"s":{"n":"version","t":"d","k":"0.1","s":[]},"h":196704,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$L8",null,{}]}]]}],"p":"$@11","v":"$12","s":"$b"},"c":"$Q13"}]]
+e:[["children",{"s":"docs","h":131168,"d":{"r":["$","$1","c",{"children":[[["$","script","script-0",{"src":"/kroma/_next/static/chunks/2ffur98r21h0b.js","async":true}]],["$","$L7",null,{"parallelRouterKey":"children","template":["$","$L8",null,{}]}]]}],"p":"$@f","v":null,"s":"$b"},"c":"$Q10"}]]
+c:[["children",{"s":"km","h":131168,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$L8",null,{}]}]]}],"p":"$@d","v":null,"s":"$b"},"c":"$Qe"}]]
+0:{"t":{"t":{"s":"","h":131152,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/kroma/_next/static/chunks/3kygz3hykdx6f.css","precedence":"next"}],["$","script","script-0",{"src":"/kroma/_next/static/chunks/04vt5_qdxg31o.js","async":true}],["$","script","script-1",{"src":"/kroma/_next/static/chunks/0w3ftlzy945zl.js","async":true}],["$","script","script-2",{"src":"/kroma/_next/static/chunks/2m9t-wks40qyw.js","async":true}],["$","script","script-3",{"src":"/kroma/_next/static/chunks/1a4ohd0pkdhou.js","async":true}]],["$","html",null,{"lang":"en","className":"z61v7q_variable -suo1a_variable","suppressHydrationWarning":true,"children":[["$","head",null,{"children":["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(a){try{let b=document.documentElement,c=location.pathname.slice(a.length)||\"/\",d=\"/km\"===c||c.startsWith(\"/km/\");b.lang=d?\"km\":\"en\";let e=localStorage.getItem(\"kroma-theme\");b.classList.toggle(\"dark\",e?\"dark\"===e:matchMedia(\"(prefers-color-scheme: dark)\").matches);let f=localStorage.getItem(\"kroma-lang\"),g=!1;try{let b=new URL(document.referrer);g=b.origin===location.origin&&(b.pathname+\"/\").startsWith(a+\"/\")}catch{}if(!f||g)return;let h=location.search+location.hash;\"km\"!==f||d?\"en\"===f&&d&&location.replace(a+(c.slice(3)||\"/\")+h):location.replace(a+\"/km\"+(\"/\"===c?\"/\":c)+h)}catch{}})(\"/kroma\")"}}]}],["$","body",null,{"className":"flex min-h-svh flex-col","children":[["$","$L6",null,{"stars":0}],["$","div",null,{"className":"flex-1","children":["$","$L7",null,{"parallelRouterKey":"children","template":["$","$L8",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}]}],["$","$L9",null,{"latest":{"version":"0.2.3","date":"2026-11-28T09:36:49Z"}}]]}]]}]]}],"p":"$@a","v":null,"s":"$b"},"c":"$Qc"},"h":{"r":["$","$1","h",{"children":[null,["$","$L1f",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L21",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$22",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"ដោះស្រាយបញ្ហា · v0.1 · ឯកសារណែនាំ · Kroma Studio"}],["$","meta","1",{"name":"description","content":"Download videos from YouTube, Bilibili, Douyin and 1,000+ sites, translate the subtitles to Khmer, give every character a voice, and post to YouTube, Facebook and TikTok. A free desktop app for macOS, Windows and Linux."}],["$","meta","2",{"property":"og:title","content":"ដោះស្រាយបញ្ហា · v0.1 · ឯកសារណែនាំ · Kroma Studio"}],["$","meta","3",{"property":"og:description","content":"គ្រប់យ៉ាងអំពី Kroma Studio ចាប់ពីការដំឡើង រហូតដល់ការបង្ហោះវីដេអូរបស់អ្នក។"}],["$","meta","4",{"property":"og:site_name","content":"Kroma Studio"}],["$","meta","5",{"property":"og:locale","content":"km_KH"}],["$","meta","6",{"property":"og:image","content":"https://heang-dev.github.io/kroma/assets/og-docs-km.png"}],["$","meta","7",{"property":"og:image:width","content":"1200"}],["$","meta","8",{"property":"og:image:height","content":"630"}],["$","meta","9",{"property":"og:image:alt","content":"ឯកសារណែនាំ Kroma Studio"}],["$","meta","10",{"property":"og:type","content":"website"}],["$","meta","11",{"name":"twitter:card","content":"summary_large_image"}],"$L23","$L24","$L25","$L26","$L27","$L28","$L29","$L2a"]}]}],null]}],"$L2b"]}],"p":"$@2c","v":null,"s":"$b"}},"a":"$@2d","u":"$@2e","b":"Hf2A-8s-tskzwG8lj9Zm4"}
+2f:I[45613,["$2","$3","$4","$5","$16"],"DocsNavToggle"]
+36:I[5014,["$2","$3","$4","$5","$16"],"default"]
+39:I[51896,["$2","$3","$4","$5","$16"],"DocsToc"]
+3a:I[97367,["$2","$3","$4","$5"],"OutletBoundary"]
+3c:I[27201,["$2","$3","$4","$5"],"IconMark"]
+19:["$","$L2f",null,{"current":"ដោះស្រាយបញ្ហា","label":"ឯកសារណែនាំ","children":["$","nav",null,{"aria-label":"ឯកសារណែនាំ","className":"mt-5 grid gap-5","children":[["$","div","ចាប់ផ្តើម",{"children":[["$","p",null,{"className":"mb-1.5 px-2 text-[12px] font-semibold","children":"ចាប់ផ្តើម"}],["$","ul",null,{"className":"grid list-none gap-0.5 border-l p-0","children":[["$","li","installation",{"children":["$","$L17",null,{"href":"/km/docs/0.1/installation/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"ការដំឡើង"}]}],["$","li","configuration",{"children":["$","$L17",null,{"href":"/km/docs/0.1/configuration/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"បន្ថែម key របស់អ្នក"}]}],["$","li","updates",{"children":["$","$L17",null,{"href":"/km/docs/0.1/updates/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"ការធ្វើបច្ចុប្បន្នភាព"}]}],["$","li","the-editor",{"children":["$","$L17",null,{"href":"/km/docs/0.1/the-editor/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"កម្មវិធីកែ"}]}]]}]]}],["$","div","ការធ្វើវីដេអូ",{"children":[["$","p",null,{"className":"mb-1.5 px-2 text-[12px] font-semibold","children":"ការធ្វើវីដេអូ"}],["$","ul",null,{"className":"grid list-none gap-0.5 border-l p-0","children":[["$","li","first-video",{"children":["$","$L17",null,{"href":"/km/docs/0.1/first-video/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"វីដេអូដំបូងរបស់អ្នក"}]}],["$","li","downloading",{"children":["$","$L17",null,{"href":"/km/docs/0.1/downloading/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"ការទាញយកវីដេអូ"}]}],["$","li","subtitles",{"children":["$","$L17",null,{"href":"/km/docs/0.1/subtitles/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"អក្សររត់"}]}],["$","li","translation",{"children":["$","$L17",null,{"href":"/km/docs/0.1/translation/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"ការបកប្រែ"}]}],["$","li","style-and-objects",{"children":["$","$L17",null,{"href":"/km/docs/0.1/style-and-objects/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"រចនាប័ទ្ម និងវត្ថុ"}]}],["$","li","export",{"children":["$","$L17",null,{"href":"/km/docs/0.1/export/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"នាំចេញ"}]}]]}]]}],["$","div","សំឡេង",{"children":[["$","p",null,{"className":"mb-1.5 px-2 text-[12px] font-semibold","children":"សំឡេង"}],["$","ul",null,{"className":"grid list-none gap-0.5 border-l p-0","children":[["$","li","characters-and-voices",{"children":["$","$L17",null,{"href":"/km/docs/0.1/characters-and-voices/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"តួអង្គ និងសំឡេង"}]}],"$L30","$L31","$L32"]}]]}],"$L33","$L34","$L35"]}]}]
+37:T82b1,<p>រកសារដែលអ្នកឃើញ ឬបញ្ហាដែលអ្នកជួប ហើយធ្វើតាមជំហាន។ សារក្នុងសញ្ញាសម្រង់ គឺដូចដែល Kroma បង្ហាញបេះបិទ (ជាភាសាអង់គ្លេស)។</p>
+<p>ពេលការងារមួយបរាជ័យ Kroma បង្ហាញសារពណ៌ក្រហមនៅខាងក្រោមវីនដូ ដែលមានចំណងជើងដូចជា <strong>Download failed</strong> ឬ <strong>Export failed</strong> និងមូលហេតុនៅខាងក្រោម។ ផ្នែកខាងក្រោមត្រូវបានរៀបតាមការងារនោះ។</p>
+<h2 id="ការដំឡើង-និងការបើក"><a class="anchor" href="#ការដំឡើង-និងការបើក" aria-hidden="true">#</a>ការដំឡើង និងការបើក</h2><h3 id="macos-kroma-studio-is-damaged-ឬបើកមិនឡើង"><a class="anchor" href="#macos-kroma-studio-is-damaged-ឬបើកមិនឡើង" aria-hidden="true">#</a>macOS៖ «Kroma Studio is damaged» ឬបើកមិនឡើង</h3><p>Kroma មិនទាន់មានហត្ថលេខាវិញ្ញាបនបត្ររបស់ Apple នៅឡើយទេ ដូច្នេះ macOS រារាំងវានៅលើកដំបូង។ ផ្លាស់វាទៅក្នុង <strong>Applications</strong> រួចដំណើរការពាក្យបញ្ជានេះម្តងក្នុង Terminal៖</p>
+<div class="code-block"><pre><code class="language-bash">xattr -cr &quot;/Applications/Kroma Studio.app&quot;</code></pre></div><p>រួចបើកវាម្តងទៀត។ មើល <a href="/kroma/km/docs/0.1/installation/">ការដំឡើង</a>។</p>
+<h3 id="windows-windows-protected-your-pc"><a class="anchor" href="#windows-windows-protected-your-pc" aria-hidden="true">#</a>Windows៖ «Windows protected your PC»</h3><p>កម្មវិធីដំឡើងមិនទាន់មានហត្ថលេខាកូដនៅឡើយទេ។ ចុច <strong>More info</strong> រួចចុច <strong>Run anyway</strong>។</p>
+<h3 id="linux-appimage-មិនធ្វើអ្វីសោះ"><a class="anchor" href="#linux-appimage-មិនធ្វើអ្វីសោះ" aria-hidden="true">#</a>Linux៖ AppImage មិនធ្វើអ្វីសោះ</h3><p>ធ្វើឱ្យវាអាចដំណើរការបានជាមុនសិន៖</p>
+<div class="code-block"><pre><code class="language-bash">chmod +x Kroma-Studio-*.AppImage &amp;&amp; ./Kroma-Studio-*.AppImage</code></pre></div><p>ឬដំឡើងកញ្ចប់ <code>.deb</code> ជំនួសវិញ។</p>
+<h3 id="ខ្ញុំបើក-kroma-ប៉ុន្តែគ្មានវីនដូថ្មីលេចឡើង"><a class="anchor" href="#ខ្ញុំបើក-kroma-ប៉ុន្តែគ្មានវីនដូថ្មីលេចឡើង" aria-hidden="true">#</a>ខ្ញុំបើក Kroma ប៉ុន្តែគ្មានវីនដូថ្មីលេចឡើង</h3><p>Kroma ដំណើរការតែម្តងប៉ុណ្ណោះ។ ការបើកវាម្តងទៀត នាំវីនដូដែលកំពុងបើកមកខាងមុខ។ ដើម្បីធ្វើការលើគម្រោងទីពីរ សូមប្រើ <strong>File → New Window</strong> (⇧⌘N / Ctrl+Shift+N)។ មើល <a href="/kroma/km/docs/0.1/projects-and-files/#kroma-តែមួយក្នុងពេលតែមួយ">គម្រោង និងឯកសារ</a>។</p>
+<p>លើ Mac Kroma នៅតែដំណើរការ បន្ទាប់ពីអ្នកបិទវីនដូចុងក្រោយរបស់វា។ ចុចរូបតំណាងក្នុង Dock ដើម្បីបើកវីនដូមកវិញ។</p>
+<h2 id="បាត់-ffmpeg-ឬ-yt-dlp"><a class="anchor" href="#បាត់-ffmpeg-ឬ-yt-dlp" aria-hidden="true">#</a>បាត់ FFmpeg ឬ yt-dlp</h2><p>របារពណ៌ក្រហមនៅខាងលើកម្មវិធីកែសម្រួលសរសេរថា <strong>Missing ffmpeg, ffprobe, yt-dlp. Install with:</strong> ហើយបង្ហាញពាក្យបញ្ជាសម្រាប់ប្រព័ន្ធរបស់អ្នក។ <strong>Settings → About → Tools</strong> បង្ហាញដូចគ្នា ម្តងមួយឧបករណ៍ៗ។</p>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>ប្រព័ន្ធ</th>
+<th>អ្វីដែលត្រូវធ្វើ</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>macOS</td>
+<td>ដំឡើង <a href="https://brew.sh" target="_blank" rel="noreferrer">Homebrew</a> រួចដំណើរការ <code>brew install ffmpeg yt-dlp</code>។</td>
+</tr>
+<tr>
+<td>Windows</td>
+<td>វាមកជាមួយ Kroma ស្រាប់។ បើវាបាត់ សូមដំឡើង Kroma ឡើងវិញ ឬដំណើរការ <code>winget install Gyan.FFmpeg</code> និង <code>winget install yt-dlp.yt-dlp</code>។</td>
+</tr>
+<tr>
+<td>Linux</td>
+<td>វាមកជាមួយ Kroma ស្រាប់។ បើវាបាត់ សូមដំណើរការ <code>sudo apt install ffmpeg yt-dlp</code>។</td>
+</tr>
+</tbody></table></div>
+<p>បើក Kroma ឡើងវិញ បន្ទាប់ពីដំឡើង។ Kroma ស្វែងរកនៅកន្លែងដំឡើងធម្មតា (Homebrew, WinGet, Scoop, Chocolatey, <code>/usr/local/bin</code> និងកន្លែងផ្សេងទៀត) ដូច្នេះអ្នកមិនចាំបាច់ប្តូរការកំណត់ប្រព័ន្ធណាមួយទេ។</p>
+<p>អ្នកក៏អាចឃើញ &quot;ffmpeg is not installed. Install it with: …&quot; (ឬដូចគ្នាសម្រាប់ yt-dlp) ពេលការងារមួយត្រូវការឧបករណ៍នោះ។</p>
+<h2 id="ការទាញយកពីតំណ"><a class="anchor" href="#ការទាញយកពីតំណ" aria-hidden="true">#</a>ការទាញយកពីតំណ</h2><div class="table-wrap"><table>
+<thead>
+<tr>
+<th>សារ</th>
+<th>អ្វីដែលត្រូវធ្វើ</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>&quot;Paste a link that starts with https:// (a share message with a link in it works too).&quot;</td>
+<td>ចម្លងតំណពេញ។ សារចែករំលែកពី Douyin ឬ Bilibili ក៏ប្រើបានដែរ ឱ្យតែវាមានតំណនៅក្នុង។</td>
+</tr>
+<tr>
+<td>&quot;This link isn&#39;t a video page Kroma can download from. Open the video itself and copy its link, or check the site is supported.&quot;</td>
+<td>អ្នកបានចម្លងតំណទៅឆានែល ការស្វែងរក ឬទំព័រដើម។ បើកវីដេអូ ហើយចម្លងតំណរបស់វាផ្ទាល់។</td>
+</tr>
+<tr>
+<td>&quot;This video needs you to be signed in. Choose your browser in Settings → Downloads, sign in to the site there, then try again.&quot;</td>
+<td>ជ្រើសកម្មវិធីរុករករបស់អ្នកក្នុង <a href="/kroma/km/docs/0.1/settings/#downloads">Settings → Downloads</a> ចូលគណនីគេហទំព័រនោះក្នុងកម្មវិធីរុករកនោះ ហើយសាកម្តងទៀត។</td>
+</tr>
+<tr>
+<td>&quot;This video is protected (encrypted), so it can&#39;t be downloaded.&quot;</td>
+<td>វីដេអូនេះប្រើ DRM។ Kroma មិនអាចទាញយកវាបានទេ។</td>
+</tr>
+<tr>
+<td>&quot;The video isn&#39;t available any more (removed, or the link is wrong).&quot;</td>
+<td>ពិនិត្យតំណនោះក្នុងកម្មវិធីរុករករបស់អ្នក។</td>
+</tr>
+<tr>
+<td>&quot;This video isn&#39;t available from your country.&quot;</td>
+<td>គេហទំព័ររារាំងវានៅកន្លែងដែលអ្នកនៅ។</td>
+</tr>
+<tr>
+<td>&quot;The connection failed. Check your internet and try again.&quot;</td>
+<td>ពិនិត្យអ៊ីនធឺណិតរបស់អ្នក ហើយសាកម្តងទៀត។</td>
+</tr>
+<tr>
+<td>&quot;The download finished but no video file was found.&quot;</td>
+<td>សាកម្តងទៀត។ បើវានៅតែកើតឡើង សូមរាយការណ៍ (មើលខាងក្រោម)។</td>
+</tr>
+</tbody></table></div>
+<p>គន្លឹះបន្ថែម៖</p>
+<ul>
+<li><strong>ទទួលបានត្រឹម 720p ឬទាបជាងពី Bilibili?</strong> Bilibili ផ្តល់ 1080p តែពេលអ្នកចូលគណនីប៉ុណ្ណោះ។ ជ្រើសកម្មវិធីរុករករបស់អ្នកក្នុង <strong>Settings → Downloads</strong>។</li>
+<li><strong>ការចូលគណនីពី Safari មិនដំណើរការ?</strong> Safari ត្រូវការ Full Disk Access ផងដែរ៖ macOS <strong>System Settings → Privacy &amp; Security → Full Disk Access</strong> បើក Kroma Studio។</li>
+<li><strong>គេហទំព័រដែលធ្លាប់ដំណើរការ ឈប់ដំណើរការ?</strong> គេហទំព័រផ្លាស់ប្តូរញឹកញាប់។ លើ Windows និង Linux សូមធ្វើបច្ចុប្បន្នភាព Kroma៖ yt-dlp របស់វាត្រូវបានធ្វើបច្ចុប្បន្នភាពជាមួយ។ លើ Mac ដំណើរការ <code>brew upgrade yt-dlp</code>។</li>
+<li>បើទាញយកអក្សររត់របស់គេហទំព័រមិនបាន Kroma បង្ហាញ &quot;Retrying without the site&#39;s subtitles…&quot; ហើយទាញយកវីដេអូដដែល។ អ្នកអាចបង្កើតអក្សររត់ដោយការបំប្លែងសំឡេងទៅជាអក្សរជំនួសវិញ។</li>
+</ul>
+<h2 id="key-ai-និងកម្រិតប្រើប្រាស់"><a class="anchor" href="#key-ai-និងកម្រិតប្រើប្រាស់" aria-hidden="true">#</a>key AI និងកម្រិតប្រើប្រាស់</h2><h3 id="បាត់-key"><a class="anchor" href="#បាត់-key" aria-hidden="true">#</a>បាត់ key</h3><div class="table-wrap"><table>
+<thead>
+<tr>
+<th>សារ</th>
+<th>អ្វីដែលត្រូវធ្វើ</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>&quot;Add your free Gemini key in Settings → Translation, or choose Google Translate there.&quot;</td>
+<td>បន្ថែម key Gemini ឬប្តូរអ្នកបកប្រែទៅ Google Translate។ មើល <a href="/kroma/km/docs/0.1/configuration/">បន្ថែម key របស់អ្នក</a>។</td>
+</tr>
+<tr>
+<td>&quot;Add your Anthropic API key in Settings to translate with Claude.&quot;</td>
+<td>បន្ថែម key Claude ឬជ្រើសអ្នកបកប្រែផ្សេង។</td>
+</tr>
+<tr>
+<td>&quot;Add your free Gemini key in Settings → Translation (speech to text uses it too), or choose Groq in Settings → Speech to Text.&quot;</td>
+<td>ការបំប្លែងសំឡេងទៅជាអក្សរប្រើ Gemini ជាលំនាំដើម។ បន្ថែម key ឬជ្រើស Groq។</td>
+</tr>
+<tr>
+<td>&quot;Add your speech-to-text API key in Settings → Speech to Text (Groq is free to start).&quot;</td>
+<td>បន្ថែម key Groq ឬ OpenAI របស់អ្នក។</td>
+</tr>
+<tr>
+<td>&quot;Writing posts needs an AI: add a free Gemini key (or a Claude key) in Settings → Translation.&quot;</td>
+<td>Google Translate មិនអាចសរសេរការបង្ហោះបានទេ។ បន្ថែម key Gemini ឬ Claude។</td>
+</tr>
+<tr>
+<td>&quot;Finding characters needs your free Gemini key (Settings → Translation) or a Claude key.&quot;</td>
+<td>ដូចខាងលើ។</td>
+</tr>
+</tbody></table></div>
+<h3 id="key-ត្រូវបានបដិសេធ"><a class="anchor" href="#key-ត្រូវបានបដិសេធ" aria-hidden="true">#</a>key ត្រូវបានបដិសេធ</h3><div class="table-wrap"><table>
+<thead>
+<tr>
+<th>សារ</th>
+<th>អ្វីដែលត្រូវធ្វើ</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>&quot;The Gemini API key was refused. Check it in Settings → Translation.&quot;</td>
+<td>ចម្លង key ម្តងទៀតពី Google AI Studio ហើយប្រើ <strong>Replace</strong>។</td>
+</tr>
+<tr>
+<td>&quot;The Anthropic API key was refused. Check it in Settings.&quot;</td>
+<td>ចម្លង key ម្តងទៀតពី Claude console។</td>
+</tr>
+<tr>
+<td>&quot;The speech-to-text API key was refused. Check it in Settings.&quot;</td>
+<td>ចម្លង key Groq ឬ OpenAI របស់អ្នកម្តងទៀត។</td>
+</tr>
+<tr>
+<td>&quot;This Gemini key can&#39;t use that model. Pick another model in Settings → Translation.&quot;</td>
+<td>ជ្រើសម៉ូដែល Flash។</td>
+</tr>
+<tr>
+<td>&quot;That Gemini model isn&#39;t available. Pick another one in Settings → Translation.&quot;</td>
+<td>ជ្រើសម៉ូដែលផ្សេងពីបញ្ជី។</td>
+</tr>
+</tbody></table></div>
+<h3 id="gemini-រវល់-ឬអស់សំណើឥតគិតថ្លៃ"><a class="anchor" href="#gemini-រវល់-ឬអស់សំណើឥតគិតថ្លៃ" aria-hidden="true">#</a>Gemini រវល់ ឬអស់សំណើឥតគិតថ្លៃ</h3><div class="table-wrap"><table>
+<thead>
+<tr>
+<th>សារ</th>
+<th>អត្ថន័យ</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>&quot;Gemini is busy, retrying in … s…&quot;</td>
+<td>ធម្មតាសម្រាប់កម្រិតឥតគិតថ្លៃ។ Kroma រង់ចាំ ហើយសាកម្តងទៀតដោយខ្លួនឯង។</td>
+</tr>
+<tr>
+<td>&quot;Gemini&#39;s free daily limit is reached, using the lighter Flash-Lite model…&quot;</td>
+<td>Kroma បានប្តូរទៅម៉ូដែលស្រាលជាង ដើម្បីបន្តការងារ។</td>
+</tr>
+<tr>
+<td>&quot;Gemini was busy, so … lines used Google Translate.&quot;</td>
+<td>ការងាររួចរាល់ ប៉ុន្តែបន្ទាត់ខ្លះប្រើ Google Translate។ ពេលក្រោយ ចុច <strong>Translate all</strong> ដើម្បីបានពាក្យពេចន៍ល្អជាងរបស់ Gemini។</td>
+</tr>
+<tr>
+<td>&quot;Gemini&#39;s free limit is used up for now. Wait a minute, lower &#39;Parallel requests&#39;, or switch to Google Translate.&quot;</td>
+<td>រង់ចាំ ឬកំណត់ <strong>Parallel requests</strong> ទៅ 2 ក្នុង <a href="/kroma/km/docs/0.1/settings/#speed">Settings → Translation</a>។</td>
+</tr>
+<tr>
+<td>&quot;Gemini&#39;s free daily limit is used up (it resets tomorrow). Switch to Google Translate, or add a Groq key for speech to text.&quot;</td>
+<td>ថ្ងៃនេះប្រើ Google Translate ឬ Claude ហើយប្រើ Groq សម្រាប់ការបំប្លែងសំឡេងទៅជាអក្សរ។</td>
+</tr>
+<tr>
+<td>&quot;Gemini is very busy right now. Try again in a few minutes.&quot;</td>
+<td>ម៉ាស៊ីនមេរបស់ Google ផ្ទុកលើសចំណុះ។ រង់ចាំបន្តិច។</td>
+</tr>
+<tr>
+<td>&quot;Gemini didn&#39;t answer in time (it&#39;s very busy right now).&quot;</td>
+<td>ដូចគ្នា។ សាកម្តងទៀតពេលក្រោយ។</td>
+</tr>
+</tbody></table></div>
+<p>សេវាផ្សេងទៀត៖</p>
+<ul>
+<li>&quot;Claude is rate limiting this key. Lower &#39;parallel requests&#39; in Settings or try again shortly.&quot;</li>
+<li>&quot;Google Translate is busy (too many requests). Try again in a few minutes, or use Gemini.&quot;</li>
+</ul>
+<h3 id="បន្ទាត់ខ្លះមិនទាន់បានបកប្រែ"><a class="anchor" href="#បន្ទាត់ខ្លះមិនទាន់បានបកប្រែ" aria-hidden="true">#</a>បន្ទាត់ខ្លះមិនទាន់បានបកប្រែ</h3><p>&quot;Translated … of … lines&quot; ជាមួយ &quot;… need another try: press &quot;Translate missing&quot;.&quot;។ ចុច <strong>Translate missing</strong> ក្នុងផ្ទាំង <strong>Translate</strong>។ វាផ្ញើតែបន្ទាត់ដែលនៅទទេប៉ុណ្ណោះ។</p>
+<h3 id="no-speech-was-found"><a class="anchor" href="#no-speech-was-found" aria-hidden="true">#</a>&quot;No speech was found.&quot;</h3><p>ការបំប្លែងសំឡេងទៅជាអក្សរ មិនឮអ្វីដែលវាអាចសរសេរបានទេ។ ពិនិត្យថាវីដេអូមានការនិយាយ ហើយ <strong>Spoken language</strong> ក្នុងផ្ទាំង <strong>Translate</strong> ត្រឹមត្រូវ។</p>
+<h2 id="សំឡេង"><a class="anchor" href="#សំឡេង" aria-hidden="true">#</a>សំឡេង</h2><h3 id="can-t-reach-the-voice-engine-at"><a class="anchor" href="#can-t-reach-the-voice-engine-at" aria-hidden="true">#</a>&quot;Can&#39;t reach the voice engine at …&quot;</h3><p>សំឡេងរចនា និងសំឡេងចម្លង ត្រូវការម៉ាស៊ីនសំឡេងឱ្យកំពុងដំណើរការ។ បើក <a href="/kroma/km/docs/0.1/settings/#voice-engine">Settings → Voice Engine</a> ហើយចុច <strong>Start engine</strong> (ឬ <strong>Install voice engine</strong> ជាមុនបើវាថា &quot;Not installed&quot;) រួចចុច <strong>Check</strong>។ បើអ្នកប្រើ Colab សូមទុក notebook ឱ្យដំណើរការ ហើយពិនិត្យអាសយដ្ឋាន។ អាសយដ្ឋាន Colab ប្តូររាល់ពេលអ្នកចាប់ផ្តើម notebook ដូច្នេះសូមបិទភ្ជាប់អាសយដ្ឋានថ្មី។ ឬប្រើសំឡេងរហ័ស ដែលមិនត្រូវការម៉ាស៊ីននេះ។ មើល <a href="/kroma/km/docs/0.1/voice-engine/">ម៉ាស៊ីនសំឡេង</a>។</p>
+<h3 id="the-voice-engine-refused-the-token"><a class="anchor" href="#the-voice-engine-refused-the-token" aria-hidden="true">#</a>&quot;The voice engine refused the token.&quot;</h3><p>ចម្លង token ដែល notebook Colab បោះពុម្ព ទៅក្នុង <strong>Settings → Voice Engine → Token</strong>។</p>
+<h3 id="សំឡេងរហ័សមិនដំណើរការ"><a class="anchor" href="#សំឡេងរហ័សមិនដំណើរការ" aria-hidden="true">#</a>សំឡេងរហ័សមិនដំណើរការ</h3><p>&quot;The voice service didn&#39;t answer. Check your internet and try again.&quot; ឬ &quot;The voice service timed out&quot;។ សំឡេងរហ័សមកពីសេវាអនឡាញ។ ពិនិត្យអ៊ីនធឺណិតរបស់អ្នក ហើយចុច <strong>Make voice-over</strong> ម្តងទៀត។ បន្ទាត់ដែលធ្វើរួចហើយ នៅដដែល។</p>
+<h3 id="voiced-lines-not-done-press-again-to-finish-them"><a class="anchor" href="#voiced-lines-not-done-press-again-to-finish-them" aria-hidden="true">#</a>&quot;Voiced … lines; … not done. Press again to finish them.&quot;</h3><p>ចុចប៊ូតុងសំឡេងបញ្ចូលក្នុងផ្ទាំង <strong>Voice</strong> ម្តងទៀត (ពេលនោះវាសរសេរថា <strong>Voice the … new lines</strong>)។ វាធ្វើតែបន្ទាត់ដែលនៅខ្វះប៉ុណ្ណោះ។</p>
+<h3 id="ខ្ញុំនៅតែឮសំឡេងនិយាយដើម"><a class="anchor" href="#ខ្ញុំនៅតែឮសំឡេងនិយាយដើម" aria-hidden="true">#</a>ខ្ញុំនៅតែឮសំឡេងនិយាយដើម</h3><ul>
+<li>ពិនិត្យថា <strong>Voice → Mix → Remove the original voices</strong> បានបើក។</li>
+<li>ការដកសំឡេងត្រូវការ <a href="/kroma/km/docs/0.1/installation/">uv</a>។ បើគ្មានវា អ្នកឃើញ &quot;Removing voices needs uv. Install it with: …&quot;។ <strong>Settings → About → Tools</strong> បង្ហាញពាក្យបញ្ជាសម្រាប់ប្រព័ន្ធរបស់អ្នក។</li>
+<li>លើកដំបូង Kroma ទាញយកឧបករណ៍ និងម៉ូដែលដកសំឡេង។ វាអាចចំណាយពេលយូរបន្តិច៖ សូមរង់ចាំឱ្យវារួច។</li>
+<li>បើការដកសំឡេងបរាជ័យ Kroma សរសេរថា &quot;The original voices are still in&quot;។ សាកម្តងទៀតពី <strong>Voice → Mix</strong> រួចនាំចេញម្តងទៀត។</li>
+</ul>
+<h3 id="មីក្រូហ្វូនមិនដំណើរការ-mac"><a class="anchor" href="#មីក្រូហ្វូនមិនដំណើរការ-mac" aria-hidden="true">#</a>មីក្រូហ្វូនមិនដំណើរការ (Mac)</h3><p>&quot;Kroma isn&#39;t allowed to use the microphone. Turn it on in System Settings → Privacy &amp; Security → Microphone, then try again.&quot;។ ចុច <strong>Open Microphone settings</strong> បើក Kroma Studio ហើយសាកម្តងទៀត។</p>
+<h2 id="ការនាំចេញ"><a class="anchor" href="#ការនាំចេញ" aria-hidden="true">#</a>ការនាំចេញ</h2><h3 id="ការនាំចេញបរាជ័យ"><a class="anchor" href="#ការនាំចេញបរាជ័យ" aria-hidden="true">#</a>ការនាំចេញបរាជ័យ</h3><p>ពេលការនាំចេញបរាជ័យ Kroma រក្សាទុកព័ត៌មានលម្អិតពេញលេញក្នុងឯកសារឈ្មោះ <code>last-export-error.log</code> នៅក្នុងថតការកំណត់របស់វា៖</p>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>ប្រព័ន្ធ</th>
+<th>ឯកសារ</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>macOS</td>
+<td><code>~/Library/Application Support/Kroma Studio/last-export-error.log</code></td>
+</tr>
+<tr>
+<td>Windows</td>
+<td><code>%APPDATA%\Kroma Studio\last-export-error.log</code></td>
+</tr>
+<tr>
+<td>Linux</td>
+<td><code>~/.config/Kroma Studio/last-export-error.log</code></td>
+</tr>
+</tbody></table></div>
+<p>ការនាំចេញដែលបរាជ័យនីមួយៗ ជំនួសឯកសារនេះ។ ភ្ជាប់វាពេលអ្នក<a href="#ការរាយការណ៍បញ្ហា">រាយការណ៍បញ្ហា</a>។</p>
+<p>អ្វីដែលត្រូវពិនិត្យមុន៖</p>
+<ul>
+<li><strong>&quot;The timeline is empty.&quot;</strong> បន្ថែមវីដេអូទៅលើ timeline។</li>
+<li><strong>វីដេអូ រូបភាព ឬឯកសារសំឡេងត្រូវបានផ្លាស់ទី ឬលុប។</strong> គម្រោងគ្រាន់តែចង្អុលទៅឯកសាររបស់វា។ ដាក់វានៅកន្លែងដើមវិញ។ មើល <a href="/kroma/km/docs/0.1/projects-and-files/#ឯកសារគម្រោង">គម្រោង និងឯកសារ</a>។</li>
+<li><strong>ថាសពេញ។</strong> បង្កើនទំហំទំនេរ ឬ<a href="/kroma/km/docs/0.1/projects-and-files/#បង្កើនទំហំទំនេរ">សម្អាត cache របស់ Kroma</a>។</li>
+<li><strong>&quot;Some lines have no voice yet; they&#39;ll be silent.&quot;</strong> នេះមិនមែនជាកំហុសទេ។ ចុច <strong>Make voice-over</strong> មុនពេលនាំចេញ ដើម្បីបំពេញវា។</li>
+</ul>
+<h3 id="ការនាំចេញយឺត"><a class="anchor" href="#ការនាំចេញយឺត" aria-hidden="true">#</a>ការនាំចេញយឺត</h3><p><strong>High</strong> ចំណាយពេលប្រហែលបីដងនៃ <strong>Standard</strong>។ លើ Mac <strong>Standard</strong> លឿនបំផុត ព្រោះវាប្រើបន្ទះឈីបវីដេអូរបស់ Mac។ មើល <a href="/kroma/km/docs/0.1/export/">នាំចេញ</a>។</p>
+<h2 id="ការបង្ហោះ"><a class="anchor" href="#ការបង្ហោះ" aria-hidden="true">#</a>ការបង្ហោះ</h2><div class="table-wrap"><table>
+<thead>
+<tr>
+<th>សារ</th>
+<th>អ្វីដែលត្រូវធ្វើ</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>&quot;Connect your accounts first&quot; / &quot;Add your Upload-Post API key in Settings → Posting first.&quot;</td>
+<td>បន្ថែម key របស់អ្នកក្នុង <a href="/kroma/km/docs/0.1/settings/#posting">Settings → Posting</a>។</td>
+</tr>
+<tr>
+<td>&quot;Upload-Post refused the API key. Copy it again from app.upload-post.com → API Keys into Settings → Posting.&quot;</td>
+<td>ចម្លង key ម្តងទៀត។</td>
+</tr>
+<tr>
+<td>&quot;This month&#39;s Upload-Post uploads are used up (the free plan has 10). Upgrade the plan or wait for next month.&quot;</td>
+<td>ដំឡើងគម្រោង Upload-Post របស់អ្នក ឬរង់ចាំ។</td>
+</tr>
+<tr>
+<td>&quot;Choose your Facebook Page&quot;</td>
+<td>ជ្រើស Page ក្នុង <strong>Settings → Posting → Facebook Page</strong>។</td>
+</tr>
+<tr>
+<td>&quot;Can&#39;t reach Upload-Post. Check your internet connection.&quot;</td>
+<td>ពិនិត្យអ៊ីនធឺណិតរបស់អ្នក។</td>
+</tr>
+<tr>
+<td>&quot;Upload-Post didn&#39;t answer in time. Check your internet and try again.&quot;</td>
+<td>សាកម្តងទៀត។ Kroma មិនដែលបង្ហោះវីដេអូដដែលពីរដងសម្រាប់ការសាកល្បងមួយទេ។</td>
+</tr>
+<tr>
+<td>&quot;Still processing on the platform. Check it there in a few minutes.&quot;</td>
+<td>ការផ្ទុកឡើងបានជោគជ័យ វេទិកានៅកំពុងរៀបចំវា។ ពិនិត្យ YouTube, Facebook ឬ TikTok ពេលក្រោយ។</td>
+</tr>
+<tr>
+<td>&quot;Stopped following the post. It may still finish on the platforms.&quot;</td>
+<td>អ្នកបានបោះបង់ ខណៈ Kroma កំពុងរង់ចាំ។ ការបង្ហោះអាចនៅតែលេចឡើង។</td>
+</tr>
+</tbody></table></div>
+<p>គណនីដែលសរសេរថា &quot;sign-in expired: press Connect&quot; ក្នុង <strong>Settings → Posting</strong> ត្រូវការឱ្យអ្នកចុច <strong>Connect</strong> ហើយចូលគណនីម្តងទៀត។ TikTok ត្រូវការគម្រោង Basic របស់ Upload-Post។ មើល <a href="/kroma/km/docs/0.1/posting/">ការបង្ហោះ</a>។</p>
+<h2 id="ការធ្វើបច្ចុប្បន្នភាព"><a class="anchor" href="#ការធ្វើបច្ចុប្បន្នភាព" aria-hidden="true">#</a>ការធ្វើបច្ចុប្បន្នភាព</h2><div class="table-wrap"><table>
+<thead>
+<tr>
+<th>សារ</th>
+<th>អ្វីដែលត្រូវធ្វើ</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>&quot;Couldn&#39;t reach GitHub to check for updates.&quot;</td>
+<td>ពិនិត្យអ៊ីនធឺណិតរបស់អ្នក រួច <strong>Settings → About → Check now</strong>។</td>
+</tr>
+<tr>
+<td>&quot;No releases found yet.&quot;</td>
+<td>គ្មានអ្វីត្រូវដំឡើងទេ។ សាកម្តងទៀតពេលក្រោយ។</td>
+</tr>
+<tr>
+<td>&quot;Kroma can&#39;t replace itself in …. Drag the new Kroma Studio from the window that opened into Applications.&quot;</td>
+<td>Mac៖ Kroma មិននៅក្នុងថត Applications របស់អ្នកទេ (ឧទាហរណ៍ អ្នកបានបើកវាពីឯកសារ disk image)។ អូសកម្មវិធីថ្មីទៅក្នុង <strong>Applications</strong> ហើយបើកវាពីទីនោះ។</td>
+</tr>
+<tr>
+<td>&quot;The downloaded update is missing. Check for updates again.&quot;</td>
+<td>ចុច <strong>Check now</strong> ក្នុង <strong>Settings → About</strong>។</td>
+</tr>
+</tbody></table></div>
+<p><strong>មិនឃើញកំណែថ្មីលេចឡើង?</strong> Kroma ពិនិត្យប្រហែល ៨ វិនាទីបន្ទាប់ពីវាចាប់ផ្តើម ហើយបន្ទាប់មករៀងរាល់ ៤ ម៉ោងម្តង។ ចុច <strong>Check now</strong> ដើម្បីពិនិត្យភ្លាម។ បើ <strong>Update automatically</strong> បិទ Kroma គ្រាន់តែប្រាប់អ្នកថាមានកំណែថ្មី៖ ចុច <strong>Download</strong> លើប្រអប់នៅខាងស្តាំខាងក្រោម។ កំណែ 0.1.0 មិនអាចធ្វើបច្ចុប្បន្នភាពដោយខ្លួនឯងបានទេ៖ ដំឡើងកំណែថ្មីជាងនេះដោយដៃម្តង។ មើល <a href="/kroma/km/docs/0.1/updates/">ការធ្វើបច្ចុប្បន្នភាព</a> និង<a href="/kroma/km/docs/0.1/upgrade/">ការណែនាំអំពីការដំឡើងកំណែ</a>។</p>
+<p><strong>Linux <code>.deb</code>៖</strong> កំណែថ្មីបើកក្នុងកម្មវិធីដំឡើងរបស់ប្រព័ន្ធ ហើយសុំពាក្យសម្ងាត់របស់អ្នក។ Kroma មិនអាចបញ្ចប់វាជំនួសអ្នកបានទេ។</p>
+<h2 id="ការរាយការណ៍បញ្ហា"><a class="anchor" href="#ការរាយការណ៍បញ្ហា" aria-hidden="true">#</a>ការរាយការណ៍បញ្ហា</h2><p>បើគ្មានអ្វីខាងលើជួយបាន សូម<a href="https://github.com/Heang-Dev/KROMA.STUDIO/issues" target="_blank" rel="noreferrer">បើក issue នៅលើ GitHub</a>។ បញ្ជាក់៖</p>
+<ol>
+<li>កំណែ Kroma របស់អ្នក៖ <strong>Settings → About</strong> បង្ហាញវា ឧទាហរណ៍ <strong>Kroma Studio 0.1.3</strong>។</li>
+<li>ប្រព័ន្ធរបស់អ្នក៖ macOS, Windows ឬ Linux និងកំណែរបស់វា។</li>
+<li>អ្វីដែលអ្នកបានធ្វើ អ្វីដែលអ្នករំពឹង និងសារពិតប្រាកដដែល Kroma បានបង្ហាញ។</li>
+<li>សម្រាប់បញ្ហានាំចេញ ភ្ជាប់ <code>last-export-error.log</code> (មើល <a href="#ការនាំចេញបរាជ័យ">ការនាំចេញបរាជ័យ</a>)។</li>
+<li>សម្រាប់បញ្ហាទាញយក តំណដែលអ្នកបានប្រើ បើវាជាតំណសាធារណៈ។</li>
+</ol>
+<p>Kroma មិនរក្សាឯកសារកំណត់ហេតុផ្សេងទៀតទេ ដូច្នេះសារនៅលើអេក្រង់ គឺជារបស់មានប្រយោជន៍បំផុតដែលត្រូវចម្លង។</p>
+<p><strong>កុំ</strong>បិទភ្ជាប់ API key របស់អ្នកក្នុង issue ហើយកុំភ្ជាប់ឯកសារ <code>settings.json</code>។</p>
+1a:["$","main",null,{"className":"min-w-0","children":[["$","div",null,{"role":"note","className":"mb-6 flex flex-wrap items-center gap-x-3 gap-y-1 rounded-lg border border-warning/40 bg-warning/10 px-4 py-3 text-[13px]","children":[["$","$L36",null,{"icon":{"name":"triangle-exclamation-point","size":24,"node":[["path",{"d":"m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3","key":"wmoenq"}],["path",{"d":"M12 9v4","key":"juzpu7"}],["path",{"d":"M12 17h.01","key":"p32p05"}]],"aliases":["alert-triangle","triangle-alert"]},"className":"size-4 shrink-0 text-warning"}],["$","span",null,{"children":"អ្នកកំពុងអានឯកសារណែនាំសម្រាប់ Kroma 0.1។ កំណែថ្មីបំផុតគឺ 0.2.x។"}],["$","$L17",null,{"href":"/km/docs/0.2/troubleshooting/","className":"font-medium underline underline-offset-2","children":["ទៅកាន់ឯកសារណែនាំថ្មីបំផុត"," →"]}]]}],[["$","p",null,{"className":"text-[12.5px] font-medium tracking-[0.08em] text-brand uppercase","children":"ឯកសារយោង"}],["$","h1",null,{"className":"mt-2 text-[clamp(28px,4vw,40px)] font-semibold","children":"ដោះស្រាយបញ្ហា"}],["$","div",null,{"className":"docs-prose mt-6","dangerouslySetInnerHTML":{"__html":"$37"}}]],"$L38"]}]
+1b:["$","aside",null,{"className":"hidden xl:sticky xl:top-[84px] xl:block xl:self-start","children":[["$","p",null,{"className":"text-xs tracking-wider text-muted-foreground uppercase","children":"នៅលើទំព័រនេះ"}],["$","$L39",null,{"items":[{"depth":2,"id":"ការដំឡើង-និងការបើក","text":"ការដំឡើង និងការបើក"},{"depth":3,"id":"macos-kroma-studio-is-damaged-ឬបើកមិនឡើង","text":"macOS៖ «Kroma Studio is damaged» ឬបើកមិនឡើង"},{"depth":3,"id":"windows-windows-protected-your-pc","text":"Windows៖ «Windows protected your PC»"},{"depth":3,"id":"linux-appimage-មិនធ្វើអ្វីសោះ","text":"Linux៖ AppImage មិនធ្វើអ្វីសោះ"},{"depth":3,"id":"ខ្ញុំបើក-kroma-ប៉ុន្តែគ្មានវីនដូថ្មីលេចឡើង","text":"ខ្ញុំបើក Kroma ប៉ុន្តែគ្មានវីនដូថ្មីលេចឡើង"},{"depth":2,"id":"បាត់-ffmpeg-ឬ-yt-dlp","text":"បាត់ FFmpeg ឬ yt-dlp"},{"depth":2,"id":"ការទាញយកពីតំណ","text":"ការទាញយកពីតំណ"},{"depth":2,"id":"key-ai-និងកម្រិតប្រើប្រាស់","text":"key AI និងកម្រិតប្រើប្រាស់"},{"depth":3,"id":"បាត់-key","text":"បាត់ key"},{"depth":3,"id":"key-ត្រូវបានបដិសេធ","text":"key ត្រូវបានបដិសេធ"},{"depth":3,"id":"gemini-រវល់-ឬអស់សំណើឥតគិតថ្លៃ","text":"Gemini រវល់ ឬអស់សំណើឥតគិតថ្លៃ"},{"depth":3,"id":"បន្ទាត់ខ្លះមិនទាន់បានបកប្រែ","text":"បន្ទាត់ខ្លះមិនទាន់បានបកប្រែ"},{"depth":3,"id":"no-speech-was-found","text":"\"No speech was found.\""},{"depth":2,"id":"សំឡេង","text":"សំឡេង"},{"depth":3,"id":"can-t-reach-the-voice-engine-at","text":"\"Can't reach the voice engine at …\""},{"depth":3,"id":"the-voice-engine-refused-the-token","text":"\"The voice engine refused the token.\""},{"depth":3,"id":"សំឡេងរហ័សមិនដំណើរការ","text":"សំឡេងរហ័សមិនដំណើរការ"},{"depth":3,"id":"voiced-lines-not-done-press-again-to-finish-them","text":"\"Voiced … lines; … not done. Press again to finish them.\""},{"depth":3,"id":"ខ្ញុំនៅតែឮសំឡេងនិយាយដើម","text":"ខ្ញុំនៅតែឮសំឡេងនិយាយដើម"},{"depth":3,"id":"មីក្រូហ្វូនមិនដំណើរការ-mac","text":"មីក្រូហ្វូនមិនដំណើរការ (Mac)"},{"depth":2,"id":"ការនាំចេញ","text":"ការនាំចេញ"},{"depth":3,"id":"ការនាំចេញបរាជ័យ","text":"ការនាំចេញបរាជ័យ"},{"depth":3,"id":"ការនាំចេញយឺត","text":"ការនាំចេញយឺត"},{"depth":2,"id":"ការបង្ហោះ","text":"ការបង្ហោះ"},{"depth":2,"id":"ការធ្វើបច្ចុប្បន្នភាព","text":"ការធ្វើបច្ចុប្បន្នភាព"},{"depth":2,"id":"ការរាយការណ៍បញ្ហា","text":"ការរាយការណ៍បញ្ហា"}]}]]}]
+1c:["$","$L3a",null,{"children":["$","$22",null,{"name":"Next.MetadataOutlet","children":"$@3b"}]}]
+23:["$","meta","12",{"name":"twitter:title","content":"ដោះស្រាយបញ្ហា · v0.1 · ឯកសារណែនាំ · Kroma Studio"}]
+24:["$","meta","13",{"name":"twitter:description","content":"គ្រប់យ៉ាងអំពី Kroma Studio ចាប់ពីការដំឡើង រហូតដល់ការបង្ហោះវីដេអូរបស់អ្នក។"}]
+25:["$","meta","14",{"name":"twitter:image","content":"https://heang-dev.github.io/kroma/assets/og-docs-km.png"}]
+26:["$","meta","15",{"name":"twitter:image:alt","content":"ឯកសារណែនាំ Kroma Studio"}]
+27:["$","meta","16",{"name":"twitter:image:width","content":"1200"}]
+28:["$","meta","17",{"name":"twitter:image:height","content":"630"}]
+29:["$","link","18",{"rel":"icon","href":"/kroma/assets/kroma-favicon.png"}]
+2a:["$","$L3c","19",{}]
+2b:["$","meta",null,{"name":"next-size-adjust","content":""}]
+3d:I[23051,["$2","$3","$4","$5","$16"],"CodeCopy"]
+b:300
+30:["$","li","voice-library",{"children":["$","$L17",null,{"href":"/km/docs/0.1/voice-library/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"បណ្ណាល័យសំឡេង"}]}]
+31:["$","li","voice-engine",{"children":["$","$L17",null,{"href":"/km/docs/0.1/voice-engine/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"ម៉ាស៊ីនសំឡេង"}]}]
+32:["$","li","voice-cloning",{"children":["$","$L17",null,{"href":"/km/docs/0.1/voice-cloning/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"ការចម្លងសំឡេង"}]}]
+33:["$","div","ការបង្ហោះ",{"children":[["$","p",null,{"className":"mb-1.5 px-2 text-[12px] font-semibold","children":"ការបង្ហោះ"}],["$","ul",null,{"className":"grid list-none gap-0.5 border-l p-0","children":[["$","li","posting",{"children":["$","$L17",null,{"href":"/km/docs/0.1/posting/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"ការបង្ហោះ"}]}]]}]]}]
+34:["$","div","ឯកសារយោង",{"children":[["$","p",null,{"className":"mb-1.5 px-2 text-[12px] font-semibold","children":"ឯកសារយោង"}],["$","ul",null,{"className":"grid list-none gap-0.5 border-l p-0","children":[["$","li","keyboard-shortcuts",{"children":["$","$L17",null,{"href":"/km/docs/0.1/keyboard-shortcuts/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"ផ្លូវកាត់ក្តារចុច"}]}],["$","li","projects-and-files",{"children":["$","$L17",null,{"href":"/km/docs/0.1/projects-and-files/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"គម្រោង និងឯកសារ"}]}],["$","li","settings",{"children":["$","$L17",null,{"href":"/km/docs/0.1/settings/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"ការកំណត់"}]}],["$","li","troubleshooting",{"children":["$","$L17",null,{"href":"/km/docs/0.1/troubleshooting/","aria-current":"page","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors rounded-r-md border-brand bg-brand/10 font-medium text-brand","children":"ដោះស្រាយបញ្ហា"}]}]]}]]}]
+35:["$","div","កំណែនេះ",{"children":[["$","p",null,{"className":"mb-1.5 px-2 text-[12px] font-semibold","children":"កំណែនេះ"}],["$","ul",null,{"className":"grid list-none gap-0.5 border-l p-0","children":[["$","li","release-notes",{"children":["$","$L17",null,{"href":"/km/docs/0.1/release-notes/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"កំណត់ចំណាំកំណែ"}]}],["$","li","upgrade",{"children":["$","$L17",null,{"href":"/km/docs/0.1/upgrade/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"ការណែនាំអំពីការដំឡើងកំណែ"}]}]]}]]}]
+38:[["$","$L3d",null,{"copy":"ចម្លង","copied":"បានចម្លង"}],["$","div",null,{"className":"mt-14 grid gap-3 border-t pt-6 sm:grid-cols-2","children":[["$","$L17",null,{"href":"/km/docs/0.1/settings/","className":"group rounded-lg border p-4 no-underline hover:bg-accent/50","children":[["$","span",null,{"className":"flex items-center gap-1.5 text-xs text-muted-foreground","children":[["$","$L36",null,{"icon":{"name":"arrow-left","size":24,"node":[["path",{"d":"m12 19-7-7 7-7","key":"1l729n"}],["path",{"d":"M19 12H5","key":"x3x0zl"}]]},"className":"size-3.5"}]," ","មុន"]}],["$","span",null,{"className":"mt-1 block text-[14px] font-medium","children":"ការកំណត់"}]]}],["$","$L17",null,{"href":"/km/docs/0.1/release-notes/","className":"group rounded-lg border p-4 text-right no-underline hover:bg-accent/50","children":[["$","span",null,{"className":"flex items-center justify-end gap-1.5 text-xs text-muted-foreground","children":["បន្ទាប់"," ",["$","$L36",null,{"icon":{"name":"arrow-right","size":24,"node":[["path",{"d":"M5 12h14","key":"1ays0h"}],["path",{"d":"m12 5 7 7-7 7","key":"xquz4c"}]]},"className":"size-3.5"}]]}],["$","span",null,{"className":"mt-1 block text-[14px] font-medium","children":"កំណត់ចំណាំកំណែ"}]]}]]}],["$","a",null,{"href":"https://github.com/Heang-Dev/KROMA.STUDIO/edit/main/website/content/docs/0.1/km/troubleshooting.md","target":"_blank","rel":"noreferrer","className":"mt-6 inline-flex items-center gap-1.5 text-[13px] text-muted-foreground no-underline hover:text-foreground","children":[["$","$L36",null,{"icon":{"name":"pencil","size":24,"node":[["path",{"d":"M21.174 6.812a1 1 0 0 0-3.986-3.987L3.842 16.174a2 2 0 0 0-.5.83l-1.321 4.352a.5.5 0 0 0 .623.622l4.353-1.32a2 2 0 0 0 .83-.497z","key":"1a8usu"}],["path",{"d":"m15 5 4 4","key":"1mk7zo"}]]},"className":"size-3.5"}]," ","កែទំព័រនេះនៅលើ GitHub"]}]]
+3b:null
+2e:true
+b:C
+2d:0
+14:"$undefined"
+11:"$undefined"
+f:"$undefined"
+d:"$undefined"
+a:"$undefined"
+2c:"$undefined"
+1d:"$undefined"

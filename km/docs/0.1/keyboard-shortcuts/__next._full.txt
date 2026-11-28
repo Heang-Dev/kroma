@@ -1,0 +1,293 @@
+1:"$Sreact.fragment"
+3:"/kroma/_next/static/chunks/04vt5_qdxg31o.js"
+4:"/kroma/_next/static/chunks/0w3ftlzy945zl.js"
+5:"/kroma/_next/static/chunks/2m9t-wks40qyw.js"
+6:"/kroma/_next/static/chunks/1a4ohd0pkdhou.js"
+7:I[39756,["$3","$4","$5","$6"],"default"]
+8:I[37457,["$3","$4","$5","$6"],"default"]
+11:I[97367,["$3","$4","$5","$6"],"OutletBoundary"]
+12:"$Sreact.suspense"
+14:"ViewportBoundary"
+15:I[97367,["$3","$4","$5","$6"],"$14"]
+17:"MetadataBoundary"
+18:I[97367,["$3","$4","$5","$6"],"$17"]
+1a:I[68027,["$3","$4","$5","$6"],"default",1]
+:HL["/kroma/_next/static/chunks/3kygz3hykdx6f.css","style"]
+:HL["/kroma/_next/static/media/07a39a8a4660cc7c-s.p.0r6juujl39pe6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/kroma/_next/static/media/ac3f6c3e4821ab39-s.p.3dytz707x2doa.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/kroma/_next/static/media/ecc70a8daf50308c-s.p.2wf6rvog29rnd.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+d:X
+f:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":["$L10",null,["$","$L11",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]]}],"p":false,"v":null}}]]
+e:[["children",{"s":{"n":"slug","t":"d","k":"keyboard-shortcuts","s":[]},"h":66048,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$d"},"c":"$Qf"}]]
+c:[["children",{"s":{"n":"version","t":"d","k":"0.1","s":[]},"h":197120,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$d"},"c":"$Qe"}]]
+b:[["children",{"s":"docs","h":131584,"d":{"r":["$","$1","c",{"children":[[["$","script","script-0",{"src":"/kroma/_next/static/chunks/2ffur98r21h0b.js","async":true,"nonce":"$undefined"}]],["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":null},"c":"$Qc"}]]
+a:[["children",{"s":"km","h":131584,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":null},"c":"$Qb"}]]
+0:{"P":null,"c":["","km","docs","0.1","keyboard-shortcuts",""],"q":"","i":false,"t":{"t":{"s":"","h":131600,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/kroma/_next/static/chunks/3kygz3hykdx6f.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/kroma/_next/static/chunks/04vt5_qdxg31o.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/kroma/_next/static/chunks/0w3ftlzy945zl.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/kroma/_next/static/chunks/2m9t-wks40qyw.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/kroma/_next/static/chunks/1a4ohd0pkdhou.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"z61v7q_variable -suo1a_variable","suppressHydrationWarning":true,"children":[["$","head",null,{"children":["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(a){try{let b=document.documentElement,c=location.pathname.slice(a.length)||\"/\",d=\"/km\"===c||c.startsWith(\"/km/\");b.lang=d?\"km\":\"en\";let e=localStorage.getItem(\"kroma-theme\");b.classList.toggle(\"dark\",e?\"dark\"===e:matchMedia(\"(prefers-color-scheme: dark)\").matches);let f=localStorage.getItem(\"kroma-lang\"),g=!1;try{let b=new URL(document.referrer);g=b.origin===location.origin&&(b.pathname+\"/\").startsWith(a+\"/\")}catch{}if(!f||g)return;let h=location.search+location.hash;\"km\"!==f||d?\"en\"===f&&d&&location.replace(a+(c.slice(3)||\"/\")+h):location.replace(a+\"/km\"+(\"/\"===c?\"/\":c)+h)}catch{}})(\"/kroma\")"}}]}],["$","body",null,{"className":"flex min-h-svh flex-col","children":["$L2",["$","div",null,{"className":"flex-1","children":["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],"$L9"]}]]}]]}],"p":false,"v":null},"c":"$Qa"},"h":{"r":["$","$1","h",{"children":[null,["$","$L15",null,{"children":"$L16"}],["$","$L18",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$12",null,{"name":"Next.Metadata","children":"$L19"}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":false,"v":null}},"m":"$undefined","G":["$1a",[["$","link","0",{"rel":"stylesheet","href":"/kroma/_next/static/chunks/3kygz3hykdx6f.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"Hf2A-8s-tskzwG8lj9Zm4"}
+1b:I[19738,["$3","$4","$5","$6"],"HeaderBar"]
+1c:I[19738,["$3","$4","$5","$6"],"FooterBar"]
+d:C
+2:["$","$L1b",null,{"stars":0}]
+9:["$","$L1c",null,{"latest":{"version":"0.2.3","date":"2026-11-28T09:36:49Z"}}]
+1d:"/kroma/_next/static/chunks/2ffur98r21h0b.js"
+1e:I[22016,["$3","$4","$5","$6","$1d"],""]
+1f:I[32016,["$3","$4","$5","$6","$1d"],"VersionPicker"]
+20:I[45613,["$3","$4","$5","$6","$1d"],"DocsNavToggle"]
+10:["$","div",null,{"className":"mx-auto w-[min(1280px,100%-32px)] grid grid-cols-1 gap-6 pt-6 pb-10 lg:gap-10 lg:pt-10 lg:grid-cols-[230px_1fr] xl:grid-cols-[230px_1fr_200px]","children":[["$","aside",null,{"className":"lg:sticky lg:top-[84px] lg:max-h-[calc(100vh-100px)] lg:self-start lg:overflow-y-auto lg:pr-2","children":[["$","$L1e",null,{"href":"/km/docs/0.1/","className":"mb-3 block text-xs tracking-wider text-muted-foreground uppercase no-underline hover:text-foreground","children":"ឯកសារណែនាំ"}],["$","$L1f",null,{"versions":[{"version":"0.2","label":"0.2.x","released":"2026-11-28"},{"version":"0.1","label":"0.1.x","released":"2026-11-27"}],"current":"0.1","slug":"keyboard-shortcuts","slugsByVersion":{"0.2":["installation","configuration","updates","the-editor","first-video","downloading","subtitles","translation","style-and-objects","export","batch","characters-and-voices","voice-library","voice-engine","voice-cloning","story","posting","keyboard-shortcuts","projects-and-files","settings","notifications","troubleshooting","release-notes","upgrade"],"0.1":["installation","configuration","updates","the-editor","first-video","downloading","subtitles","translation","style-and-objects","export","characters-and-voices","voice-library","voice-engine","voice-cloning","posting","keyboard-shortcuts","projects-and-files","settings","troubleshooting","release-notes","upgrade"]},"lang":"km","latestLabel":"ថ្មីបំផុត"}],["$","$L20",null,{"current":"ផ្លូវកាត់ក្តារចុច","label":"ឯកសារណែនាំ","children":["$","nav",null,{"aria-label":"ឯកសារណែនាំ","className":"mt-5 grid gap-5","children":[["$","div","ចាប់ផ្តើម",{"children":[["$","p",null,{"className":"mb-1.5 px-2 text-[12px] font-semibold","children":"ចាប់ផ្តើម"}],["$","ul",null,{"className":"grid list-none gap-0.5 border-l p-0","children":[["$","li","installation",{"children":["$","$L1e",null,{"href":"/km/docs/0.1/installation/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"ការដំឡើង"}]}],["$","li","configuration",{"children":["$","$L1e",null,{"href":"/km/docs/0.1/configuration/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"បន្ថែម key របស់អ្នក"}]}],["$","li","updates",{"children":["$","$L1e",null,{"href":"/km/docs/0.1/updates/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"ការធ្វើបច្ចុប្បន្នភាព"}]}],["$","li","the-editor",{"children":["$","$L1e",null,{"href":"/km/docs/0.1/the-editor/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"កម្មវិធីកែ"}]}]]}]]}],["$","div","ការធ្វើវីដេអូ",{"children":[["$","p",null,{"className":"mb-1.5 px-2 text-[12px] font-semibold","children":"ការធ្វើវីដេអូ"}],["$","ul",null,{"className":"grid list-none gap-0.5 border-l p-0","children":[["$","li","first-video",{"children":["$","$L1e",null,{"href":"/km/docs/0.1/first-video/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"វីដេអូដំបូងរបស់អ្នក"}]}],["$","li","downloading",{"children":["$","$L1e",null,{"href":"/km/docs/0.1/downloading/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"ការទាញយកវីដេអូ"}]}],"$L21","$L22","$L23","$L24"]}]]}],"$L25","$L26","$L27","$L28"]}]}]]}],"$L29","$L2a"]}]
+2b:I[5014,["$3","$4","$5","$6","$1d"],"default"]
+2e:I[51896,["$3","$4","$5","$6","$1d"],"DocsToc"]
+21:["$","li","subtitles",{"children":["$","$L1e",null,{"href":"/km/docs/0.1/subtitles/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"អក្សររត់"}]}]
+22:["$","li","translation",{"children":["$","$L1e",null,{"href":"/km/docs/0.1/translation/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"ការបកប្រែ"}]}]
+23:["$","li","style-and-objects",{"children":["$","$L1e",null,{"href":"/km/docs/0.1/style-and-objects/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"រចនាប័ទ្ម និងវត្ថុ"}]}]
+24:["$","li","export",{"children":["$","$L1e",null,{"href":"/km/docs/0.1/export/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"នាំចេញ"}]}]
+25:["$","div","សំឡេង",{"children":[["$","p",null,{"className":"mb-1.5 px-2 text-[12px] font-semibold","children":"សំឡេង"}],["$","ul",null,{"className":"grid list-none gap-0.5 border-l p-0","children":[["$","li","characters-and-voices",{"children":["$","$L1e",null,{"href":"/km/docs/0.1/characters-and-voices/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"តួអង្គ និងសំឡេង"}]}],["$","li","voice-library",{"children":["$","$L1e",null,{"href":"/km/docs/0.1/voice-library/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"បណ្ណាល័យសំឡេង"}]}],["$","li","voice-engine",{"children":["$","$L1e",null,{"href":"/km/docs/0.1/voice-engine/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"ម៉ាស៊ីនសំឡេង"}]}],["$","li","voice-cloning",{"children":["$","$L1e",null,{"href":"/km/docs/0.1/voice-cloning/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"ការចម្លងសំឡេង"}]}]]}]]}]
+26:["$","div","ការបង្ហោះ",{"children":[["$","p",null,{"className":"mb-1.5 px-2 text-[12px] font-semibold","children":"ការបង្ហោះ"}],["$","ul",null,{"className":"grid list-none gap-0.5 border-l p-0","children":[["$","li","posting",{"children":["$","$L1e",null,{"href":"/km/docs/0.1/posting/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"ការបង្ហោះ"}]}]]}]]}]
+27:["$","div","ឯកសារយោង",{"children":[["$","p",null,{"className":"mb-1.5 px-2 text-[12px] font-semibold","children":"ឯកសារយោង"}],["$","ul",null,{"className":"grid list-none gap-0.5 border-l p-0","children":[["$","li","keyboard-shortcuts",{"children":["$","$L1e",null,{"href":"/km/docs/0.1/keyboard-shortcuts/","aria-current":"page","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors rounded-r-md border-brand bg-brand/10 font-medium text-brand","children":"ផ្លូវកាត់ក្តារចុច"}]}],["$","li","projects-and-files",{"children":["$","$L1e",null,{"href":"/km/docs/0.1/projects-and-files/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"គម្រោង និងឯកសារ"}]}],["$","li","settings",{"children":["$","$L1e",null,{"href":"/km/docs/0.1/settings/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"ការកំណត់"}]}],["$","li","troubleshooting",{"children":["$","$L1e",null,{"href":"/km/docs/0.1/troubleshooting/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"ដោះស្រាយបញ្ហា"}]}]]}]]}]
+28:["$","div","កំណែនេះ",{"children":[["$","p",null,{"className":"mb-1.5 px-2 text-[12px] font-semibold","children":"កំណែនេះ"}],["$","ul",null,{"className":"grid list-none gap-0.5 border-l p-0","children":[["$","li","release-notes",{"children":["$","$L1e",null,{"href":"/km/docs/0.1/release-notes/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"កំណត់ចំណាំកំណែ"}]}],["$","li","upgrade",{"children":["$","$L1e",null,{"href":"/km/docs/0.1/upgrade/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"ការណែនាំអំពីការដំឡើងកំណែ"}]}]]}]]}]
+2c:T2d4e,<p>ផ្លូវកាត់ក្តារចុចទាំងអស់នៅក្នុង Kroma Studio នៅកន្លែងតែមួយ។ លើ Mac អ្នកប្រើគ្រាប់ចុច <strong>⌘</strong> (Command)។ លើ Windows និង Linux អ្នកប្រើ <strong>Ctrl</strong> ជំនួសវិញ។ បើគ្រាប់ចុចដូចគ្នាលើគ្រប់ប្រព័ន្ធ តារាងបង្ហាញវាតែម្តង។</p>
+<p>អ្នកក៏អាចមើលផ្លូវកាត់របស់កម្មវិធីកែសម្រួលនៅក្នុងកម្មវិធីផ្ទាល់បានដែរ៖ បើក <strong>Settings → Shortcuts</strong>។ លើ Windows និង Linux បញ្ជីនោះ និងស្លាកពន្យល់លើប៊ូតុង បង្ហាញ <strong>Ctrl</strong> និង <strong>Shift</strong> ជំនួសនិមិត្តសញ្ញារបស់ Mac រួចស្រេច។</p>
+<h2 id="របៀបអានគ្រាប់ចុច"><a class="anchor" href="#របៀបអានគ្រាប់ចុច" aria-hidden="true">#</a>របៀបអានគ្រាប់ចុច</h2><div class="table-wrap"><table>
+<thead>
+<tr>
+<th>និមិត្តសញ្ញា</th>
+<th>គ្រាប់ចុចលើ Mac</th>
+<th>គ្រាប់ចុចលើ Windows / Linux</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>⌘</td>
+<td>Command</td>
+<td>Ctrl</td>
+</tr>
+<tr>
+<td>⇧</td>
+<td>Shift</td>
+<td>Shift</td>
+</tr>
+<tr>
+<td>⌥</td>
+<td>Option</td>
+<td>Alt</td>
+</tr>
+<tr>
+<td>⌫</td>
+<td>Delete (លុបថយក្រោយ)</td>
+<td>Backspace</td>
+</tr>
+</tbody></table></div>
+<h2 id="គម្រោង"><a class="anchor" href="#គម្រោង" aria-hidden="true">#</a>គម្រោង</h2><p>ផ្លូវកាត់ទាំងនេះដំណើរការគ្រប់ទីកន្លែងក្នុងកម្មវិធីកែសម្រួល សូម្បីតែពេលអ្នកកំពុងវាយអក្សរក្នុងប្រអប់អត្ថបទក៏ដោយ។</p>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>សកម្មភាព</th>
+<th>macOS</th>
+<th>Windows / Linux</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>គម្រោងថ្មី</td>
+<td>⌘N</td>
+<td>Ctrl+N</td>
+</tr>
+<tr>
+<td>បើកគម្រោង</td>
+<td>⌘O</td>
+<td>Ctrl+O</td>
+</tr>
+<tr>
+<td>រក្សាទុកគម្រោង</td>
+<td>⌘S</td>
+<td>Ctrl+S</td>
+</tr>
+<tr>
+<td>រក្សាទុកគម្រោងជាឯកសារថ្មី</td>
+<td>⇧⌘S</td>
+<td>Ctrl+Shift+S</td>
+</tr>
+<tr>
+<td>បើក Settings</td>
+<td>⌘,</td>
+<td>Ctrl+,</td>
+</tr>
+</tbody></table></div>
+<p><strong>Save project</strong> រក្សាទុកទៅក្នុងឯកសាររបស់គម្រោង។ លើកដំបូង វាសួរថាត្រូវរក្សាទុកនៅឯណា។ <strong>រក្សាទុកជាឯកសារថ្មី</strong> សួររាល់ពេល ដូច្នេះអ្នកអាចរក្សាច្បាប់ចម្លងមួយក្រោមឈ្មោះថ្មី។ មើល <a href="/kroma/km/docs/0.1/projects-and-files/#ការរក្សាទុក">គម្រោង និងឯកសារ</a>។</p>
+<h2 id="ការកែសម្រួល"><a class="anchor" href="#ការកែសម្រួល" aria-hidden="true">#</a>ការកែសម្រួល</h2><div class="table-wrap"><table>
+<thead>
+<tr>
+<th>សកម្មភាព</th>
+<th>macOS</th>
+<th>Windows / Linux</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>មិនធ្វើវិញ (Undo)</td>
+<td>⌘Z</td>
+<td>Ctrl+Z</td>
+</tr>
+<tr>
+<td>ធ្វើវិញ (Redo)</td>
+<td>⇧⌘Z</td>
+<td>Ctrl+Shift+Z</td>
+</tr>
+<tr>
+<td>កាត់ឃ្លីបនៅត្រង់ playhead</td>
+<td>S</td>
+<td>S</td>
+</tr>
+<tr>
+<td>លុបឃ្លីប បន្ទាត់អក្សររត់ ឬវត្ថុដែលបានជ្រើស</td>
+<td>⌫ ឬ Delete</td>
+<td>Backspace ឬ Delete</td>
+</tr>
+<tr>
+<td>លែងជ្រើស</td>
+<td>Esc</td>
+<td>Esc</td>
+</tr>
+</tbody></table></div>
+<p>Undo ចងចាំការផ្លាស់ប្តូរ ១០០ ចុងក្រោយរបស់អ្នក។ ការបើក ឬចាប់ផ្តើមគម្រោងមួយ លុបប្រវត្តិនោះចោល។</p>
+<h2 id="ការចាក់"><a class="anchor" href="#ការចាក់" aria-hidden="true">#</a>ការចាក់</h2><div class="table-wrap"><table>
+<thead>
+<tr>
+<th>សកម្មភាព</th>
+<th>macOS</th>
+<th>Windows / Linux</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>ចាក់ / ផ្អាក</td>
+<td>Space</td>
+<td>Space</td>
+</tr>
+<tr>
+<td>ថយក្រោយមួយហ្វ្រេម</td>
+<td>←</td>
+<td>←</td>
+</tr>
+<tr>
+<td>ទៅមុខមួយហ្វ្រេម</td>
+<td>→</td>
+<td>→</td>
+</tr>
+<tr>
+<td>ថយក្រោយ ៥ វិនាទី</td>
+<td>⇧←</td>
+<td>Shift+←</td>
+</tr>
+<tr>
+<td>ទៅមុខ ៥ វិនាទី</td>
+<td>⇧→</td>
+<td>Shift+→</td>
+</tr>
+</tbody></table></div>
+<p>Space ចាក់បាន តែពេលមានវីដេអូនៅលើ timeline ប៉ុណ្ណោះ។ មួយហ្វ្រេមស្មើនឹង ១/៣០ វិនាទី។</p>
+<h2 id="timeline"><a class="anchor" href="#timeline" aria-hidden="true">#</a>Timeline</h2><div class="table-wrap"><table>
+<thead>
+<tr>
+<th>សកម្មភាព</th>
+<th>macOS</th>
+<th>Windows / Linux</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>ពង្រីក ឬបង្រួម timeline ជុំវិញទស្សន៍ទ្រនិច</td>
+<td>⌘ + រំកិល ឬច្បិចលើ trackpad</td>
+<td>Ctrl + រំកិល</td>
+</tr>
+<tr>
+<td>ផ្លាស់ទី playhead</td>
+<td>ចុច ឬអូសក្នុង timeline</td>
+<td>ចុច ឬអូសក្នុង timeline</td>
+</tr>
+</tbody></table></div>
+<p>ប៊ូតុងខាងលើ timeline ក៏ពង្រីកបង្រួមបានដែរ (<strong>Zoom in</strong>, <strong>Zoom out</strong>, <strong>Fit the whole video</strong>)។</p>
+<h2 id="ផ្ទាំង"><a class="anchor" href="#ផ្ទាំង" aria-hidden="true">#</a>ផ្ទាំង</h2><p>អ្នកអាចប្តូរទំហំផ្ទាំងឧបករណ៍ បញ្ជីអក្សររត់ និង timeline ដោយអូសគែមរបស់វា។ គែមនីមួយៗក៏ប្រើពីក្តារចុចបានដែរ៖</p>
+<ol>
+<li>ចុច Tab រហូតដល់គែមដែលអ្នកចង់បានត្រូវបានរំលេច។</li>
+<li>ប្រើគ្រាប់ចុចព្រួញ ដើម្បីធ្វើឱ្យផ្ទាំងធំ ឬតូចជាងមុន (១៦ ភីកសែលក្នុងមួយចុច)។</li>
+<li>ចុចពីរដងលើគែម ដើម្បីដាក់ផ្ទាំងនោះមកទំហំធម្មតាវិញ។</li>
+</ol>
+<h2 id="ទំហំផ្ទៃកម្មវិធី-និងផ្ទាំងវីនដូ"><a class="anchor" href="#ទំហំផ្ទៃកម្មវិធី-និងផ្ទាំងវីនដូ" aria-hidden="true">#</a>ទំហំផ្ទៃកម្មវិធី និងផ្ទាំងវីនដូ</h2><div class="table-wrap"><table>
+<thead>
+<tr>
+<th>សកម្មភាព</th>
+<th>macOS</th>
+<th>Windows / Linux</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>ផ្ទៃកម្មវិធីធំជាងមុន</td>
+<td>⌘+ ឬ ⌘=</td>
+<td>Ctrl+ + ឬ Ctrl+=</td>
+</tr>
+<tr>
+<td>ផ្ទៃកម្មវិធីតូចជាងមុន</td>
+<td>⌘−</td>
+<td>Ctrl+−</td>
+</tr>
+<tr>
+<td>ផ្ទៃកម្មវិធី 100%</td>
+<td>⌘0</td>
+<td>Ctrl+0</td>
+</tr>
+<tr>
+<td>វីនដូថ្មី</td>
+<td>⇧⌘N</td>
+<td>Ctrl+Shift+N</td>
+</tr>
+<tr>
+<td>បិទវីនដូ</td>
+<td>⌘W</td>
+<td>Ctrl+W</td>
+</tr>
+<tr>
+<td>បង្រួមវីនដូ</td>
+<td>⌘M</td>
+<td>Ctrl+M</td>
+</tr>
+<tr>
+<td>បើក / បិទពេញអេក្រង់</td>
+<td>Control+⌘F</td>
+<td>F11</td>
+</tr>
+<tr>
+<td>ចេញពី Kroma</td>
+<td>⌘Q</td>
+<td><strong>File → Exit</strong></td>
+</tr>
+</tbody></table></div>
+<p>ទំហំផ្ទៃកម្មវិធីប្តូរនៅគ្រប់វីនដូដែលកំពុងបើក។ វាឡើងចុះជាជំហាន 70%, 80%, 90%, 100%, 110%, 125% និង 140% ហើយមានសារខ្លីបង្ហាញទំហំថ្មី។ អ្នកក៏អាចជ្រើសទំហំនៅក្នុង <a href="/kroma/km/docs/0.1/settings/#appearance">Settings → Appearance</a> បានដែរ។</p>
+<h2 id="នៅក្នុង-settings"><a class="anchor" href="#នៅក្នុង-settings" aria-hidden="true">#</a>នៅក្នុង Settings</h2><div class="table-wrap"><table>
+<thead>
+<tr>
+<th>សកម្មភាព</th>
+<th>macOS</th>
+<th>Windows / Linux</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>ស្វែងរកការកំណត់</td>
+<td>⌘F</td>
+<td>Ctrl+F</td>
+</tr>
+<tr>
+<td>បើកលទ្ធផលស្វែងរកទីមួយ</td>
+<td>Enter</td>
+<td>Enter</td>
+</tr>
+<tr>
+<td>សម្អាតការស្វែងរក ឬត្រឡប់ទៅកម្មវិធីកែសម្រួល</td>
+<td>Esc</td>
+<td>Esc</td>
+</tr>
+</tbody></table></div>
+<p>ចុច Esc ម្តង ដើម្បីសម្អាតអ្វីដែលអ្នកបានវាយក្នុងប្រអប់ស្វែងរក ហើយចុចម្តងទៀត ដើម្បីត្រឡប់ទៅកម្មវិធីកែសម្រួល។</p>
+<h2 id="ប្រអប់អត្ថបទ"><a class="anchor" href="#ប្រអប់អត្ថបទ" aria-hidden="true">#</a>ប្រអប់អត្ថបទ</h2><p>ពេលអ្នកវាយក្នុងប្រអប់អត្ថបទ (បន្ទាត់អក្សររត់ ឈ្មោះគម្រោង ឬការបង្ហោះ) គ្រាប់ចុចអត្ថបទធម្មតាដំណើរការ៖ ចម្លង កាត់ បិទភ្ជាប់ ជ្រើសទាំងអស់ និង undo ឬ redo <strong>នៅក្នុងប្រអប់នោះ</strong>។ ផ្លូវកាត់គ្រាប់ចុចតែមួយរបស់កម្មវិធីកែសម្រួល (Space, S, Delete, ព្រួញ) ត្រូវបានបិទពេលអ្នកវាយ ដូច្នេះវាមិនរំខានការសរសេររបស់អ្នកទេ។ ចុចនៅខាងក្រៅប្រអប់ ឬចុច Tab ដើម្បីប្រើវាវិញ។</p>
+<p>ផ្លូវកាត់របស់កម្មវិធីកែសម្រួលក៏ផ្អាកដែរ ពេលម៉ឺនុយ ឬប្រអប់សន្ទនាកំពុងបើក និងពេលអ្នកនៅទំព័រ Settings ឬ Voices។</p>
+29:["$","main",null,{"className":"min-w-0","children":[["$","div",null,{"role":"note","className":"mb-6 flex flex-wrap items-center gap-x-3 gap-y-1 rounded-lg border border-warning/40 bg-warning/10 px-4 py-3 text-[13px]","children":[["$","$L2b",null,{"ref":"$undefined","icon":{"name":"triangle-exclamation-point","size":24,"node":[["path",{"d":"m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3","key":"wmoenq"}],["path",{"d":"M12 9v4","key":"juzpu7"}],["path",{"d":"M12 17h.01","key":"p32p05"}]],"aliases":["alert-triangle","triangle-alert"]},"className":"size-4 shrink-0 text-warning"}],["$","span",null,{"children":"អ្នកកំពុងអានឯកសារណែនាំសម្រាប់ Kroma 0.1។ កំណែថ្មីបំផុតគឺ 0.2.x។"}],["$","$L1e",null,{"href":"/km/docs/0.2/keyboard-shortcuts/","className":"font-medium underline underline-offset-2","children":["ទៅកាន់ឯកសារណែនាំថ្មីបំផុត"," →"]}]]}],[["$","p",null,{"className":"text-[12.5px] font-medium tracking-[0.08em] text-brand uppercase","children":"ឯកសារយោង"}],["$","h1",null,{"className":"mt-2 text-[clamp(28px,4vw,40px)] font-semibold","children":"ផ្លូវកាត់ក្តារចុច"}],["$","div",null,{"className":"docs-prose mt-6","dangerouslySetInnerHTML":{"__html":"$2c"}}]],"$L2d"]}]
+2a:["$","aside",null,{"className":"hidden xl:sticky xl:top-[84px] xl:block xl:self-start","children":[["$","p",null,{"className":"text-xs tracking-wider text-muted-foreground uppercase","children":"នៅលើទំព័រនេះ"}],["$","$L2e",null,{"items":[{"depth":2,"id":"របៀបអានគ្រាប់ចុច","text":"របៀបអានគ្រាប់ចុច"},{"depth":2,"id":"គម្រោង","text":"គម្រោង"},{"depth":2,"id":"ការកែសម្រួល","text":"ការកែសម្រួល"},{"depth":2,"id":"ការចាក់","text":"ការចាក់"},{"depth":2,"id":"timeline","text":"Timeline"},{"depth":2,"id":"ផ្ទាំង","text":"ផ្ទាំង"},{"depth":2,"id":"ទំហំផ្ទៃកម្មវិធី-និងផ្ទាំងវីនដូ","text":"ទំហំផ្ទៃកម្មវិធី និងផ្ទាំងវីនដូ"},{"depth":2,"id":"នៅក្នុង-settings","text":"នៅក្នុង Settings"},{"depth":2,"id":"ប្រអប់អត្ថបទ","text":"ប្រអប់អត្ថបទ"}]}]]}]
+2f:I[23051,["$3","$4","$5","$6","$1d"],"CodeCopy"]
+2d:[["$","$L2f",null,{"copy":"ចម្លង","copied":"បានចម្លង"}],["$","div",null,{"className":"mt-14 grid gap-3 border-t pt-6 sm:grid-cols-2","children":[["$","$L1e",null,{"href":"/km/docs/0.1/posting/","className":"group rounded-lg border p-4 no-underline hover:bg-accent/50","children":[["$","span",null,{"className":"flex items-center gap-1.5 text-xs text-muted-foreground","children":[["$","$L2b",null,{"ref":"$undefined","icon":{"name":"arrow-left","size":24,"node":[["path",{"d":"m12 19-7-7 7-7","key":"1l729n"}],["path",{"d":"M19 12H5","key":"x3x0zl"}]]},"className":"size-3.5"}]," ","មុន"]}],["$","span",null,{"className":"mt-1 block text-[14px] font-medium","children":"ការបង្ហោះ"}]]}],["$","$L1e",null,{"href":"/km/docs/0.1/projects-and-files/","className":"group rounded-lg border p-4 text-right no-underline hover:bg-accent/50","children":[["$","span",null,{"className":"flex items-center justify-end gap-1.5 text-xs text-muted-foreground","children":["បន្ទាប់"," ",["$","$L2b",null,{"ref":"$undefined","icon":{"name":"arrow-right","size":24,"node":[["path",{"d":"M5 12h14","key":"1ays0h"}],["path",{"d":"m12 5 7 7-7 7","key":"xquz4c"}]]},"className":"size-3.5"}]]}],["$","span",null,{"className":"mt-1 block text-[14px] font-medium","children":"គម្រោង និងឯកសារ"}]]}]]}],["$","a",null,{"href":"https://github.com/Heang-Dev/KROMA.STUDIO/edit/main/website/content/docs/0.1/km/keyboard-shortcuts.md","target":"_blank","rel":"noreferrer","className":"mt-6 inline-flex items-center gap-1.5 text-[13px] text-muted-foreground no-underline hover:text-foreground","children":[["$","$L2b",null,{"ref":"$undefined","icon":{"name":"pencil","size":24,"node":[["path",{"d":"M21.174 6.812a1 1 0 0 0-3.986-3.987L3.842 16.174a2 2 0 0 0-.5.83l-1.321 4.352a.5.5 0 0 0 .623.622l4.353-1.32a2 2 0 0 0 .83-.497z","key":"1a8usu"}],["path",{"d":"m15 5 4 4","key":"1mk7zo"}]]},"className":"size-3.5"}]," ","កែទំព័រនេះនៅលើ GitHub"]}]]
+16:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+30:I[27201,["$3","$4","$5","$6"],"IconMark"]
+13:null
+19:[["$","title","0",{"children":"ផ្លូវកាត់ក្តារចុច · v0.1 · ឯកសារណែនាំ · Kroma Studio"}],["$","meta","1",{"name":"description","content":"Download videos from YouTube, Bilibili, Douyin and 1,000+ sites, translate the subtitles to Khmer, give every character a voice, and post to YouTube, Facebook and TikTok. A free desktop app for macOS, Windows and Linux."}],["$","meta","2",{"property":"og:title","content":"ផ្លូវកាត់ក្តារចុច · v0.1 · ឯកសារណែនាំ · Kroma Studio"}],["$","meta","3",{"property":"og:description","content":"គ្រប់យ៉ាងអំពី Kroma Studio ចាប់ពីការដំឡើង រហូតដល់ការបង្ហោះវីដេអូរបស់អ្នក។"}],["$","meta","4",{"property":"og:site_name","content":"Kroma Studio"}],["$","meta","5",{"property":"og:locale","content":"km_KH"}],["$","meta","6",{"property":"og:image","content":"https://heang-dev.github.io/kroma/assets/og-docs-km.png"}],["$","meta","7",{"property":"og:image:width","content":"1200"}],["$","meta","8",{"property":"og:image:height","content":"630"}],["$","meta","9",{"property":"og:image:alt","content":"ឯកសារណែនាំ Kroma Studio"}],["$","meta","10",{"property":"og:type","content":"website"}],["$","meta","11",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","12",{"name":"twitter:title","content":"ផ្លូវកាត់ក្តារចុច · v0.1 · ឯកសារណែនាំ · Kroma Studio"}],["$","meta","13",{"name":"twitter:description","content":"គ្រប់យ៉ាងអំពី Kroma Studio ចាប់ពីការដំឡើង រហូតដល់ការបង្ហោះវីដេអូរបស់អ្នក។"}],["$","meta","14",{"name":"twitter:image","content":"https://heang-dev.github.io/kroma/assets/og-docs-km.png"}],["$","meta","15",{"name":"twitter:image:alt","content":"ឯកសារណែនាំ Kroma Studio"}],["$","meta","16",{"name":"twitter:image:width","content":"1200"}],["$","meta","17",{"name":"twitter:image:height","content":"630"}],["$","link","18",{"rel":"icon","href":"/kroma/assets/kroma-favicon.png"}],["$","$L30","19",{}]]

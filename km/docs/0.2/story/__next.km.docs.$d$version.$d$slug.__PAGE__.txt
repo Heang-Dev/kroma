@@ -1,0 +1,142 @@
+1:"$Sreact.fragment"
+2:"/kroma/_next/static/chunks/04vt5_qdxg31o.js"
+3:"/kroma/_next/static/chunks/0w3ftlzy945zl.js"
+4:"/kroma/_next/static/chunks/2m9t-wks40qyw.js"
+5:"/kroma/_next/static/chunks/1a4ohd0pkdhou.js"
+6:I[19738,["$2","$3","$4","$5"],"HeaderBar"]
+7:I[39756,["$2","$3","$4","$5"],"default"]
+8:I[37457,["$2","$3","$4","$5"],"default"]
+9:I[19738,["$2","$3","$4","$5"],"FooterBar"]
+16:"/kroma/_next/static/chunks/2ffur98r21h0b.js"
+17:I[22016,["$2","$3","$4","$5","$16"],""]
+18:I[32016,["$2","$3","$4","$5","$16"],"VersionPicker"]
+1e:"ViewportBoundary"
+1f:I[97367,["$2","$3","$4","$5"],"$1e"]
+20:"MetadataBoundary"
+21:I[97367,["$2","$3","$4","$5"],"$20"]
+22:"$Sreact.suspense"
+:HL["/kroma/_next/static/chunks/3kygz3hykdx6f.css","style"]
+b:X
+12:X
+12:C
+15:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto w-[min(1280px,100%-32px)] grid grid-cols-1 gap-6 pt-6 pb-10 lg:gap-10 lg:pt-10 lg:grid-cols-[230px_1fr] xl:grid-cols-[230px_1fr_200px]","children":[["$","aside",null,{"className":"lg:sticky lg:top-[84px] lg:max-h-[calc(100vh-100px)] lg:self-start lg:overflow-y-auto lg:pr-2","children":[["$","$L17",null,{"href":"/km/docs/0.2/","className":"mb-3 block text-xs tracking-wider text-muted-foreground uppercase no-underline hover:text-foreground","children":"ឯកសារណែនាំ"}],["$","$L18",null,{"versions":[{"version":"0.2","label":"0.2.x","released":"2026-11-28"},{"version":"0.1","label":"0.1.x","released":"2026-11-27"}],"current":"0.2","slug":"story","slugsByVersion":{"0.2":["installation","configuration","updates","the-editor","first-video","downloading","subtitles","translation","style-and-objects","export","batch","characters-and-voices","voice-library","voice-engine","voice-cloning","story","posting","keyboard-shortcuts","projects-and-files","settings","notifications","troubleshooting","release-notes","upgrade"],"0.1":["installation","configuration","updates","the-editor","first-video","downloading","subtitles","translation","style-and-objects","export","characters-and-voices","voice-library","voice-engine","voice-cloning","posting","keyboard-shortcuts","projects-and-files","settings","troubleshooting","release-notes","upgrade"]},"lang":"km","latestLabel":"ថ្មីបំផុត"}],"$L19"]}],"$L1a","$L1b"]}],null,"$L1c"]}],"p":"$@1d","v":null,"s":"$b"}}]]
+13:[["children",{"s":{"n":"slug","t":"d","k":"story","s":[]},"h":65632,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$L8",null,{}]}]]}],"p":"$@14","v":"$12","s":"$b"},"c":"$Q15"}]]
+10:[["children",{"s":{"n":"version","t":"d","k":"0.2","s":[]},"h":196704,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$L8",null,{}]}]]}],"p":"$@11","v":"$12","s":"$b"},"c":"$Q13"}]]
+e:[["children",{"s":"docs","h":131168,"d":{"r":["$","$1","c",{"children":[[["$","script","script-0",{"src":"/kroma/_next/static/chunks/2ffur98r21h0b.js","async":true}]],["$","$L7",null,{"parallelRouterKey":"children","template":["$","$L8",null,{}]}]]}],"p":"$@f","v":null,"s":"$b"},"c":"$Q10"}]]
+c:[["children",{"s":"km","h":131168,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$L8",null,{}]}]]}],"p":"$@d","v":null,"s":"$b"},"c":"$Qe"}]]
+0:{"t":{"t":{"s":"","h":131152,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/kroma/_next/static/chunks/3kygz3hykdx6f.css","precedence":"next"}],["$","script","script-0",{"src":"/kroma/_next/static/chunks/04vt5_qdxg31o.js","async":true}],["$","script","script-1",{"src":"/kroma/_next/static/chunks/0w3ftlzy945zl.js","async":true}],["$","script","script-2",{"src":"/kroma/_next/static/chunks/2m9t-wks40qyw.js","async":true}],["$","script","script-3",{"src":"/kroma/_next/static/chunks/1a4ohd0pkdhou.js","async":true}]],["$","html",null,{"lang":"en","className":"z61v7q_variable -suo1a_variable","suppressHydrationWarning":true,"children":[["$","head",null,{"children":["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(a){try{let b=document.documentElement,c=location.pathname.slice(a.length)||\"/\",d=\"/km\"===c||c.startsWith(\"/km/\");b.lang=d?\"km\":\"en\";let e=localStorage.getItem(\"kroma-theme\");b.classList.toggle(\"dark\",e?\"dark\"===e:matchMedia(\"(prefers-color-scheme: dark)\").matches);let f=localStorage.getItem(\"kroma-lang\"),g=!1;try{let b=new URL(document.referrer);g=b.origin===location.origin&&(b.pathname+\"/\").startsWith(a+\"/\")}catch{}if(!f||g)return;let h=location.search+location.hash;\"km\"!==f||d?\"en\"===f&&d&&location.replace(a+(c.slice(3)||\"/\")+h):location.replace(a+\"/km\"+(\"/\"===c?\"/\":c)+h)}catch{}})(\"/kroma\")"}}]}],["$","body",null,{"className":"flex min-h-svh flex-col","children":[["$","$L6",null,{"stars":0}],["$","div",null,{"className":"flex-1","children":["$","$L7",null,{"parallelRouterKey":"children","template":["$","$L8",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}]}],["$","$L9",null,{"latest":{"version":"0.2.3","date":"2026-11-28T09:36:49Z"}}]]}]]}]]}],"p":"$@a","v":null,"s":"$b"},"c":"$Qc"},"h":{"r":["$","$1","h",{"children":[null,["$","$L1f",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L21",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$22",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"ស្ទូឌីយោរឿង · v0.2 · ឯកសារណែនាំ · Kroma Studio"}],["$","meta","1",{"name":"description","content":"Download videos from YouTube, Bilibili, Douyin and 1,000+ sites, translate the subtitles to Khmer, give every character a voice, and post to YouTube, Facebook and TikTok. A free desktop app for macOS, Windows and Linux."}],["$","meta","2",{"property":"og:title","content":"ស្ទូឌីយោរឿង · v0.2 · ឯកសារណែនាំ · Kroma Studio"}],["$","meta","3",{"property":"og:description","content":"គ្រប់យ៉ាងអំពី Kroma Studio ចាប់ពីការដំឡើង រហូតដល់ការបង្ហោះវីដេអូរបស់អ្នក។"}],["$","meta","4",{"property":"og:site_name","content":"Kroma Studio"}],["$","meta","5",{"property":"og:locale","content":"km_KH"}],["$","meta","6",{"property":"og:image","content":"https://heang-dev.github.io/kroma/assets/og-docs-km.png"}],["$","meta","7",{"property":"og:image:width","content":"1200"}],["$","meta","8",{"property":"og:image:height","content":"630"}],["$","meta","9",{"property":"og:image:alt","content":"ឯកសារណែនាំ Kroma Studio"}],["$","meta","10",{"property":"og:type","content":"website"}],["$","meta","11",{"name":"twitter:card","content":"summary_large_image"}],"$L23","$L24","$L25","$L26","$L27","$L28","$L29","$L2a"]}]}],null]}],"$L2b"]}],"p":"$@2c","v":null,"s":"$b"}},"a":"$@2d","u":"$@2e","b":"Hf2A-8s-tskzwG8lj9Zm4"}
+2f:I[45613,["$2","$3","$4","$5","$16"],"DocsNavToggle"]
+36:I[51896,["$2","$3","$4","$5","$16"],"DocsToc"]
+37:I[97367,["$2","$3","$4","$5"],"OutletBoundary"]
+39:I[27201,["$2","$3","$4","$5"],"IconMark"]
+19:["$","$L2f",null,{"current":"ស្ទូឌីយោរឿង","label":"ឯកសារណែនាំ","children":["$","nav",null,{"aria-label":"ឯកសារណែនាំ","className":"mt-5 grid gap-5","children":[["$","div","ចាប់ផ្តើម",{"children":[["$","p",null,{"className":"mb-1.5 px-2 text-[12px] font-semibold","children":"ចាប់ផ្តើម"}],["$","ul",null,{"className":"grid list-none gap-0.5 border-l p-0","children":[["$","li","installation",{"children":["$","$L17",null,{"href":"/km/docs/0.2/installation/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"ការដំឡើង"}]}],["$","li","configuration",{"children":["$","$L17",null,{"href":"/km/docs/0.2/configuration/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"បន្ថែម key របស់អ្នក"}]}],["$","li","updates",{"children":["$","$L17",null,{"href":"/km/docs/0.2/updates/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"ការធ្វើបច្ចុប្បន្នភាព"}]}],["$","li","the-editor",{"children":["$","$L17",null,{"href":"/km/docs/0.2/the-editor/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"កម្មវិធីកែ"}]}]]}]]}],["$","div","ការធ្វើវីដេអូ",{"children":[["$","p",null,{"className":"mb-1.5 px-2 text-[12px] font-semibold","children":"ការធ្វើវីដេអូ"}],["$","ul",null,{"className":"grid list-none gap-0.5 border-l p-0","children":[["$","li","first-video",{"children":["$","$L17",null,{"href":"/km/docs/0.2/first-video/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"វីដេអូដំបូងរបស់អ្នក"}]}],["$","li","downloading",{"children":["$","$L17",null,{"href":"/km/docs/0.2/downloading/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"ការទាញយកវីដេអូ"}]}],["$","li","subtitles",{"children":["$","$L17",null,{"href":"/km/docs/0.2/subtitles/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"អក្សររត់"}]}],["$","li","translation",{"children":["$","$L17",null,{"href":"/km/docs/0.2/translation/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"ការបកប្រែ"}]}],["$","li","style-and-objects",{"children":["$","$L17",null,{"href":"/km/docs/0.2/style-and-objects/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"រចនាប័ទ្ម និងវត្ថុ"}]}],["$","li","export",{"children":["$","$L17",null,{"href":"/km/docs/0.2/export/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"នាំចេញ"}]}],["$","li","batch",{"children":["$","$L17",null,{"href":"/km/docs/0.2/batch/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Batch"}]}]]}]]}],"$L30","$L31","$L32","$L33"]}]}]
+34:T2a7f,<p><strong>Story</strong> ប្រែស្គ្រីបដែលអ្នកសរសេរ ទៅជារឿងជាសំឡេង ដែលតួអង្គនីមួយៗមានសំឡេងខុសៗគ្នា៖ លោកតានិទានរឿងព្រេង អ្នកនិទានជាមួយក្មេងពីរនាក់ ឬរឿងល្ខោនវិទ្យុខ្លីមួយ។ បើកវាដោយ <strong>Story</strong> នៅម៉ឺនុយខាងឆ្វេង។</p>
+<p>Story ប្រើ <a href="/kroma/km/docs/0.2/voice-engine/">ម៉ាស៊ីនសំឡេង</a> របស់ Kroma ដូច្នេះត្រូវបើកម៉ាស៊ីនជាមុនសិន។ ស្ថានភាពម៉ាស៊ីនបង្ហាញនៅខាងលើទំព័រ និងនៅរបារស្ថានភាព ជាមួយ <strong>Start</strong> ពេលវាបិទ។</p>
+<h2 id="ទំព័រ"><a class="anchor" href="#ទំព័រ" aria-hidden="true">#</a>ទំព័រ</h2><ul>
+<li><strong>ខាងឆ្វេង</strong> រឿងរបស់អ្នក ថ្មីបំផុតនៅខាងលើ និង <strong>New story</strong>។</li>
+<li><strong>ខាងលើ</strong> <strong>1 · Write</strong> និង <strong>2 · Listen</strong> ស្ថានភាពម៉ាស៊ីន និង <strong>Generate story</strong>។</li>
+<li><strong>Write</strong> មានចំណងជើងរឿង ស្គ្រីប និង <strong>Cast</strong> (តួអង្គ) នៅក្បែរ។</li>
+<li><strong>Listen</strong> ចាក់រឿងដែលរួចរាល់ ហើយបង្ហាញគ្រប់ឃ្លានៅក្រោមកម្មវិធីចាក់។</li>
+</ul>
+<h2 id="សរសេរស្គ្រីប"><a class="anchor" href="#សរសេរស្គ្រីប" aria-hidden="true">#</a>សរសេរស្គ្រីប</h2><p>សរសេរមួយបន្ទាត់សម្រាប់អ្នកនិយាយម្នាក់ៗ៖ ឈ្មោះអ្នកនិយាយ សញ្ញា <code>:</code> រួចពាក្យដែលគេនិយាយ៖</p>
+<div class="code-block"><pre><code>Narrator: កាលពីព្រេងនាយ មានក្មេងប្រុសម្នាក់ឈ្មោះសុខា។
+[pause 1s]
+Sokha (excited): លោកតា! មើលនេះ!
+លោកតា៖ យឺតៗ ចៅ។</code></pre></div><div class="table-wrap"><table>
+<thead>
+<tr>
+<th>អ្នកសរសេរ</th>
+<th>វាធ្វើអ្វី</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><code>Sokha: …</code> ឬ <code>សុខា៖ …</code></td>
+<td>ឃ្លាមួយសម្រាប់សុខា។ សញ្ញាចែកអាចជា <code>:</code>, <code>：</code> ឬ <code>៖</code> ខ្មែរ។</td>
+</tr>
+<tr>
+<td>បន្ទាត់គ្មានឈ្មោះ</td>
+<td>ជាឃ្លារបស់ <strong>Narrator</strong> (អ្នកនិទាន)។</td>
+</tr>
+<tr>
+<td><code>Sokha (whisper): …</code></td>
+<td>ឃ្លាមួយក្នុងរបៀបនិយាយផ្ទាល់ខ្លួន (ខ្សឹប រំភើប ក្រៀមក្រំ…)។</td>
+</tr>
+<tr>
+<td><code>[pause 2s]</code> មួយបន្ទាត់ដាច់ដោយឡែក</td>
+<td>ស្ងាត់មួយភ្លែតរវាងឃ្លា។ <code>[pause 500ms]</code> ក៏ប្រើបាន ហើយ <code>[pause]</code> ទទេគឺ 1 វិនាទី។ ការឈប់នៅចន្លោះ 0.1 ដល់ 10 វិនាទី។</td>
+</tr>
+<tr>
+<td><code>[pause 1s]</code> នៅកណ្តាលឃ្លា</td>
+<td>ឈប់មួយភ្លែតរវាងពាក្យនៃឃ្លានោះ។</td>
+</tr>
+</tbody></table></div>
+<p>ឈ្មោះមួយវែងបានដល់ 30 តួអក្សរ ដោយគ្មាន <code>:</code> ឬវង់ក្រចក។ របារ <strong>Insert</strong> ពីលើស្គ្រីប បន្ថែម <strong>Pause</strong> ឬឈ្មោះអ្នកនិយាយនៅដើមបន្ទាត់ថ្មី។</p>
+<p><strong>How it will be read</strong> នៅក្រោមតួអង្គ បង្ហាញឃ្លាតាមរបៀបដែលម៉ាស៊ីននឹងអាន ពេលអ្នកកំពុងវាយ។</p>
+<h2 id="តួអង្គ"><a class="anchor" href="#តួអង្គ" aria-hidden="true">#</a>តួអង្គ</h2><p>តួអង្គនីមួយៗក្នុងស្គ្រីបបង្ហាញក្នុង <strong>Cast</strong> ភ្លាមៗពេលអ្នកចាប់ផ្តើមឃ្លារបស់គេ។ សម្រាប់តួនីមួយៗ៖</p>
+<ul>
+<li><strong>Voice</strong>៖ សំឡេងលំនាំដើមរបស់ម៉ាស៊ីន សំឡេងមួយក្នុង <strong>Your voices</strong> (សំឡេងចម្លង) ឬសំឡេងស្រាប់ ដាក់ជាក្រុមដូចក្នុង <a href="/kroma/km/docs/0.2/voice-library/">បណ្ណាល័យសំឡេង</a>។ Kroma ជ្រើសសំឡេងសមរម្យតាមឈ្មោះ៖ &quot;Narrator&quot; ទទួលបាន <em>Narrator (deep male)</em>, &quot;grandpa&quot; ឬ &quot;លោកតា&quot; ទទួលបាន <em>Storyteller (warm grandfather)</em>, &quot;girl&quot; ឬ &quot;ស្រី&quot; ទទួលបាន <em>Young girl</em> ជាដើម។ អ្នកប្តូរបានគ្រប់ពេល។ សំឡេងភ្លាមៗ (instant) មិនមាននៅទីនេះទេ ព្រោះរឿងត្រូវបានអានដោយម៉ាស៊ីន។</li>
+<li><strong>Style</strong> (ជម្រើស)៖ របៀបដែលតួនេះនិយាយគ្រប់ឃ្លា ដូចជា &quot;calm&quot;។ របៀបដែលសរសេរក្នុងឃ្លាផ្ទាល់ ដូចជា <code>Sokha (whisper):</code> ប្រើសម្រាប់តែឃ្លានោះ។</li>
+</ul>
+<p>ដើម្បីបន្ថែមតួអង្គ វាយឈ្មោះនៅក្រោមបញ្ជីតួ ហើយចុច <strong>Add</strong>។ បន្ទាត់ថ្មីមួយចាប់ផ្តើមសម្រាប់គេក្នុងស្គ្រីប ហើយទស្សន៍ទ្រនិចរង់ចាំអ្នកវាយ។</p>
+<p>តួអង្គរហូតដល់ <strong>6</strong> នាក់ទទួលបានសំឡេងផ្ទាល់ខ្លួន។ បើលើសនេះ ពួកគេអានដោយសំឡេង Narrator ហើយ Kroma ព្រមានអ្នក។</p>
+<h2 id="បង្កើតរឿង"><a class="anchor" href="#បង្កើតរឿង" aria-hidden="true">#</a>បង្កើតរឿង</h2><p>ដាក់ចំណងជើងឱ្យរឿង (ឬទុក <strong>Untitled story</strong>) ហើយចុច <strong>Generate story</strong>។ របារវឌ្ឍនភាពបង្ហាញពេលម៉ាស៊ីនកំពុងធ្វើការ។ រឿងវែងអាចចំណាយពេលយូរ ជាពិសេសលើកុំព្យូទ័រដែលគ្មានកាតក្រាហ្វិកលឿន។ ពេលរួច អ្នកទទួលបានការជូនដំណឹង <strong>Story ready: …</strong> ហើយរឿងបើកក្នុង <strong>Listen</strong>។</p>
+<h2 id="ស្តាប់-និងកែឃ្លាមួយ"><a class="anchor" href="#ស្តាប់-និងកែឃ្លាមួយ" aria-hidden="true">#</a>ស្តាប់ និងកែឃ្លាមួយ</h2><p><strong>Listen</strong> បង្ហាញចំណងជើង ចំនួនឃ្លា រយៈពេល និងពេលដែលវាត្រូវបានបង្កើត រួចកម្មវិធីចាក់។ គ្រប់ឃ្លាត្រូវបានរាយនៅខាងក្រោម ជាមួយអ្នកនិយាយ។</p>
+<p>មិនពេញចិត្តឃ្លាណាមួយ? ចុច <strong>↻</strong> នៅក្បែរវា។ Kroma និយាយតែឃ្លានោះម្តងទៀត ហើយទុកឃ្លាផ្សេងទៀតដដែល។ លទ្ធផលត្រូវបានរក្សាទុកជារឿងថ្មីមួយ ដូច្នេះកំណែមុននៅតែមានក្នុងបញ្ជីរបស់អ្នក។</p>
+<p>ប៊ូតុងនៅពីលើកម្មវិធីចាក់៖</p>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>ប៊ូតុង</th>
+<th>ធ្វើអ្វី</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><strong>Edit the script</strong></td>
+<td>ត្រឡប់ទៅ <strong>Write</strong> ជាមួយស្គ្រីប និងតួអង្គនៃរឿងនេះ។</td>
+</tr>
+<tr>
+<td><strong>Save audio as…</strong></td>
+<td>រក្សាទុកសំឡេងនៅកន្លែងណាក៏បាន។ អក្សររត់ <code>.srt</code> របស់វាត្រូវបានរក្សាទុកនៅក្បែរ ក្នុងឈ្មោះដូចគ្នា។</td>
+</tr>
+<tr>
+<td><strong>Show in folder</strong></td>
+<td>បើកថតរបស់រឿង។</td>
+</tr>
+<tr>
+<td><strong>Delete</strong></td>
+<td>លុបរឿង (ក្រោយពេលសួរសិន)។</td>
+</tr>
+</tbody></table></div>
+<h2 id="រឿងរក្សាទុកនៅឯណា"><a class="anchor" href="#រឿងរក្សាទុកនៅឯណា" aria-hidden="true">#</a>រឿងរក្សាទុកនៅឯណា</h2><p>រឿងនីមួយៗមានថតផ្ទាល់ខ្លួនក្នុង <code>stories</code> នៃថតបណ្ណាល័យ Kroma Studio ដែលមាន <code>story.mp3</code> (ឬ <code>story.wav</code>), <code>story.srt</code> និង <code>story.json</code>។ មើល <a href="/kroma/km/docs/0.2/projects-and-files/#ទីតាំងឯកសារ">គម្រោង និងឯកសារ</a>។</p>
+<p>សូមចម្លងសំឡេងតែពេលដែលម្ចាស់សំឡេងអនុញ្ញាតប៉ុណ្ណោះ។ មើល <a href="/kroma/km/docs/0.2/voice-cloning/">ការចម្លងសំឡេង</a>។</p>
+1a:["$","main",null,{"className":"min-w-0","children":[false,[["$","p",null,{"className":"text-[12.5px] font-medium tracking-[0.08em] text-brand uppercase","children":"សំឡេង"}],["$","h1",null,{"className":"mt-2 text-[clamp(28px,4vw,40px)] font-semibold","children":"ស្ទូឌីយោរឿង"}],["$","div",null,{"className":"docs-prose mt-6","dangerouslySetInnerHTML":{"__html":"$34"}}]],"$L35"]}]
+1b:["$","aside",null,{"className":"hidden xl:sticky xl:top-[84px] xl:block xl:self-start","children":[["$","p",null,{"className":"text-xs tracking-wider text-muted-foreground uppercase","children":"នៅលើទំព័រនេះ"}],["$","$L36",null,{"items":[{"depth":2,"id":"ទំព័រ","text":"ទំព័រ"},{"depth":2,"id":"សរសេរស្គ្រីប","text":"សរសេរស្គ្រីប"},{"depth":2,"id":"តួអង្គ","text":"តួអង្គ"},{"depth":2,"id":"បង្កើតរឿង","text":"បង្កើតរឿង"},{"depth":2,"id":"ស្តាប់-និងកែឃ្លាមួយ","text":"ស្តាប់ និងកែឃ្លាមួយ"},{"depth":2,"id":"រឿងរក្សាទុកនៅឯណា","text":"រឿងរក្សាទុកនៅឯណា"}]}]]}]
+1c:["$","$L37",null,{"children":["$","$22",null,{"name":"Next.MetadataOutlet","children":"$@38"}]}]
+23:["$","meta","12",{"name":"twitter:title","content":"ស្ទូឌីយោរឿង · v0.2 · ឯកសារណែនាំ · Kroma Studio"}]
+24:["$","meta","13",{"name":"twitter:description","content":"គ្រប់យ៉ាងអំពី Kroma Studio ចាប់ពីការដំឡើង រហូតដល់ការបង្ហោះវីដេអូរបស់អ្នក។"}]
+25:["$","meta","14",{"name":"twitter:image","content":"https://heang-dev.github.io/kroma/assets/og-docs-km.png"}]
+26:["$","meta","15",{"name":"twitter:image:alt","content":"ឯកសារណែនាំ Kroma Studio"}]
+27:["$","meta","16",{"name":"twitter:image:width","content":"1200"}]
+28:["$","meta","17",{"name":"twitter:image:height","content":"630"}]
+29:["$","link","18",{"rel":"icon","href":"/kroma/assets/kroma-favicon.png"}]
+2a:["$","$L39","19",{}]
+2b:["$","meta",null,{"name":"next-size-adjust","content":""}]
+3a:I[23051,["$2","$3","$4","$5","$16"],"CodeCopy"]
+3b:I[5014,["$2","$3","$4","$5","$16"],"default"]
+b:300
+30:["$","div","សំឡេង",{"children":[["$","p",null,{"className":"mb-1.5 px-2 text-[12px] font-semibold","children":"សំឡេង"}],["$","ul",null,{"className":"grid list-none gap-0.5 border-l p-0","children":[["$","li","characters-and-voices",{"children":["$","$L17",null,{"href":"/km/docs/0.2/characters-and-voices/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"តួអង្គ និងសំឡេង"}]}],["$","li","voice-library",{"children":["$","$L17",null,{"href":"/km/docs/0.2/voice-library/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"បណ្ណាល័យសំឡេង"}]}],["$","li","voice-engine",{"children":["$","$L17",null,{"href":"/km/docs/0.2/voice-engine/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"ម៉ាស៊ីនសំឡេង"}]}],["$","li","voice-cloning",{"children":["$","$L17",null,{"href":"/km/docs/0.2/voice-cloning/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"ការចម្លងសំឡេង"}]}],["$","li","story",{"children":["$","$L17",null,{"href":"/km/docs/0.2/story/","aria-current":"page","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors rounded-r-md border-brand bg-brand/10 font-medium text-brand","children":"ស្ទូឌីយោរឿង"}]}]]}]]}]
+31:["$","div","ការបង្ហោះ",{"children":[["$","p",null,{"className":"mb-1.5 px-2 text-[12px] font-semibold","children":"ការបង្ហោះ"}],["$","ul",null,{"className":"grid list-none gap-0.5 border-l p-0","children":[["$","li","posting",{"children":["$","$L17",null,{"href":"/km/docs/0.2/posting/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"ការបង្ហោះ"}]}]]}]]}]
+32:["$","div","ឯកសារយោង",{"children":[["$","p",null,{"className":"mb-1.5 px-2 text-[12px] font-semibold","children":"ឯកសារយោង"}],["$","ul",null,{"className":"grid list-none gap-0.5 border-l p-0","children":[["$","li","keyboard-shortcuts",{"children":["$","$L17",null,{"href":"/km/docs/0.2/keyboard-shortcuts/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"ផ្លូវកាត់ក្តារចុច"}]}],["$","li","projects-and-files",{"children":["$","$L17",null,{"href":"/km/docs/0.2/projects-and-files/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"គម្រោង និងឯកសារ"}]}],["$","li","settings",{"children":["$","$L17",null,{"href":"/km/docs/0.2/settings/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"ការកំណត់"}]}],["$","li","notifications",{"children":["$","$L17",null,{"href":"/km/docs/0.2/notifications/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"ការជូនដំណឹង"}]}],["$","li","troubleshooting",{"children":["$","$L17",null,{"href":"/km/docs/0.2/troubleshooting/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"ដោះស្រាយបញ្ហា"}]}]]}]]}]
+33:["$","div","កំណែនេះ",{"children":[["$","p",null,{"className":"mb-1.5 px-2 text-[12px] font-semibold","children":"កំណែនេះ"}],["$","ul",null,{"className":"grid list-none gap-0.5 border-l p-0","children":[["$","li","release-notes",{"children":["$","$L17",null,{"href":"/km/docs/0.2/release-notes/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"កំណត់ចំណាំកំណែ"}]}],["$","li","upgrade",{"children":["$","$L17",null,{"href":"/km/docs/0.2/upgrade/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"ការណែនាំអំពីការដំឡើងកំណែ"}]}]]}]]}]
+35:[["$","$L3a",null,{"copy":"ចម្លង","copied":"បានចម្លង"}],["$","div",null,{"className":"mt-14 grid gap-3 border-t pt-6 sm:grid-cols-2","children":[["$","$L17",null,{"href":"/km/docs/0.2/voice-cloning/","className":"group rounded-lg border p-4 no-underline hover:bg-accent/50","children":[["$","span",null,{"className":"flex items-center gap-1.5 text-xs text-muted-foreground","children":[["$","$L3b",null,{"icon":{"name":"arrow-left","size":24,"node":[["path",{"d":"m12 19-7-7 7-7","key":"1l729n"}],["path",{"d":"M19 12H5","key":"x3x0zl"}]]},"className":"size-3.5"}]," ","មុន"]}],["$","span",null,{"className":"mt-1 block text-[14px] font-medium","children":"ការចម្លងសំឡេង"}]]}],["$","$L17",null,{"href":"/km/docs/0.2/posting/","className":"group rounded-lg border p-4 text-right no-underline hover:bg-accent/50","children":[["$","span",null,{"className":"flex items-center justify-end gap-1.5 text-xs text-muted-foreground","children":["បន្ទាប់"," ",["$","$L3b",null,{"icon":{"name":"arrow-right","size":24,"node":[["path",{"d":"M5 12h14","key":"1ays0h"}],["path",{"d":"m12 5 7 7-7 7","key":"xquz4c"}]]},"className":"size-3.5"}]]}],["$","span",null,{"className":"mt-1 block text-[14px] font-medium","children":"ការបង្ហោះ"}]]}]]}],["$","a",null,{"href":"https://github.com/Heang-Dev/KROMA.STUDIO/edit/main/website/content/docs/0.2/km/story.md","target":"_blank","rel":"noreferrer","className":"mt-6 inline-flex items-center gap-1.5 text-[13px] text-muted-foreground no-underline hover:text-foreground","children":[["$","$L3b",null,{"icon":{"name":"pencil","size":24,"node":[["path",{"d":"M21.174 6.812a1 1 0 0 0-3.986-3.987L3.842 16.174a2 2 0 0 0-.5.83l-1.321 4.352a.5.5 0 0 0 .623.622l4.353-1.32a2 2 0 0 0 .83-.497z","key":"1a8usu"}],["path",{"d":"m15 5 4 4","key":"1mk7zo"}]]},"className":"size-3.5"}]," ","កែទំព័រនេះនៅលើ GitHub"]}]]
+38:null
+2e:true
+b:C
+2d:0
+14:"$undefined"
+11:"$undefined"
+f:"$undefined"
+d:"$undefined"
+a:"$undefined"
+2c:"$undefined"
+1d:"$undefined"

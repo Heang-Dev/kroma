@@ -1,0 +1,155 @@
+1:"$Sreact.fragment"
+2:"/kroma/_next/static/chunks/04vt5_qdxg31o.js"
+3:"/kroma/_next/static/chunks/0w3ftlzy945zl.js"
+4:"/kroma/_next/static/chunks/2m9t-wks40qyw.js"
+5:"/kroma/_next/static/chunks/1a4ohd0pkdhou.js"
+6:I[19738,["$2","$3","$4","$5"],"HeaderBar"]
+7:I[39756,["$2","$3","$4","$5"],"default"]
+8:I[37457,["$2","$3","$4","$5"],"default"]
+9:I[19738,["$2","$3","$4","$5"],"FooterBar"]
+14:"/kroma/_next/static/chunks/2ffur98r21h0b.js"
+15:I[22016,["$2","$3","$4","$5","$14"],""]
+16:I[32016,["$2","$3","$4","$5","$14"],"VersionPicker"]
+1c:"ViewportBoundary"
+1d:I[97367,["$2","$3","$4","$5"],"$1c"]
+1e:"MetadataBoundary"
+1f:I[97367,["$2","$3","$4","$5"],"$1e"]
+20:"$Sreact.suspense"
+:HL["/kroma/_next/static/chunks/3kygz3hykdx6f.css","style"]
+b:X
+10:X
+10:C
+13:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto w-[min(1280px,100%-32px)] grid grid-cols-1 gap-6 pt-6 pb-10 lg:gap-10 lg:pt-10 lg:grid-cols-[230px_1fr] xl:grid-cols-[230px_1fr_200px]","children":[["$","aside",null,{"className":"lg:sticky lg:top-[84px] lg:max-h-[calc(100vh-100px)] lg:self-start lg:overflow-y-auto lg:pr-2","children":[["$","$L15",null,{"href":"/docs/0.1/","className":"mb-3 block text-xs tracking-wider text-muted-foreground uppercase no-underline hover:text-foreground","children":"Documentation"}],["$","$L16",null,{"versions":[{"version":"0.2","label":"0.2.x","released":"2026-11-28"},{"version":"0.1","label":"0.1.x","released":"2026-11-27"}],"current":"0.1","slug":"updates","slugsByVersion":{"0.2":["installation","configuration","updates","the-editor","first-video","downloading","subtitles","translation","style-and-objects","export","batch","characters-and-voices","voice-library","voice-engine","voice-cloning","story","posting","keyboard-shortcuts","projects-and-files","settings","notifications","troubleshooting","release-notes","upgrade"],"0.1":["installation","configuration","updates","the-editor","first-video","downloading","subtitles","translation","style-and-objects","export","characters-and-voices","voice-library","voice-engine","voice-cloning","posting","keyboard-shortcuts","projects-and-files","settings","troubleshooting","release-notes","upgrade"]},"lang":"en","latestLabel":"latest"}],"$L17"]}],"$L18","$L19"]}],null,"$L1a"]}],"p":"$@1b","v":null,"s":"$b"}}]]
+11:[["children",{"s":{"n":"slug","t":"d","k":"updates","s":[]},"h":65632,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$L8",null,{}]}]]}],"p":"$@12","v":"$10","s":"$b"},"c":"$Q13"}]]
+e:[["children",{"s":{"n":"version","t":"d","k":"0.1","s":[]},"h":196704,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$L8",null,{}]}]]}],"p":"$@f","v":"$10","s":"$b"},"c":"$Q11"}]]
+c:[["children",{"s":"docs","h":131168,"d":{"r":["$","$1","c",{"children":[[["$","script","script-0",{"src":"/kroma/_next/static/chunks/2ffur98r21h0b.js","async":true}]],["$","$L7",null,{"parallelRouterKey":"children","template":["$","$L8",null,{}]}]]}],"p":"$@d","v":null,"s":"$b"},"c":"$Qe"}]]
+0:{"t":{"t":{"s":"","h":131152,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/kroma/_next/static/chunks/3kygz3hykdx6f.css","precedence":"next"}],["$","script","script-0",{"src":"/kroma/_next/static/chunks/04vt5_qdxg31o.js","async":true}],["$","script","script-1",{"src":"/kroma/_next/static/chunks/0w3ftlzy945zl.js","async":true}],["$","script","script-2",{"src":"/kroma/_next/static/chunks/2m9t-wks40qyw.js","async":true}],["$","script","script-3",{"src":"/kroma/_next/static/chunks/1a4ohd0pkdhou.js","async":true}]],["$","html",null,{"lang":"en","className":"z61v7q_variable -suo1a_variable","suppressHydrationWarning":true,"children":[["$","head",null,{"children":["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(a){try{let b=document.documentElement,c=location.pathname.slice(a.length)||\"/\",d=\"/km\"===c||c.startsWith(\"/km/\");b.lang=d?\"km\":\"en\";let e=localStorage.getItem(\"kroma-theme\");b.classList.toggle(\"dark\",e?\"dark\"===e:matchMedia(\"(prefers-color-scheme: dark)\").matches);let f=localStorage.getItem(\"kroma-lang\"),g=!1;try{let b=new URL(document.referrer);g=b.origin===location.origin&&(b.pathname+\"/\").startsWith(a+\"/\")}catch{}if(!f||g)return;let h=location.search+location.hash;\"km\"!==f||d?\"en\"===f&&d&&location.replace(a+(c.slice(3)||\"/\")+h):location.replace(a+\"/km\"+(\"/\"===c?\"/\":c)+h)}catch{}})(\"/kroma\")"}}]}],["$","body",null,{"className":"flex min-h-svh flex-col","children":[["$","$L6",null,{"stars":0}],["$","div",null,{"className":"flex-1","children":["$","$L7",null,{"parallelRouterKey":"children","template":["$","$L8",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}]}],["$","$L9",null,{"latest":{"version":"0.2.3","date":"2026-11-28T09:36:49Z"}}]]}]]}]]}],"p":"$@a","v":null,"s":"$b"},"c":"$Qc"},"h":{"r":["$","$1","h",{"children":[null,["$","$L1d",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L1f",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$20",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Updates · v0.1 · Docs · Kroma Studio"}],["$","meta","1",{"name":"description","content":"Download videos from YouTube, Bilibili, Douyin and 1,000+ sites, translate the subtitles to Khmer, give every character a voice, and post to YouTube, Facebook and TikTok. A free desktop app for macOS, Windows and Linux."}],["$","meta","2",{"property":"og:title","content":"Updates · v0.1 · Docs · Kroma Studio"}],["$","meta","3",{"property":"og:description","content":"Everything about Kroma Studio, from installing it to posting your videos."}],["$","meta","4",{"property":"og:site_name","content":"Kroma Studio"}],["$","meta","5",{"property":"og:locale","content":"en_US"}],["$","meta","6",{"property":"og:image","content":"https://heang-dev.github.io/kroma/assets/og-docs.png"}],["$","meta","7",{"property":"og:image:width","content":"1200"}],["$","meta","8",{"property":"og:image:height","content":"630"}],["$","meta","9",{"property":"og:image:alt","content":"The Kroma Studio docs"}],["$","meta","10",{"property":"og:type","content":"website"}],["$","meta","11",{"name":"twitter:card","content":"summary_large_image"}],"$L21","$L22","$L23","$L24","$L25","$L26","$L27","$L28"]}]}],null]}],"$L29"]}],"p":"$@2a","v":null,"s":"$b"}},"a":"$@2b","u":"$@2c","b":"Hf2A-8s-tskzwG8lj9Zm4"}
+2d:I[45613,["$2","$3","$4","$5","$14"],"DocsNavToggle"]
+34:I[5014,["$2","$3","$4","$5","$14"],"default"]
+37:I[51896,["$2","$3","$4","$5","$14"],"DocsToc"]
+38:I[97367,["$2","$3","$4","$5"],"OutletBoundary"]
+3a:I[27201,["$2","$3","$4","$5"],"IconMark"]
+17:["$","$L2d",null,{"current":"Updates","label":"Documentation","children":["$","nav",null,{"aria-label":"Documentation","className":"mt-5 grid gap-5","children":[["$","div","Getting started",{"children":[["$","p",null,{"className":"mb-1.5 px-2 text-[12px] font-semibold","children":"Getting started"}],["$","ul",null,{"className":"grid list-none gap-0.5 border-l p-0","children":[["$","li","installation",{"children":["$","$L15",null,{"href":"/docs/0.1/installation/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Installation"}]}],["$","li","configuration",{"children":["$","$L15",null,{"href":"/docs/0.1/configuration/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Add your keys"}]}],["$","li","updates",{"children":["$","$L15",null,{"href":"/docs/0.1/updates/","aria-current":"page","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors rounded-r-md border-brand bg-brand/10 font-medium text-brand","children":"Updates"}]}],["$","li","the-editor",{"children":["$","$L15",null,{"href":"/docs/0.1/the-editor/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"The editor"}]}]]}]]}],["$","div","Making videos",{"children":[["$","p",null,{"className":"mb-1.5 px-2 text-[12px] font-semibold","children":"Making videos"}],["$","ul",null,{"className":"grid list-none gap-0.5 border-l p-0","children":[["$","li","first-video",{"children":["$","$L15",null,{"href":"/docs/0.1/first-video/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Your first video"}]}],["$","li","downloading",{"children":["$","$L15",null,{"href":"/docs/0.1/downloading/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Downloading videos"}]}],["$","li","subtitles",{"children":["$","$L15",null,{"href":"/docs/0.1/subtitles/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Subtitles"}]}],["$","li","translation",{"children":["$","$L15",null,{"href":"/docs/0.1/translation/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Translation"}]}],["$","li","style-and-objects",{"children":["$","$L15",null,{"href":"/docs/0.1/style-and-objects/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Style & objects"}]}],["$","li","export",{"children":["$","$L15",null,{"href":"/docs/0.1/export/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Export"}]}]]}]]}],["$","div","Voices",{"children":[["$","p",null,{"className":"mb-1.5 px-2 text-[12px] font-semibold","children":"Voices"}],["$","ul",null,{"className":"grid list-none gap-0.5 border-l p-0","children":[["$","li","characters-and-voices",{"children":["$","$L15",null,{"href":"/docs/0.1/characters-and-voices/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Characters & voices"}]}],"$L2e","$L2f","$L30"]}]]}],"$L31","$L32","$L33"]}]}]
+35:T1e23,<p>Kroma keeps itself up to date. New versions download in the background while you work, and you choose when to restart. Your project is saved and opens again after the restart.</p>
+<h2 id="how-it-works"><a class="anchor" href="#how-it-works" aria-hidden="true">#</a>How it works</h2><ol>
+<li><strong>Kroma checks for a new version.</strong> The first check happens a few seconds after Kroma starts, then every 4 hours while it&#39;s open. New versions come from <a href="https://github.com/Heang-Dev/kroma/releases" target="_blank" rel="noreferrer">GitHub Releases</a>.</li>
+<li><strong>It downloads in the background.</strong> A card appears in the bottom-right corner: <strong>Downloading Kroma 0.1.4</strong>, &quot;It downloads in the background. Keep working.&quot;, with a progress bar and a percentage.</li>
+<li><strong>It&#39;s ready.</strong> The card changes to <strong>Kroma 0.1.4 is ready</strong>, &quot;Restart to finish updating. Your project is saved and opens again.&quot; It has two buttons:<ul>
+<li><strong>Restart to update</strong>: Kroma closes, installs the new version, and opens again with your project.</li>
+<li><strong>Later</strong>: hides the card. You can keep working as long as you like.</li>
+</ul>
+</li>
+</ol>
+<p>If Kroma is already up to date, nothing appears at all.</p>
+<h2 id="after-you-click-later"><a class="anchor" href="#after-you-click-later" aria-hidden="true">#</a>After you click Later</h2><p>The card stays hidden for that version, but the update isn&#39;t lost. A small green <strong>Restart to update</strong> stays in the step bar along the bottom of the window, on the right, next to the <strong>Next</strong> button. Click it to bring the card back.</p>
+<p>If you hide the card while it&#39;s still downloading, the step bar shows <strong>Updating</strong> with the percentage instead.</p>
+<p>You can also hide the card with the <strong>×</strong> in its top-right corner. That works the same as <strong>Later</strong>.</p>
+<h2 id="update-settings"><a class="anchor" href="#update-settings" aria-hidden="true">#</a>Update settings</h2><p>Open <strong>Settings → About</strong>. The <strong>Updates</strong> card has:</p>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Setting</th>
+<th>What it does</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><strong>Check for updates</strong> · <strong>Check now</strong></td>
+<td>Looks for a new version right away. The line under it tells you what happened, for example &quot;You have the latest version (0.1.3).&quot; or &quot;Downloading Kroma 0.1.4 · 45%&quot;.</td>
+</tr>
+<tr>
+<td><strong>Update automatically</strong></td>
+<td>On by default: new versions download in the background. Off: Kroma only tells you a new version is out, and downloads nothing until you ask.</td>
+</tr>
+<tr>
+<td><strong>What&#39;s new</strong> · <strong>Changelog</strong></td>
+<td>Opens the list of changes on the Kroma website.</td>
+</tr>
+</tbody></table></div>
+<h3 id="when-update-automatically-is-off"><a class="anchor" href="#when-update-automatically-is-off" aria-hidden="true">#</a>When Update automatically is off</h3><p>Kroma still checks on start and every 4 hours. When a new version is out, the card says <strong>Kroma 0.1.4 is available</strong>, &quot;A new version of Kroma is out.&quot;, with <strong>Download</strong> and <strong>Later</strong>. Click <strong>Download</strong> to get it; the card then shows the progress and <strong>Restart to update</strong> as usual. After <strong>Later</strong>, the step bar shows a small <strong>Update to 0.1.4</strong> you can click to bring the card back.</p>
+<p>Clicking <strong>Check now</strong> in Settings downloads a new version straight away, even when automatic updates are off.</p>
+<h2 id="how-each-system-installs"><a class="anchor" href="#how-each-system-installs" aria-hidden="true">#</a>How each system installs</h2><div class="table-wrap"><table>
+<thead>
+<tr>
+<th>System</th>
+<th>What happens when you click Restart to update</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><strong>macOS</strong></td>
+<td>Kroma already copied the new app out of the downloaded <code>.dmg</code>. On restart it swaps the new app into place (keeping the old one until the copy works), clears the &quot;downloaded from the internet&quot; mark, and opens it. You don&#39;t need the <code>xattr</code> command again.</td>
+</tr>
+<tr>
+<td><strong>Windows</strong></td>
+<td>The new installer runs and Kroma opens again.</td>
+</tr>
+<tr>
+<td><strong>Linux AppImage</strong></td>
+<td>The AppImage file is replaced with the new one and Kroma opens again.</td>
+</tr>
+<tr>
+<td><strong>Linux .deb</strong></td>
+<td>Installing a <code>.deb</code> needs your password, so Kroma can&#39;t do it alone. It downloads the new <code>.deb</code> and opens it in your system&#39;s software installer. Install it there, then open Kroma again.</td>
+</tr>
+</tbody></table></div>
+<p>On <strong>Windows</strong> and with the <strong>AppImage</strong>, if you simply quit Kroma after an update has downloaded, it installs when Kroma closes. On a <strong>Mac</strong>, the new version is only put in place when you click <strong>Restart to update</strong>.</p>
+<h2 id="if-an-update-doesn-t-work"><a class="anchor" href="#if-an-update-doesn-t-work" aria-hidden="true">#</a>If an update doesn&#39;t work</h2><div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Message</th>
+<th>What it means</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>&quot;Couldn&#39;t reach GitHub to check for updates.&quot;</td>
+<td>No internet, or GitHub is blocked. Kroma tries again in 4 hours, or click <strong>Check now</strong> later.</td>
+</tr>
+<tr>
+<td>&quot;No releases found yet.&quot;</td>
+<td>GitHub had nothing to offer. Try again later.</td>
+</tr>
+<tr>
+<td>&quot;Kroma can&#39;t replace itself in …. Drag the new Kroma Studio from the window that opened into Applications.&quot;</td>
+<td>Mac only. Kroma isn&#39;t allowed to write to the folder it runs from, for example when you opened it straight from the <code>.dmg</code>. A Finder window opens with the new app: drag it into <strong>Applications</strong>. From then on, run Kroma from Applications.</td>
+</tr>
+<tr>
+<td>&quot;The downloaded update is missing. Check for updates again.&quot;</td>
+<td>Mac only. The downloaded copy was removed. Click <strong>Check now</strong> in Settings → About.</td>
+</tr>
+</tbody></table></div>
+<p>When a restart fails, a <strong>Couldn&#39;t update</strong> message appears in the bottom-right corner with the reason. You can always <a href="https://github.com/Heang-Dev/kroma/releases/latest" target="_blank" rel="noreferrer">download the latest version by hand</a> and install it over the old one, as in <a href="/kroma/docs/0.1/installation/">Installation</a>. Your projects, settings and keys are kept.</p>
+<h2 id="older-versions"><a class="anchor" href="#older-versions" aria-hidden="true">#</a>Older versions</h2><ul>
+<li>Versions before <strong>0.1.1</strong> can&#39;t update themselves. Download the latest once by hand.</li>
+<li>On Windows and Linux, automatic updates work from <strong>0.1.2</strong>. If you have 0.1.1 on Windows or Linux, download the latest once by hand too.</li>
+</ul>
+<h2 id="staying-on-an-older-version"><a class="anchor" href="#staying-on-an-older-version" aria-hidden="true">#</a>Staying on an older version</h2><p>Turn off <strong>Update automatically</strong>, and don&#39;t click <strong>Download</strong> on the card. To read the docs for your version, use the version menu at the top of the docs sidebar. Each version&#39;s <a href="/kroma/docs/0.1/release-notes/">release notes</a> list what changed, and <a href="/kroma/docs/0.1/upgrade/">Upgrading</a> explains anything you need to do when moving to a new version.</p>
+18:["$","main",null,{"className":"min-w-0","children":[["$","div",null,{"role":"note","className":"mb-6 flex flex-wrap items-center gap-x-3 gap-y-1 rounded-lg border border-warning/40 bg-warning/10 px-4 py-3 text-[13px]","children":[["$","$L34",null,{"icon":{"name":"triangle-exclamation-point","size":24,"node":[["path",{"d":"m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3","key":"wmoenq"}],["path",{"d":"M12 9v4","key":"juzpu7"}],["path",{"d":"M12 17h.01","key":"p32p05"}]],"aliases":["alert-triangle","triangle-alert"]},"className":"size-4 shrink-0 text-warning"}],["$","span",null,{"children":"You're reading the docs for Kroma 0.1. The latest version is 0.2.x."}],["$","$L15",null,{"href":"/docs/0.2/updates/","className":"font-medium underline underline-offset-2","children":["Go to the latest docs"," →"]}]]}],[["$","p",null,{"className":"text-[12.5px] font-medium tracking-[0.08em] text-brand uppercase","children":"Getting started"}],["$","h1",null,{"className":"mt-2 text-[clamp(28px,4vw,40px)] font-semibold","children":"Updates"}],["$","div",null,{"className":"docs-prose mt-6","dangerouslySetInnerHTML":{"__html":"$35"}}]],"$L36"]}]
+19:["$","aside",null,{"className":"hidden xl:sticky xl:top-[84px] xl:block xl:self-start","children":[["$","p",null,{"className":"text-xs tracking-wider text-muted-foreground uppercase","children":"On this page"}],["$","$L37",null,{"items":[{"depth":2,"id":"how-it-works","text":"How it works"},{"depth":2,"id":"after-you-click-later","text":"After you click Later"},{"depth":2,"id":"update-settings","text":"Update settings"},{"depth":3,"id":"when-update-automatically-is-off","text":"When Update automatically is off"},{"depth":2,"id":"how-each-system-installs","text":"How each system installs"},{"depth":2,"id":"if-an-update-doesn-t-work","text":"If an update doesn't work"},{"depth":2,"id":"older-versions","text":"Older versions"},{"depth":2,"id":"staying-on-an-older-version","text":"Staying on an older version"}]}]]}]
+1a:["$","$L38",null,{"children":["$","$20",null,{"name":"Next.MetadataOutlet","children":"$@39"}]}]
+21:["$","meta","12",{"name":"twitter:title","content":"Updates · v0.1 · Docs · Kroma Studio"}]
+22:["$","meta","13",{"name":"twitter:description","content":"Everything about Kroma Studio, from installing it to posting your videos."}]
+23:["$","meta","14",{"name":"twitter:image","content":"https://heang-dev.github.io/kroma/assets/og-docs.png"}]
+24:["$","meta","15",{"name":"twitter:image:alt","content":"The Kroma Studio docs"}]
+25:["$","meta","16",{"name":"twitter:image:width","content":"1200"}]
+26:["$","meta","17",{"name":"twitter:image:height","content":"630"}]
+27:["$","link","18",{"rel":"icon","href":"/kroma/assets/kroma-favicon.png"}]
+28:["$","$L3a","19",{}]
+29:["$","meta",null,{"name":"next-size-adjust","content":""}]
+3b:I[23051,["$2","$3","$4","$5","$14"],"CodeCopy"]
+b:300
+2e:["$","li","voice-library",{"children":["$","$L15",null,{"href":"/docs/0.1/voice-library/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Voice library"}]}]
+2f:["$","li","voice-engine",{"children":["$","$L15",null,{"href":"/docs/0.1/voice-engine/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"The voice engine"}]}]
+30:["$","li","voice-cloning",{"children":["$","$L15",null,{"href":"/docs/0.1/voice-cloning/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Voice cloning"}]}]
+31:["$","div","Publishing",{"children":[["$","p",null,{"className":"mb-1.5 px-2 text-[12px] font-semibold","children":"Publishing"}],["$","ul",null,{"className":"grid list-none gap-0.5 border-l p-0","children":[["$","li","posting",{"children":["$","$L15",null,{"href":"/docs/0.1/posting/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Posting"}]}]]}]]}]
+32:["$","div","Reference",{"children":[["$","p",null,{"className":"mb-1.5 px-2 text-[12px] font-semibold","children":"Reference"}],["$","ul",null,{"className":"grid list-none gap-0.5 border-l p-0","children":[["$","li","keyboard-shortcuts",{"children":["$","$L15",null,{"href":"/docs/0.1/keyboard-shortcuts/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Keyboard shortcuts"}]}],["$","li","projects-and-files",{"children":["$","$L15",null,{"href":"/docs/0.1/projects-and-files/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Projects and files"}]}],["$","li","settings",{"children":["$","$L15",null,{"href":"/docs/0.1/settings/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Settings"}]}],["$","li","troubleshooting",{"children":["$","$L15",null,{"href":"/docs/0.1/troubleshooting/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Troubleshooting"}]}]]}]]}]
+33:["$","div","This version",{"children":[["$","p",null,{"className":"mb-1.5 px-2 text-[12px] font-semibold","children":"This version"}],["$","ul",null,{"className":"grid list-none gap-0.5 border-l p-0","children":[["$","li","release-notes",{"children":["$","$L15",null,{"href":"/docs/0.1/release-notes/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Release notes"}]}],["$","li","upgrade",{"children":["$","$L15",null,{"href":"/docs/0.1/upgrade/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Upgrade guide"}]}]]}]]}]
+36:[["$","$L3b",null,{"copy":"Copy","copied":"Copied"}],["$","div",null,{"className":"mt-14 grid gap-3 border-t pt-6 sm:grid-cols-2","children":[["$","$L15",null,{"href":"/docs/0.1/configuration/","className":"group rounded-lg border p-4 no-underline hover:bg-accent/50","children":[["$","span",null,{"className":"flex items-center gap-1.5 text-xs text-muted-foreground","children":[["$","$L34",null,{"icon":{"name":"arrow-left","size":24,"node":[["path",{"d":"m12 19-7-7 7-7","key":"1l729n"}],["path",{"d":"M19 12H5","key":"x3x0zl"}]]},"className":"size-3.5"}]," ","Previous"]}],["$","span",null,{"className":"mt-1 block text-[14px] font-medium","children":"Add your keys"}]]}],["$","$L15",null,{"href":"/docs/0.1/the-editor/","className":"group rounded-lg border p-4 text-right no-underline hover:bg-accent/50","children":[["$","span",null,{"className":"flex items-center justify-end gap-1.5 text-xs text-muted-foreground","children":["Next"," ",["$","$L34",null,{"icon":{"name":"arrow-right","size":24,"node":[["path",{"d":"M5 12h14","key":"1ays0h"}],["path",{"d":"m12 5 7 7-7 7","key":"xquz4c"}]]},"className":"size-3.5"}]]}],["$","span",null,{"className":"mt-1 block text-[14px] font-medium","children":"The editor"}]]}]]}],["$","a",null,{"href":"https://github.com/Heang-Dev/KROMA.STUDIO/edit/main/website/content/docs/0.1/en/updates.md","target":"_blank","rel":"noreferrer","className":"mt-6 inline-flex items-center gap-1.5 text-[13px] text-muted-foreground no-underline hover:text-foreground","children":[["$","$L34",null,{"icon":{"name":"pencil","size":24,"node":[["path",{"d":"M21.174 6.812a1 1 0 0 0-3.986-3.987L3.842 16.174a2 2 0 0 0-.5.83l-1.321 4.352a.5.5 0 0 0 .623.622l4.353-1.32a2 2 0 0 0 .83-.497z","key":"1a8usu"}],["path",{"d":"m15 5 4 4","key":"1mk7zo"}]]},"className":"size-3.5"}]," ","Edit this page on GitHub"]}]]
+39:null
+2c:true
+b:C
+2b:0
+12:"$undefined"
+f:"$undefined"
+d:"$undefined"
+a:"$undefined"
+2a:"$undefined"
+1b:"$undefined"

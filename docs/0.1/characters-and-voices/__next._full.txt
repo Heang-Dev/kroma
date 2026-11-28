@@ -1,0 +1,204 @@
+1:"$Sreact.fragment"
+3:"/kroma/_next/static/chunks/04vt5_qdxg31o.js"
+4:"/kroma/_next/static/chunks/0w3ftlzy945zl.js"
+5:"/kroma/_next/static/chunks/2m9t-wks40qyw.js"
+6:"/kroma/_next/static/chunks/1a4ohd0pkdhou.js"
+7:I[39756,["$3","$4","$5","$6"],"default"]
+8:I[37457,["$3","$4","$5","$6"],"default"]
+10:I[97367,["$3","$4","$5","$6"],"OutletBoundary"]
+11:"$Sreact.suspense"
+13:"ViewportBoundary"
+14:I[97367,["$3","$4","$5","$6"],"$13"]
+16:"MetadataBoundary"
+17:I[97367,["$3","$4","$5","$6"],"$16"]
+19:I[68027,["$3","$4","$5","$6"],"default",1]
+:HL["/kroma/_next/static/chunks/3kygz3hykdx6f.css","style"]
+:HL["/kroma/_next/static/media/07a39a8a4660cc7c-s.p.0r6juujl39pe6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/kroma/_next/static/media/ac3f6c3e4821ab39-s.p.3dytz707x2doa.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/kroma/_next/static/media/ecc70a8daf50308c-s.p.2wf6rvog29rnd.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+c:X
+e:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":["$Lf",null,["$","$L10",null,{"children":["$","$11",null,{"name":"Next.MetadataOutlet","children":"$@12"}]}]]}],"p":false,"v":null}}]]
+d:[["children",{"s":{"n":"slug","t":"d","k":"characters-and-voices","s":[]},"h":66048,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$c"},"c":"$Qe"}]]
+b:[["children",{"s":{"n":"version","t":"d","k":"0.1","s":[]},"h":197120,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$c"},"c":"$Qd"}]]
+a:[["children",{"s":"docs","h":131584,"d":{"r":["$","$1","c",{"children":[[["$","script","script-0",{"src":"/kroma/_next/static/chunks/2ffur98r21h0b.js","async":true,"nonce":"$undefined"}]],["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":null},"c":"$Qb"}]]
+0:{"P":null,"c":["","docs","0.1","characters-and-voices",""],"q":"","i":false,"t":{"t":{"s":"","h":131600,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/kroma/_next/static/chunks/3kygz3hykdx6f.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/kroma/_next/static/chunks/04vt5_qdxg31o.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/kroma/_next/static/chunks/0w3ftlzy945zl.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/kroma/_next/static/chunks/2m9t-wks40qyw.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/kroma/_next/static/chunks/1a4ohd0pkdhou.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"z61v7q_variable -suo1a_variable","suppressHydrationWarning":true,"children":[["$","head",null,{"children":["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(a){try{let b=document.documentElement,c=location.pathname.slice(a.length)||\"/\",d=\"/km\"===c||c.startsWith(\"/km/\");b.lang=d?\"km\":\"en\";let e=localStorage.getItem(\"kroma-theme\");b.classList.toggle(\"dark\",e?\"dark\"===e:matchMedia(\"(prefers-color-scheme: dark)\").matches);let f=localStorage.getItem(\"kroma-lang\"),g=!1;try{let b=new URL(document.referrer);g=b.origin===location.origin&&(b.pathname+\"/\").startsWith(a+\"/\")}catch{}if(!f||g)return;let h=location.search+location.hash;\"km\"!==f||d?\"en\"===f&&d&&location.replace(a+(c.slice(3)||\"/\")+h):location.replace(a+\"/km\"+(\"/\"===c?\"/\":c)+h)}catch{}})(\"/kroma\")"}}]}],["$","body",null,{"className":"flex min-h-svh flex-col","children":["$L2",["$","div",null,{"className":"flex-1","children":["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],"$L9"]}]]}]]}],"p":false,"v":null},"c":"$Qa"},"h":{"r":["$","$1","h",{"children":[null,["$","$L14",null,{"children":"$L15"}],["$","$L17",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$11",null,{"name":"Next.Metadata","children":"$L18"}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":false,"v":null}},"m":"$undefined","G":["$19",[["$","link","0",{"rel":"stylesheet","href":"/kroma/_next/static/chunks/3kygz3hykdx6f.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"Hf2A-8s-tskzwG8lj9Zm4"}
+1a:I[19738,["$3","$4","$5","$6"],"HeaderBar"]
+1b:I[19738,["$3","$4","$5","$6"],"FooterBar"]
+c:C
+2:["$","$L1a",null,{"stars":0}]
+9:["$","$L1b",null,{"latest":{"version":"0.2.3","date":"2026-11-28T09:36:49Z"}}]
+1c:"/kroma/_next/static/chunks/2ffur98r21h0b.js"
+1d:I[22016,["$3","$4","$5","$6","$1c"],""]
+1e:I[32016,["$3","$4","$5","$6","$1c"],"VersionPicker"]
+1f:I[45613,["$3","$4","$5","$6","$1c"],"DocsNavToggle"]
+f:["$","div",null,{"className":"mx-auto w-[min(1280px,100%-32px)] grid grid-cols-1 gap-6 pt-6 pb-10 lg:gap-10 lg:pt-10 lg:grid-cols-[230px_1fr] xl:grid-cols-[230px_1fr_200px]","children":[["$","aside",null,{"className":"lg:sticky lg:top-[84px] lg:max-h-[calc(100vh-100px)] lg:self-start lg:overflow-y-auto lg:pr-2","children":[["$","$L1d",null,{"href":"/docs/0.1/","className":"mb-3 block text-xs tracking-wider text-muted-foreground uppercase no-underline hover:text-foreground","children":"Documentation"}],["$","$L1e",null,{"versions":[{"version":"0.2","label":"0.2.x","released":"2026-11-28"},{"version":"0.1","label":"0.1.x","released":"2026-11-27"}],"current":"0.1","slug":"characters-and-voices","slugsByVersion":{"0.2":["installation","configuration","updates","the-editor","first-video","downloading","subtitles","translation","style-and-objects","export","batch","characters-and-voices","voice-library","voice-engine","voice-cloning","story","posting","keyboard-shortcuts","projects-and-files","settings","notifications","troubleshooting","release-notes","upgrade"],"0.1":["installation","configuration","updates","the-editor","first-video","downloading","subtitles","translation","style-and-objects","export","characters-and-voices","voice-library","voice-engine","voice-cloning","posting","keyboard-shortcuts","projects-and-files","settings","troubleshooting","release-notes","upgrade"]},"lang":"en","latestLabel":"latest"}],["$","$L1f",null,{"current":"Characters & voices","label":"Documentation","children":["$","nav",null,{"aria-label":"Documentation","className":"mt-5 grid gap-5","children":[["$","div","Getting started",{"children":[["$","p",null,{"className":"mb-1.5 px-2 text-[12px] font-semibold","children":"Getting started"}],["$","ul",null,{"className":"grid list-none gap-0.5 border-l p-0","children":[["$","li","installation",{"children":["$","$L1d",null,{"href":"/docs/0.1/installation/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Installation"}]}],["$","li","configuration",{"children":["$","$L1d",null,{"href":"/docs/0.1/configuration/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Add your keys"}]}],["$","li","updates",{"children":["$","$L1d",null,{"href":"/docs/0.1/updates/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Updates"}]}],["$","li","the-editor",{"children":["$","$L1d",null,{"href":"/docs/0.1/the-editor/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"The editor"}]}]]}]]}],["$","div","Making videos",{"children":[["$","p",null,{"className":"mb-1.5 px-2 text-[12px] font-semibold","children":"Making videos"}],["$","ul",null,{"className":"grid list-none gap-0.5 border-l p-0","children":[["$","li","first-video",{"children":["$","$L1d",null,{"href":"/docs/0.1/first-video/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Your first video"}]}],["$","li","downloading",{"children":["$","$L1d",null,{"href":"/docs/0.1/downloading/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Downloading videos"}]}],"$L20","$L21","$L22","$L23"]}]]}],"$L24","$L25","$L26","$L27"]}]}]]}],"$L28","$L29"]}]
+2a:I[5014,["$3","$4","$5","$6","$1c"],"default"]
+2d:I[51896,["$3","$4","$5","$6","$1c"],"DocsToc"]
+20:["$","li","subtitles",{"children":["$","$L1d",null,{"href":"/docs/0.1/subtitles/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Subtitles"}]}]
+21:["$","li","translation",{"children":["$","$L1d",null,{"href":"/docs/0.1/translation/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Translation"}]}]
+22:["$","li","style-and-objects",{"children":["$","$L1d",null,{"href":"/docs/0.1/style-and-objects/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Style & objects"}]}]
+23:["$","li","export",{"children":["$","$L1d",null,{"href":"/docs/0.1/export/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Export"}]}]
+24:["$","div","Voices",{"children":[["$","p",null,{"className":"mb-1.5 px-2 text-[12px] font-semibold","children":"Voices"}],["$","ul",null,{"className":"grid list-none gap-0.5 border-l p-0","children":[["$","li","characters-and-voices",{"children":["$","$L1d",null,{"href":"/docs/0.1/characters-and-voices/","aria-current":"page","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors rounded-r-md border-brand bg-brand/10 font-medium text-brand","children":"Characters & voices"}]}],["$","li","voice-library",{"children":["$","$L1d",null,{"href":"/docs/0.1/voice-library/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Voice library"}]}],["$","li","voice-engine",{"children":["$","$L1d",null,{"href":"/docs/0.1/voice-engine/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"The voice engine"}]}],["$","li","voice-cloning",{"children":["$","$L1d",null,{"href":"/docs/0.1/voice-cloning/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Voice cloning"}]}]]}]]}]
+25:["$","div","Publishing",{"children":[["$","p",null,{"className":"mb-1.5 px-2 text-[12px] font-semibold","children":"Publishing"}],["$","ul",null,{"className":"grid list-none gap-0.5 border-l p-0","children":[["$","li","posting",{"children":["$","$L1d",null,{"href":"/docs/0.1/posting/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Posting"}]}]]}]]}]
+26:["$","div","Reference",{"children":[["$","p",null,{"className":"mb-1.5 px-2 text-[12px] font-semibold","children":"Reference"}],["$","ul",null,{"className":"grid list-none gap-0.5 border-l p-0","children":[["$","li","keyboard-shortcuts",{"children":["$","$L1d",null,{"href":"/docs/0.1/keyboard-shortcuts/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Keyboard shortcuts"}]}],["$","li","projects-and-files",{"children":["$","$L1d",null,{"href":"/docs/0.1/projects-and-files/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Projects and files"}]}],["$","li","settings",{"children":["$","$L1d",null,{"href":"/docs/0.1/settings/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Settings"}]}],["$","li","troubleshooting",{"children":["$","$L1d",null,{"href":"/docs/0.1/troubleshooting/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Troubleshooting"}]}]]}]]}]
+27:["$","div","This version",{"children":[["$","p",null,{"className":"mb-1.5 px-2 text-[12px] font-semibold","children":"This version"}],["$","ul",null,{"className":"grid list-none gap-0.5 border-l p-0","children":[["$","li","release-notes",{"children":["$","$L1d",null,{"href":"/docs/0.1/release-notes/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Release notes"}]}],["$","li","upgrade",{"children":["$","$L1d",null,{"href":"/docs/0.1/upgrade/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Upgrade guide"}]}]]}]]}]
+2b:T3036,<p>A voice-over reads your translated subtitles aloud, each line at its own time in the video. In a drama, every character can speak with a different voice: the mother gets a warm voice, the villain a dark one, the narrator a deep one.</p>
+<p>Everything on this page happens in the <strong>Voice</strong> panel (left menu). The panel has three parts, top to bottom: <strong>Characters</strong>, the voice-over itself (called <strong>Default voice</strong> once you have characters), and <strong>Mix</strong>.</p>
+<p>You need translated subtitles first. If there are none, the panel says <strong>Make the subtitles first.</strong></p>
+<h2 id="characters"><a class="anchor" href="#characters" aria-hidden="true">#</a>Characters</h2><p>A character is a person who speaks in the video. Each character has a name, a colour and a voice. Lines that belong to a character are spoken in that character&#39;s voice. Lines with no character are spoken by the <strong>Default voice</strong>.</p>
+<p>Characters are optional. A vlog or an explainer with one speaker works fine with only the default voice.</p>
+<h3 id="find-characters-automatically"><a class="anchor" href="#find-characters-automatically" aria-hidden="true">#</a>Find characters automatically</h3><p>Press <strong>Find automatically</strong>. Kroma reads the dialogue (about 20 seconds) and:</p>
+<ul>
+<li>names each character the way the video does, like a name or a role (&quot;Mother&quot;, &quot;Boss&quot;, &quot;Narrator&quot;),</li>
+<li>writes a short description, like &quot;old man, the grandfather&quot;,</li>
+<li>decides who says each line,</li>
+<li>picks a voice for each character, matching gender and age first, then mood.</li>
+</ul>
+<p>Some things to know:</p>
+<ul>
+<li>It reads the <strong>words only</strong>, not the sound. It works from the original lines (for example the Chinese), or from the translation when there&#39;s no original. So it&#39;s a good guess, not a sure answer. Check it and fix any line that&#39;s wrong.</li>
+<li>It needs an AI key: your free Gemini key, or a Claude key (see <a href="/kroma/docs/0.1/configuration/">Add your keys</a>). Without one you&#39;ll see: &quot;Finding characters needs your free Gemini key (Settings → Translation) or a Claude key.&quot;</li>
+<li>It picks from the same kind of voice you already use. If your default voice is a designed voice (and the video is in Khmer), it picks designed voices. Otherwise it picks instant voices. It never picks a cloned voice.</li>
+<li>If it can&#39;t tell who says a line, it gives the line to whoever spoke just before.</li>
+<li>Long videos are read in parts of 250 lines. Names found in earlier parts are reused, so the same person keeps the same name.</li>
+</ul>
+<p>When it&#39;s done, a message says how many characters it found. The button now says <strong>Find again</strong>. If you press it again, characters with the same name keep the voice you already chose for them.</p>
+<h3 id="add-a-character-by-hand"><a class="anchor" href="#add-a-character-by-hand" aria-hidden="true">#</a>Add a character by hand</h3><p>Press <strong>Add a character</strong>. A new character called &quot;Character 1&quot; (then &quot;Character 2&quot;, and so on) appears, using your default voice.</p>
+<ul>
+<li><strong>Rename</strong> it: click the name, type, and press Enter.</li>
+<li>If you rename a character to a name that already exists, the two are merged into one.</li>
+<li>A character with no lines shows a yellow note: &quot;No lines yet&quot;. Give it lines from the subtitles (see below).</li>
+</ul>
+<h3 id="remove-a-character"><a class="anchor" href="#remove-a-character" aria-hidden="true">#</a>Remove a character</h3><p>Press the bin icon next to the character. Their lines go back to the default voice.</p>
+<h3 id="choose-a-voice-for-each-character"><a class="anchor" href="#choose-a-voice-for-each-character" aria-hidden="true">#</a>Choose a voice for each character</h3><p>Under each character there&#39;s a voice menu and a ▶ button. The menu has three groups:</p>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Group</th>
+<th>What&#39;s in it</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Preset groups (Narration, Palace &amp; royalty, Heroes &amp; fighters…)</td>
+<td>The 36 designed Khmer voices. They need the <a href="/kroma/docs/0.1/voice-engine/">voice engine</a>.</td>
+</tr>
+<tr>
+<td><strong>Your voices</strong></td>
+<td>Voices you cloned. Shown only when you have some. See <a href="/kroma/docs/0.1/voice-cloning/">Voice cloning</a>.</td>
+</tr>
+<tr>
+<td><strong>Instant · Khmer</strong> (or your language)</td>
+<td>Microsoft&#39;s free voices. They need no setup.</td>
+</tr>
+</tbody></table></div>
+<p>Press ▶ to hear a sample. Press it again (■) to stop. To hear every voice side by side, open the <a href="/kroma/docs/0.1/voice-library/">Voice library</a>.</p>
+<p>Each character row also shows how many lines that character has.</p>
+<h3 id="change-who-says-a-line"><a class="anchor" href="#change-who-says-a-line" aria-hidden="true">#</a>Change who says a line</h3><p>Once you have characters, every line in the <strong>Subtitles</strong> list shows a small coloured name. Click it to open a menu:</p>
+<ul>
+<li>pick a character,</li>
+<li>pick <strong>Default voice</strong>, or</li>
+<li>pick <strong>New character…</strong> to make a new character and give it this line at once.</li>
+</ul>
+<p>If some lines have no character, the panel says, for example, &quot;12 lines have no character: the default voice speaks them.&quot;</p>
+<h2 id="the-default-voice"><a class="anchor" href="#the-default-voice" aria-hidden="true">#</a>The default voice</h2><p>This part of the panel is called <strong>Khmer voice-over</strong> (or your language&#39;s name) until you add characters. Then it&#39;s called <strong>Default voice</strong>.</p>
+<p>Choose the <strong>Voice type</strong>:</p>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Type</th>
+<th>What it is</th>
+<th>Good for</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><strong>Instant</strong></td>
+<td>Microsoft&#39;s free voices, ready in seconds</td>
+<td>Drafts, checking timing, and every language other than Khmer</td>
+</tr>
+<tr>
+<td><strong>Designed</strong></td>
+<td>The 36 Khmer preset voices from the voice engine</td>
+<td>Natural, expressive Khmer</td>
+</tr>
+<tr>
+<td><strong>Cloned</strong></td>
+<td>Your own voices, made from a short recording</td>
+<td>Your own voice, or one you have permission to use</td>
+</tr>
+</tbody></table></div>
+<p>Designed and cloned voices are slower than instant ones, so make the final voice-over once your subtitles are final.</p>
+<p>If your video&#39;s language isn&#39;t Khmer, the panel warns that designed and cloned voices are made for Khmer and may read your language with a Khmer accent. Use <strong>Instant</strong> for those languages.</p>
+<h3 id="speed"><a class="anchor" href="#speed" aria-hidden="true">#</a>Speed</h3><p>With <strong>Instant</strong> voices you get a <strong>Speed</strong> slider, from -30% to +50% in steps of 5. The default is +10%. It changes how fast the instant voices read. Designed and cloned voices don&#39;t use this slider.</p>
+<h2 id="make-the-voice-over"><a class="anchor" href="#make-the-voice-over" aria-hidden="true">#</a>Make the voice-over</h2><p>Press <strong>Make voice-over</strong>. Kroma speaks every translated line. When you have characters, it works through one voice at a time, so the progress shows, for example, &quot;Voice-over 2/3: Mother&quot;.</p>
+<p>Under the button, <strong>Lines voiced</strong> shows how many lines have a voice, for example &quot;48 / 52&quot;.</p>
+<p>When it&#39;s done, the <strong>Use the voice-over</strong> switch turns on and you hear the voice-over in the preview.</p>
+<h3 id="only-changed-lines-are-redone"><a class="anchor" href="#only-changed-lines-are-redone" aria-hidden="true">#</a>Only changed lines are redone</h3><p>Kroma remembers each recording. So:</p>
+<ul>
+<li>editing a subtitle re-voices only that line,</li>
+<li>changing a character&#39;s voice re-voices only that character&#39;s lines,</li>
+<li>changing the speed re-voices only lines read by instant voices.</li>
+</ul>
+<p>When some lines are new, the button says <strong>Voice the 4 new lines</strong> (or however many). Press it to fill only those.</p>
+<p>If a few lines fail (for example the internet drops), you&#39;ll see &quot;Voiced 40 lines; 3 not done. Press again to finish them.&quot; Press the button again.</p>
+<h3 id="how-the-timing-fits"><a class="anchor" href="#how-the-timing-fits" aria-hidden="true">#</a>How the timing fits</h3><p>A translated line is often longer than the original. Kroma never cuts a line short. Instead:</p>
+<ol>
+<li>Each line starts when its subtitle starts.</li>
+<li>If a line is too long for its gap, it&#39;s sped up, up to 1.6× its normal speed.</li>
+<li>If it&#39;s still too long, it runs into the next line&#39;s time, and the next line starts a little later. The delay is caught up in the next pause.</li>
+<li>If a line would end more than 1.2 seconds after the next subtitle starts, it&#39;s sped up harder, up to 2×, to stay with the picture.</li>
+</ol>
+<p>The preview and the exported video use exactly the same timing.</p>
+<h2 id="mix"><a class="anchor" href="#mix" aria-hidden="true">#</a>Mix</h2><p>The <strong>Mix</strong> section decides what you hear under the voice-over.</p>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Setting</th>
+<th>What it does</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><strong>Use the voice-over</strong></td>
+<td>Turns the voice-over on or off, in the preview and in the export.</td>
+</tr>
+<tr>
+<td><strong>Remove the original voices</strong></td>
+<td>Takes out the original speech and keeps the music and sound effects. On by default.</td>
+</tr>
+<tr>
+<td><strong>Quality</strong></td>
+<td><strong>Fast</strong> (the default) removes speech well. <strong>Best</strong> is the cleanest, but slower than the video&#39;s length without a strong graphics card.</td>
+</tr>
+<tr>
+<td><strong>Music &amp; effects</strong></td>
+<td>The volume of what&#39;s left after the voices are removed. Default 100%.</td>
+</tr>
+<tr>
+<td><strong>Original sound</strong></td>
+<td>Shown when voice removal is off: the volume of the original sound under the voice-over. Default 15%.</td>
+</tr>
+</tbody></table></div>
+<p>Press <strong>Hear the first line</strong> to play the first voiced line.</p>
+<h3 id="removing-the-original-voices"><a class="anchor" href="#removing-the-original-voices" aria-hidden="true">#</a>Removing the original voices</h3><p>When you make a voice-over, Kroma removes the original voices <strong>automatically</strong> right after, so you don&#39;t hear the original speech under the new voice. Music and sound effects stay.</p>
+<ul>
+<li>It runs on your computer, not online. It takes about 40 seconds per 5 minutes of video on a recent Mac or PC (with <strong>Fast</strong>).</li>
+<li>The first time, it downloads the tool and the voice-removal model. This takes longer, once.</li>
+<li>It needs a free tool called <strong>uv</strong>. See <a href="/kroma/docs/0.1/installation/">Installation</a>. Without it you&#39;ll see &quot;Removing voices needs uv&quot; and how to install it (on a Mac, <code>brew install uv</code>).</li>
+<li>It runs once per video. After that the result is saved, so it&#39;s instant.</li>
+<li>Changing <strong>Quality</strong> runs it again with the new quality.</li>
+<li>If you made a voice-over before this was automatic, it runs when you <a href="/kroma/docs/0.1/export/">export</a>.</li>
+</ul>
+<p>If it fails, you&#39;ll see &quot;The original voices are still in&quot;. The original sound then plays quietly under the voice-over. Try again by turning <strong>Remove the original voices</strong> off and on in <strong>Mix</strong>.</p>
+<p>To keep the original sound (for example, a narrator over a music video), turn <strong>Remove the original voices</strong> off and set the <strong>Original sound</strong> volume.</p>
+<h2 id="next"><a class="anchor" href="#next" aria-hidden="true">#</a>Next</h2><ul>
+<li>Hear all the voices: <a href="/kroma/docs/0.1/voice-library/">Voice library</a></li>
+<li>Set up designed and cloned voices: <a href="/kroma/docs/0.1/voice-engine/">The voice engine</a></li>
+<li>Make a voice from your own recording: <a href="/kroma/docs/0.1/voice-cloning/">Voice cloning</a></li>
+</ul>
+28:["$","main",null,{"className":"min-w-0","children":[["$","div",null,{"role":"note","className":"mb-6 flex flex-wrap items-center gap-x-3 gap-y-1 rounded-lg border border-warning/40 bg-warning/10 px-4 py-3 text-[13px]","children":[["$","$L2a",null,{"ref":"$undefined","icon":{"name":"triangle-exclamation-point","size":24,"node":[["path",{"d":"m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3","key":"wmoenq"}],["path",{"d":"M12 9v4","key":"juzpu7"}],["path",{"d":"M12 17h.01","key":"p32p05"}]],"aliases":["alert-triangle","triangle-alert"]},"className":"size-4 shrink-0 text-warning"}],["$","span",null,{"children":"You're reading the docs for Kroma 0.1. The latest version is 0.2.x."}],["$","$L1d",null,{"href":"/docs/0.2/characters-and-voices/","className":"font-medium underline underline-offset-2","children":["Go to the latest docs"," →"]}]]}],[["$","p",null,{"className":"text-[12.5px] font-medium tracking-[0.08em] text-brand uppercase","children":"Voices"}],["$","h1",null,{"className":"mt-2 text-[clamp(28px,4vw,40px)] font-semibold","children":"Characters & voices"}],["$","div",null,{"className":"docs-prose mt-6","dangerouslySetInnerHTML":{"__html":"$2b"}}]],"$L2c"]}]
+29:["$","aside",null,{"className":"hidden xl:sticky xl:top-[84px] xl:block xl:self-start","children":[["$","p",null,{"className":"text-xs tracking-wider text-muted-foreground uppercase","children":"On this page"}],["$","$L2d",null,{"items":[{"depth":2,"id":"characters","text":"Characters"},{"depth":3,"id":"find-characters-automatically","text":"Find characters automatically"},{"depth":3,"id":"add-a-character-by-hand","text":"Add a character by hand"},{"depth":3,"id":"remove-a-character","text":"Remove a character"},{"depth":3,"id":"choose-a-voice-for-each-character","text":"Choose a voice for each character"},{"depth":3,"id":"change-who-says-a-line","text":"Change who says a line"},{"depth":2,"id":"the-default-voice","text":"The default voice"},{"depth":3,"id":"speed","text":"Speed"},{"depth":2,"id":"make-the-voice-over","text":"Make the voice-over"},{"depth":3,"id":"only-changed-lines-are-redone","text":"Only changed lines are redone"},{"depth":3,"id":"how-the-timing-fits","text":"How the timing fits"},{"depth":2,"id":"mix","text":"Mix"},{"depth":3,"id":"removing-the-original-voices","text":"Removing the original voices"},{"depth":2,"id":"next","text":"Next"}]}]]}]
+2e:I[23051,["$3","$4","$5","$6","$1c"],"CodeCopy"]
+2c:[["$","$L2e",null,{"copy":"Copy","copied":"Copied"}],["$","div",null,{"className":"mt-14 grid gap-3 border-t pt-6 sm:grid-cols-2","children":[["$","$L1d",null,{"href":"/docs/0.1/export/","className":"group rounded-lg border p-4 no-underline hover:bg-accent/50","children":[["$","span",null,{"className":"flex items-center gap-1.5 text-xs text-muted-foreground","children":[["$","$L2a",null,{"ref":"$undefined","icon":{"name":"arrow-left","size":24,"node":[["path",{"d":"m12 19-7-7 7-7","key":"1l729n"}],["path",{"d":"M19 12H5","key":"x3x0zl"}]]},"className":"size-3.5"}]," ","Previous"]}],["$","span",null,{"className":"mt-1 block text-[14px] font-medium","children":"Export"}]]}],["$","$L1d",null,{"href":"/docs/0.1/voice-library/","className":"group rounded-lg border p-4 text-right no-underline hover:bg-accent/50","children":[["$","span",null,{"className":"flex items-center justify-end gap-1.5 text-xs text-muted-foreground","children":["Next"," ",["$","$L2a",null,{"ref":"$undefined","icon":{"name":"arrow-right","size":24,"node":[["path",{"d":"M5 12h14","key":"1ays0h"}],["path",{"d":"m12 5 7 7-7 7","key":"xquz4c"}]]},"className":"size-3.5"}]]}],["$","span",null,{"className":"mt-1 block text-[14px] font-medium","children":"Voice library"}]]}]]}],["$","a",null,{"href":"https://github.com/Heang-Dev/KROMA.STUDIO/edit/main/website/content/docs/0.1/en/characters-and-voices.md","target":"_blank","rel":"noreferrer","className":"mt-6 inline-flex items-center gap-1.5 text-[13px] text-muted-foreground no-underline hover:text-foreground","children":[["$","$L2a",null,{"ref":"$undefined","icon":{"name":"pencil","size":24,"node":[["path",{"d":"M21.174 6.812a1 1 0 0 0-3.986-3.987L3.842 16.174a2 2 0 0 0-.5.83l-1.321 4.352a.5.5 0 0 0 .623.622l4.353-1.32a2 2 0 0 0 .83-.497z","key":"1a8usu"}],["path",{"d":"m15 5 4 4","key":"1mk7zo"}]]},"className":"size-3.5"}]," ","Edit this page on GitHub"]}]]
+15:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+2f:I[27201,["$3","$4","$5","$6"],"IconMark"]
+12:null
+18:[["$","title","0",{"children":"Characters & voices · v0.1 · Docs · Kroma Studio"}],["$","meta","1",{"name":"description","content":"Download videos from YouTube, Bilibili, Douyin and 1,000+ sites, translate the subtitles to Khmer, give every character a voice, and post to YouTube, Facebook and TikTok. A free desktop app for macOS, Windows and Linux."}],["$","meta","2",{"property":"og:title","content":"Characters & voices · v0.1 · Docs · Kroma Studio"}],["$","meta","3",{"property":"og:description","content":"Everything about Kroma Studio, from installing it to posting your videos."}],["$","meta","4",{"property":"og:site_name","content":"Kroma Studio"}],["$","meta","5",{"property":"og:locale","content":"en_US"}],["$","meta","6",{"property":"og:image","content":"https://heang-dev.github.io/kroma/assets/og-docs.png"}],["$","meta","7",{"property":"og:image:width","content":"1200"}],["$","meta","8",{"property":"og:image:height","content":"630"}],["$","meta","9",{"property":"og:image:alt","content":"The Kroma Studio docs"}],["$","meta","10",{"property":"og:type","content":"website"}],["$","meta","11",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","12",{"name":"twitter:title","content":"Characters & voices · v0.1 · Docs · Kroma Studio"}],["$","meta","13",{"name":"twitter:description","content":"Everything about Kroma Studio, from installing it to posting your videos."}],["$","meta","14",{"name":"twitter:image","content":"https://heang-dev.github.io/kroma/assets/og-docs.png"}],["$","meta","15",{"name":"twitter:image:alt","content":"The Kroma Studio docs"}],["$","meta","16",{"name":"twitter:image:width","content":"1200"}],["$","meta","17",{"name":"twitter:image:height","content":"630"}],["$","link","18",{"rel":"icon","href":"/kroma/assets/kroma-favicon.png"}],["$","$L2f","19",{}]]

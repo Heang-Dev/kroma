@@ -1,0 +1,229 @@
+1:"$Sreact.fragment"
+2:"/kroma/_next/static/chunks/04vt5_qdxg31o.js"
+3:"/kroma/_next/static/chunks/0w3ftlzy945zl.js"
+4:"/kroma/_next/static/chunks/2m9t-wks40qyw.js"
+5:"/kroma/_next/static/chunks/1a4ohd0pkdhou.js"
+6:I[19738,["$2","$3","$4","$5"],"HeaderBar"]
+7:I[39756,["$2","$3","$4","$5"],"default"]
+8:I[37457,["$2","$3","$4","$5"],"default"]
+9:I[19738,["$2","$3","$4","$5"],"FooterBar"]
+14:"/kroma/_next/static/chunks/2ffur98r21h0b.js"
+15:I[22016,["$2","$3","$4","$5","$14"],""]
+16:I[32016,["$2","$3","$4","$5","$14"],"VersionPicker"]
+1c:"ViewportBoundary"
+1d:I[97367,["$2","$3","$4","$5"],"$1c"]
+1e:"MetadataBoundary"
+1f:I[97367,["$2","$3","$4","$5"],"$1e"]
+20:"$Sreact.suspense"
+:HL["/kroma/_next/static/chunks/3kygz3hykdx6f.css","style"]
+b:X
+10:X
+10:C
+13:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto w-[min(1280px,100%-32px)] grid grid-cols-1 gap-6 pt-6 pb-10 lg:gap-10 lg:pt-10 lg:grid-cols-[230px_1fr] xl:grid-cols-[230px_1fr_200px]","children":[["$","aside",null,{"className":"lg:sticky lg:top-[84px] lg:max-h-[calc(100vh-100px)] lg:self-start lg:overflow-y-auto lg:pr-2","children":[["$","$L15",null,{"href":"/docs/0.1/","className":"mb-3 block text-xs tracking-wider text-muted-foreground uppercase no-underline hover:text-foreground","children":"Documentation"}],["$","$L16",null,{"versions":[{"version":"0.2","label":"0.2.x","released":"2026-11-28"},{"version":"0.1","label":"0.1.x","released":"2026-11-27"}],"current":"0.1","slug":"release-notes","slugsByVersion":{"0.2":["installation","configuration","updates","the-editor","first-video","downloading","subtitles","translation","style-and-objects","export","batch","characters-and-voices","voice-library","voice-engine","voice-cloning","story","posting","keyboard-shortcuts","projects-and-files","settings","notifications","troubleshooting","release-notes","upgrade"],"0.1":["installation","configuration","updates","the-editor","first-video","downloading","subtitles","translation","style-and-objects","export","characters-and-voices","voice-library","voice-engine","voice-cloning","posting","keyboard-shortcuts","projects-and-files","settings","troubleshooting","release-notes","upgrade"]},"lang":"en","latestLabel":"latest"}],"$L17"]}],"$L18","$L19"]}],null,"$L1a"]}],"p":"$@1b","v":null,"s":"$b"}}]]
+11:[["children",{"s":{"n":"slug","t":"d","k":"release-notes","s":[]},"h":65632,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$L8",null,{}]}]]}],"p":"$@12","v":"$10","s":"$b"},"c":"$Q13"}]]
+e:[["children",{"s":{"n":"version","t":"d","k":"0.1","s":[]},"h":196704,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$L8",null,{}]}]]}],"p":"$@f","v":"$10","s":"$b"},"c":"$Q11"}]]
+c:[["children",{"s":"docs","h":131168,"d":{"r":["$","$1","c",{"children":[[["$","script","script-0",{"src":"/kroma/_next/static/chunks/2ffur98r21h0b.js","async":true}]],["$","$L7",null,{"parallelRouterKey":"children","template":["$","$L8",null,{}]}]]}],"p":"$@d","v":null,"s":"$b"},"c":"$Qe"}]]
+0:{"t":{"t":{"s":"","h":131152,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/kroma/_next/static/chunks/3kygz3hykdx6f.css","precedence":"next"}],["$","script","script-0",{"src":"/kroma/_next/static/chunks/04vt5_qdxg31o.js","async":true}],["$","script","script-1",{"src":"/kroma/_next/static/chunks/0w3ftlzy945zl.js","async":true}],["$","script","script-2",{"src":"/kroma/_next/static/chunks/2m9t-wks40qyw.js","async":true}],["$","script","script-3",{"src":"/kroma/_next/static/chunks/1a4ohd0pkdhou.js","async":true}]],["$","html",null,{"lang":"en","className":"z61v7q_variable -suo1a_variable","suppressHydrationWarning":true,"children":[["$","head",null,{"children":["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(a){try{let b=document.documentElement,c=location.pathname.slice(a.length)||\"/\",d=\"/km\"===c||c.startsWith(\"/km/\");b.lang=d?\"km\":\"en\";let e=localStorage.getItem(\"kroma-theme\");b.classList.toggle(\"dark\",e?\"dark\"===e:matchMedia(\"(prefers-color-scheme: dark)\").matches);let f=localStorage.getItem(\"kroma-lang\"),g=!1;try{let b=new URL(document.referrer);g=b.origin===location.origin&&(b.pathname+\"/\").startsWith(a+\"/\")}catch{}if(!f||g)return;let h=location.search+location.hash;\"km\"!==f||d?\"en\"===f&&d&&location.replace(a+(c.slice(3)||\"/\")+h):location.replace(a+\"/km\"+(\"/\"===c?\"/\":c)+h)}catch{}})(\"/kroma\")"}}]}],["$","body",null,{"className":"flex min-h-svh flex-col","children":[["$","$L6",null,{"stars":0}],["$","div",null,{"className":"flex-1","children":["$","$L7",null,{"parallelRouterKey":"children","template":["$","$L8",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}]}],["$","$L9",null,{"latest":{"version":"0.2.3","date":"2026-11-28T09:36:49Z"}}]]}]]}]]}],"p":"$@a","v":null,"s":"$b"},"c":"$Qc"},"h":{"r":["$","$1","h",{"children":[null,["$","$L1d",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L1f",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$20",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Release notes · v0.1 · Docs · Kroma Studio"}],["$","meta","1",{"name":"description","content":"Download videos from YouTube, Bilibili, Douyin and 1,000+ sites, translate the subtitles to Khmer, give every character a voice, and post to YouTube, Facebook and TikTok. A free desktop app for macOS, Windows and Linux."}],["$","meta","2",{"property":"og:title","content":"Release notes · v0.1 · Docs · Kroma Studio"}],["$","meta","3",{"property":"og:description","content":"Everything about Kroma Studio, from installing it to posting your videos."}],["$","meta","4",{"property":"og:site_name","content":"Kroma Studio"}],["$","meta","5",{"property":"og:locale","content":"en_US"}],["$","meta","6",{"property":"og:image","content":"https://heang-dev.github.io/kroma/assets/og-docs.png"}],["$","meta","7",{"property":"og:image:width","content":"1200"}],["$","meta","8",{"property":"og:image:height","content":"630"}],["$","meta","9",{"property":"og:image:alt","content":"The Kroma Studio docs"}],["$","meta","10",{"property":"og:type","content":"website"}],["$","meta","11",{"name":"twitter:card","content":"summary_large_image"}],"$L21","$L22","$L23","$L24","$L25","$L26","$L27","$L28"]}]}],null]}],"$L29"]}],"p":"$@2a","v":null,"s":"$b"}},"a":"$@2b","u":"$@2c","b":"Hf2A-8s-tskzwG8lj9Zm4"}
+2d:I[45613,["$2","$3","$4","$5","$14"],"DocsNavToggle"]
+34:I[5014,["$2","$3","$4","$5","$14"],"default"]
+37:I[51896,["$2","$3","$4","$5","$14"],"DocsToc"]
+38:I[97367,["$2","$3","$4","$5"],"OutletBoundary"]
+3a:I[27201,["$2","$3","$4","$5"],"IconMark"]
+17:["$","$L2d",null,{"current":"Release notes","label":"Documentation","children":["$","nav",null,{"aria-label":"Documentation","className":"mt-5 grid gap-5","children":[["$","div","Getting started",{"children":[["$","p",null,{"className":"mb-1.5 px-2 text-[12px] font-semibold","children":"Getting started"}],["$","ul",null,{"className":"grid list-none gap-0.5 border-l p-0","children":[["$","li","installation",{"children":["$","$L15",null,{"href":"/docs/0.1/installation/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Installation"}]}],["$","li","configuration",{"children":["$","$L15",null,{"href":"/docs/0.1/configuration/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Add your keys"}]}],["$","li","updates",{"children":["$","$L15",null,{"href":"/docs/0.1/updates/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Updates"}]}],["$","li","the-editor",{"children":["$","$L15",null,{"href":"/docs/0.1/the-editor/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"The editor"}]}]]}]]}],["$","div","Making videos",{"children":[["$","p",null,{"className":"mb-1.5 px-2 text-[12px] font-semibold","children":"Making videos"}],["$","ul",null,{"className":"grid list-none gap-0.5 border-l p-0","children":[["$","li","first-video",{"children":["$","$L15",null,{"href":"/docs/0.1/first-video/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Your first video"}]}],["$","li","downloading",{"children":["$","$L15",null,{"href":"/docs/0.1/downloading/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Downloading videos"}]}],["$","li","subtitles",{"children":["$","$L15",null,{"href":"/docs/0.1/subtitles/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Subtitles"}]}],["$","li","translation",{"children":["$","$L15",null,{"href":"/docs/0.1/translation/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Translation"}]}],["$","li","style-and-objects",{"children":["$","$L15",null,{"href":"/docs/0.1/style-and-objects/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Style & objects"}]}],["$","li","export",{"children":["$","$L15",null,{"href":"/docs/0.1/export/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Export"}]}]]}]]}],["$","div","Voices",{"children":[["$","p",null,{"className":"mb-1.5 px-2 text-[12px] font-semibold","children":"Voices"}],["$","ul",null,{"className":"grid list-none gap-0.5 border-l p-0","children":[["$","li","characters-and-voices",{"children":["$","$L15",null,{"href":"/docs/0.1/characters-and-voices/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Characters & voices"}]}],"$L2e","$L2f","$L30"]}]]}],"$L31","$L32","$L33"]}]}]
+35:T504e,<p>What changed in each release of the 0.1 series, newest first.</p>
+<h2 id="how-versions-are-numbered"><a class="anchor" href="#how-versions-are-numbered" aria-hidden="true">#</a>How versions are numbered</h2><p>A Kroma version has three numbers, like <strong>0.1.3</strong>:</p>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Part</th>
+<th>In 0.1.3</th>
+<th>Means</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>First</td>
+<td>0</td>
+<td>Kroma is still young. It becomes 1 at the first stable release.</td>
+</tr>
+<tr>
+<td>Second</td>
+<td>1</td>
+<td>The series. These docs are for the 0.1 series. A new series can bring bigger changes, and gets its own docs.</td>
+</tr>
+<tr>
+<td>Third</td>
+<td>3</td>
+<td>A release within the series: fixes and new features. Every 0.1.x release opens projects from earlier 0.1.x releases.</td>
+</tr>
+</tbody></table></div>
+<p>Numbers are compared one part at a time, so 0.1.10 is newer than 0.1.9.</p>
+<h2 id="which-version-you-have"><a class="anchor" href="#which-version-you-have" aria-hidden="true">#</a>Which version you have</h2><p>Open <strong>Settings → About</strong> (⌘, or Ctrl+, then <strong>About</strong>). The top line shows it, for example <strong>Kroma Studio 0.1.3</strong>. Under <strong>Updates</strong>, the line next to <strong>Check for updates</strong> also says whether you have the latest version.</p>
+<h2 id="getting-a-new-version"><a class="anchor" href="#getting-a-new-version" aria-hidden="true">#</a>Getting a new version</h2><p>From 0.1.1 on, Kroma updates itself: see <a href="/kroma/docs/0.1/updates/">Updates</a>. To move from 0.1.0, or to install a specific version by hand, see the <a href="/kroma/docs/0.1/upgrade/">Upgrade guide</a>. Every release, with its downloads, is also on <a href="https://github.com/Heang-Dev/kroma/releases" target="_blank" rel="noreferrer">GitHub Releases</a>.</p>
+<h2 id="releases"><a class="anchor" href="#releases" aria-hidden="true">#</a>Releases</h2><h2 id="0-1-13"><a class="anchor" href="#0-1-13" aria-hidden="true">#</a>0.1.13</h2><p><em>November 28, 2026</em> · <a href="https://github.com/Heang-Dev/kroma/releases/tag/v0.1.13" target="_blank" rel="noreferrer">GitHub</a></p>
+<p>Many more subtitle styles, with Khmer display fonts, shadows and glows.</p>
+<ul>
+<li><strong>33 subtitle styles</strong> in <strong>Style → Subtitle style → Preset</strong>, in four groups: <strong>Outlined</strong>, <strong>Glow</strong>, <strong>Khmer fonts</strong> and <strong>On a box</strong>. Each one shows as a small preview, drawn exactly as it will look in your exported video. Picking one changes the colours, outline, box, shadow and font; your size, position and <strong>Bilingual</strong> setting stay as they are.</li>
+<li><strong>Khmer display fonts.</strong> Seven fonts now come with Kroma: Koulen, Moul, Battambang, Bayon, Dangrek, Fasthand and Hanuman. Choose one in <strong>Font</strong>, or pick a style that uses it, such as <strong>Moul gold</strong>, <strong>Poster</strong>, <strong>Comic</strong>, <strong>Serif</strong> or <strong>Handwritten</strong>.</li>
+<li><strong>Shadow and glow.</strong> A new <strong>Shadow</strong> slider adds a soft shadow under the text. <strong>Shadow colour</strong> turns it into a glow, as in <strong>Gold glow</strong>, <strong>Fire</strong>, <strong>Ice</strong> and <strong>Magic</strong>.</li>
+<li>More boxes: <strong>Light box</strong>, <strong>White box</strong>, <strong>Highlight</strong>, <strong>Violet box</strong>, <strong>Red box</strong>, <strong>News</strong>, <strong>Blue box</strong> and <strong>Green box</strong>.</li>
+<li><strong>Batch</strong> offers every style in its <strong>Subtitle style</strong> list.</li>
+<li>Your existing projects keep exactly the look they had.</li>
+</ul>
+<h2 id="0-1-12"><a class="anchor" href="#0-1-12" aria-hidden="true">#</a>0.1.12</h2><p><em>November 28, 2026</em> · <a href="https://github.com/Heang-Dev/kroma/releases/tag/v0.1.12" target="_blank" rel="noreferrer">GitHub</a></p>
+<p>More reliable updates on the Mac.</p>
+<ul>
+<li><strong>Updates download once.</strong> Checking for updates while a download is already running no longer starts a second download of the same file, which could make the progress jump back and forth and spoil the download.</li>
+<li><strong>A damaged download is caught.</strong> Kroma checks the downloaded update against the one on GitHub, and downloads it again instead of installing a broken copy.</li>
+<li><strong>A downloaded update survives a restart.</strong> If you quit Kroma before pressing <strong>Restart to update</strong>, the update is ready straight away next time, without downloading it again.</li>
+<li><strong>If an update can&#39;t be installed, Kroma says why.</strong> When your Mac doesn&#39;t let Kroma replace itself in Applications, Kroma reopens as before, tells you what happened, and opens the new Kroma Studio in Finder so you can drag it into Applications. You can also allow Kroma Studio in <strong>System Settings → Privacy &amp; Security → App Management</strong>.</li>
+</ul>
+<h2 id="0-1-11"><a class="anchor" href="#0-1-11" aria-hidden="true">#</a>0.1.11</h2><p><em>November 28, 2026</em> · <a href="https://github.com/Heang-Dev/kroma/releases/tag/v0.1.11" target="_blank" rel="noreferrer">GitHub</a></p>
+<p>Your API keys stay saved through updates, Kroma opens where you work, and notifications can make a sound.</p>
+<ul>
+<li><strong>API keys no longer disappear after an update.</strong> If a new version of Kroma can&#39;t read a saved key from the Mac&#39;s keychain, the key is kept instead of being lost, and <strong>Settings</strong> says so. Paste it again, or choose <strong>Always Allow</strong> when your Mac asks. If your keys went missing after an earlier update, paste them once more in <strong>Settings → Translation</strong>, <strong>Speech to Text</strong> and <strong>Posting</strong>.</li>
+<li><strong>Kroma opens where you work.</strong> <strong>Settings → Translation</strong> now opens only the very first time you start Kroma, not after every restart or update.</li>
+<li><strong>Notification sounds.</strong> In <strong>Settings → Notifications</strong>, choose a sound for <strong>When work is done</strong> and <strong>When something fails</strong> (on the Mac, from its own sounds), and press <strong>Play</strong> to hear it. Notices shown inside Kroma play the sound too.</li>
+<li><strong>Not seeing notifications?</strong> <strong>Settings → Notifications → Not seeing them?</strong> opens your system&#39;s notification settings, where you can allow Kroma Studio and its sound.</li>
+<li>The notification bell now sits after <strong>New</strong>, <strong>Open</strong> and <strong>Save</strong> in the title bar.</li>
+</ul>
+<h2 id="0-1-10"><a class="anchor" href="#0-1-10" aria-hidden="true">#</a>0.1.10</h2><p><em>November 27, 2026</em> · <a href="https://github.com/Heang-Dev/kroma/releases/tag/v0.1.10" target="_blank" rel="noreferrer">GitHub</a></p>
+<p><strong>Batch: process many videos at once</strong></p>
+<ul>
+<li>New <strong>Batch</strong> page. Add videos from the Download Center (or any project files), choose the steps once: subtitles, translate, find characters, voice-over, remove original voices, subtitle style, export, post text. Then press <strong>Process</strong>. Each video goes through every step, one after another, while you do something else.</li>
+<li>It stops before posting, so you check each video first. Finished videos wait in <strong>Ready to post</strong>.</li>
+<li>Follow every video&#39;s progress step by step. If a step fails, Kroma says why and you can <strong>Retry from here</strong> or <strong>Fix by hand</strong>. The list is kept, so after a restart you see where things stopped.</li>
+<li>In the Download Center, tick finished downloads and send them to Batch.</li>
+<li>You get a notification for each video and a summary when the batch is done.</li>
+</ul>
+<p><strong>The right format for each platform</strong></p>
+<ul>
+<li>When posting, choose the format for each platform: YouTube 16:9, and TikTok, Facebook and Reels 9:16 by default. Kroma exports each format it needs and uploads the right file to each platform. This works in the Post panel and in Ready to post.</li>
+</ul>
+<p><strong>Nicer empty pages</strong></p>
+<ul>
+<li>Pages with nothing in them yet now show a small illustration and say what to do next.</li>
+</ul>
+<p>Only post videos you have the right to use, and only clone voices with the speaker&#39;s permission.</p>
+<h2 id="0-1-9"><a class="anchor" href="#0-1-9" aria-hidden="true">#</a>0.1.9</h2><p><em>November 27, 2026</em> · <a href="https://github.com/Heang-Dev/kroma/releases/tag/v0.1.9" target="_blank" rel="noreferrer">GitHub</a></p>
+<p>Notifications, and a better list of supported sites.</p>
+<ul>
+<li><strong>Notifications.</strong> A bell in the title bar keeps everything that finished or failed — downloads, subtitles, translation, voice-overs, exports, posts, stories — with a button to retry or open it. When Kroma is in the background, your computer tells you too.</li>
+<li><strong>Settings → Notifications</strong>: turn notifications or their sound off, only be told about failures, choose which kinds you want, and send a test.</li>
+<li><strong>Supported sites</strong> is now a grid: Chinese sites first, what works on each, and <strong>Open site</strong> to visit it.</li>
+<li><strong>Check for updates follows &quot;Update automatically&quot;.</strong> With it off, checking only tells you a new version is out; you choose when to download.</li>
+</ul>
+<h2 id="0-1-8"><a class="anchor" href="#0-1-8" aria-hidden="true">#</a>0.1.8</h2><p><em>November 27, 2026</em> · <a href="https://github.com/Heang-Dev/kroma/releases/tag/v0.1.8" target="_blank" rel="noreferrer">GitHub</a></p>
+<p>Dropdowns you can search, and adding characters to a story.</p>
+<ul>
+<li><strong>Every dropdown can be searched.</strong> Lists open with a search box: type &quot;king&quot;, &quot;girl&quot; or &quot;narrator&quot; to find a voice. The current choice has a ✓ and is shown straight away; voices are grouped (your voices, then the presets by kind, then instant voices) with a line about how each one sounds.</li>
+<li><strong>Story → Add character.</strong> Type a name in the Cast panel and press Add: a new line starts for them in the script, with a fitting voice you can change.</li>
+<li>A character shows up in the cast as soon as you start their line.</li>
+</ul>
+<h2 id="0-1-7"><a class="anchor" href="#0-1-7" aria-hidden="true">#</a>0.1.7</h2><p><em>November 27, 2026</em> · <a href="https://github.com/Heang-Dev/kroma/releases/tag/v0.1.7" target="_blank" rel="noreferrer">GitHub</a></p>
+<p>The Download Center, and one look for every page.</p>
+<ul>
+<li><strong>Download Center</strong> (Downloads in the left menu). Paste links — a Bilibili, Douyin or YouTube video, a whole series, a collection, a multi-part upload or a channel; share messages work too. <strong>Find videos</strong> lists them all; tick the ones you want, choose the quality, and <strong>Download</strong>. Each video becomes <strong>its own project</strong>, numbered in a folder for the series, ready to translate and voice.</li>
+<li><strong>The queue</strong> downloads 1–3 at a time with speed and time left, keeps going while you work, picks up after a restart, never downloads the same video twice, and waits when a site asks it to slow down.</li>
+<li><strong>Import files / a folder</strong>: episodes you already have become one project each, in the right order (EP1, EP2 … EP10), with their .srt subtitles.</li>
+<li><strong>Supported sites</strong>: Chinese sites first; ✓ means it works, <strong>Free only</strong> means free episodes download and VIP episodes are locked.</li>
+<li><strong>YouTube</strong> works without installing anything else.</li>
+<li><strong>One look for every page</strong>: the same header on Voices, Story and Downloads; Voices has filters and search; a wider left menu so every label fits.</li>
+</ul>
+<h2 id="0-1-6"><a class="anchor" href="#0-1-6" aria-hidden="true">#</a>0.1.6</h2><p><em>November 27, 2026</em> · <a href="https://github.com/Heang-Dev/kroma/releases/tag/v0.1.6" target="_blank" rel="noreferrer">GitHub</a></p>
+<p>Kroma&#39;s own voice engine, and a cleaner, steadier interface.</p>
+<ul>
+<li><strong>The voice engine is built in.</strong> Settings → Voice Engine → <strong>Install voice engine</strong> sets it up once (about 2 GB, a few minutes); then <strong>Start</strong>. Nothing else to install or run. The first start downloads the voice model (about 5 GB). Turn on <strong>Start the engine with Kroma</strong> to have voices ready every time.</li>
+<li><strong>Free Colab GPU, in one click.</strong> Choose <strong>Google Colab</strong> and press <strong>Open in Colab</strong>; paste the address it prints.</li>
+<li><strong>Story studio, laid out like an editor.</strong> Your stories on the left; <strong>Write</strong> (the script with Insert Pause and speaker buttons, and the cast beside it) and <strong>Listen</strong> (the player and every line with ↻ to speak it again).</li>
+<li><strong>Voice engine status in the status bar</strong> on every page: start it from there.</li>
+<li><strong>Settings → Voice Engine</strong> shows what to do next: Install, Start, Stop, Update or Remove.</li>
+<li><strong>Everything lines up</strong>: one height for every button, field and dropdown, borders instead of shadows, side panels that open wide enough and stretch their switches, button labels that fit, long names that end in &quot;…&quot;.</li>
+<li>The <strong>status bar is on every page</strong>, and the voice players look the same everywhere.</li>
+<li>Importing from Khmer Voice Studio is gone: Kroma has everything itself, and makes its preset voice samples on its own.</li>
+</ul>
+<h2 id="0-1-5"><a class="anchor" href="#0-1-5" aria-hidden="true">#</a>0.1.5</h2><p><em>November 27, 2026</em> · <a href="https://github.com/Heang-Dev/kroma/releases/tag/v0.1.5" target="_blank" rel="noreferrer">GitHub</a></p>
+<p>Story studio, and updates you can follow.</p>
+<ul>
+<li><strong>Story studio.</strong> A new <strong>Story</strong> page in the left menu: write a story one line per speaker (<code>Sokha: …</code> or <code>សុខា៖ …</code>), give every character their own voice and style, and Kroma reads it with the Khmer Voice Studio engine. Add <code>[pause 2s]</code> for a pause and <code>Sokha (whisper): …</code> for one line&#39;s own style. Not happy with one line? Press ↻ to speak just that line again; the rest stays the same and the earlier version is kept. Save the audio (with its .srt subtitles) wherever you like.</li>
+<li><strong>Updates you can follow.</strong> The update card shows the speed and time left, and a dropped connection picks up where it stopped instead of starting over. Minimize the card into the status bar and keep working; click it to open it again.</li>
+<li><strong>Check for updates</strong> from the status bar at any time.</li>
+<li><strong>Settings</strong> in the left menu has its label like the other items, and the Settings page shows which version you&#39;re running.</li>
+<li><strong>The purple Kroma icon</strong> in the title bar. After an update, the Dock and Finder show the new icon straight away.</li>
+<li>The <strong>Next</strong> hint sits right after the steps in the status bar.</li>
+</ul>
+<h2 id="0-1-4"><a class="anchor" href="#0-1-4" aria-hidden="true">#</a>0.1.4</h2><p><em>November 27, 2026</em> · <a href="https://github.com/Heang-Dev/kroma/releases/tag/v0.1.4" target="_blank" rel="noreferrer">GitHub</a></p>
+<p>A new look, and fixes that matter when Kroma runs on your computer.</p>
+<ul>
+<li><strong>New logo.</strong> The purple Kroma Studio icon.</li>
+<li><strong>Your edits are safe.</strong> <strong>Get subtitles</strong>, <strong>Translate all</strong> and <strong>Import .srt</strong> now ask before replacing lines you already have (and Undo brings them back).</li>
+<li><strong>Any language from the site.</strong> Kroma uses the site&#39;s own subtitles in English or other languages too, not only Chinese.</li>
+<li><strong>Words follow your language.</strong> &quot;Make Thai subtitles&quot;, &quot;the original line above the translation&quot;, and so on.</li>
+<li><strong>Shortcuts on Windows and Linux</strong> show Ctrl, Shift and Backspace. <strong>Save as a new file</strong> and <strong>New window</strong> are listed in Settings → Shortcuts.</li>
+<li><strong>Khmer Voice Studio import</strong> has its own folder setting in <strong>Settings → Voice Engine</strong>.</li>
+<li>The <strong>Export</strong> step stays ticked after a restart. Deleting a cloned voice moves the project and its characters to an instant voice.</li>
+</ul>
+<p>Kroma updates itself: this version downloads in the background and asks you to restart.</p>
+<h2 id="0-1-3"><a class="anchor" href="#0-1-3" aria-hidden="true">#</a>0.1.3</h2><p><em>November 27, 2026</em> · <a href="https://github.com/Heang-Dev/kroma/releases/tag/v0.1.3" target="_blank" rel="noreferrer">GitHub</a></p>
+<p>A cleaner editor, laid out like Orca.</p>
+<ul>
+<li><strong>Steps at the bottom.</strong> The step bar (Video → Subtitles → Khmer → Characters → Voices → Style → Export) is now a slim status bar along the bottom of the window, with <strong>Next</strong> at the right end.</li>
+<li><strong>Updates in a card.</strong> New versions now show in a card in the bottom-right corner: download progress, then <strong>Restart to update</strong> or <strong>Later</strong>. After <strong>Later</strong>, a small <strong>Restart to update</strong> stays in the status bar.</li>
+<li>Notices sit just above the status bar.</li>
+</ul>
+<p>Kroma updates itself: if you have 0.1.1 or 0.1.2, this version downloads in the background and asks you to restart.</p>
+<h2 id="0-1-2"><a class="anchor" href="#0-1-2" aria-hidden="true">#</a>0.1.2</h2><p><em>November 27, 2026</em> · <a href="https://github.com/Heang-Dev/kroma/releases/tag/v0.1.2" target="_blank" rel="noreferrer">GitHub</a></p>
+<p>Fixes automatic updates on Windows and Linux (AppImage). macOS updates were already working.</p>
+<p>From now on Kroma updates itself: it downloads new versions in the background and shows <strong>Restart to update</strong> in the title bar.</p>
+<h2 id="0-1-1"><a class="anchor" href="#0-1-1" aria-hidden="true">#</a>0.1.1</h2><p><em>November 27, 2026</em> · <a href="https://github.com/Heang-Dev/kroma/releases/tag/v0.1.1" target="_blank" rel="noreferrer">GitHub</a></p>
+<p>Automatic updates: Kroma now checks for new versions, downloads them in the background and shows <strong>Restart to update</strong> in the title bar. From this version on, you&#39;ll never need to download Kroma again by hand.</p>
+<ul>
+<li>Settings → About → Updates: check now, update automatically on or off</li>
+<li>The code is open source (MIT): <a href="https://github.com/Heang-Dev/KROMA.STUDIO" target="_blank" rel="noreferrer">https://github.com/Heang-Dev/KROMA.STUDIO</a></li>
+</ul>
+<p>If you have 0.1.0, download this version once; after that updates come by themselves.</p>
+<h2 id="0-1-0"><a class="anchor" href="#0-1-0" aria-hidden="true">#</a>0.1.0</h2><p><em>November 27, 2026</em> · <a href="https://github.com/Heang-Dev/kroma/releases/tag/v0.1.0" target="_blank" rel="noreferrer">GitHub</a></p>
+<p>First release for macOS (Apple silicon), Windows 10/11 and Linux.</p>
+<ul>
+<li>Download from 1,000+ sites, subtitles from the site or cloud speech-to-text</li>
+<li>Translate to Khmer (or Thai, Vietnamese, Lao, English, Indonesian, Malay)</li>
+<li>Characters with their own voices: 36 Khmer preset voices, voice cloning, instant voices</li>
+<li>Remove the original voices, blur burned-in subtitles, add logos and text</li>
+<li>Export Small / Standard / High, and post to YouTube, Facebook and TikTok in one click</li>
+<li>Free translation and speech to text: Gemini (free tier) or Google Translate, with Groq or OpenAI Whisper for speech to text</li>
+<li>Find who says each line, record your own voice to clone, and timing that never cuts a voice line short</li>
+<li>Paste a share message and Kroma pulls out the link and the title; download errors are explained in plain words</li>
+<li>A timeline that shows frames of the video and its waveform</li>
+<li>Light, dark or system theme, interface zoom (⌘ + / − / 0), resizable panels, and several windows at once</li>
+</ul>
+<p>The installers aren&#39;t code-signed yet: see the README for opening them on each system.</p>
+18:["$","main",null,{"className":"min-w-0","children":[["$","div",null,{"role":"note","className":"mb-6 flex flex-wrap items-center gap-x-3 gap-y-1 rounded-lg border border-warning/40 bg-warning/10 px-4 py-3 text-[13px]","children":[["$","$L34",null,{"icon":{"name":"triangle-exclamation-point","size":24,"node":[["path",{"d":"m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3","key":"wmoenq"}],["path",{"d":"M12 9v4","key":"juzpu7"}],["path",{"d":"M12 17h.01","key":"p32p05"}]],"aliases":["alert-triangle","triangle-alert"]},"className":"size-4 shrink-0 text-warning"}],["$","span",null,{"children":"You're reading the docs for Kroma 0.1. The latest version is 0.2.x."}],["$","$L15",null,{"href":"/docs/0.2/release-notes/","className":"font-medium underline underline-offset-2","children":["Go to the latest docs"," →"]}]]}],[["$","p",null,{"className":"text-[12.5px] font-medium tracking-[0.08em] text-brand uppercase","children":"This version"}],["$","h1",null,{"className":"mt-2 text-[clamp(28px,4vw,40px)] font-semibold","children":"Release notes"}],["$","div",null,{"className":"docs-prose mt-6","dangerouslySetInnerHTML":{"__html":"$35"}}]],"$L36"]}]
+19:["$","aside",null,{"className":"hidden xl:sticky xl:top-[84px] xl:block xl:self-start","children":[["$","p",null,{"className":"text-xs tracking-wider text-muted-foreground uppercase","children":"On this page"}],["$","$L37",null,{"items":[{"depth":2,"id":"how-versions-are-numbered","text":"How versions are numbered"},{"depth":2,"id":"which-version-you-have","text":"Which version you have"},{"depth":2,"id":"getting-a-new-version","text":"Getting a new version"},{"depth":2,"id":"releases","text":"Releases"},{"depth":2,"id":"0-1-13","text":"0.1.13"},{"depth":2,"id":"0-1-12","text":"0.1.12"},{"depth":2,"id":"0-1-11","text":"0.1.11"},{"depth":2,"id":"0-1-10","text":"0.1.10"},{"depth":2,"id":"0-1-9","text":"0.1.9"},{"depth":2,"id":"0-1-8","text":"0.1.8"},{"depth":2,"id":"0-1-7","text":"0.1.7"},{"depth":2,"id":"0-1-6","text":"0.1.6"},{"depth":2,"id":"0-1-5","text":"0.1.5"},{"depth":2,"id":"0-1-4","text":"0.1.4"},{"depth":2,"id":"0-1-3","text":"0.1.3"},{"depth":2,"id":"0-1-2","text":"0.1.2"},{"depth":2,"id":"0-1-1","text":"0.1.1"},{"depth":2,"id":"0-1-0","text":"0.1.0"}]}]]}]
+1a:["$","$L38",null,{"children":["$","$20",null,{"name":"Next.MetadataOutlet","children":"$@39"}]}]
+21:["$","meta","12",{"name":"twitter:title","content":"Release notes · v0.1 · Docs · Kroma Studio"}]
+22:["$","meta","13",{"name":"twitter:description","content":"Everything about Kroma Studio, from installing it to posting your videos."}]
+23:["$","meta","14",{"name":"twitter:image","content":"https://heang-dev.github.io/kroma/assets/og-docs.png"}]
+24:["$","meta","15",{"name":"twitter:image:alt","content":"The Kroma Studio docs"}]
+25:["$","meta","16",{"name":"twitter:image:width","content":"1200"}]
+26:["$","meta","17",{"name":"twitter:image:height","content":"630"}]
+27:["$","link","18",{"rel":"icon","href":"/kroma/assets/kroma-favicon.png"}]
+28:["$","$L3a","19",{}]
+29:["$","meta",null,{"name":"next-size-adjust","content":""}]
+3b:I[23051,["$2","$3","$4","$5","$14"],"CodeCopy"]
+b:300
+2e:["$","li","voice-library",{"children":["$","$L15",null,{"href":"/docs/0.1/voice-library/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Voice library"}]}]
+2f:["$","li","voice-engine",{"children":["$","$L15",null,{"href":"/docs/0.1/voice-engine/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"The voice engine"}]}]
+30:["$","li","voice-cloning",{"children":["$","$L15",null,{"href":"/docs/0.1/voice-cloning/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Voice cloning"}]}]
+31:["$","div","Publishing",{"children":[["$","p",null,{"className":"mb-1.5 px-2 text-[12px] font-semibold","children":"Publishing"}],["$","ul",null,{"className":"grid list-none gap-0.5 border-l p-0","children":[["$","li","posting",{"children":["$","$L15",null,{"href":"/docs/0.1/posting/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Posting"}]}]]}]]}]
+32:["$","div","Reference",{"children":[["$","p",null,{"className":"mb-1.5 px-2 text-[12px] font-semibold","children":"Reference"}],["$","ul",null,{"className":"grid list-none gap-0.5 border-l p-0","children":[["$","li","keyboard-shortcuts",{"children":["$","$L15",null,{"href":"/docs/0.1/keyboard-shortcuts/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Keyboard shortcuts"}]}],["$","li","projects-and-files",{"children":["$","$L15",null,{"href":"/docs/0.1/projects-and-files/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Projects and files"}]}],["$","li","settings",{"children":["$","$L15",null,{"href":"/docs/0.1/settings/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Settings"}]}],["$","li","troubleshooting",{"children":["$","$L15",null,{"href":"/docs/0.1/troubleshooting/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Troubleshooting"}]}]]}]]}]
+33:["$","div","This version",{"children":[["$","p",null,{"className":"mb-1.5 px-2 text-[12px] font-semibold","children":"This version"}],["$","ul",null,{"className":"grid list-none gap-0.5 border-l p-0","children":[["$","li","release-notes",{"children":["$","$L15",null,{"href":"/docs/0.1/release-notes/","aria-current":"page","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors rounded-r-md border-brand bg-brand/10 font-medium text-brand","children":"Release notes"}]}],["$","li","upgrade",{"children":["$","$L15",null,{"href":"/docs/0.1/upgrade/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Upgrade guide"}]}]]}]]}]
+36:[["$","$L3b",null,{"copy":"Copy","copied":"Copied"}],["$","div",null,{"className":"mt-14 grid gap-3 border-t pt-6 sm:grid-cols-2","children":[["$","$L15",null,{"href":"/docs/0.1/troubleshooting/","className":"group rounded-lg border p-4 no-underline hover:bg-accent/50","children":[["$","span",null,{"className":"flex items-center gap-1.5 text-xs text-muted-foreground","children":[["$","$L34",null,{"icon":{"name":"arrow-left","size":24,"node":[["path",{"d":"m12 19-7-7 7-7","key":"1l729n"}],["path",{"d":"M19 12H5","key":"x3x0zl"}]]},"className":"size-3.5"}]," ","Previous"]}],["$","span",null,{"className":"mt-1 block text-[14px] font-medium","children":"Troubleshooting"}]]}],["$","$L15",null,{"href":"/docs/0.1/upgrade/","className":"group rounded-lg border p-4 text-right no-underline hover:bg-accent/50","children":[["$","span",null,{"className":"flex items-center justify-end gap-1.5 text-xs text-muted-foreground","children":["Next"," ",["$","$L34",null,{"icon":{"name":"arrow-right","size":24,"node":[["path",{"d":"M5 12h14","key":"1ays0h"}],["path",{"d":"m12 5 7 7-7 7","key":"xquz4c"}]]},"className":"size-3.5"}]]}],["$","span",null,{"className":"mt-1 block text-[14px] font-medium","children":"Upgrade guide"}]]}]]}],["$","a",null,{"href":"https://github.com/Heang-Dev/KROMA.STUDIO/edit/main/website/content/docs/0.1/en/release-notes.md","target":"_blank","rel":"noreferrer","className":"mt-6 inline-flex items-center gap-1.5 text-[13px] text-muted-foreground no-underline hover:text-foreground","children":[["$","$L34",null,{"icon":{"name":"pencil","size":24,"node":[["path",{"d":"M21.174 6.812a1 1 0 0 0-3.986-3.987L3.842 16.174a2 2 0 0 0-.5.83l-1.321 4.352a.5.5 0 0 0 .623.622l4.353-1.32a2 2 0 0 0 .83-.497z","key":"1a8usu"}],["path",{"d":"m15 5 4 4","key":"1mk7zo"}]]},"className":"size-3.5"}]," ","Edit this page on GitHub"]}]]
+39:null
+2c:true
+b:C
+2b:0
+12:"$undefined"
+f:"$undefined"
+d:"$undefined"
+a:"$undefined"
+2a:"$undefined"
+1b:"$undefined"

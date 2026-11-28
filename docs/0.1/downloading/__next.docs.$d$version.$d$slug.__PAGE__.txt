@@ -1,0 +1,171 @@
+1:"$Sreact.fragment"
+2:"/kroma/_next/static/chunks/04vt5_qdxg31o.js"
+3:"/kroma/_next/static/chunks/0w3ftlzy945zl.js"
+4:"/kroma/_next/static/chunks/2m9t-wks40qyw.js"
+5:"/kroma/_next/static/chunks/1a4ohd0pkdhou.js"
+6:I[19738,["$2","$3","$4","$5"],"HeaderBar"]
+7:I[39756,["$2","$3","$4","$5"],"default"]
+8:I[37457,["$2","$3","$4","$5"],"default"]
+9:I[19738,["$2","$3","$4","$5"],"FooterBar"]
+14:"/kroma/_next/static/chunks/2ffur98r21h0b.js"
+15:I[22016,["$2","$3","$4","$5","$14"],""]
+16:I[32016,["$2","$3","$4","$5","$14"],"VersionPicker"]
+1c:"ViewportBoundary"
+1d:I[97367,["$2","$3","$4","$5"],"$1c"]
+1e:"MetadataBoundary"
+1f:I[97367,["$2","$3","$4","$5"],"$1e"]
+20:"$Sreact.suspense"
+:HL["/kroma/_next/static/chunks/3kygz3hykdx6f.css","style"]
+b:X
+10:X
+10:C
+13:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto w-[min(1280px,100%-32px)] grid grid-cols-1 gap-6 pt-6 pb-10 lg:gap-10 lg:pt-10 lg:grid-cols-[230px_1fr] xl:grid-cols-[230px_1fr_200px]","children":[["$","aside",null,{"className":"lg:sticky lg:top-[84px] lg:max-h-[calc(100vh-100px)] lg:self-start lg:overflow-y-auto lg:pr-2","children":[["$","$L15",null,{"href":"/docs/0.1/","className":"mb-3 block text-xs tracking-wider text-muted-foreground uppercase no-underline hover:text-foreground","children":"Documentation"}],["$","$L16",null,{"versions":[{"version":"0.2","label":"0.2.x","released":"2026-11-28"},{"version":"0.1","label":"0.1.x","released":"2026-11-27"}],"current":"0.1","slug":"downloading","slugsByVersion":{"0.2":["installation","configuration","updates","the-editor","first-video","downloading","subtitles","translation","style-and-objects","export","batch","characters-and-voices","voice-library","voice-engine","voice-cloning","story","posting","keyboard-shortcuts","projects-and-files","settings","notifications","troubleshooting","release-notes","upgrade"],"0.1":["installation","configuration","updates","the-editor","first-video","downloading","subtitles","translation","style-and-objects","export","characters-and-voices","voice-library","voice-engine","voice-cloning","posting","keyboard-shortcuts","projects-and-files","settings","troubleshooting","release-notes","upgrade"]},"lang":"en","latestLabel":"latest"}],"$L17"]}],"$L18","$L19"]}],null,"$L1a"]}],"p":"$@1b","v":null,"s":"$b"}}]]
+11:[["children",{"s":{"n":"slug","t":"d","k":"downloading","s":[]},"h":65632,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$L8",null,{}]}]]}],"p":"$@12","v":"$10","s":"$b"},"c":"$Q13"}]]
+e:[["children",{"s":{"n":"version","t":"d","k":"0.1","s":[]},"h":196704,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$L8",null,{}]}]]}],"p":"$@f","v":"$10","s":"$b"},"c":"$Q11"}]]
+c:[["children",{"s":"docs","h":131168,"d":{"r":["$","$1","c",{"children":[[["$","script","script-0",{"src":"/kroma/_next/static/chunks/2ffur98r21h0b.js","async":true}]],["$","$L7",null,{"parallelRouterKey":"children","template":["$","$L8",null,{}]}]]}],"p":"$@d","v":null,"s":"$b"},"c":"$Qe"}]]
+0:{"t":{"t":{"s":"","h":131152,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/kroma/_next/static/chunks/3kygz3hykdx6f.css","precedence":"next"}],["$","script","script-0",{"src":"/kroma/_next/static/chunks/04vt5_qdxg31o.js","async":true}],["$","script","script-1",{"src":"/kroma/_next/static/chunks/0w3ftlzy945zl.js","async":true}],["$","script","script-2",{"src":"/kroma/_next/static/chunks/2m9t-wks40qyw.js","async":true}],["$","script","script-3",{"src":"/kroma/_next/static/chunks/1a4ohd0pkdhou.js","async":true}]],["$","html",null,{"lang":"en","className":"z61v7q_variable -suo1a_variable","suppressHydrationWarning":true,"children":[["$","head",null,{"children":["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(a){try{let b=document.documentElement,c=location.pathname.slice(a.length)||\"/\",d=\"/km\"===c||c.startsWith(\"/km/\");b.lang=d?\"km\":\"en\";let e=localStorage.getItem(\"kroma-theme\");b.classList.toggle(\"dark\",e?\"dark\"===e:matchMedia(\"(prefers-color-scheme: dark)\").matches);let f=localStorage.getItem(\"kroma-lang\"),g=!1;try{let b=new URL(document.referrer);g=b.origin===location.origin&&(b.pathname+\"/\").startsWith(a+\"/\")}catch{}if(!f||g)return;let h=location.search+location.hash;\"km\"!==f||d?\"en\"===f&&d&&location.replace(a+(c.slice(3)||\"/\")+h):location.replace(a+\"/km\"+(\"/\"===c?\"/\":c)+h)}catch{}})(\"/kroma\")"}}]}],["$","body",null,{"className":"flex min-h-svh flex-col","children":[["$","$L6",null,{"stars":0}],["$","div",null,{"className":"flex-1","children":["$","$L7",null,{"parallelRouterKey":"children","template":["$","$L8",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}]}],["$","$L9",null,{"latest":{"version":"0.2.3","date":"2026-11-28T09:36:49Z"}}]]}]]}]]}],"p":"$@a","v":null,"s":"$b"},"c":"$Qc"},"h":{"r":["$","$1","h",{"children":[null,["$","$L1d",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L1f",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$20",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Downloading videos · v0.1 · Docs · Kroma Studio"}],["$","meta","1",{"name":"description","content":"Download videos from YouTube, Bilibili, Douyin and 1,000+ sites, translate the subtitles to Khmer, give every character a voice, and post to YouTube, Facebook and TikTok. A free desktop app for macOS, Windows and Linux."}],["$","meta","2",{"property":"og:title","content":"Downloading videos · v0.1 · Docs · Kroma Studio"}],["$","meta","3",{"property":"og:description","content":"Everything about Kroma Studio, from installing it to posting your videos."}],["$","meta","4",{"property":"og:site_name","content":"Kroma Studio"}],["$","meta","5",{"property":"og:locale","content":"en_US"}],["$","meta","6",{"property":"og:image","content":"https://heang-dev.github.io/kroma/assets/og-docs.png"}],["$","meta","7",{"property":"og:image:width","content":"1200"}],["$","meta","8",{"property":"og:image:height","content":"630"}],["$","meta","9",{"property":"og:image:alt","content":"The Kroma Studio docs"}],["$","meta","10",{"property":"og:type","content":"website"}],["$","meta","11",{"name":"twitter:card","content":"summary_large_image"}],"$L21","$L22","$L23","$L24","$L25","$L26","$L27","$L28"]}]}],null]}],"$L29"]}],"p":"$@2a","v":null,"s":"$b"}},"a":"$@2b","u":"$@2c","b":"Hf2A-8s-tskzwG8lj9Zm4"}
+2d:I[45613,["$2","$3","$4","$5","$14"],"DocsNavToggle"]
+34:I[5014,["$2","$3","$4","$5","$14"],"default"]
+37:I[51896,["$2","$3","$4","$5","$14"],"DocsToc"]
+38:I[97367,["$2","$3","$4","$5"],"OutletBoundary"]
+3a:I[27201,["$2","$3","$4","$5"],"IconMark"]
+17:["$","$L2d",null,{"current":"Downloading videos","label":"Documentation","children":["$","nav",null,{"aria-label":"Documentation","className":"mt-5 grid gap-5","children":[["$","div","Getting started",{"children":[["$","p",null,{"className":"mb-1.5 px-2 text-[12px] font-semibold","children":"Getting started"}],["$","ul",null,{"className":"grid list-none gap-0.5 border-l p-0","children":[["$","li","installation",{"children":["$","$L15",null,{"href":"/docs/0.1/installation/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Installation"}]}],["$","li","configuration",{"children":["$","$L15",null,{"href":"/docs/0.1/configuration/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Add your keys"}]}],["$","li","updates",{"children":["$","$L15",null,{"href":"/docs/0.1/updates/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Updates"}]}],["$","li","the-editor",{"children":["$","$L15",null,{"href":"/docs/0.1/the-editor/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"The editor"}]}]]}]]}],["$","div","Making videos",{"children":[["$","p",null,{"className":"mb-1.5 px-2 text-[12px] font-semibold","children":"Making videos"}],["$","ul",null,{"className":"grid list-none gap-0.5 border-l p-0","children":[["$","li","first-video",{"children":["$","$L15",null,{"href":"/docs/0.1/first-video/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Your first video"}]}],["$","li","downloading",{"children":["$","$L15",null,{"href":"/docs/0.1/downloading/","aria-current":"page","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors rounded-r-md border-brand bg-brand/10 font-medium text-brand","children":"Downloading videos"}]}],["$","li","subtitles",{"children":["$","$L15",null,{"href":"/docs/0.1/subtitles/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Subtitles"}]}],["$","li","translation",{"children":["$","$L15",null,{"href":"/docs/0.1/translation/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Translation"}]}],["$","li","style-and-objects",{"children":["$","$L15",null,{"href":"/docs/0.1/style-and-objects/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Style & objects"}]}],["$","li","export",{"children":["$","$L15",null,{"href":"/docs/0.1/export/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Export"}]}]]}]]}],["$","div","Voices",{"children":[["$","p",null,{"className":"mb-1.5 px-2 text-[12px] font-semibold","children":"Voices"}],["$","ul",null,{"className":"grid list-none gap-0.5 border-l p-0","children":[["$","li","characters-and-voices",{"children":["$","$L15",null,{"href":"/docs/0.1/characters-and-voices/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Characters & voices"}]}],"$L2e","$L2f","$L30"]}]]}],"$L31","$L32","$L33"]}]}]
+35:T22f1,<p>Every project starts with a video. You can download one from a link, or import a file you already have. Both live in the <strong>Media</strong> panel (the first item in the menu on the left).</p>
+<h2 id="download-from-a-link"><a class="anchor" href="#download-from-a-link" aria-hidden="true">#</a>Download from a link</h2><ol>
+<li>Open <strong>Media</strong>.</li>
+<li>In <strong>Download from a link</strong>, paste the link into the box that says <strong>Paste a link or a share message</strong>.</li>
+<li>Press <strong>Get</strong> (or press Enter).</li>
+</ol>
+<p>Kroma downloads with <strong>yt-dlp</strong>, a free tool that knows over 1,000 video sites. The panel names the common ones: YouTube, Bilibili, Douyin, Youku, iQiyi, Facebook and TikTok.</p>
+<p>While it works you&#39;ll see what&#39;s happening:</p>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Message</th>
+<th>What it means</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><strong>Reading the link…</strong></td>
+<td>Finding the video on the page</td>
+</tr>
+<tr>
+<td><strong>Downloading 45% · … · … left</strong></td>
+<td>The download, with its speed and time left</td>
+</tr>
+<tr>
+<td><strong>Getting the site&#39;s subtitles…</strong></td>
+<td>Saving the site&#39;s own subtitles too</td>
+</tr>
+<tr>
+<td><strong>Joining video and audio…</strong></td>
+<td>Putting the picture and sound together into one file</td>
+</tr>
+</tbody></table></div>
+<p>Press the <strong>×</strong> next to the progress to cancel. When it&#39;s done, Kroma says <strong>Downloaded.</strong>, or <strong>Downloaded, with the site&#39;s subtitles (zh-Hans)</strong> (or another language code) when the site had subtitles.</p>
+<p>If the box doesn&#39;t hold a link, Kroma says: <em>&quot;Paste a link that starts with https:// (a share message with a link in it works too).&quot;</em></p>
+<h2 id="share-messages"><a class="anchor" href="#share-messages" aria-hidden="true">#</a>Share messages</h2><p>Apps like Douyin and Bilibili don&#39;t give you a plain link. Their <strong>Share</strong> button copies a whole message, such as:</p>
+<p><code>【Is a hamburger really junk food?】 https://b23.tv/abc123</code></p>
+<p>Paste the whole thing. Kroma finds the link inside it, and also reads the title. You&#39;ll see <strong>Title: …</strong> under the box before you press <strong>Get</strong>. That title becomes the video&#39;s name and the project&#39;s name.</p>
+<p>Kroma understands titles inside <code>【…】</code>, <code>《…》</code>, <code>「…」</code> and <code>『…』</code>, or plain words before the link. It drops the app&#39;s extra words (like &quot;copy and open Douyin&quot;) on its own.</p>
+<p>Kroma also cleans the link before downloading:</p>
+<ul>
+<li>It removes the parts that only track who shared it.</li>
+<li>Bilibili links with a language in them (like <code>bilibili.com/en/video/…</code>) are fixed so they work.</li>
+<li>For a Bilibili video in several parts, the part number (<code>p=</code>) is kept, so you get the part you shared.</li>
+<li>A YouTube link from a playlist downloads only that one video, not the whole list.</li>
+</ul>
+<h2 id="the-site-s-own-subtitles"><a class="anchor" href="#the-site-s-own-subtitles" aria-hidden="true">#</a>The site&#39;s own subtitles</h2><p>Many sites have subtitles of their own. Kroma asks for them with every download, Chinese first (Simplified, then Traditional, including Bilibili&#39;s AI subtitles), and English too.</p>
+<p>When a video comes with subtitles, its row in <strong>Media</strong> shows a small badge with the language codes, like <code>zh-Hans</code>.</p>
+<p>Why it matters: when the site&#39;s Chinese subtitles are there, <strong>Make Khmer subtitles</strong> uses them and skips speech-to-text. That&#39;s faster, and the lines are usually exact. See <a href="/kroma/docs/0.1/subtitles/">Subtitles</a>.</p>
+<p>If the site refuses the subtitles (this happens when it&#39;s busy), Kroma says <strong>Retrying without the site&#39;s subtitles…</strong> and gets the video anyway.</p>
+<h2 id="quality"><a class="anchor" href="#quality" aria-hidden="true">#</a>Quality</h2><p>Kroma picks the best version up to <strong>1080p</strong> and saves it as an <strong>MP4</strong> file. 1080p is the size of the exports, so a bigger download wouldn&#39;t help.</p>
+<p>Some sites, like Bilibili, only give 1080p when you&#39;re signed in. Others only play some videos for members. To use your logins:</p>
+<ol>
+<li>Sign in to the site in your web browser.</li>
+<li>In Kroma, open <strong>Settings → Downloads</strong>.</li>
+<li>Under <strong>Use my logins from</strong>, choose your browser: <strong>Chrome</strong>, <strong>Safari</strong>, <strong>Firefox</strong>, <strong>Edge</strong> or <strong>Brave</strong>. The default is <strong>None · public videos only</strong>.</li>
+</ol>
+<p>Your computer may ask you to allow this. Safari also needs Full Disk Access for Kroma.</p>
+<h2 id="where-downloads-go"><a class="anchor" href="#where-downloads-go" aria-hidden="true">#</a>Where downloads go</h2><p>Each download gets its own folder (named with a number) inside the download folder, together with the site&#39;s subtitles. The default is:</p>
+<ul>
+<li>Mac: <code>Movies/Kroma Studio/downloads</code></li>
+<li>Windows: <code>Videos/Kroma Studio/downloads</code></li>
+</ul>
+<p>To see them, open <strong>Settings → Folders</strong> and press <strong>Open</strong> next to <strong>Download folder</strong>. Press <strong>Change…</strong> to use another folder, or <strong>Reset</strong> to go back to the default. See <a href="/kroma/docs/0.1/settings/">Settings</a>.</p>
+<h2 id="import-a-file"><a class="anchor" href="#import-a-file" aria-hidden="true">#</a>Import a file</h2><p>Already have the video? In <strong>Media</strong>, press <strong>Import</strong> at the top right of the <strong>Media</strong> section. You can pick several files at once.</p>
+<p>Kroma opens these kinds of video files: <code>.mp4</code>, <code>.mov</code>, <code>.m4v</code>, <code>.mkv</code>, <code>.webm</code>, <code>.avi</code>, <code>.flv</code> and <code>.ts</code>.</p>
+<p>Imported files stay where they are. Kroma doesn&#39;t copy them, so don&#39;t move or delete them while you&#39;re working on the project.</p>
+<p>A file with only sound (no picture) can&#39;t go on the video track yet. Kroma tells you: <em>&quot;Audio-only files can&#39;t go on the video track yet.&quot;</em></p>
+<h2 id="more-than-one-clip"><a class="anchor" href="#more-than-one-clip" aria-hidden="true">#</a>More than one clip</h2><p>The <strong>Media</strong> section lists every video in the project. Each row shows the name, the length, the picture size (like <code>1920×1080</code>) and the subtitle badge if it has one.</p>
+<ul>
+<li>The <strong>first</strong> video you add goes onto the timeline by itself. It also names the project, and if it&#39;s a tall video the format switches to <strong>9:16</strong>.</li>
+<li>Videos you add after that only go into the list. Press the <strong>+</strong> on a row (<strong>Add to the end of the timeline</strong>) to put it after the others.</li>
+<li>On the timeline, drag a clip to change the order, and drag its edges to trim it. See <a href="/kroma/docs/0.1/subtitles/#the-timeline">Subtitles</a>.</li>
+</ul>
+<p>One thing to know: <strong>Make Khmer subtitles</strong> works on the video of the <strong>first clip</strong> on the timeline. For a second video, see <a href="/kroma/docs/0.1/subtitles/">Subtitles</a>.</p>
+<h2 id="when-a-download-fails"><a class="anchor" href="#when-a-download-fails" aria-hidden="true">#</a>When a download fails</h2><p>Kroma explains what went wrong in plain words:</p>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Message</th>
+<th>What to do</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><em>This video is protected (encrypted), so it can&#39;t be downloaded.</em></td>
+<td>The site uses DRM (copy protection), common on paid streaming. Kroma can&#39;t download these.</td>
+</tr>
+<tr>
+<td><em>This link isn&#39;t a video page Kroma can download from…</em></td>
+<td>Open the video itself and copy its link, not the channel or home page.</td>
+</tr>
+<tr>
+<td><em>This video needs you to be signed in…</em></td>
+<td>Choose your browser in <strong>Settings → Downloads</strong> (see <a href="#quality">Quality</a>).</td>
+</tr>
+<tr>
+<td><em>The video isn&#39;t available any more…</em></td>
+<td>It was removed, or the link is wrong.</td>
+</tr>
+<tr>
+<td><em>This video isn&#39;t available from your country.</em></td>
+<td>The site blocks your country.</td>
+</tr>
+<tr>
+<td><em>The connection failed…</em></td>
+<td>Check your internet and try again.</td>
+</tr>
+</tbody></table></div>
+<p>If the top of the window says <strong>Missing yt-dlp</strong>, the download tool isn&#39;t installed. It shows the command to install it (on a Mac, <code>brew install yt-dlp</code>). See <a href="/kroma/docs/0.1/troubleshooting/">Troubleshooting</a>.</p>
+18:["$","main",null,{"className":"min-w-0","children":[["$","div",null,{"role":"note","className":"mb-6 flex flex-wrap items-center gap-x-3 gap-y-1 rounded-lg border border-warning/40 bg-warning/10 px-4 py-3 text-[13px]","children":[["$","$L34",null,{"icon":{"name":"triangle-exclamation-point","size":24,"node":[["path",{"d":"m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3","key":"wmoenq"}],["path",{"d":"M12 9v4","key":"juzpu7"}],["path",{"d":"M12 17h.01","key":"p32p05"}]],"aliases":["alert-triangle","triangle-alert"]},"className":"size-4 shrink-0 text-warning"}],["$","span",null,{"children":"You're reading the docs for Kroma 0.1. The latest version is 0.2.x."}],["$","$L15",null,{"href":"/docs/0.2/downloading/","className":"font-medium underline underline-offset-2","children":["Go to the latest docs"," →"]}]]}],[["$","p",null,{"className":"text-[12.5px] font-medium tracking-[0.08em] text-brand uppercase","children":"Making videos"}],["$","h1",null,{"className":"mt-2 text-[clamp(28px,4vw,40px)] font-semibold","children":"Downloading videos"}],["$","div",null,{"className":"docs-prose mt-6","dangerouslySetInnerHTML":{"__html":"$35"}}]],"$L36"]}]
+19:["$","aside",null,{"className":"hidden xl:sticky xl:top-[84px] xl:block xl:self-start","children":[["$","p",null,{"className":"text-xs tracking-wider text-muted-foreground uppercase","children":"On this page"}],["$","$L37",null,{"items":[{"depth":2,"id":"download-from-a-link","text":"Download from a link"},{"depth":2,"id":"share-messages","text":"Share messages"},{"depth":2,"id":"the-site-s-own-subtitles","text":"The site's own subtitles"},{"depth":2,"id":"quality","text":"Quality"},{"depth":2,"id":"where-downloads-go","text":"Where downloads go"},{"depth":2,"id":"import-a-file","text":"Import a file"},{"depth":2,"id":"more-than-one-clip","text":"More than one clip"},{"depth":2,"id":"when-a-download-fails","text":"When a download fails"}]}]]}]
+1a:["$","$L38",null,{"children":["$","$20",null,{"name":"Next.MetadataOutlet","children":"$@39"}]}]
+21:["$","meta","12",{"name":"twitter:title","content":"Downloading videos · v0.1 · Docs · Kroma Studio"}]
+22:["$","meta","13",{"name":"twitter:description","content":"Everything about Kroma Studio, from installing it to posting your videos."}]
+23:["$","meta","14",{"name":"twitter:image","content":"https://heang-dev.github.io/kroma/assets/og-docs.png"}]
+24:["$","meta","15",{"name":"twitter:image:alt","content":"The Kroma Studio docs"}]
+25:["$","meta","16",{"name":"twitter:image:width","content":"1200"}]
+26:["$","meta","17",{"name":"twitter:image:height","content":"630"}]
+27:["$","link","18",{"rel":"icon","href":"/kroma/assets/kroma-favicon.png"}]
+28:["$","$L3a","19",{}]
+29:["$","meta",null,{"name":"next-size-adjust","content":""}]
+3b:I[23051,["$2","$3","$4","$5","$14"],"CodeCopy"]
+b:300
+2e:["$","li","voice-library",{"children":["$","$L15",null,{"href":"/docs/0.1/voice-library/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Voice library"}]}]
+2f:["$","li","voice-engine",{"children":["$","$L15",null,{"href":"/docs/0.1/voice-engine/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"The voice engine"}]}]
+30:["$","li","voice-cloning",{"children":["$","$L15",null,{"href":"/docs/0.1/voice-cloning/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Voice cloning"}]}]
+31:["$","div","Publishing",{"children":[["$","p",null,{"className":"mb-1.5 px-2 text-[12px] font-semibold","children":"Publishing"}],["$","ul",null,{"className":"grid list-none gap-0.5 border-l p-0","children":[["$","li","posting",{"children":["$","$L15",null,{"href":"/docs/0.1/posting/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Posting"}]}]]}]]}]
+32:["$","div","Reference",{"children":[["$","p",null,{"className":"mb-1.5 px-2 text-[12px] font-semibold","children":"Reference"}],["$","ul",null,{"className":"grid list-none gap-0.5 border-l p-0","children":[["$","li","keyboard-shortcuts",{"children":["$","$L15",null,{"href":"/docs/0.1/keyboard-shortcuts/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Keyboard shortcuts"}]}],["$","li","projects-and-files",{"children":["$","$L15",null,{"href":"/docs/0.1/projects-and-files/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Projects and files"}]}],["$","li","settings",{"children":["$","$L15",null,{"href":"/docs/0.1/settings/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Settings"}]}],["$","li","troubleshooting",{"children":["$","$L15",null,{"href":"/docs/0.1/troubleshooting/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Troubleshooting"}]}]]}]]}]
+33:["$","div","This version",{"children":[["$","p",null,{"className":"mb-1.5 px-2 text-[12px] font-semibold","children":"This version"}],["$","ul",null,{"className":"grid list-none gap-0.5 border-l p-0","children":[["$","li","release-notes",{"children":["$","$L15",null,{"href":"/docs/0.1/release-notes/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Release notes"}]}],["$","li","upgrade",{"children":["$","$L15",null,{"href":"/docs/0.1/upgrade/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Upgrade guide"}]}]]}]]}]
+36:[["$","$L3b",null,{"copy":"Copy","copied":"Copied"}],["$","div",null,{"className":"mt-14 grid gap-3 border-t pt-6 sm:grid-cols-2","children":[["$","$L15",null,{"href":"/docs/0.1/first-video/","className":"group rounded-lg border p-4 no-underline hover:bg-accent/50","children":[["$","span",null,{"className":"flex items-center gap-1.5 text-xs text-muted-foreground","children":[["$","$L34",null,{"icon":{"name":"arrow-left","size":24,"node":[["path",{"d":"m12 19-7-7 7-7","key":"1l729n"}],["path",{"d":"M19 12H5","key":"x3x0zl"}]]},"className":"size-3.5"}]," ","Previous"]}],["$","span",null,{"className":"mt-1 block text-[14px] font-medium","children":"Your first video"}]]}],["$","$L15",null,{"href":"/docs/0.1/subtitles/","className":"group rounded-lg border p-4 text-right no-underline hover:bg-accent/50","children":[["$","span",null,{"className":"flex items-center justify-end gap-1.5 text-xs text-muted-foreground","children":["Next"," ",["$","$L34",null,{"icon":{"name":"arrow-right","size":24,"node":[["path",{"d":"M5 12h14","key":"1ays0h"}],["path",{"d":"m12 5 7 7-7 7","key":"xquz4c"}]]},"className":"size-3.5"}]]}],["$","span",null,{"className":"mt-1 block text-[14px] font-medium","children":"Subtitles"}]]}]]}],["$","a",null,{"href":"https://github.com/Heang-Dev/KROMA.STUDIO/edit/main/website/content/docs/0.1/en/downloading.md","target":"_blank","rel":"noreferrer","className":"mt-6 inline-flex items-center gap-1.5 text-[13px] text-muted-foreground no-underline hover:text-foreground","children":[["$","$L34",null,{"icon":{"name":"pencil","size":24,"node":[["path",{"d":"M21.174 6.812a1 1 0 0 0-3.986-3.987L3.842 16.174a2 2 0 0 0-.5.83l-1.321 4.352a.5.5 0 0 0 .623.622l4.353-1.32a2 2 0 0 0 .83-.497z","key":"1a8usu"}],["path",{"d":"m15 5 4 4","key":"1mk7zo"}]]},"className":"size-3.5"}]," ","Edit this page on GitHub"]}]]
+39:null
+2c:true
+b:C
+2b:0
+12:"$undefined"
+f:"$undefined"
+d:"$undefined"
+a:"$undefined"
+2a:"$undefined"
+1b:"$undefined"

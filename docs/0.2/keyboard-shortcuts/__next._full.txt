@@ -1,0 +1,317 @@
+1:"$Sreact.fragment"
+3:"/kroma/_next/static/chunks/04vt5_qdxg31o.js"
+4:"/kroma/_next/static/chunks/0w3ftlzy945zl.js"
+5:"/kroma/_next/static/chunks/2m9t-wks40qyw.js"
+6:"/kroma/_next/static/chunks/1a4ohd0pkdhou.js"
+7:I[39756,["$3","$4","$5","$6"],"default"]
+8:I[37457,["$3","$4","$5","$6"],"default"]
+10:I[97367,["$3","$4","$5","$6"],"OutletBoundary"]
+11:"$Sreact.suspense"
+13:"ViewportBoundary"
+14:I[97367,["$3","$4","$5","$6"],"$13"]
+16:"MetadataBoundary"
+17:I[97367,["$3","$4","$5","$6"],"$16"]
+19:I[68027,["$3","$4","$5","$6"],"default",1]
+:HL["/kroma/_next/static/chunks/3kygz3hykdx6f.css","style"]
+:HL["/kroma/_next/static/media/07a39a8a4660cc7c-s.p.0r6juujl39pe6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/kroma/_next/static/media/ac3f6c3e4821ab39-s.p.3dytz707x2doa.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/kroma/_next/static/media/ecc70a8daf50308c-s.p.2wf6rvog29rnd.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+c:X
+e:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":["$Lf",null,["$","$L10",null,{"children":["$","$11",null,{"name":"Next.MetadataOutlet","children":"$@12"}]}]]}],"p":false,"v":null}}]]
+d:[["children",{"s":{"n":"slug","t":"d","k":"keyboard-shortcuts","s":[]},"h":66048,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$c"},"c":"$Qe"}]]
+b:[["children",{"s":{"n":"version","t":"d","k":"0.2","s":[]},"h":197120,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$c"},"c":"$Qd"}]]
+a:[["children",{"s":"docs","h":131584,"d":{"r":["$","$1","c",{"children":[[["$","script","script-0",{"src":"/kroma/_next/static/chunks/2ffur98r21h0b.js","async":true,"nonce":"$undefined"}]],["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":null},"c":"$Qb"}]]
+0:{"P":null,"c":["","docs","0.2","keyboard-shortcuts",""],"q":"","i":false,"t":{"t":{"s":"","h":131600,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/kroma/_next/static/chunks/3kygz3hykdx6f.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/kroma/_next/static/chunks/04vt5_qdxg31o.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/kroma/_next/static/chunks/0w3ftlzy945zl.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/kroma/_next/static/chunks/2m9t-wks40qyw.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/kroma/_next/static/chunks/1a4ohd0pkdhou.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"z61v7q_variable -suo1a_variable","suppressHydrationWarning":true,"children":[["$","head",null,{"children":["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(a){try{let b=document.documentElement,c=location.pathname.slice(a.length)||\"/\",d=\"/km\"===c||c.startsWith(\"/km/\");b.lang=d?\"km\":\"en\";let e=localStorage.getItem(\"kroma-theme\");b.classList.toggle(\"dark\",e?\"dark\"===e:matchMedia(\"(prefers-color-scheme: dark)\").matches);let f=localStorage.getItem(\"kroma-lang\"),g=!1;try{let b=new URL(document.referrer);g=b.origin===location.origin&&(b.pathname+\"/\").startsWith(a+\"/\")}catch{}if(!f||g)return;let h=location.search+location.hash;\"km\"!==f||d?\"en\"===f&&d&&location.replace(a+(c.slice(3)||\"/\")+h):location.replace(a+\"/km\"+(\"/\"===c?\"/\":c)+h)}catch{}})(\"/kroma\")"}}]}],["$","body",null,{"className":"flex min-h-svh flex-col","children":["$L2",["$","div",null,{"className":"flex-1","children":["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],"$L9"]}]]}]]}],"p":false,"v":null},"c":"$Qa"},"h":{"r":["$","$1","h",{"children":[null,["$","$L14",null,{"children":"$L15"}],["$","$L17",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$11",null,{"name":"Next.Metadata","children":"$L18"}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":false,"v":null}},"m":"$undefined","G":["$19",[["$","link","0",{"rel":"stylesheet","href":"/kroma/_next/static/chunks/3kygz3hykdx6f.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"Hf2A-8s-tskzwG8lj9Zm4"}
+1a:I[19738,["$3","$4","$5","$6"],"HeaderBar"]
+1b:I[19738,["$3","$4","$5","$6"],"FooterBar"]
+c:C
+2:["$","$L1a",null,{"stars":0}]
+9:["$","$L1b",null,{"latest":{"version":"0.2.3","date":"2026-11-28T09:36:49Z"}}]
+1c:"/kroma/_next/static/chunks/2ffur98r21h0b.js"
+1d:I[22016,["$3","$4","$5","$6","$1c"],""]
+1e:I[32016,["$3","$4","$5","$6","$1c"],"VersionPicker"]
+1f:I[45613,["$3","$4","$5","$6","$1c"],"DocsNavToggle"]
+f:["$","div",null,{"className":"mx-auto w-[min(1280px,100%-32px)] grid grid-cols-1 gap-6 pt-6 pb-10 lg:gap-10 lg:pt-10 lg:grid-cols-[230px_1fr] xl:grid-cols-[230px_1fr_200px]","children":[["$","aside",null,{"className":"lg:sticky lg:top-[84px] lg:max-h-[calc(100vh-100px)] lg:self-start lg:overflow-y-auto lg:pr-2","children":[["$","$L1d",null,{"href":"/docs/0.2/","className":"mb-3 block text-xs tracking-wider text-muted-foreground uppercase no-underline hover:text-foreground","children":"Documentation"}],["$","$L1e",null,{"versions":[{"version":"0.2","label":"0.2.x","released":"2026-11-28"},{"version":"0.1","label":"0.1.x","released":"2026-11-27"}],"current":"0.2","slug":"keyboard-shortcuts","slugsByVersion":{"0.2":["installation","configuration","updates","the-editor","first-video","downloading","subtitles","translation","style-and-objects","export","batch","characters-and-voices","voice-library","voice-engine","voice-cloning","story","posting","keyboard-shortcuts","projects-and-files","settings","notifications","troubleshooting","release-notes","upgrade"],"0.1":["installation","configuration","updates","the-editor","first-video","downloading","subtitles","translation","style-and-objects","export","characters-and-voices","voice-library","voice-engine","voice-cloning","posting","keyboard-shortcuts","projects-and-files","settings","troubleshooting","release-notes","upgrade"]},"lang":"en","latestLabel":"latest"}],["$","$L1f",null,{"current":"Keyboard shortcuts","label":"Documentation","children":["$","nav",null,{"aria-label":"Documentation","className":"mt-5 grid gap-5","children":[["$","div","Getting started",{"children":[["$","p",null,{"className":"mb-1.5 px-2 text-[12px] font-semibold","children":"Getting started"}],["$","ul",null,{"className":"grid list-none gap-0.5 border-l p-0","children":[["$","li","installation",{"children":["$","$L1d",null,{"href":"/docs/0.2/installation/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Installation"}]}],["$","li","configuration",{"children":["$","$L1d",null,{"href":"/docs/0.2/configuration/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Add your keys"}]}],["$","li","updates",{"children":["$","$L1d",null,{"href":"/docs/0.2/updates/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Updates"}]}],["$","li","the-editor",{"children":["$","$L1d",null,{"href":"/docs/0.2/the-editor/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"The editor"}]}]]}]]}],["$","div","Making videos",{"children":[["$","p",null,{"className":"mb-1.5 px-2 text-[12px] font-semibold","children":"Making videos"}],["$","ul",null,{"className":"grid list-none gap-0.5 border-l p-0","children":[["$","li","first-video",{"children":["$","$L1d",null,{"href":"/docs/0.2/first-video/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Your first video"}]}],["$","li","downloading",{"children":["$","$L1d",null,{"href":"/docs/0.2/downloading/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Downloading videos"}]}],"$L20","$L21","$L22","$L23","$L24"]}]]}],"$L25","$L26","$L27","$L28"]}]}]]}],"$L29","$L2a"]}]
+2d:I[51896,["$3","$4","$5","$6","$1c"],"DocsToc"]
+20:["$","li","subtitles",{"children":["$","$L1d",null,{"href":"/docs/0.2/subtitles/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Subtitles"}]}]
+21:["$","li","translation",{"children":["$","$L1d",null,{"href":"/docs/0.2/translation/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Translation"}]}]
+22:["$","li","style-and-objects",{"children":["$","$L1d",null,{"href":"/docs/0.2/style-and-objects/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Style & objects"}]}]
+23:["$","li","export",{"children":["$","$L1d",null,{"href":"/docs/0.2/export/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Export"}]}]
+24:["$","li","batch",{"children":["$","$L1d",null,{"href":"/docs/0.2/batch/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Batch"}]}]
+25:["$","div","Voices",{"children":[["$","p",null,{"className":"mb-1.5 px-2 text-[12px] font-semibold","children":"Voices"}],["$","ul",null,{"className":"grid list-none gap-0.5 border-l p-0","children":[["$","li","characters-and-voices",{"children":["$","$L1d",null,{"href":"/docs/0.2/characters-and-voices/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Characters & voices"}]}],["$","li","voice-library",{"children":["$","$L1d",null,{"href":"/docs/0.2/voice-library/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Voice library"}]}],["$","li","voice-engine",{"children":["$","$L1d",null,{"href":"/docs/0.2/voice-engine/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"The voice engine"}]}],["$","li","voice-cloning",{"children":["$","$L1d",null,{"href":"/docs/0.2/voice-cloning/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Voice cloning"}]}],["$","li","story",{"children":["$","$L1d",null,{"href":"/docs/0.2/story/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Story studio"}]}]]}]]}]
+26:["$","div","Publishing",{"children":[["$","p",null,{"className":"mb-1.5 px-2 text-[12px] font-semibold","children":"Publishing"}],["$","ul",null,{"className":"grid list-none gap-0.5 border-l p-0","children":[["$","li","posting",{"children":["$","$L1d",null,{"href":"/docs/0.2/posting/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Posting"}]}]]}]]}]
+27:["$","div","Reference",{"children":[["$","p",null,{"className":"mb-1.5 px-2 text-[12px] font-semibold","children":"Reference"}],["$","ul",null,{"className":"grid list-none gap-0.5 border-l p-0","children":[["$","li","keyboard-shortcuts",{"children":["$","$L1d",null,{"href":"/docs/0.2/keyboard-shortcuts/","aria-current":"page","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors rounded-r-md border-brand bg-brand/10 font-medium text-brand","children":"Keyboard shortcuts"}]}],["$","li","projects-and-files",{"children":["$","$L1d",null,{"href":"/docs/0.2/projects-and-files/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Projects and files"}]}],["$","li","settings",{"children":["$","$L1d",null,{"href":"/docs/0.2/settings/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Settings"}]}],["$","li","notifications",{"children":["$","$L1d",null,{"href":"/docs/0.2/notifications/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Notifications"}]}],["$","li","troubleshooting",{"children":["$","$L1d",null,{"href":"/docs/0.2/troubleshooting/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Troubleshooting"}]}]]}]]}]
+28:["$","div","This version",{"children":[["$","p",null,{"className":"mb-1.5 px-2 text-[12px] font-semibold","children":"This version"}],["$","ul",null,{"className":"grid list-none gap-0.5 border-l p-0","children":[["$","li","release-notes",{"children":["$","$L1d",null,{"href":"/docs/0.2/release-notes/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Release notes"}]}],["$","li","upgrade",{"children":["$","$L1d",null,{"href":"/docs/0.2/upgrade/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Upgrade guide"}]}]]}]]}]
+2b:T1cd8,<p>Every keyboard shortcut in Kroma Studio, in one place. On a Mac you use <strong>⌘</strong> (Command). On Windows and Linux you use <strong>Ctrl</strong> instead. Where a key is the same on every system, the table shows it once.</p>
+<p>You can also see the editor shortcuts inside the app: open <strong>Settings → Shortcuts</strong>. On Windows and Linux, that list and the button tooltips already show <strong>Ctrl</strong> and <strong>Shift</strong> in place of the Mac symbols.</p>
+<h2 id="reading-the-keys"><a class="anchor" href="#reading-the-keys" aria-hidden="true">#</a>Reading the keys</h2><div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Symbol</th>
+<th>Key on a Mac</th>
+<th>Key on Windows / Linux</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>⌘</td>
+<td>Command</td>
+<td>Ctrl</td>
+</tr>
+<tr>
+<td>⇧</td>
+<td>Shift</td>
+<td>Shift</td>
+</tr>
+<tr>
+<td>⌥</td>
+<td>Option</td>
+<td>Alt</td>
+</tr>
+<tr>
+<td>⌫</td>
+<td>Delete (backspace)</td>
+<td>Backspace</td>
+</tr>
+</tbody></table></div>
+<h2 id="project"><a class="anchor" href="#project" aria-hidden="true">#</a>Project</h2><p>These work everywhere in the editor, even while you&#39;re typing in a text box.</p>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Action</th>
+<th>macOS</th>
+<th>Windows / Linux</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>New project</td>
+<td>⌘N</td>
+<td>Ctrl+N</td>
+</tr>
+<tr>
+<td>Open project</td>
+<td>⌘O</td>
+<td>Ctrl+O</td>
+</tr>
+<tr>
+<td>Save project</td>
+<td>⌘S</td>
+<td>Ctrl+S</td>
+</tr>
+<tr>
+<td>Save project as a new file</td>
+<td>⇧⌘S</td>
+<td>Ctrl+Shift+S</td>
+</tr>
+<tr>
+<td>Open Settings</td>
+<td>⌘,</td>
+<td>Ctrl+,</td>
+</tr>
+</tbody></table></div>
+<p><strong>Save project</strong> writes to the project&#39;s file. The first time, it asks where to save. <strong>Save as a new file</strong> always asks, so you can keep a copy under a new name. See <a href="/kroma/docs/0.2/projects-and-files/#saving">Projects and files</a>.</p>
+<h2 id="editing"><a class="anchor" href="#editing" aria-hidden="true">#</a>Editing</h2><div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Action</th>
+<th>macOS</th>
+<th>Windows / Linux</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Undo</td>
+<td>⌘Z</td>
+<td>Ctrl+Z</td>
+</tr>
+<tr>
+<td>Redo</td>
+<td>⇧⌘Z</td>
+<td>Ctrl+Shift+Z</td>
+</tr>
+<tr>
+<td>Split the clip at the playhead</td>
+<td>S</td>
+<td>S</td>
+</tr>
+<tr>
+<td>Delete the selected clip, subtitle line or object</td>
+<td>⌫ or Delete</td>
+<td>Backspace or Delete</td>
+</tr>
+<tr>
+<td>Clear the selection</td>
+<td>Esc</td>
+<td>Esc</td>
+</tr>
+</tbody></table></div>
+<p>Undo remembers your last 100 changes. Opening or starting a project clears that history.</p>
+<h2 id="playback"><a class="anchor" href="#playback" aria-hidden="true">#</a>Playback</h2><div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Action</th>
+<th>macOS</th>
+<th>Windows / Linux</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Play / pause</td>
+<td>Space</td>
+<td>Space</td>
+</tr>
+<tr>
+<td>Step back one frame</td>
+<td>←</td>
+<td>←</td>
+</tr>
+<tr>
+<td>Step forward one frame</td>
+<td>→</td>
+<td>→</td>
+</tr>
+<tr>
+<td>Jump back 5 seconds</td>
+<td>⇧←</td>
+<td>Shift+←</td>
+</tr>
+<tr>
+<td>Jump forward 5 seconds</td>
+<td>⇧→</td>
+<td>Shift+→</td>
+</tr>
+</tbody></table></div>
+<p>Space only plays when there&#39;s a video on the timeline. One frame is 1/30 of a second.</p>
+<h2 id="timeline"><a class="anchor" href="#timeline" aria-hidden="true">#</a>Timeline</h2><div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Action</th>
+<th>macOS</th>
+<th>Windows / Linux</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Zoom the timeline in or out around the pointer</td>
+<td>⌘ + scroll, or pinch on the trackpad</td>
+<td>Ctrl + scroll</td>
+</tr>
+<tr>
+<td>Move the playhead</td>
+<td>Click or drag in the timeline</td>
+<td>Click or drag in the timeline</td>
+</tr>
+</tbody></table></div>
+<p>The buttons above the timeline also zoom (<strong>Zoom in</strong>, <strong>Zoom out</strong>, <strong>Fit the whole video</strong>).</p>
+<h2 id="panels"><a class="anchor" href="#panels" aria-hidden="true">#</a>Panels</h2><p>You can resize the tools panel, the subtitle list and the timeline by dragging their edges. Each edge also works from the keyboard:</p>
+<ol>
+<li>Press Tab until the edge you want is highlighted.</li>
+<li>Use the arrow keys to make the panel bigger or smaller (16 pixels per press).</li>
+<li>Double-click an edge to put that panel back to its normal size.</li>
+</ol>
+<h2 id="interface-size-and-window"><a class="anchor" href="#interface-size-and-window" aria-hidden="true">#</a>Interface size and window</h2><div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Action</th>
+<th>macOS</th>
+<th>Windows / Linux</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Bigger interface</td>
+<td>⌘+ or ⌘=</td>
+<td>Ctrl+ + or Ctrl+=</td>
+</tr>
+<tr>
+<td>Smaller interface</td>
+<td>⌘−</td>
+<td>Ctrl+−</td>
+</tr>
+<tr>
+<td>Interface at 100%</td>
+<td>⌘0</td>
+<td>Ctrl+0</td>
+</tr>
+<tr>
+<td>New window</td>
+<td>⇧⌘N</td>
+<td>Ctrl+Shift+N</td>
+</tr>
+<tr>
+<td>Close the window</td>
+<td>⌘W</td>
+<td>Ctrl+W</td>
+</tr>
+<tr>
+<td>Minimize the window</td>
+<td>⌘M</td>
+<td>Ctrl+M</td>
+</tr>
+<tr>
+<td>Full screen on / off</td>
+<td>Control+⌘F</td>
+<td>F11</td>
+</tr>
+<tr>
+<td>Quit Kroma</td>
+<td>⌘Q</td>
+<td><strong>File → Exit</strong></td>
+</tr>
+</tbody></table></div>
+<p>The interface size changes every open window. It steps through 70%, 80%, 90%, 100%, 110%, 125% and 140%, and a short note shows the new size. You can also pick a size in <a href="/kroma/docs/0.2/settings/#appearance">Settings → Appearance</a>.</p>
+<h2 id="in-settings"><a class="anchor" href="#in-settings" aria-hidden="true">#</a>In Settings</h2><div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Action</th>
+<th>macOS</th>
+<th>Windows / Linux</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Search the settings</td>
+<td>⌘F</td>
+<td>Ctrl+F</td>
+</tr>
+<tr>
+<td>Open the first search result</td>
+<td>Enter</td>
+<td>Enter</td>
+</tr>
+<tr>
+<td>Clear the search, or go back to the editor</td>
+<td>Esc</td>
+<td>Esc</td>
+</tr>
+</tbody></table></div>
+<p>Press Esc once to clear what you typed in the search box, and again to go back to the editor.</p>
+<h2 id="text-boxes"><a class="anchor" href="#text-boxes" aria-hidden="true">#</a>Text boxes</h2><p>While you type in a text box (a subtitle line, the project name, a post), the usual text keys work: copy, cut, paste, select all, and undo or redo <strong>inside that box</strong>. The editor&#39;s single-key shortcuts (Space, S, Delete, the arrows) are switched off while you type, so they never interrupt your writing. Click outside the box, or press Tab, to use them again.</p>
+<p>Editor shortcuts also pause while a menu or a dialog is open, while you&#39;re on another page (Settings, Voices, Story, Downloads or Batch), and while a batch is running.</p>
+<h2 id="other-pages"><a class="anchor" href="#other-pages" aria-hidden="true">#</a>Other pages</h2><div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Action</th>
+<th>macOS</th>
+<th>Windows / Linux</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Find videos for the links you pasted (<strong>Downloads</strong>)</td>
+<td>⌘Enter</td>
+<td>Ctrl+Enter</td>
+</tr>
+<tr>
+<td>Search a dropdown list (longer than 8 choices)</td>
+<td>Type in its search box</td>
+<td>Type in its search box</td>
+</tr>
+<tr>
+<td>Close a dropdown, a menu or the notifications</td>
+<td>Esc</td>
+<td>Esc</td>
+</tr>
+</tbody></table></div>
+29:["$","main",null,{"className":"min-w-0","children":[false,[["$","p",null,{"className":"text-[12.5px] font-medium tracking-[0.08em] text-brand uppercase","children":"Reference"}],["$","h1",null,{"className":"mt-2 text-[clamp(28px,4vw,40px)] font-semibold","children":"Keyboard shortcuts"}],["$","div",null,{"className":"docs-prose mt-6","dangerouslySetInnerHTML":{"__html":"$2b"}}]],"$L2c"]}]
+2a:["$","aside",null,{"className":"hidden xl:sticky xl:top-[84px] xl:block xl:self-start","children":[["$","p",null,{"className":"text-xs tracking-wider text-muted-foreground uppercase","children":"On this page"}],["$","$L2d",null,{"items":[{"depth":2,"id":"reading-the-keys","text":"Reading the keys"},{"depth":2,"id":"project","text":"Project"},{"depth":2,"id":"editing","text":"Editing"},{"depth":2,"id":"playback","text":"Playback"},{"depth":2,"id":"timeline","text":"Timeline"},{"depth":2,"id":"panels","text":"Panels"},{"depth":2,"id":"interface-size-and-window","text":"Interface size and window"},{"depth":2,"id":"in-settings","text":"In Settings"},{"depth":2,"id":"text-boxes","text":"Text boxes"},{"depth":2,"id":"other-pages","text":"Other pages"}]}]]}]
+2e:I[23051,["$3","$4","$5","$6","$1c"],"CodeCopy"]
+2f:I[5014,["$3","$4","$5","$6","$1c"],"default"]
+2c:[["$","$L2e",null,{"copy":"Copy","copied":"Copied"}],["$","div",null,{"className":"mt-14 grid gap-3 border-t pt-6 sm:grid-cols-2","children":[["$","$L1d",null,{"href":"/docs/0.2/posting/","className":"group rounded-lg border p-4 no-underline hover:bg-accent/50","children":[["$","span",null,{"className":"flex items-center gap-1.5 text-xs text-muted-foreground","children":[["$","$L2f",null,{"ref":"$undefined","icon":{"name":"arrow-left","size":24,"node":[["path",{"d":"m12 19-7-7 7-7","key":"1l729n"}],["path",{"d":"M19 12H5","key":"x3x0zl"}]]},"className":"size-3.5"}]," ","Previous"]}],["$","span",null,{"className":"mt-1 block text-[14px] font-medium","children":"Posting"}]]}],["$","$L1d",null,{"href":"/docs/0.2/projects-and-files/","className":"group rounded-lg border p-4 text-right no-underline hover:bg-accent/50","children":[["$","span",null,{"className":"flex items-center justify-end gap-1.5 text-xs text-muted-foreground","children":["Next"," ",["$","$L2f",null,{"ref":"$undefined","icon":{"name":"arrow-right","size":24,"node":[["path",{"d":"M5 12h14","key":"1ays0h"}],["path",{"d":"m12 5 7 7-7 7","key":"xquz4c"}]]},"className":"size-3.5"}]]}],["$","span",null,{"className":"mt-1 block text-[14px] font-medium","children":"Projects and files"}]]}]]}],["$","a",null,{"href":"https://github.com/Heang-Dev/KROMA.STUDIO/edit/main/website/content/docs/0.2/en/keyboard-shortcuts.md","target":"_blank","rel":"noreferrer","className":"mt-6 inline-flex items-center gap-1.5 text-[13px] text-muted-foreground no-underline hover:text-foreground","children":[["$","$L2f",null,{"ref":"$undefined","icon":{"name":"pencil","size":24,"node":[["path",{"d":"M21.174 6.812a1 1 0 0 0-3.986-3.987L3.842 16.174a2 2 0 0 0-.5.83l-1.321 4.352a.5.5 0 0 0 .623.622l4.353-1.32a2 2 0 0 0 .83-.497z","key":"1a8usu"}],["path",{"d":"m15 5 4 4","key":"1mk7zo"}]]},"className":"size-3.5"}]," ","Edit this page on GitHub"]}]]
+15:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+30:I[27201,["$3","$4","$5","$6"],"IconMark"]
+12:null
+18:[["$","title","0",{"children":"Keyboard shortcuts · v0.2 · Docs · Kroma Studio"}],["$","meta","1",{"name":"description","content":"Download videos from YouTube, Bilibili, Douyin and 1,000+ sites, translate the subtitles to Khmer, give every character a voice, and post to YouTube, Facebook and TikTok. A free desktop app for macOS, Windows and Linux."}],["$","meta","2",{"property":"og:title","content":"Keyboard shortcuts · v0.2 · Docs · Kroma Studio"}],["$","meta","3",{"property":"og:description","content":"Everything about Kroma Studio, from installing it to posting your videos."}],["$","meta","4",{"property":"og:site_name","content":"Kroma Studio"}],["$","meta","5",{"property":"og:locale","content":"en_US"}],["$","meta","6",{"property":"og:image","content":"https://heang-dev.github.io/kroma/assets/og-docs.png"}],["$","meta","7",{"property":"og:image:width","content":"1200"}],["$","meta","8",{"property":"og:image:height","content":"630"}],["$","meta","9",{"property":"og:image:alt","content":"The Kroma Studio docs"}],["$","meta","10",{"property":"og:type","content":"website"}],["$","meta","11",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","12",{"name":"twitter:title","content":"Keyboard shortcuts · v0.2 · Docs · Kroma Studio"}],["$","meta","13",{"name":"twitter:description","content":"Everything about Kroma Studio, from installing it to posting your videos."}],["$","meta","14",{"name":"twitter:image","content":"https://heang-dev.github.io/kroma/assets/og-docs.png"}],["$","meta","15",{"name":"twitter:image:alt","content":"The Kroma Studio docs"}],["$","meta","16",{"name":"twitter:image:width","content":"1200"}],["$","meta","17",{"name":"twitter:image:height","content":"630"}],["$","link","18",{"rel":"icon","href":"/kroma/assets/kroma-favicon.png"}],["$","$L30","19",{}]]

@@ -1,0 +1,201 @@
+1:"$Sreact.fragment"
+3:"/kroma/_next/static/chunks/04vt5_qdxg31o.js"
+4:"/kroma/_next/static/chunks/0w3ftlzy945zl.js"
+5:"/kroma/_next/static/chunks/2m9t-wks40qyw.js"
+6:"/kroma/_next/static/chunks/1a4ohd0pkdhou.js"
+7:I[39756,["$3","$4","$5","$6"],"default"]
+8:I[37457,["$3","$4","$5","$6"],"default"]
+10:I[97367,["$3","$4","$5","$6"],"OutletBoundary"]
+11:"$Sreact.suspense"
+13:"ViewportBoundary"
+14:I[97367,["$3","$4","$5","$6"],"$13"]
+16:"MetadataBoundary"
+17:I[97367,["$3","$4","$5","$6"],"$16"]
+19:I[68027,["$3","$4","$5","$6"],"default",1]
+:HL["/kroma/_next/static/chunks/3kygz3hykdx6f.css","style"]
+:HL["/kroma/_next/static/media/07a39a8a4660cc7c-s.p.0r6juujl39pe6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/kroma/_next/static/media/ac3f6c3e4821ab39-s.p.3dytz707x2doa.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/kroma/_next/static/media/ecc70a8daf50308c-s.p.2wf6rvog29rnd.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+c:X
+e:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":["$Lf",null,["$","$L10",null,{"children":["$","$11",null,{"name":"Next.MetadataOutlet","children":"$@12"}]}]]}],"p":false,"v":null}}]]
+d:[["children",{"s":{"n":"slug","t":"d","k":"posting","s":[]},"h":66048,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$c"},"c":"$Qe"}]]
+b:[["children",{"s":{"n":"version","t":"d","k":"0.1","s":[]},"h":197120,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$c"},"c":"$Qd"}]]
+a:[["children",{"s":"docs","h":131584,"d":{"r":["$","$1","c",{"children":[[["$","script","script-0",{"src":"/kroma/_next/static/chunks/2ffur98r21h0b.js","async":true,"nonce":"$undefined"}]],["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":null},"c":"$Qb"}]]
+0:{"P":null,"c":["","docs","0.1","posting",""],"q":"","i":false,"t":{"t":{"s":"","h":131600,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/kroma/_next/static/chunks/3kygz3hykdx6f.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/kroma/_next/static/chunks/04vt5_qdxg31o.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/kroma/_next/static/chunks/0w3ftlzy945zl.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/kroma/_next/static/chunks/2m9t-wks40qyw.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/kroma/_next/static/chunks/1a4ohd0pkdhou.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"z61v7q_variable -suo1a_variable","suppressHydrationWarning":true,"children":[["$","head",null,{"children":["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(a){try{let b=document.documentElement,c=location.pathname.slice(a.length)||\"/\",d=\"/km\"===c||c.startsWith(\"/km/\");b.lang=d?\"km\":\"en\";let e=localStorage.getItem(\"kroma-theme\");b.classList.toggle(\"dark\",e?\"dark\"===e:matchMedia(\"(prefers-color-scheme: dark)\").matches);let f=localStorage.getItem(\"kroma-lang\"),g=!1;try{let b=new URL(document.referrer);g=b.origin===location.origin&&(b.pathname+\"/\").startsWith(a+\"/\")}catch{}if(!f||g)return;let h=location.search+location.hash;\"km\"!==f||d?\"en\"===f&&d&&location.replace(a+(c.slice(3)||\"/\")+h):location.replace(a+\"/km\"+(\"/\"===c?\"/\":c)+h)}catch{}})(\"/kroma\")"}}]}],["$","body",null,{"className":"flex min-h-svh flex-col","children":["$L2",["$","div",null,{"className":"flex-1","children":["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],"$L9"]}]]}]]}],"p":false,"v":null},"c":"$Qa"},"h":{"r":["$","$1","h",{"children":[null,["$","$L14",null,{"children":"$L15"}],["$","$L17",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$11",null,{"name":"Next.Metadata","children":"$L18"}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":false,"v":null}},"m":"$undefined","G":["$19",[["$","link","0",{"rel":"stylesheet","href":"/kroma/_next/static/chunks/3kygz3hykdx6f.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"Hf2A-8s-tskzwG8lj9Zm4"}
+1a:I[19738,["$3","$4","$5","$6"],"HeaderBar"]
+1b:I[19738,["$3","$4","$5","$6"],"FooterBar"]
+c:C
+2:["$","$L1a",null,{"stars":0}]
+9:["$","$L1b",null,{"latest":{"version":"0.2.3","date":"2026-11-28T09:36:49Z"}}]
+1c:"/kroma/_next/static/chunks/2ffur98r21h0b.js"
+1d:I[22016,["$3","$4","$5","$6","$1c"],""]
+1e:I[32016,["$3","$4","$5","$6","$1c"],"VersionPicker"]
+1f:I[45613,["$3","$4","$5","$6","$1c"],"DocsNavToggle"]
+f:["$","div",null,{"className":"mx-auto w-[min(1280px,100%-32px)] grid grid-cols-1 gap-6 pt-6 pb-10 lg:gap-10 lg:pt-10 lg:grid-cols-[230px_1fr] xl:grid-cols-[230px_1fr_200px]","children":[["$","aside",null,{"className":"lg:sticky lg:top-[84px] lg:max-h-[calc(100vh-100px)] lg:self-start lg:overflow-y-auto lg:pr-2","children":[["$","$L1d",null,{"href":"/docs/0.1/","className":"mb-3 block text-xs tracking-wider text-muted-foreground uppercase no-underline hover:text-foreground","children":"Documentation"}],["$","$L1e",null,{"versions":[{"version":"0.2","label":"0.2.x","released":"2026-11-28"},{"version":"0.1","label":"0.1.x","released":"2026-11-27"}],"current":"0.1","slug":"posting","slugsByVersion":{"0.2":["installation","configuration","updates","the-editor","first-video","downloading","subtitles","translation","style-and-objects","export","batch","characters-and-voices","voice-library","voice-engine","voice-cloning","story","posting","keyboard-shortcuts","projects-and-files","settings","notifications","troubleshooting","release-notes","upgrade"],"0.1":["installation","configuration","updates","the-editor","first-video","downloading","subtitles","translation","style-and-objects","export","characters-and-voices","voice-library","voice-engine","voice-cloning","posting","keyboard-shortcuts","projects-and-files","settings","troubleshooting","release-notes","upgrade"]},"lang":"en","latestLabel":"latest"}],["$","$L1f",null,{"current":"Posting","label":"Documentation","children":["$","nav",null,{"aria-label":"Documentation","className":"mt-5 grid gap-5","children":[["$","div","Getting started",{"children":[["$","p",null,{"className":"mb-1.5 px-2 text-[12px] font-semibold","children":"Getting started"}],["$","ul",null,{"className":"grid list-none gap-0.5 border-l p-0","children":[["$","li","installation",{"children":["$","$L1d",null,{"href":"/docs/0.1/installation/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Installation"}]}],["$","li","configuration",{"children":["$","$L1d",null,{"href":"/docs/0.1/configuration/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Add your keys"}]}],["$","li","updates",{"children":["$","$L1d",null,{"href":"/docs/0.1/updates/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Updates"}]}],["$","li","the-editor",{"children":["$","$L1d",null,{"href":"/docs/0.1/the-editor/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"The editor"}]}]]}]]}],["$","div","Making videos",{"children":[["$","p",null,{"className":"mb-1.5 px-2 text-[12px] font-semibold","children":"Making videos"}],["$","ul",null,{"className":"grid list-none gap-0.5 border-l p-0","children":[["$","li","first-video",{"children":["$","$L1d",null,{"href":"/docs/0.1/first-video/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Your first video"}]}],["$","li","downloading",{"children":["$","$L1d",null,{"href":"/docs/0.1/downloading/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Downloading videos"}]}],"$L20","$L21","$L22","$L23"]}]]}],"$L24","$L25","$L26","$L27"]}]}]]}],"$L28","$L29"]}]
+2a:I[5014,["$3","$4","$5","$6","$1c"],"default"]
+2d:I[51896,["$3","$4","$5","$6","$1c"],"DocsToc"]
+20:["$","li","subtitles",{"children":["$","$L1d",null,{"href":"/docs/0.1/subtitles/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Subtitles"}]}]
+21:["$","li","translation",{"children":["$","$L1d",null,{"href":"/docs/0.1/translation/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Translation"}]}]
+22:["$","li","style-and-objects",{"children":["$","$L1d",null,{"href":"/docs/0.1/style-and-objects/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Style & objects"}]}]
+23:["$","li","export",{"children":["$","$L1d",null,{"href":"/docs/0.1/export/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Export"}]}]
+24:["$","div","Voices",{"children":[["$","p",null,{"className":"mb-1.5 px-2 text-[12px] font-semibold","children":"Voices"}],["$","ul",null,{"className":"grid list-none gap-0.5 border-l p-0","children":[["$","li","characters-and-voices",{"children":["$","$L1d",null,{"href":"/docs/0.1/characters-and-voices/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Characters & voices"}]}],["$","li","voice-library",{"children":["$","$L1d",null,{"href":"/docs/0.1/voice-library/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Voice library"}]}],["$","li","voice-engine",{"children":["$","$L1d",null,{"href":"/docs/0.1/voice-engine/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"The voice engine"}]}],["$","li","voice-cloning",{"children":["$","$L1d",null,{"href":"/docs/0.1/voice-cloning/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Voice cloning"}]}]]}]]}]
+25:["$","div","Publishing",{"children":[["$","p",null,{"className":"mb-1.5 px-2 text-[12px] font-semibold","children":"Publishing"}],["$","ul",null,{"className":"grid list-none gap-0.5 border-l p-0","children":[["$","li","posting",{"children":["$","$L1d",null,{"href":"/docs/0.1/posting/","aria-current":"page","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors rounded-r-md border-brand bg-brand/10 font-medium text-brand","children":"Posting"}]}]]}]]}]
+26:["$","div","Reference",{"children":[["$","p",null,{"className":"mb-1.5 px-2 text-[12px] font-semibold","children":"Reference"}],["$","ul",null,{"className":"grid list-none gap-0.5 border-l p-0","children":[["$","li","keyboard-shortcuts",{"children":["$","$L1d",null,{"href":"/docs/0.1/keyboard-shortcuts/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Keyboard shortcuts"}]}],["$","li","projects-and-files",{"children":["$","$L1d",null,{"href":"/docs/0.1/projects-and-files/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Projects and files"}]}],["$","li","settings",{"children":["$","$L1d",null,{"href":"/docs/0.1/settings/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Settings"}]}],["$","li","troubleshooting",{"children":["$","$L1d",null,{"href":"/docs/0.1/troubleshooting/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Troubleshooting"}]}]]}]]}]
+27:["$","div","This version",{"children":[["$","p",null,{"className":"mb-1.5 px-2 text-[12px] font-semibold","children":"This version"}],["$","ul",null,{"className":"grid list-none gap-0.5 border-l p-0","children":[["$","li","release-notes",{"children":["$","$L1d",null,{"href":"/docs/0.1/release-notes/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Release notes"}]}],["$","li","upgrade",{"children":["$","$L1d",null,{"href":"/docs/0.1/upgrade/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Upgrade guide"}]}]]}]]}]
+2b:T2d6c,<p>Kroma can post your finished video to YouTube, Facebook and TikTok in one click. The AI writes a title, text and hashtags for each platform, and you can edit them before posting.</p>
+<p>Only post videos you have the right to use. If you translated someone else&#39;s video, make sure you have their permission to share it.</p>
+<h2 id="how-it-works"><a class="anchor" href="#how-it-works" aria-hidden="true">#</a>How it works</h2><p>Kroma doesn&#39;t post to the platforms directly. It posts through a service called <strong>Upload-Post</strong> (upload-post.com). YouTube, Facebook and TikTok have already approved Upload-Post, so your posts go out publicly.</p>
+<p>You set this up once:</p>
+<ol>
+<li>Make an Upload-Post account and an API key.</li>
+<li>Paste the key into Kroma.</li>
+<li>Connect your YouTube, Facebook and TikTok accounts.</li>
+</ol>
+<p>After that, posting is one click from the <strong>Post</strong> panel.</p>
+<h2 id="plans-and-limits"><a class="anchor" href="#plans-and-limits" aria-hidden="true">#</a>Plans and limits</h2><div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Platform</th>
+<th>Upload-Post plan</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>YouTube</td>
+<td>Free plan</td>
+</tr>
+<tr>
+<td>Facebook</td>
+<td>Free plan</td>
+</tr>
+<tr>
+<td>TikTok</td>
+<td>Needs the paid <strong>Basic</strong> plan</td>
+</tr>
+</tbody></table></div>
+<p>The free plan allows <strong>10 posts a month</strong>. When they&#39;re used up, you&#39;ll see &quot;This month&#39;s Upload-Post uploads are used up (the free plan has 10). Upgrade the plan or wait for next month.&quot;</p>
+<p>These are Upload-Post&#39;s plans, not Kroma&#39;s. Kroma itself is free.</p>
+<h2 id="set-up-posting-once"><a class="anchor" href="#set-up-posting-once" aria-hidden="true">#</a>Set up posting (once)</h2><h3 id="1-make-an-account-and-an-api-key"><a class="anchor" href="#1-make-an-account-and-an-api-key" aria-hidden="true">#</a>1. Make an account and an API key</h3><p>An API key is a long password that lets Kroma use your Upload-Post account.</p>
+<ol>
+<li>Open <strong>Settings</strong> (⌘,) → <strong>Posting</strong>. Under <strong>Getting started</strong>, press <strong>Open</strong> to go to upload-post.com, and sign up for free.</li>
+<li>In Upload-Post, go to <strong>API Keys</strong> and create a key. Copy it.</li>
+<li>Back in Kroma, paste it into <strong>API key</strong> and save it.</li>
+</ol>
+<p>The <strong>Account</strong> row now shows your email and plan, for example &quot;<a href="mailto:you@example.com">you@example.com</a> · free plan&quot;, with a green tick. Press <strong>Check</strong> to check again. If the key is wrong, you&#39;ll see &quot;Upload-Post refused the API key.&quot;</p>
+<h3 id="2-connect-your-accounts"><a class="anchor" href="#2-connect-your-accounts" aria-hidden="true">#</a>2. Connect your accounts</h3><ol>
+<li>Under <strong>Your accounts</strong>, press <strong>Connect</strong>.</li>
+<li>A secure Upload-Post page opens in your browser. Sign in to YouTube, Facebook and TikTok, and allow access. (The page works for 48 hours.)</li>
+<li>Come back to Kroma. It refreshes by itself when you return.</li>
+</ol>
+<p>Each platform now shows the connected account name, or <strong>Not connected</strong>. If a sign-in has run out, it says &quot;sign-in expired: press Connect&quot;. Press <strong>Connect</strong> again to fix it.</p>
+<p>Upload-Post keeps your accounts in a <strong>profile</strong>. If you don&#39;t have one yet, Kroma makes one called &quot;Kroma Studio&quot; for you. If your Upload-Post account has more than one profile, a <strong>Profile</strong> menu lets you choose which one Kroma posts to.</p>
+<h3 id="3-choose-your-facebook-page"><a class="anchor" href="#3-choose-your-facebook-page" aria-hidden="true">#</a>3. Choose your Facebook Page</h3><p>Facebook only lets apps post to <strong>Pages</strong>, not personal profiles. After you connect Facebook, pick your Page in the <strong>Facebook Page</strong> menu. If it says <strong>No Pages found</strong>, make a Page on Facebook first.</p>
+<p>If you have exactly one Page, Kroma uses it automatically.</p>
+<h2 id="post-a-video"><a class="anchor" href="#post-a-video" aria-hidden="true">#</a>Post a video</h2><p>Open the <strong>Post</strong> panel (left menu). It has up to four sections.</p>
+<h3 id="1-posts"><a class="anchor" href="#1-posts" aria-hidden="true">#</a>1 · Posts</h3><p>Press <strong>Write the posts</strong>. The AI reads your translated subtitles and writes one post for each platform, in the subtitles&#39; language:</p>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Platform</th>
+<th>What the AI writes</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><strong>YouTube</strong></td>
+<td>A title people can search for (under 90 characters) and a description of 2–3 short paragraphs</td>
+</tr>
+<tr>
+<td><strong>Facebook</strong></td>
+<td>A warm post that makes people curious</td>
+</tr>
+<tr>
+<td><strong>TikTok</strong></td>
+<td>A very short hook</td>
+</tr>
+</tbody></table></div>
+<p>Each post also gets 5–10 hashtags, mixing your language and English. The AI is told not to make up facts that aren&#39;t in the video. It also uses the project&#39;s name and your translation notes.</p>
+<p>Each post is a card with a <strong>title</strong>, the <strong>text</strong> and the <strong>hashtags</strong>. Edit anything:</p>
+<ul>
+<li>Type in the title and text boxes.</li>
+<li>Type hashtags with or without <code>#</code>, separated by spaces or commas, for example <code>#food #fyp</code>. They&#39;re saved when you leave the box or press Enter.</li>
+<li><strong>Copy</strong> copies the whole post (title, text and hashtags), if you want to paste it somewhere yourself.</li>
+</ul>
+<p>Your posts are saved with the project. Press <strong>Write them again</strong> for new ones.</p>
+<p>Writing posts needs an AI key: Gemini (free) or Claude. Google Translate can&#39;t write posts. See <a href="/kroma/docs/0.1/configuration/">Add your keys</a>. Without one you&#39;ll see &quot;Writing posts needs an AI: add a free Gemini key (or a Claude key) in Settings → Translation.&quot;</p>
+<p>If you press <strong>Post</strong> before writing the posts, Kroma writes them first.</p>
+<h3 id="2-post-to"><a class="anchor" href="#2-post-to" aria-hidden="true">#</a>2 · Post to</h3><p>If you haven&#39;t set up posting, this section shows a <strong>Connect accounts</strong> button that opens <strong>Settings → Posting</strong>.</p>
+<p>Otherwise:</p>
+<ol>
+<li><strong>Tick the platforms.</strong> Connected accounts are ticked to start with. A platform that isn&#39;t connected is greyed out, with a <strong>Connect</strong> button.</li>
+<li><strong>YouTube visibility:</strong> <strong>Public</strong> (the default), <strong>Unlisted</strong> (only people with the link can see it) or <strong>Private</strong> (only you).</li>
+<li><strong>TikTok:</strong> <strong>Post now</strong> posts straight away. <strong>To drafts</strong> sends it to your TikTok drafts, so you can add music or effects in the TikTok app, then post it yourself.</li>
+<li><strong>Video:</strong> if you exported the video and nothing has changed since, Kroma reuses that file (&quot;Uses your last export (nothing changed since).&quot;) and shows a green tick. Otherwise choose the export size: <strong>Small</strong>, <strong>Standard</strong> (the default) or <strong>High</strong>. See <a href="/kroma/docs/0.1/export/#sizes">Export</a>.</li>
+<li>Press the button. It names the platforms, for example <strong>Post to YouTube, Facebook, TikTok</strong>.</li>
+</ol>
+<p>The button is greyed out when the timeline is empty, when there are no translated subtitles, or when no platform is ticked (it then says <strong>Choose where to post</strong>).</p>
+<h3 id="what-happens-next"><a class="anchor" href="#what-happens-next" aria-hidden="true">#</a>What happens next</h3><ol>
+<li>Kroma exports the video, unless it can reuse your last export.</li>
+<li>It uploads the video <strong>once</strong> to Upload-Post, with each platform&#39;s own title and text.</li>
+<li>It follows each platform until it&#39;s done. The progress shows, for example, &quot;Posting · 1/3 platforms done&quot;.</li>
+</ol>
+<p>Platforms can take a while to process a video. Kroma keeps checking for up to 30 minutes. If a platform still isn&#39;t done, it says &quot;Still processing on the platform. Check it there in a few minutes.&quot;</p>
+<p>When it finishes, a message says &quot;Posted to YouTube, Facebook&quot;, or &quot;Not posted to TikTok&quot; with the reason. If you sent TikTok to drafts, it reminds you to open the TikTok app and post it from your drafts.</p>
+<p>Each post is sent with its own unique key, so if the same upload request reaches Upload-Post twice, it&#39;s posted only once.</p>
+<h3 id="what-goes-where"><a class="anchor" href="#what-goes-where" aria-hidden="true">#</a>What goes where</h3><ul>
+<li><strong>YouTube:</strong> your title (up to 100 characters), and the text with the hashtags added at the end (up to 5000 characters). The hashtags are also added as YouTube tags.</li>
+<li><strong>Facebook:</strong> a <strong>Reel</strong> if the video is vertical (9:16) and 90 seconds or shorter. Otherwise a normal video on your Page. The hashtags are added at the end of the text.</li>
+<li><strong>TikTok:</strong> the title and text together, with the hashtags at the end, up to TikTok&#39;s 2200 characters.</li>
+</ul>
+<p>Anything longer than a platform allows is cut short and ends with &quot;…&quot;.</p>
+<h3 id="posted"><a class="anchor" href="#posted" aria-hidden="true">#</a>Posted</h3><p>After you post, a <strong>Posted</strong> section keeps a history for this project, newest first. Each entry shows the date and time, then each platform:</p>
+<ul>
+<li>a green tick when it&#39;s posted, with an <strong>Open</strong> button that opens the post in your browser,</li>
+<li>a red cross when it failed, with the reason,</li>
+<li>a spinner while it&#39;s still processing.</li>
+</ul>
+<p>The history is saved with the project.</p>
+<h3 id="subtitle-files"><a class="anchor" href="#subtitle-files" aria-hidden="true">#</a>Subtitle files</h3><p>At the bottom, <strong>Subtitle files</strong> saves your subtitles as <code>.srt</code> files, for YouTube&#39;s subtitle upload or to keep a copy:</p>
+<ul>
+<li><strong>Khmer .srt</strong> (or your language&#39;s name): the translated subtitles.</li>
+<li><strong>Original .srt</strong>: the original subtitles.</li>
+</ul>
+<h2 id="troubleshooting"><a class="anchor" href="#troubleshooting" aria-hidden="true">#</a>Troubleshooting</h2><div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Message</th>
+<th>What to do</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>&quot;Add your Upload-Post API key in Settings → Posting first.&quot;</td>
+<td>Do step 1 above.</td>
+</tr>
+<tr>
+<td>&quot;Upload-Post refused the API key…&quot;</td>
+<td>Copy the key again from app.upload-post.com → API Keys into <strong>Settings → Posting</strong>.</td>
+</tr>
+<tr>
+<td>&quot;Choose your Facebook Page&quot;</td>
+<td>Pick your Page in <strong>Settings → Posting</strong>.</td>
+</tr>
+<tr>
+<td>&quot;Can&#39;t reach Upload-Post. Check your internet connection.&quot;</td>
+<td>Check you&#39;re online and try again.</td>
+</tr>
+<tr>
+<td>&quot;Upload-Post didn&#39;t answer in time.&quot;</td>
+<td>Check your internet and try again.</td>
+</tr>
+<tr>
+<td>&quot;sign-in expired&quot; next to a platform</td>
+<td>Press <strong>Connect</strong> in <strong>Settings → Posting</strong> and sign in again.</td>
+</tr>
+</tbody></table></div>
+<p>More help: <a href="/kroma/docs/0.1/troubleshooting/">Troubleshooting</a>.</p>
+28:["$","main",null,{"className":"min-w-0","children":[["$","div",null,{"role":"note","className":"mb-6 flex flex-wrap items-center gap-x-3 gap-y-1 rounded-lg border border-warning/40 bg-warning/10 px-4 py-3 text-[13px]","children":[["$","$L2a",null,{"ref":"$undefined","icon":{"name":"triangle-exclamation-point","size":24,"node":[["path",{"d":"m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3","key":"wmoenq"}],["path",{"d":"M12 9v4","key":"juzpu7"}],["path",{"d":"M12 17h.01","key":"p32p05"}]],"aliases":["alert-triangle","triangle-alert"]},"className":"size-4 shrink-0 text-warning"}],["$","span",null,{"children":"You're reading the docs for Kroma 0.1. The latest version is 0.2.x."}],["$","$L1d",null,{"href":"/docs/0.2/posting/","className":"font-medium underline underline-offset-2","children":["Go to the latest docs"," →"]}]]}],[["$","p",null,{"className":"text-[12.5px] font-medium tracking-[0.08em] text-brand uppercase","children":"Publishing"}],["$","h1",null,{"className":"mt-2 text-[clamp(28px,4vw,40px)] font-semibold","children":"Posting"}],["$","div",null,{"className":"docs-prose mt-6","dangerouslySetInnerHTML":{"__html":"$2b"}}]],"$L2c"]}]
+29:["$","aside",null,{"className":"hidden xl:sticky xl:top-[84px] xl:block xl:self-start","children":[["$","p",null,{"className":"text-xs tracking-wider text-muted-foreground uppercase","children":"On this page"}],["$","$L2d",null,{"items":[{"depth":2,"id":"how-it-works","text":"How it works"},{"depth":2,"id":"plans-and-limits","text":"Plans and limits"},{"depth":2,"id":"set-up-posting-once","text":"Set up posting (once)"},{"depth":3,"id":"1-make-an-account-and-an-api-key","text":"1. Make an account and an API key"},{"depth":3,"id":"2-connect-your-accounts","text":"2. Connect your accounts"},{"depth":3,"id":"3-choose-your-facebook-page","text":"3. Choose your Facebook Page"},{"depth":2,"id":"post-a-video","text":"Post a video"},{"depth":3,"id":"1-posts","text":"1 · Posts"},{"depth":3,"id":"2-post-to","text":"2 · Post to"},{"depth":3,"id":"what-happens-next","text":"What happens next"},{"depth":3,"id":"what-goes-where","text":"What goes where"},{"depth":3,"id":"posted","text":"Posted"},{"depth":3,"id":"subtitle-files","text":"Subtitle files"},{"depth":2,"id":"troubleshooting","text":"Troubleshooting"}]}]]}]
+2e:I[23051,["$3","$4","$5","$6","$1c"],"CodeCopy"]
+2c:[["$","$L2e",null,{"copy":"Copy","copied":"Copied"}],["$","div",null,{"className":"mt-14 grid gap-3 border-t pt-6 sm:grid-cols-2","children":[["$","$L1d",null,{"href":"/docs/0.1/voice-cloning/","className":"group rounded-lg border p-4 no-underline hover:bg-accent/50","children":[["$","span",null,{"className":"flex items-center gap-1.5 text-xs text-muted-foreground","children":[["$","$L2a",null,{"ref":"$undefined","icon":{"name":"arrow-left","size":24,"node":[["path",{"d":"m12 19-7-7 7-7","key":"1l729n"}],["path",{"d":"M19 12H5","key":"x3x0zl"}]]},"className":"size-3.5"}]," ","Previous"]}],["$","span",null,{"className":"mt-1 block text-[14px] font-medium","children":"Voice cloning"}]]}],["$","$L1d",null,{"href":"/docs/0.1/keyboard-shortcuts/","className":"group rounded-lg border p-4 text-right no-underline hover:bg-accent/50","children":[["$","span",null,{"className":"flex items-center justify-end gap-1.5 text-xs text-muted-foreground","children":["Next"," ",["$","$L2a",null,{"ref":"$undefined","icon":{"name":"arrow-right","size":24,"node":[["path",{"d":"M5 12h14","key":"1ays0h"}],["path",{"d":"m12 5 7 7-7 7","key":"xquz4c"}]]},"className":"size-3.5"}]]}],["$","span",null,{"className":"mt-1 block text-[14px] font-medium","children":"Keyboard shortcuts"}]]}]]}],["$","a",null,{"href":"https://github.com/Heang-Dev/KROMA.STUDIO/edit/main/website/content/docs/0.1/en/posting.md","target":"_blank","rel":"noreferrer","className":"mt-6 inline-flex items-center gap-1.5 text-[13px] text-muted-foreground no-underline hover:text-foreground","children":[["$","$L2a",null,{"ref":"$undefined","icon":{"name":"pencil","size":24,"node":[["path",{"d":"M21.174 6.812a1 1 0 0 0-3.986-3.987L3.842 16.174a2 2 0 0 0-.5.83l-1.321 4.352a.5.5 0 0 0 .623.622l4.353-1.32a2 2 0 0 0 .83-.497z","key":"1a8usu"}],["path",{"d":"m15 5 4 4","key":"1mk7zo"}]]},"className":"size-3.5"}]," ","Edit this page on GitHub"]}]]
+15:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+2f:I[27201,["$3","$4","$5","$6"],"IconMark"]
+12:null
+18:[["$","title","0",{"children":"Posting · v0.1 · Docs · Kroma Studio"}],["$","meta","1",{"name":"description","content":"Download videos from YouTube, Bilibili, Douyin and 1,000+ sites, translate the subtitles to Khmer, give every character a voice, and post to YouTube, Facebook and TikTok. A free desktop app for macOS, Windows and Linux."}],["$","meta","2",{"property":"og:title","content":"Posting · v0.1 · Docs · Kroma Studio"}],["$","meta","3",{"property":"og:description","content":"Everything about Kroma Studio, from installing it to posting your videos."}],["$","meta","4",{"property":"og:site_name","content":"Kroma Studio"}],["$","meta","5",{"property":"og:locale","content":"en_US"}],["$","meta","6",{"property":"og:image","content":"https://heang-dev.github.io/kroma/assets/og-docs.png"}],["$","meta","7",{"property":"og:image:width","content":"1200"}],["$","meta","8",{"property":"og:image:height","content":"630"}],["$","meta","9",{"property":"og:image:alt","content":"The Kroma Studio docs"}],["$","meta","10",{"property":"og:type","content":"website"}],["$","meta","11",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","12",{"name":"twitter:title","content":"Posting · v0.1 · Docs · Kroma Studio"}],["$","meta","13",{"name":"twitter:description","content":"Everything about Kroma Studio, from installing it to posting your videos."}],["$","meta","14",{"name":"twitter:image","content":"https://heang-dev.github.io/kroma/assets/og-docs.png"}],["$","meta","15",{"name":"twitter:image:alt","content":"The Kroma Studio docs"}],["$","meta","16",{"name":"twitter:image:width","content":"1200"}],["$","meta","17",{"name":"twitter:image:height","content":"630"}],["$","link","18",{"rel":"icon","href":"/kroma/assets/kroma-favicon.png"}],["$","$L2f","19",{}]]

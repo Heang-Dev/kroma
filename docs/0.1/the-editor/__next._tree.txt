@@ -1,0 +1,9 @@
+:HL["/kroma/_next/static/chunks/3kygz3hykdx6f.css","style"]
+:HL["/kroma/_next/static/media/07a39a8a4660cc7c-s.p.0r6juujl39pe6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/kroma/_next/static/media/ac3f6c3e4821ab39-s.p.3dytz707x2doa.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/kroma/_next/static/media/ecc70a8daf50308c-s.p.2wf6rvog29rnd.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+4:[["children",{"s":"__PAGE__","h":160}]]
+3:[["children",{"s":{"n":"slug","t":"d","k":"the-editor","s":[]},"h":65632,"c":"$Q4"}]]
+2:[["children",{"s":{"n":"version","t":"d","k":"0.1","s":[]},"h":196704,"c":"$Q3"}]]
+1:[["children",{"s":"docs","h":131168,"c":"$Q2"}]]
+0:{"b":"Hf2A-8s-tskzwG8lj9Zm4","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}

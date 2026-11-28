@@ -1,0 +1,212 @@
+1:"$Sreact.fragment"
+3:"/kroma/_next/static/chunks/04vt5_qdxg31o.js"
+4:"/kroma/_next/static/chunks/0w3ftlzy945zl.js"
+5:"/kroma/_next/static/chunks/2m9t-wks40qyw.js"
+6:"/kroma/_next/static/chunks/1a4ohd0pkdhou.js"
+7:I[39756,["$3","$4","$5","$6"],"default"]
+8:I[37457,["$3","$4","$5","$6"],"default"]
+10:I[97367,["$3","$4","$5","$6"],"OutletBoundary"]
+11:"$Sreact.suspense"
+13:"ViewportBoundary"
+14:I[97367,["$3","$4","$5","$6"],"$13"]
+16:"MetadataBoundary"
+17:I[97367,["$3","$4","$5","$6"],"$16"]
+19:I[68027,["$3","$4","$5","$6"],"default",1]
+:HL["/kroma/_next/static/chunks/3kygz3hykdx6f.css","style"]
+:HL["/kroma/_next/static/media/07a39a8a4660cc7c-s.p.0r6juujl39pe6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/kroma/_next/static/media/ac3f6c3e4821ab39-s.p.3dytz707x2doa.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/kroma/_next/static/media/ecc70a8daf50308c-s.p.2wf6rvog29rnd.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+c:X
+e:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":["$Lf",null,["$","$L10",null,{"children":["$","$11",null,{"name":"Next.MetadataOutlet","children":"$@12"}]}]]}],"p":false,"v":null}}]]
+d:[["children",{"s":{"n":"slug","t":"d","k":"voice-library","s":[]},"h":66048,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$c"},"c":"$Qe"}]]
+b:[["children",{"s":{"n":"version","t":"d","k":"0.2","s":[]},"h":197120,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$c"},"c":"$Qd"}]]
+a:[["children",{"s":"docs","h":131584,"d":{"r":["$","$1","c",{"children":[[["$","script","script-0",{"src":"/kroma/_next/static/chunks/2ffur98r21h0b.js","async":true,"nonce":"$undefined"}]],["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":null},"c":"$Qb"}]]
+0:{"P":null,"c":["","docs","0.2","voice-library",""],"q":"","i":false,"t":{"t":{"s":"","h":131600,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/kroma/_next/static/chunks/3kygz3hykdx6f.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/kroma/_next/static/chunks/04vt5_qdxg31o.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/kroma/_next/static/chunks/0w3ftlzy945zl.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/kroma/_next/static/chunks/2m9t-wks40qyw.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/kroma/_next/static/chunks/1a4ohd0pkdhou.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"z61v7q_variable -suo1a_variable","suppressHydrationWarning":true,"children":[["$","head",null,{"children":["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(a){try{let b=document.documentElement,c=location.pathname.slice(a.length)||\"/\",d=\"/km\"===c||c.startsWith(\"/km/\");b.lang=d?\"km\":\"en\";let e=localStorage.getItem(\"kroma-theme\");b.classList.toggle(\"dark\",e?\"dark\"===e:matchMedia(\"(prefers-color-scheme: dark)\").matches);let f=localStorage.getItem(\"kroma-lang\"),g=!1;try{let b=new URL(document.referrer);g=b.origin===location.origin&&(b.pathname+\"/\").startsWith(a+\"/\")}catch{}if(!f||g)return;let h=location.search+location.hash;\"km\"!==f||d?\"en\"===f&&d&&location.replace(a+(c.slice(3)||\"/\")+h):location.replace(a+\"/km\"+(\"/\"===c?\"/\":c)+h)}catch{}})(\"/kroma\")"}}]}],["$","body",null,{"className":"flex min-h-svh flex-col","children":["$L2",["$","div",null,{"className":"flex-1","children":["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],"$L9"]}]]}]]}],"p":false,"v":null},"c":"$Qa"},"h":{"r":["$","$1","h",{"children":[null,["$","$L14",null,{"children":"$L15"}],["$","$L17",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$11",null,{"name":"Next.Metadata","children":"$L18"}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":false,"v":null}},"m":"$undefined","G":["$19",[["$","link","0",{"rel":"stylesheet","href":"/kroma/_next/static/chunks/3kygz3hykdx6f.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"Hf2A-8s-tskzwG8lj9Zm4"}
+1a:I[19738,["$3","$4","$5","$6"],"HeaderBar"]
+1b:I[19738,["$3","$4","$5","$6"],"FooterBar"]
+c:C
+2:["$","$L1a",null,{"stars":0}]
+9:["$","$L1b",null,{"latest":{"version":"0.2.3","date":"2026-11-28T09:36:49Z"}}]
+1c:"/kroma/_next/static/chunks/2ffur98r21h0b.js"
+1d:I[22016,["$3","$4","$5","$6","$1c"],""]
+1e:I[32016,["$3","$4","$5","$6","$1c"],"VersionPicker"]
+1f:I[45613,["$3","$4","$5","$6","$1c"],"DocsNavToggle"]
+f:["$","div",null,{"className":"mx-auto w-[min(1280px,100%-32px)] grid grid-cols-1 gap-6 pt-6 pb-10 lg:gap-10 lg:pt-10 lg:grid-cols-[230px_1fr] xl:grid-cols-[230px_1fr_200px]","children":[["$","aside",null,{"className":"lg:sticky lg:top-[84px] lg:max-h-[calc(100vh-100px)] lg:self-start lg:overflow-y-auto lg:pr-2","children":[["$","$L1d",null,{"href":"/docs/0.2/","className":"mb-3 block text-xs tracking-wider text-muted-foreground uppercase no-underline hover:text-foreground","children":"Documentation"}],["$","$L1e",null,{"versions":[{"version":"0.2","label":"0.2.x","released":"2026-11-28"},{"version":"0.1","label":"0.1.x","released":"2026-11-27"}],"current":"0.2","slug":"voice-library","slugsByVersion":{"0.2":["installation","configuration","updates","the-editor","first-video","downloading","subtitles","translation","style-and-objects","export","batch","characters-and-voices","voice-library","voice-engine","voice-cloning","story","posting","keyboard-shortcuts","projects-and-files","settings","notifications","troubleshooting","release-notes","upgrade"],"0.1":["installation","configuration","updates","the-editor","first-video","downloading","subtitles","translation","style-and-objects","export","characters-and-voices","voice-library","voice-engine","voice-cloning","posting","keyboard-shortcuts","projects-and-files","settings","troubleshooting","release-notes","upgrade"]},"lang":"en","latestLabel":"latest"}],["$","$L1f",null,{"current":"Voice library","label":"Documentation","children":["$","nav",null,{"aria-label":"Documentation","className":"mt-5 grid gap-5","children":[["$","div","Getting started",{"children":[["$","p",null,{"className":"mb-1.5 px-2 text-[12px] font-semibold","children":"Getting started"}],["$","ul",null,{"className":"grid list-none gap-0.5 border-l p-0","children":[["$","li","installation",{"children":["$","$L1d",null,{"href":"/docs/0.2/installation/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Installation"}]}],["$","li","configuration",{"children":["$","$L1d",null,{"href":"/docs/0.2/configuration/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Add your keys"}]}],["$","li","updates",{"children":["$","$L1d",null,{"href":"/docs/0.2/updates/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Updates"}]}],["$","li","the-editor",{"children":["$","$L1d",null,{"href":"/docs/0.2/the-editor/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"The editor"}]}]]}]]}],["$","div","Making videos",{"children":[["$","p",null,{"className":"mb-1.5 px-2 text-[12px] font-semibold","children":"Making videos"}],["$","ul",null,{"className":"grid list-none gap-0.5 border-l p-0","children":[["$","li","first-video",{"children":["$","$L1d",null,{"href":"/docs/0.2/first-video/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Your first video"}]}],["$","li","downloading",{"children":["$","$L1d",null,{"href":"/docs/0.2/downloading/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Downloading videos"}]}],"$L20","$L21","$L22","$L23","$L24"]}]]}],"$L25","$L26","$L27","$L28"]}]}]]}],"$L29","$L2a"]}]
+2d:I[51896,["$3","$4","$5","$6","$1c"],"DocsToc"]
+20:["$","li","subtitles",{"children":["$","$L1d",null,{"href":"/docs/0.2/subtitles/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Subtitles"}]}]
+21:["$","li","translation",{"children":["$","$L1d",null,{"href":"/docs/0.2/translation/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Translation"}]}]
+22:["$","li","style-and-objects",{"children":["$","$L1d",null,{"href":"/docs/0.2/style-and-objects/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Style & objects"}]}]
+23:["$","li","export",{"children":["$","$L1d",null,{"href":"/docs/0.2/export/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Export"}]}]
+24:["$","li","batch",{"children":["$","$L1d",null,{"href":"/docs/0.2/batch/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Batch"}]}]
+25:["$","div","Voices",{"children":[["$","p",null,{"className":"mb-1.5 px-2 text-[12px] font-semibold","children":"Voices"}],["$","ul",null,{"className":"grid list-none gap-0.5 border-l p-0","children":[["$","li","characters-and-voices",{"children":["$","$L1d",null,{"href":"/docs/0.2/characters-and-voices/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Characters & voices"}]}],["$","li","voice-library",{"children":["$","$L1d",null,{"href":"/docs/0.2/voice-library/","aria-current":"page","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors rounded-r-md border-brand bg-brand/10 font-medium text-brand","children":"Voice library"}]}],["$","li","voice-engine",{"children":["$","$L1d",null,{"href":"/docs/0.2/voice-engine/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"The voice engine"}]}],["$","li","voice-cloning",{"children":["$","$L1d",null,{"href":"/docs/0.2/voice-cloning/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Voice cloning"}]}],["$","li","story",{"children":["$","$L1d",null,{"href":"/docs/0.2/story/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Story studio"}]}]]}]]}]
+26:["$","div","Publishing",{"children":[["$","p",null,{"className":"mb-1.5 px-2 text-[12px] font-semibold","children":"Publishing"}],["$","ul",null,{"className":"grid list-none gap-0.5 border-l p-0","children":[["$","li","posting",{"children":["$","$L1d",null,{"href":"/docs/0.2/posting/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Posting"}]}]]}]]}]
+27:["$","div","Reference",{"children":[["$","p",null,{"className":"mb-1.5 px-2 text-[12px] font-semibold","children":"Reference"}],["$","ul",null,{"className":"grid list-none gap-0.5 border-l p-0","children":[["$","li","keyboard-shortcuts",{"children":["$","$L1d",null,{"href":"/docs/0.2/keyboard-shortcuts/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Keyboard shortcuts"}]}],["$","li","projects-and-files",{"children":["$","$L1d",null,{"href":"/docs/0.2/projects-and-files/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Projects and files"}]}],["$","li","settings",{"children":["$","$L1d",null,{"href":"/docs/0.2/settings/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Settings"}]}],["$","li","notifications",{"children":["$","$L1d",null,{"href":"/docs/0.2/notifications/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Notifications"}]}],["$","li","troubleshooting",{"children":["$","$L1d",null,{"href":"/docs/0.2/troubleshooting/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Troubleshooting"}]}]]}]]}]
+28:["$","div","This version",{"children":[["$","p",null,{"className":"mb-1.5 px-2 text-[12px] font-semibold","children":"This version"}],["$","ul",null,{"className":"grid list-none gap-0.5 border-l p-0","children":[["$","li","release-notes",{"children":["$","$L1d",null,{"href":"/docs/0.2/release-notes/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Release notes"}]}],["$","li","upgrade",{"children":["$","$L1d",null,{"href":"/docs/0.2/upgrade/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Upgrade guide"}]}]]}]]}]
+2b:T238e,<p>The voice library is where you listen to every voice Kroma has, side by side, and pick one for your project. Open it with <strong>Voices</strong> in the left menu (below the editor&#39;s tools).</p>
+<p>At the top right are the voice engine&#39;s status and a button:</p>
+<ul>
+<li><strong>Clone voice</strong> makes a new voice from a short recording. See <a href="/kroma/docs/0.2/voice-cloning/">Voice cloning</a>. It&#39;s greyed out until the <a href="/kroma/docs/0.2/voice-engine/">voice engine</a> is on.</li>
+</ul>
+<p>The page has three sections: <strong>Your voices</strong>, <strong>Preset voices</strong> and <strong>Instant voices</strong>. Under the header:</p>
+<ul>
+<li><strong>All</strong>, <strong>Yours</strong>, <strong>Presets</strong> and <strong>Instant</strong> show one section at a time, with how many voices each has.</li>
+<li><strong>Find a voice</strong> filters the cards as you type.</li>
+</ul>
+<p>When the voice engine is off, a note says that your voices and the presets need it (instant voices work without it), with a button to install or start it.</p>
+<h2 id="voice-cards"><a class="anchor" href="#voice-cards" aria-hidden="true">#</a>Voice cards</h2><p>Every voice is a card. A card shows:</p>
+<ul>
+<li>the voice&#39;s name,</li>
+<li>a short line under it: the sample&#39;s length (for example &quot;12.4 s&quot;), &quot;cloned&quot;, &quot;instant · Khmer&quot; or <strong>no sample yet</strong>,</li>
+<li>a green <strong>Ready</strong> badge when the voice has a sample you can play,</li>
+<li>a waveform player (see below),</li>
+<li>the text the sample says, or a description of the voice.</li>
+</ul>
+<p>The <strong>⋯</strong> button on a card opens a menu:</p>
+<ul>
+<li><strong>Use in this project</strong> makes this the project&#39;s voice (the default voice in the <strong>Voice</strong> panel) and turns the voice-over on. A message confirms it, for example: &quot;Narrator (deep male)&quot; is the voice for this project.</li>
+<li><strong>Delete</strong> (for your voices) or <strong>Delete the sample</strong> (for preset voices). Deleting a cloned voice asks you to confirm first. If the open project or its characters used it, they switch to an instant voice.</li>
+</ul>
+<p>To give a voice to one character instead, use the voice menu next to that character in the <strong>Voice</strong> panel. See <a href="/kroma/docs/0.2/characters-and-voices/">Characters &amp; voices</a>.</p>
+<h2 id="the-waveform-player"><a class="anchor" href="#the-waveform-player" aria-hidden="true">#</a>The waveform player</h2><p>Each card has a small player:</p>
+<ul>
+<li>Press the round ▶ button to play. Press it again to pause.</li>
+<li>The bars show the shape of the sound. They fill in as it plays.</li>
+<li>Click anywhere on the bars to jump to that point.</li>
+<li>The times under the bars show where you are and how long the sample is.</li>
+</ul>
+<p>Only one sample plays at a time. Starting one stops any other.</p>
+<h2 id="your-voices"><a class="anchor" href="#your-voices" aria-hidden="true">#</a>Your voices</h2><p>Voices you cloned. The section reminds you: &quot;Only use voices you have permission to use.&quot;</p>
+<p>Each card shows the length of the recording and the words it says. If you have none yet, it says &quot;No cloned voices yet.&quot;</p>
+<p>Cloned voices need the <a href="/kroma/docs/0.2/voice-engine/">voice engine</a> to speak.</p>
+<h2 id="preset-voices"><a class="anchor" href="#preset-voices" aria-hidden="true">#</a>Preset voices</h2><p>A voice for every kind of character. Each is a saved sample, so it sounds the same in every video. Kroma makes the samples itself: press <strong>Make a sample (once)</strong> when the voice engine is on. There are 36 designed Khmer voices, sorted into seven groups:</p>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Group</th>
+<th>Voices</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><strong>Narration</strong> (6)</td>
+<td>Narrator (deep male), Narrator (clear female), News anchor (male), News anchor (female), Storyteller (warm grandfather), Storyteller (kind grandmother)</td>
+</tr>
+<tr>
+<td><strong>Palace &amp; royalty</strong> (10)</td>
+<td>King (majestic), Emperor (cold), Queen (elegant), Empress dowager (stern), Prince (young noble), Princess (gentle), Concubine (scheming), Minister (old official), Eunuch (palace servant), Maid (timid servant)</td>
+</tr>
+<tr>
+<td><strong>Heroes &amp; fighters</strong> (5)</td>
+<td>Young man (hero), Young woman (heroine), General (bold warrior), Swordswoman (fierce), Assassin (cold killer)</td>
+</tr>
+<tr>
+<td><strong>Modern drama</strong> (4)</td>
+<td>CEO (cold boss), Secretary (office woman), Rich young master (arrogant), Shopkeeper (cheerful)</td>
+</tr>
+<tr>
+<td><strong>Family &amp; elders</strong> (4)</td>
+<td>Father (strict), Mother (caring), Old man (village elder), Old monk (wise)</td>
+</tr>
+<tr>
+<td><strong>Children &amp; teens</strong> (4)</td>
+<td>Young boy, Young girl, Teenage boy (cheeky), Teenage girl (cheerful)</td>
+</tr>
+<tr>
+<td><strong>Villains &amp; mood</strong> (3)</td>
+<td>Villain (dark, slow), Villainess (cruel), Ghost story (whisper)</td>
+</tr>
+</tbody></table></div>
+<p>When the voice engine is connected, Kroma shows the engine&#39;s own list. If the engine offers voices that aren&#39;t in these groups, they appear under <strong>More</strong>.</p>
+<h3 id="making-a-sample"><a class="anchor" href="#making-a-sample" aria-hidden="true">#</a>Making a sample</h3><p>A preset voice is designed from a written description, for example &quot;A middle-aged man with a deep, clear, confident male narrator voice&quot;. The first time, the engine makes a sample of about 10 seconds from that description. That sample is then saved on your computer and used every time, so the voice <strong>sounds the same in every video</strong>.</p>
+<p>On a card with <strong>no sample yet</strong>, press <strong>Make a sample (once)</strong>. It takes about a minute. The button says <strong>Making the sample…</strong> while it works. Kroma checks that the result has the right pitch for the character (a man sounds like a man, a child like a child), and tries again if not.</p>
+<p>If the engine isn&#39;t connected, the button says <strong>Start the engine to make a sample</strong>.</p>
+<p>You don&#39;t have to make samples by hand. If you use a preset voice in a voice-over before it has a sample, Kroma makes the sample first (&quot;Preparing the voice … (once)&quot;).</p>
+<p><strong>Delete the sample</strong> removes the saved sample. The next time you use the voice, a new one is made, and it may sound a little different.</p>
+<h2 id="instant-voices"><a class="anchor" href="#instant-voices" aria-hidden="true">#</a>Instant voices</h2><p>Microsoft&#39;s free voices. They&#39;re ready in seconds and need no key and no engine, only an internet connection. For Khmer they&#39;re good for drafts. For the other languages they&#39;re the voice-over.</p>
+<p>There are two voices, one female and one male, for each language:</p>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Language</th>
+<th>Voices</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Khmer · ខ្មែរ</td>
+<td>Sreymom (female), Piseth (male)</td>
+</tr>
+<tr>
+<td>Thai · ไทย</td>
+<td>Premwadee (female), Niwat (male)</td>
+</tr>
+<tr>
+<td>Vietnamese · Tiếng Việt</td>
+<td>Hoài My (female), Nam Minh (male)</td>
+</tr>
+<tr>
+<td>Lao · ລາວ</td>
+<td>Keomany (female), Chanthavong (male)</td>
+</tr>
+<tr>
+<td>English</td>
+<td>Ava (female), Andrew (male)</td>
+</tr>
+<tr>
+<td>Indonesian · Bahasa Indonesia</td>
+<td>Gadis (female), Ardi (male)</td>
+</tr>
+<tr>
+<td>Malay · Bahasa Melayu</td>
+<td>Yasmin (female), Osman (male)</td>
+</tr>
+</tbody></table></div>
+<p>The first time you press ▶ on an instant voice, Kroma asks Microsoft for a short sample, so it takes a moment. After that it plays straight away.</p>
+<h2 id="instant-designed-or-cloned"><a class="anchor" href="#instant-designed-or-cloned" aria-hidden="true">#</a>Instant, designed or cloned?</h2><div class="table-wrap"><table>
+<thead>
+<tr>
+<th></th>
+<th>Instant</th>
+<th>Designed (preset)</th>
+<th>Cloned</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Needs</td>
+<td>Internet only</td>
+<td>The <a href="/kroma/docs/0.2/voice-engine/">voice engine</a></td>
+<td>The <a href="/kroma/docs/0.2/voice-engine/">voice engine</a> and a recording</td>
+</tr>
+<tr>
+<td>Speed</td>
+<td>Seconds</td>
+<td>Slower</td>
+<td>Slower</td>
+</tr>
+<tr>
+<td>Languages</td>
+<td>7</td>
+<td>Made for Khmer</td>
+<td>Made for Khmer</td>
+</tr>
+<tr>
+<td>Speed slider</td>
+<td>Yes</td>
+<td>No</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Best for</td>
+<td>Drafts, other languages</td>
+<td>Dramas with many characters</td>
+<td>Your own voice</td>
+</tr>
+</tbody></table></div>
+<h2 id="where-voices-are-kept"><a class="anchor" href="#where-voices-are-kept" aria-hidden="true">#</a>Where voices are kept</h2><p>Your cloned voices and saved samples are kept on your computer, in the <code>Kroma Studio/voices</code> folder inside your Movies folder (Videos on Windows). The voice engine doesn&#39;t keep them. Kroma sends the recording along with each job.</p>
+29:["$","main",null,{"className":"min-w-0","children":[false,[["$","p",null,{"className":"text-[12.5px] font-medium tracking-[0.08em] text-brand uppercase","children":"Voices"}],["$","h1",null,{"className":"mt-2 text-[clamp(28px,4vw,40px)] font-semibold","children":"Voice library"}],["$","div",null,{"className":"docs-prose mt-6","dangerouslySetInnerHTML":{"__html":"$2b"}}]],"$L2c"]}]
+2a:["$","aside",null,{"className":"hidden xl:sticky xl:top-[84px] xl:block xl:self-start","children":[["$","p",null,{"className":"text-xs tracking-wider text-muted-foreground uppercase","children":"On this page"}],["$","$L2d",null,{"items":[{"depth":2,"id":"voice-cards","text":"Voice cards"},{"depth":2,"id":"the-waveform-player","text":"The waveform player"},{"depth":2,"id":"your-voices","text":"Your voices"},{"depth":2,"id":"preset-voices","text":"Preset voices"},{"depth":3,"id":"making-a-sample","text":"Making a sample"},{"depth":2,"id":"instant-voices","text":"Instant voices"},{"depth":2,"id":"instant-designed-or-cloned","text":"Instant, designed or cloned?"},{"depth":2,"id":"where-voices-are-kept","text":"Where voices are kept"}]}]]}]
+2e:I[23051,["$3","$4","$5","$6","$1c"],"CodeCopy"]
+2f:I[5014,["$3","$4","$5","$6","$1c"],"default"]
+2c:[["$","$L2e",null,{"copy":"Copy","copied":"Copied"}],["$","div",null,{"className":"mt-14 grid gap-3 border-t pt-6 sm:grid-cols-2","children":[["$","$L1d",null,{"href":"/docs/0.2/characters-and-voices/","className":"group rounded-lg border p-4 no-underline hover:bg-accent/50","children":[["$","span",null,{"className":"flex items-center gap-1.5 text-xs text-muted-foreground","children":[["$","$L2f",null,{"ref":"$undefined","icon":{"name":"arrow-left","size":24,"node":[["path",{"d":"m12 19-7-7 7-7","key":"1l729n"}],["path",{"d":"M19 12H5","key":"x3x0zl"}]]},"className":"size-3.5"}]," ","Previous"]}],["$","span",null,{"className":"mt-1 block text-[14px] font-medium","children":"Characters & voices"}]]}],["$","$L1d",null,{"href":"/docs/0.2/voice-engine/","className":"group rounded-lg border p-4 text-right no-underline hover:bg-accent/50","children":[["$","span",null,{"className":"flex items-center justify-end gap-1.5 text-xs text-muted-foreground","children":["Next"," ",["$","$L2f",null,{"ref":"$undefined","icon":{"name":"arrow-right","size":24,"node":[["path",{"d":"M5 12h14","key":"1ays0h"}],["path",{"d":"m12 5 7 7-7 7","key":"xquz4c"}]]},"className":"size-3.5"}]]}],["$","span",null,{"className":"mt-1 block text-[14px] font-medium","children":"The voice engine"}]]}]]}],["$","a",null,{"href":"https://github.com/Heang-Dev/KROMA.STUDIO/edit/main/website/content/docs/0.2/en/voice-library.md","target":"_blank","rel":"noreferrer","className":"mt-6 inline-flex items-center gap-1.5 text-[13px] text-muted-foreground no-underline hover:text-foreground","children":[["$","$L2f",null,{"ref":"$undefined","icon":{"name":"pencil","size":24,"node":[["path",{"d":"M21.174 6.812a1 1 0 0 0-3.986-3.987L3.842 16.174a2 2 0 0 0-.5.83l-1.321 4.352a.5.5 0 0 0 .623.622l4.353-1.32a2 2 0 0 0 .83-.497z","key":"1a8usu"}],["path",{"d":"m15 5 4 4","key":"1mk7zo"}]]},"className":"size-3.5"}]," ","Edit this page on GitHub"]}]]
+15:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+30:I[27201,["$3","$4","$5","$6"],"IconMark"]
+12:null
+18:[["$","title","0",{"children":"Voice library · v0.2 · Docs · Kroma Studio"}],["$","meta","1",{"name":"description","content":"Download videos from YouTube, Bilibili, Douyin and 1,000+ sites, translate the subtitles to Khmer, give every character a voice, and post to YouTube, Facebook and TikTok. A free desktop app for macOS, Windows and Linux."}],["$","meta","2",{"property":"og:title","content":"Voice library · v0.2 · Docs · Kroma Studio"}],["$","meta","3",{"property":"og:description","content":"Everything about Kroma Studio, from installing it to posting your videos."}],["$","meta","4",{"property":"og:site_name","content":"Kroma Studio"}],["$","meta","5",{"property":"og:locale","content":"en_US"}],["$","meta","6",{"property":"og:image","content":"https://heang-dev.github.io/kroma/assets/og-docs.png"}],["$","meta","7",{"property":"og:image:width","content":"1200"}],["$","meta","8",{"property":"og:image:height","content":"630"}],["$","meta","9",{"property":"og:image:alt","content":"The Kroma Studio docs"}],["$","meta","10",{"property":"og:type","content":"website"}],["$","meta","11",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","12",{"name":"twitter:title","content":"Voice library · v0.2 · Docs · Kroma Studio"}],["$","meta","13",{"name":"twitter:description","content":"Everything about Kroma Studio, from installing it to posting your videos."}],["$","meta","14",{"name":"twitter:image","content":"https://heang-dev.github.io/kroma/assets/og-docs.png"}],["$","meta","15",{"name":"twitter:image:alt","content":"The Kroma Studio docs"}],["$","meta","16",{"name":"twitter:image:width","content":"1200"}],["$","meta","17",{"name":"twitter:image:height","content":"630"}],["$","link","18",{"rel":"icon","href":"/kroma/assets/kroma-favicon.png"}],["$","$L30","19",{}]]

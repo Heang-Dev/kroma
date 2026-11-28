@@ -1,0 +1,188 @@
+1:"$Sreact.fragment"
+2:"/kroma/_next/static/chunks/04vt5_qdxg31o.js"
+3:"/kroma/_next/static/chunks/0w3ftlzy945zl.js"
+4:"/kroma/_next/static/chunks/2m9t-wks40qyw.js"
+5:"/kroma/_next/static/chunks/1a4ohd0pkdhou.js"
+6:I[19738,["$2","$3","$4","$5"],"HeaderBar"]
+7:I[39756,["$2","$3","$4","$5"],"default"]
+8:I[37457,["$2","$3","$4","$5"],"default"]
+9:I[19738,["$2","$3","$4","$5"],"FooterBar"]
+14:"/kroma/_next/static/chunks/2ffur98r21h0b.js"
+15:I[22016,["$2","$3","$4","$5","$14"],""]
+16:I[32016,["$2","$3","$4","$5","$14"],"VersionPicker"]
+1c:"ViewportBoundary"
+1d:I[97367,["$2","$3","$4","$5"],"$1c"]
+1e:"MetadataBoundary"
+1f:I[97367,["$2","$3","$4","$5"],"$1e"]
+20:"$Sreact.suspense"
+:HL["/kroma/_next/static/chunks/3kygz3hykdx6f.css","style"]
+b:X
+10:X
+10:C
+13:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto w-[min(1280px,100%-32px)] grid grid-cols-1 gap-6 pt-6 pb-10 lg:gap-10 lg:pt-10 lg:grid-cols-[230px_1fr] xl:grid-cols-[230px_1fr_200px]","children":[["$","aside",null,{"className":"lg:sticky lg:top-[84px] lg:max-h-[calc(100vh-100px)] lg:self-start lg:overflow-y-auto lg:pr-2","children":[["$","$L15",null,{"href":"/docs/0.2/","className":"mb-3 block text-xs tracking-wider text-muted-foreground uppercase no-underline hover:text-foreground","children":"Documentation"}],["$","$L16",null,{"versions":[{"version":"0.2","label":"0.2.x","released":"2026-11-28"},{"version":"0.1","label":"0.1.x","released":"2026-11-27"}],"current":"0.2","slug":"batch","slugsByVersion":{"0.2":["installation","configuration","updates","the-editor","first-video","downloading","subtitles","translation","style-and-objects","export","batch","characters-and-voices","voice-library","voice-engine","voice-cloning","story","posting","keyboard-shortcuts","projects-and-files","settings","notifications","troubleshooting","release-notes","upgrade"],"0.1":["installation","configuration","updates","the-editor","first-video","downloading","subtitles","translation","style-and-objects","export","characters-and-voices","voice-library","voice-engine","voice-cloning","posting","keyboard-shortcuts","projects-and-files","settings","troubleshooting","release-notes","upgrade"]},"lang":"en","latestLabel":"latest"}],"$L17"]}],"$L18","$L19"]}],null,"$L1a"]}],"p":"$@1b","v":null,"s":"$b"}}]]
+11:[["children",{"s":{"n":"slug","t":"d","k":"batch","s":[]},"h":65632,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$L8",null,{}]}]]}],"p":"$@12","v":"$10","s":"$b"},"c":"$Q13"}]]
+e:[["children",{"s":{"n":"version","t":"d","k":"0.2","s":[]},"h":196704,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$L8",null,{}]}]]}],"p":"$@f","v":"$10","s":"$b"},"c":"$Q11"}]]
+c:[["children",{"s":"docs","h":131168,"d":{"r":["$","$1","c",{"children":[[["$","script","script-0",{"src":"/kroma/_next/static/chunks/2ffur98r21h0b.js","async":true}]],["$","$L7",null,{"parallelRouterKey":"children","template":["$","$L8",null,{}]}]]}],"p":"$@d","v":null,"s":"$b"},"c":"$Qe"}]]
+0:{"t":{"t":{"s":"","h":131152,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/kroma/_next/static/chunks/3kygz3hykdx6f.css","precedence":"next"}],["$","script","script-0",{"src":"/kroma/_next/static/chunks/04vt5_qdxg31o.js","async":true}],["$","script","script-1",{"src":"/kroma/_next/static/chunks/0w3ftlzy945zl.js","async":true}],["$","script","script-2",{"src":"/kroma/_next/static/chunks/2m9t-wks40qyw.js","async":true}],["$","script","script-3",{"src":"/kroma/_next/static/chunks/1a4ohd0pkdhou.js","async":true}]],["$","html",null,{"lang":"en","className":"z61v7q_variable -suo1a_variable","suppressHydrationWarning":true,"children":[["$","head",null,{"children":["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(a){try{let b=document.documentElement,c=location.pathname.slice(a.length)||\"/\",d=\"/km\"===c||c.startsWith(\"/km/\");b.lang=d?\"km\":\"en\";let e=localStorage.getItem(\"kroma-theme\");b.classList.toggle(\"dark\",e?\"dark\"===e:matchMedia(\"(prefers-color-scheme: dark)\").matches);let f=localStorage.getItem(\"kroma-lang\"),g=!1;try{let b=new URL(document.referrer);g=b.origin===location.origin&&(b.pathname+\"/\").startsWith(a+\"/\")}catch{}if(!f||g)return;let h=location.search+location.hash;\"km\"!==f||d?\"en\"===f&&d&&location.replace(a+(c.slice(3)||\"/\")+h):location.replace(a+\"/km\"+(\"/\"===c?\"/\":c)+h)}catch{}})(\"/kroma\")"}}]}],["$","body",null,{"className":"flex min-h-svh flex-col","children":[["$","$L6",null,{"stars":0}],["$","div",null,{"className":"flex-1","children":["$","$L7",null,{"parallelRouterKey":"children","template":["$","$L8",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}]}],["$","$L9",null,{"latest":{"version":"0.2.3","date":"2026-11-28T09:36:49Z"}}]]}]]}]]}],"p":"$@a","v":null,"s":"$b"},"c":"$Qc"},"h":{"r":["$","$1","h",{"children":[null,["$","$L1d",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L1f",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$20",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Batch · v0.2 · Docs · Kroma Studio"}],["$","meta","1",{"name":"description","content":"Download videos from YouTube, Bilibili, Douyin and 1,000+ sites, translate the subtitles to Khmer, give every character a voice, and post to YouTube, Facebook and TikTok. A free desktop app for macOS, Windows and Linux."}],["$","meta","2",{"property":"og:title","content":"Batch · v0.2 · Docs · Kroma Studio"}],["$","meta","3",{"property":"og:description","content":"Everything about Kroma Studio, from installing it to posting your videos."}],["$","meta","4",{"property":"og:site_name","content":"Kroma Studio"}],["$","meta","5",{"property":"og:locale","content":"en_US"}],["$","meta","6",{"property":"og:image","content":"https://heang-dev.github.io/kroma/assets/og-docs.png"}],["$","meta","7",{"property":"og:image:width","content":"1200"}],["$","meta","8",{"property":"og:image:height","content":"630"}],["$","meta","9",{"property":"og:image:alt","content":"The Kroma Studio docs"}],["$","meta","10",{"property":"og:type","content":"website"}],["$","meta","11",{"name":"twitter:card","content":"summary_large_image"}],"$L21","$L22","$L23","$L24","$L25","$L26","$L27","$L28"]}]}],null]}],"$L29"]}],"p":"$@2a","v":null,"s":"$b"}},"a":"$@2b","u":"$@2c","b":"Hf2A-8s-tskzwG8lj9Zm4"}
+2d:I[45613,["$2","$3","$4","$5","$14"],"DocsNavToggle"]
+34:I[51896,["$2","$3","$4","$5","$14"],"DocsToc"]
+35:I[97367,["$2","$3","$4","$5"],"OutletBoundary"]
+37:I[27201,["$2","$3","$4","$5"],"IconMark"]
+17:["$","$L2d",null,{"current":"Batch","label":"Documentation","children":["$","nav",null,{"aria-label":"Documentation","className":"mt-5 grid gap-5","children":[["$","div","Getting started",{"children":[["$","p",null,{"className":"mb-1.5 px-2 text-[12px] font-semibold","children":"Getting started"}],["$","ul",null,{"className":"grid list-none gap-0.5 border-l p-0","children":[["$","li","installation",{"children":["$","$L15",null,{"href":"/docs/0.2/installation/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Installation"}]}],["$","li","configuration",{"children":["$","$L15",null,{"href":"/docs/0.2/configuration/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Add your keys"}]}],["$","li","updates",{"children":["$","$L15",null,{"href":"/docs/0.2/updates/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Updates"}]}],["$","li","the-editor",{"children":["$","$L15",null,{"href":"/docs/0.2/the-editor/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"The editor"}]}]]}]]}],["$","div","Making videos",{"children":[["$","p",null,{"className":"mb-1.5 px-2 text-[12px] font-semibold","children":"Making videos"}],["$","ul",null,{"className":"grid list-none gap-0.5 border-l p-0","children":[["$","li","first-video",{"children":["$","$L15",null,{"href":"/docs/0.2/first-video/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Your first video"}]}],["$","li","downloading",{"children":["$","$L15",null,{"href":"/docs/0.2/downloading/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Downloading videos"}]}],["$","li","subtitles",{"children":["$","$L15",null,{"href":"/docs/0.2/subtitles/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Subtitles"}]}],["$","li","translation",{"children":["$","$L15",null,{"href":"/docs/0.2/translation/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Translation"}]}],["$","li","style-and-objects",{"children":["$","$L15",null,{"href":"/docs/0.2/style-and-objects/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Style & objects"}]}],["$","li","export",{"children":["$","$L15",null,{"href":"/docs/0.2/export/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Export"}]}],["$","li","batch",{"children":["$","$L15",null,{"href":"/docs/0.2/batch/","aria-current":"page","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors rounded-r-md border-brand bg-brand/10 font-medium text-brand","children":"Batch"}]}]]}]]}],["$","div","Voices",{"children":[["$","p",null,{"className":"mb-1.5 px-2 text-[12px] font-semibold","children":"Voices"}],"$L2e"]}],"$L2f","$L30","$L31"]}]}]
+32:T2be1,<p><strong>Batch</strong> does the whole job for many videos at once. You choose the steps one time (subtitles, translation, voice-over, style, export, covers, post text), press <strong>Process</strong>, and every video goes through them, one after another, while you do something else. It stops before posting, so you can check each video first.</p>
+<p>Open it with <strong>Batch</strong> in the left menu. The page has two tabs: <strong>Process</strong>, where videos are worked on, and <strong>Ready to post</strong>, where finished videos wait.</p>
+<h2 id="a-whole-series-start-to-finish"><a class="anchor" href="#a-whole-series-start-to-finish" aria-hidden="true">#</a>A whole series, start to finish</h2><p>Batch is made for series. A typical run:</p>
+<ol>
+<li>In the <a href="/kroma/docs/0.2/downloading/#the-download-center">Download Center</a>, paste the series&#39; link, tick the episodes and press <strong>Download</strong>. Each episode becomes its own project, in a folder named after the series.</li>
+<li>Translate the first episode by hand in the editor and fix the names. Kroma fills the <a href="/kroma/docs/0.2/translation/#series-glossary">series glossary</a>, so every later episode spells the names the same way.</li>
+<li>In <strong>Batch</strong>, add the other episodes, choose the steps, and press <strong>Process</strong>.</li>
+<li>Check each video in <strong>Ready to post</strong>, choose where it goes, and post.</li>
+</ol>
+<h2 id="adding-videos"><a class="anchor" href="#adding-videos" aria-hidden="true">#</a>Adding videos</h2><p>Batch works on Kroma projects (<code>.kroma</code> files). Under <strong>Videos to process</strong>:</p>
+<ul>
+<li><strong>Add from downloads</strong> lists the finished videos from the Download Center that have a project. Tick the ones you want (<strong>All</strong> / <strong>None</strong> help), then press <strong>Add … to the list</strong>. Videos already in the list say <strong>In the list</strong>.</li>
+<li><strong>Add projects…</strong> picks any project files. The dialog opens in the <code>projects</code> folder, where the Download Center makes them.</li>
+</ul>
+<p>You can also send videos from the Download Center: tick finished downloads in its queue and press <strong>Process … selected</strong>.</p>
+<p>A project is never added twice. Videos run one at a time, in the order they were added.</p>
+<h2 id="choosing-the-steps"><a class="anchor" href="#choosing-the-steps" aria-hidden="true">#</a>Choosing the steps</h2><p><strong>Steps</strong> are the same for every video. Turn on the ones you want:</p>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Step</th>
+<th>What it does</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><strong>Subtitles</strong></td>
+<td>Gets the original lines: the site&#39;s subtitles when the video has them, otherwise speech to text. Set <strong>Spoken language</strong> for speech to text.</td>
+</tr>
+<tr>
+<td><strong>Translate</strong></td>
+<td>Translates every line into <strong>Translate to</strong>, with the translator chosen in <strong>Settings → Translation</strong>.</td>
+</tr>
+<tr>
+<td><strong>Find characters</strong></td>
+<td>Works out who says each line, so each character can have their own voice.</td>
+</tr>
+<tr>
+<td><strong>Voice-over</strong></td>
+<td>Reads the translated lines aloud. <strong>Voices</strong>: <strong>One voice</strong> for every line, or <strong>Each character</strong> (needs <strong>Find characters</strong>). Pick the <strong>Voice</strong> (with <strong>Each character</strong>, it&#39;s the <strong>Voice for lines with no character</strong>).</td>
+</tr>
+<tr>
+<td><strong>Remove original voices</strong></td>
+<td>Shown with a voice-over. Keeps the music and effects under the voice-over (the fast way).</td>
+</tr>
+<tr>
+<td><strong>Hide original subtitles</strong></td>
+<td>Finds the Chinese subtitles burned into the video and blurs them, so only yours show. See <a href="/kroma/docs/0.2/style-and-objects/#hide-original-subtitles">Hide original subtitles</a>.</td>
+</tr>
+<tr>
+<td><strong>Subtitle style</strong></td>
+<td>Applies one style to every video: any of the 33 presets, or one of <strong>My styles</strong>. Off keeps each project&#39;s own style.</td>
+</tr>
+<tr>
+<td><strong>Export</strong></td>
+<td>Tick <strong>16:9</strong> (YouTube) and/or <strong>9:16</strong> (TikTok, Reels), and choose the <strong>Export size</strong>: <strong>Small</strong>, <strong>Standard</strong> or <strong>High</strong>.</td>
+</tr>
+<tr>
+<td><strong>Make covers</strong></td>
+<td>A thumbnail for each episode with its number (ភាគ ៥) and the series title, next to the exports. The design is each project&#39;s <strong>Post → Cover</strong>. See <a href="/kroma/docs/0.2/posting/#episode-covers">Episode covers</a>.</td>
+</tr>
+<tr>
+<td><strong>Write post text</strong></td>
+<td>Titles, text and hashtags for each platform. Needs a Gemini or Claude key.</td>
+</tr>
+</tbody></table></div>
+<p>Under the list, Kroma sums up what will happen, for example <em>&quot;5 steps: getting subtitles → translating → exporting 16:9 → exporting 9:16 → writing the posts. Then it waits in Ready to post.&quot;</em></p>
+<p>The steps always run in this order. Removing the original voices comes before the voice-over, so the voice-over doesn&#39;t do it again. A video with no burned-in subtitles isn&#39;t a failure: <strong>Hide original subtitles</strong> notes <em>No burned-in subtitles found</em> and the batch carries on.</p>
+<p>Your choices are kept for next time.</p>
+<h2 id="processing"><a class="anchor" href="#processing" aria-hidden="true">#</a>Processing</h2><p>Press <strong>Process … videos</strong>. While it runs:</p>
+<ul>
+<li>A bar across the top of the window says <strong>Batch running</strong>, the video and the step it&#39;s on, with <strong>Open Batch</strong> and <strong>Stop</strong>. The status bar at the bottom shows it too.</li>
+<li>Batch uses the editor to do the work, so the editor can&#39;t be used until it&#39;s done. Your own project is put aside, with its undo history, and comes back afterwards.</li>
+<li>After every step, the project is saved. If something fails, nothing done so far is lost.</li>
+<li>You get a notification for each finished video, and a summary at the end, like <strong>Batch finished: 5 processed · 1 failed</strong>.</li>
+</ul>
+<p><strong>Stop</strong> cancels the step that&#39;s running and stops the batch. Press <strong>Resume</strong> later to carry on where it stopped. If you quit Kroma during a batch, the video that was running shows as stopped when you open Kroma again, ready to resume.</p>
+<h2 id="the-list"><a class="anchor" href="#the-list" aria-hidden="true">#</a>The list</h2><p>Videos are grouped by run (each press of <strong>Process</strong>), newest first, with <strong>Not started</strong> at the top. Each row shows the video, a chip for each step (done, running, failed, or skipped), and its status: <strong>Waiting</strong>, the step it&#39;s on, <strong>Failed at …</strong>, <strong>Stopped at …</strong>, <strong>Ready to post</strong> or <strong>Posted</strong>.</p>
+<p>Above the list:</p>
+<ul>
+<li>Filters: <strong>All</strong>, <strong>Running</strong>, <strong>Waiting</strong>, <strong>Failed</strong>, <strong>Ready to post</strong> and <strong>Posted</strong>, and <strong>Search videos</strong>.</li>
+<li><strong>Retry failed</strong> runs every failed video again from the step that failed.</li>
+<li><strong>Clear finished</strong> removes finished and failed videos from the list. The projects and exports stay.</li>
+</ul>
+<p>On each row:</p>
+<ul>
+<li><strong>Retry from …</strong> (failed videos) carries on from the failed step. The steps before it stay done.</li>
+<li><strong>Open project at …</strong> opens the project in the editor, on the step&#39;s panel, to fix something by hand.</li>
+<li><strong>⋯</strong> has <strong>Show … export in Finder</strong>, <strong>Step details</strong> and <strong>Remove from the list</strong>.</li>
+</ul>
+<p>The list is kept, so after a restart you see where everything stopped. It keeps the last 20 runs.</p>
+<h3 id="step-details"><a class="anchor" href="#step-details" aria-hidden="true">#</a>Step details</h3><p>Click a row (or <strong>See why</strong> next to a failure) to open its details on the right: every step from top to bottom with when it ran, how long it took and what it said (how many lines were translated, the exported file, or the error).</p>
+<ul>
+<li>A failed step has <strong>Retry from here</strong> and <strong>Fix by hand</strong>.</li>
+<li>A finished step has <strong>Run again from …</strong>, which runs that step and every step after it again. Useful after you change a setting, such as the style.</li>
+<li><strong>Exports</strong> lists the exported files, each with <strong>Show in Finder</strong>.</li>
+</ul>
+<h2 id="ready-to-post"><a class="anchor" href="#ready-to-post" aria-hidden="true">#</a>Ready to post</h2><p>Finished videos wait in <strong>Ready to post</strong>. Each card shows the video, its exports, and a row for <strong>YouTube</strong>, <strong>Facebook</strong> and <strong>TikTok</strong>:</p>
+<ol>
+<li><strong>Tick where it goes.</strong> Connected accounts are ticked to start with.</li>
+<li><strong>Choose the format</strong> for each platform: <strong>16:9</strong> or <strong>9:16</strong>. YouTube starts on 16:9, Facebook and TikTok on 9:16. If a format isn&#39;t exported yet, Kroma exports it when you post.</li>
+<li>Open <strong>Post text</strong> to read and edit the title, text and hashtags for each platform.</li>
+<li>Press <strong>Post</strong> on the card, or tick several cards and press <strong>Post selected</strong> at the top.</li>
+</ol>
+<p><strong>YouTube visibility</strong> (<strong>Public</strong>, <strong>Unlisted</strong> or <strong>Private</strong>) and <strong>TikTok</strong> (<strong>Post now</strong> or <strong>To drafts</strong>) at the top apply to everything you post from here. Each platform gets the file in its own format. Facebook goes up as a Reel when its video is 9:16 and 90 seconds or shorter.</p>
+<p>After posting, the card shows each platform&#39;s result, and the video moves to <strong>Posted</strong>. <strong>Post again</strong> posts it once more; <strong>Clear posted</strong> removes posted videos from the list.</p>
+<p>Posting needs Upload-Post set up once: see <a href="/kroma/docs/0.2/posting/#set-up-posting-once">Posting</a>. Only post videos you have the right to use.</p>
+<h2 id="where-the-files-go"><a class="anchor" href="#where-the-files-go" aria-hidden="true">#</a>Where the files go</h2><div class="table-wrap"><table>
+<thead>
+<tr>
+<th>What</th>
+<th>Where</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Exports</td>
+<td>The export folder (<strong>Settings → Folders</strong>), in a folder named after the series: <code>&lt;series&gt;/01 - EP1 (16x9).mp4</code> and <code>01 - EP1 (9x16).mp4</code></td>
+</tr>
+<tr>
+<td>Covers</td>
+<td>Next to the exports: <code>01 - EP1 (16x9) cover.jpg</code></td>
+</tr>
+<tr>
+<td>The batch list</td>
+<td><code>batch.json</code> in the Kroma Studio library folder</td>
+</tr>
+</tbody></table></div>
+<p>Each project is saved after every step, so you can open any of them in the editor at any time.</p>
+18:["$","main",null,{"className":"min-w-0","children":[false,[["$","p",null,{"className":"text-[12.5px] font-medium tracking-[0.08em] text-brand uppercase","children":"Making videos"}],["$","h1",null,{"className":"mt-2 text-[clamp(28px,4vw,40px)] font-semibold","children":"Batch"}],["$","div",null,{"className":"docs-prose mt-6","dangerouslySetInnerHTML":{"__html":"$32"}}]],"$L33"]}]
+19:["$","aside",null,{"className":"hidden xl:sticky xl:top-[84px] xl:block xl:self-start","children":[["$","p",null,{"className":"text-xs tracking-wider text-muted-foreground uppercase","children":"On this page"}],["$","$L34",null,{"items":[{"depth":2,"id":"a-whole-series-start-to-finish","text":"A whole series, start to finish"},{"depth":2,"id":"adding-videos","text":"Adding videos"},{"depth":2,"id":"choosing-the-steps","text":"Choosing the steps"},{"depth":2,"id":"processing","text":"Processing"},{"depth":2,"id":"the-list","text":"The list"},{"depth":3,"id":"step-details","text":"Step details"},{"depth":2,"id":"ready-to-post","text":"Ready to post"},{"depth":2,"id":"where-the-files-go","text":"Where the files go"}]}]]}]
+1a:["$","$L35",null,{"children":["$","$20",null,{"name":"Next.MetadataOutlet","children":"$@36"}]}]
+21:["$","meta","12",{"name":"twitter:title","content":"Batch · v0.2 · Docs · Kroma Studio"}]
+22:["$","meta","13",{"name":"twitter:description","content":"Everything about Kroma Studio, from installing it to posting your videos."}]
+23:["$","meta","14",{"name":"twitter:image","content":"https://heang-dev.github.io/kroma/assets/og-docs.png"}]
+24:["$","meta","15",{"name":"twitter:image:alt","content":"The Kroma Studio docs"}]
+25:["$","meta","16",{"name":"twitter:image:width","content":"1200"}]
+26:["$","meta","17",{"name":"twitter:image:height","content":"630"}]
+27:["$","link","18",{"rel":"icon","href":"/kroma/assets/kroma-favicon.png"}]
+28:["$","$L37","19",{}]
+29:["$","meta",null,{"name":"next-size-adjust","content":""}]
+38:I[23051,["$2","$3","$4","$5","$14"],"CodeCopy"]
+39:I[5014,["$2","$3","$4","$5","$14"],"default"]
+b:300
+2e:["$","ul",null,{"className":"grid list-none gap-0.5 border-l p-0","children":[["$","li","characters-and-voices",{"children":["$","$L15",null,{"href":"/docs/0.2/characters-and-voices/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Characters & voices"}]}],["$","li","voice-library",{"children":["$","$L15",null,{"href":"/docs/0.2/voice-library/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Voice library"}]}],["$","li","voice-engine",{"children":["$","$L15",null,{"href":"/docs/0.2/voice-engine/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"The voice engine"}]}],["$","li","voice-cloning",{"children":["$","$L15",null,{"href":"/docs/0.2/voice-cloning/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Voice cloning"}]}],["$","li","story",{"children":["$","$L15",null,{"href":"/docs/0.2/story/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Story studio"}]}]]}]
+2f:["$","div","Publishing",{"children":[["$","p",null,{"className":"mb-1.5 px-2 text-[12px] font-semibold","children":"Publishing"}],["$","ul",null,{"className":"grid list-none gap-0.5 border-l p-0","children":[["$","li","posting",{"children":["$","$L15",null,{"href":"/docs/0.2/posting/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Posting"}]}]]}]]}]
+30:["$","div","Reference",{"children":[["$","p",null,{"className":"mb-1.5 px-2 text-[12px] font-semibold","children":"Reference"}],["$","ul",null,{"className":"grid list-none gap-0.5 border-l p-0","children":[["$","li","keyboard-shortcuts",{"children":["$","$L15",null,{"href":"/docs/0.2/keyboard-shortcuts/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Keyboard shortcuts"}]}],["$","li","projects-and-files",{"children":["$","$L15",null,{"href":"/docs/0.2/projects-and-files/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Projects and files"}]}],["$","li","settings",{"children":["$","$L15",null,{"href":"/docs/0.2/settings/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Settings"}]}],["$","li","notifications",{"children":["$","$L15",null,{"href":"/docs/0.2/notifications/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Notifications"}]}],["$","li","troubleshooting",{"children":["$","$L15",null,{"href":"/docs/0.2/troubleshooting/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Troubleshooting"}]}]]}]]}]
+31:["$","div","This version",{"children":[["$","p",null,{"className":"mb-1.5 px-2 text-[12px] font-semibold","children":"This version"}],["$","ul",null,{"className":"grid list-none gap-0.5 border-l p-0","children":[["$","li","release-notes",{"children":["$","$L15",null,{"href":"/docs/0.2/release-notes/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Release notes"}]}],["$","li","upgrade",{"children":["$","$L15",null,{"href":"/docs/0.2/upgrade/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Upgrade guide"}]}]]}]]}]
+33:[["$","$L38",null,{"copy":"Copy","copied":"Copied"}],["$","div",null,{"className":"mt-14 grid gap-3 border-t pt-6 sm:grid-cols-2","children":[["$","$L15",null,{"href":"/docs/0.2/export/","className":"group rounded-lg border p-4 no-underline hover:bg-accent/50","children":[["$","span",null,{"className":"flex items-center gap-1.5 text-xs text-muted-foreground","children":[["$","$L39",null,{"icon":{"name":"arrow-left","size":24,"node":[["path",{"d":"m12 19-7-7 7-7","key":"1l729n"}],["path",{"d":"M19 12H5","key":"x3x0zl"}]]},"className":"size-3.5"}]," ","Previous"]}],["$","span",null,{"className":"mt-1 block text-[14px] font-medium","children":"Export"}]]}],["$","$L15",null,{"href":"/docs/0.2/characters-and-voices/","className":"group rounded-lg border p-4 text-right no-underline hover:bg-accent/50","children":[["$","span",null,{"className":"flex items-center justify-end gap-1.5 text-xs text-muted-foreground","children":["Next"," ",["$","$L39",null,{"icon":{"name":"arrow-right","size":24,"node":[["path",{"d":"M5 12h14","key":"1ays0h"}],["path",{"d":"m12 5 7 7-7 7","key":"xquz4c"}]]},"className":"size-3.5"}]]}],["$","span",null,{"className":"mt-1 block text-[14px] font-medium","children":"Characters & voices"}]]}]]}],["$","a",null,{"href":"https://github.com/Heang-Dev/KROMA.STUDIO/edit/main/website/content/docs/0.2/en/batch.md","target":"_blank","rel":"noreferrer","className":"mt-6 inline-flex items-center gap-1.5 text-[13px] text-muted-foreground no-underline hover:text-foreground","children":[["$","$L39",null,{"icon":{"name":"pencil","size":24,"node":[["path",{"d":"M21.174 6.812a1 1 0 0 0-3.986-3.987L3.842 16.174a2 2 0 0 0-.5.83l-1.321 4.352a.5.5 0 0 0 .623.622l4.353-1.32a2 2 0 0 0 .83-.497z","key":"1a8usu"}],["path",{"d":"m15 5 4 4","key":"1mk7zo"}]]},"className":"size-3.5"}]," ","Edit this page on GitHub"]}]]
+36:null
+2c:true
+b:C
+2b:0
+12:"$undefined"
+f:"$undefined"
+d:"$undefined"
+a:"$undefined"
+2a:"$undefined"
+1b:"$undefined"

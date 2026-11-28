@@ -1,0 +1,229 @@
+1:"$Sreact.fragment"
+2:"/kroma/_next/static/chunks/04vt5_qdxg31o.js"
+3:"/kroma/_next/static/chunks/0w3ftlzy945zl.js"
+4:"/kroma/_next/static/chunks/2m9t-wks40qyw.js"
+5:"/kroma/_next/static/chunks/1a4ohd0pkdhou.js"
+6:I[19738,["$2","$3","$4","$5"],"HeaderBar"]
+7:I[39756,["$2","$3","$4","$5"],"default"]
+8:I[37457,["$2","$3","$4","$5"],"default"]
+9:I[19738,["$2","$3","$4","$5"],"FooterBar"]
+14:"/kroma/_next/static/chunks/2ffur98r21h0b.js"
+15:I[22016,["$2","$3","$4","$5","$14"],""]
+16:I[32016,["$2","$3","$4","$5","$14"],"VersionPicker"]
+1c:"ViewportBoundary"
+1d:I[97367,["$2","$3","$4","$5"],"$1c"]
+1e:"MetadataBoundary"
+1f:I[97367,["$2","$3","$4","$5"],"$1e"]
+20:"$Sreact.suspense"
+:HL["/kroma/_next/static/chunks/3kygz3hykdx6f.css","style"]
+b:X
+10:X
+10:C
+13:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto w-[min(1280px,100%-32px)] grid grid-cols-1 gap-6 pt-6 pb-10 lg:gap-10 lg:pt-10 lg:grid-cols-[230px_1fr] xl:grid-cols-[230px_1fr_200px]","children":[["$","aside",null,{"className":"lg:sticky lg:top-[84px] lg:max-h-[calc(100vh-100px)] lg:self-start lg:overflow-y-auto lg:pr-2","children":[["$","$L15",null,{"href":"/docs/0.1/","className":"mb-3 block text-xs tracking-wider text-muted-foreground uppercase no-underline hover:text-foreground","children":"Documentation"}],["$","$L16",null,{"versions":[{"version":"0.2","label":"0.2.x","released":"2026-11-28"},{"version":"0.1","label":"0.1.x","released":"2026-11-27"}],"current":"0.1","slug":"translation","slugsByVersion":{"0.2":["installation","configuration","updates","the-editor","first-video","downloading","subtitles","translation","style-and-objects","export","batch","characters-and-voices","voice-library","voice-engine","voice-cloning","story","posting","keyboard-shortcuts","projects-and-files","settings","notifications","troubleshooting","release-notes","upgrade"],"0.1":["installation","configuration","updates","the-editor","first-video","downloading","subtitles","translation","style-and-objects","export","characters-and-voices","voice-library","voice-engine","voice-cloning","posting","keyboard-shortcuts","projects-and-files","settings","troubleshooting","release-notes","upgrade"]},"lang":"en","latestLabel":"latest"}],"$L17"]}],"$L18","$L19"]}],null,"$L1a"]}],"p":"$@1b","v":null,"s":"$b"}}]]
+11:[["children",{"s":{"n":"slug","t":"d","k":"translation","s":[]},"h":65632,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$L8",null,{}]}]]}],"p":"$@12","v":"$10","s":"$b"},"c":"$Q13"}]]
+e:[["children",{"s":{"n":"version","t":"d","k":"0.1","s":[]},"h":196704,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$L8",null,{}]}]]}],"p":"$@f","v":"$10","s":"$b"},"c":"$Q11"}]]
+c:[["children",{"s":"docs","h":131168,"d":{"r":["$","$1","c",{"children":[[["$","script","script-0",{"src":"/kroma/_next/static/chunks/2ffur98r21h0b.js","async":true}]],["$","$L7",null,{"parallelRouterKey":"children","template":["$","$L8",null,{}]}]]}],"p":"$@d","v":null,"s":"$b"},"c":"$Qe"}]]
+0:{"t":{"t":{"s":"","h":131152,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/kroma/_next/static/chunks/3kygz3hykdx6f.css","precedence":"next"}],["$","script","script-0",{"src":"/kroma/_next/static/chunks/04vt5_qdxg31o.js","async":true}],["$","script","script-1",{"src":"/kroma/_next/static/chunks/0w3ftlzy945zl.js","async":true}],["$","script","script-2",{"src":"/kroma/_next/static/chunks/2m9t-wks40qyw.js","async":true}],["$","script","script-3",{"src":"/kroma/_next/static/chunks/1a4ohd0pkdhou.js","async":true}]],["$","html",null,{"lang":"en","className":"z61v7q_variable -suo1a_variable","suppressHydrationWarning":true,"children":[["$","head",null,{"children":["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(a){try{let b=document.documentElement,c=location.pathname.slice(a.length)||\"/\",d=\"/km\"===c||c.startsWith(\"/km/\");b.lang=d?\"km\":\"en\";let e=localStorage.getItem(\"kroma-theme\");b.classList.toggle(\"dark\",e?\"dark\"===e:matchMedia(\"(prefers-color-scheme: dark)\").matches);let f=localStorage.getItem(\"kroma-lang\"),g=!1;try{let b=new URL(document.referrer);g=b.origin===location.origin&&(b.pathname+\"/\").startsWith(a+\"/\")}catch{}if(!f||g)return;let h=location.search+location.hash;\"km\"!==f||d?\"en\"===f&&d&&location.replace(a+(c.slice(3)||\"/\")+h):location.replace(a+\"/km\"+(\"/\"===c?\"/\":c)+h)}catch{}})(\"/kroma\")"}}]}],["$","body",null,{"className":"flex min-h-svh flex-col","children":[["$","$L6",null,{"stars":0}],["$","div",null,{"className":"flex-1","children":["$","$L7",null,{"parallelRouterKey":"children","template":["$","$L8",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}]}],["$","$L9",null,{"latest":{"version":"0.2.3","date":"2026-11-28T09:36:49Z"}}]]}]]}]]}],"p":"$@a","v":null,"s":"$b"},"c":"$Qc"},"h":{"r":["$","$1","h",{"children":[null,["$","$L1d",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L1f",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$20",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Translation · v0.1 · Docs · Kroma Studio"}],["$","meta","1",{"name":"description","content":"Download videos from YouTube, Bilibili, Douyin and 1,000+ sites, translate the subtitles to Khmer, give every character a voice, and post to YouTube, Facebook and TikTok. A free desktop app for macOS, Windows and Linux."}],["$","meta","2",{"property":"og:title","content":"Translation · v0.1 · Docs · Kroma Studio"}],["$","meta","3",{"property":"og:description","content":"Everything about Kroma Studio, from installing it to posting your videos."}],["$","meta","4",{"property":"og:site_name","content":"Kroma Studio"}],["$","meta","5",{"property":"og:locale","content":"en_US"}],["$","meta","6",{"property":"og:image","content":"https://heang-dev.github.io/kroma/assets/og-docs.png"}],["$","meta","7",{"property":"og:image:width","content":"1200"}],["$","meta","8",{"property":"og:image:height","content":"630"}],["$","meta","9",{"property":"og:image:alt","content":"The Kroma Studio docs"}],["$","meta","10",{"property":"og:type","content":"website"}],["$","meta","11",{"name":"twitter:card","content":"summary_large_image"}],"$L21","$L22","$L23","$L24","$L25","$L26","$L27","$L28"]}]}],null]}],"$L29"]}],"p":"$@2a","v":null,"s":"$b"}},"a":"$@2b","u":"$@2c","b":"Hf2A-8s-tskzwG8lj9Zm4"}
+2d:I[45613,["$2","$3","$4","$5","$14"],"DocsNavToggle"]
+34:I[5014,["$2","$3","$4","$5","$14"],"default"]
+37:I[51896,["$2","$3","$4","$5","$14"],"DocsToc"]
+38:I[97367,["$2","$3","$4","$5"],"OutletBoundary"]
+3a:I[27201,["$2","$3","$4","$5"],"IconMark"]
+17:["$","$L2d",null,{"current":"Translation","label":"Documentation","children":["$","nav",null,{"aria-label":"Documentation","className":"mt-5 grid gap-5","children":[["$","div","Getting started",{"children":[["$","p",null,{"className":"mb-1.5 px-2 text-[12px] font-semibold","children":"Getting started"}],["$","ul",null,{"className":"grid list-none gap-0.5 border-l p-0","children":[["$","li","installation",{"children":["$","$L15",null,{"href":"/docs/0.1/installation/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Installation"}]}],["$","li","configuration",{"children":["$","$L15",null,{"href":"/docs/0.1/configuration/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Add your keys"}]}],["$","li","updates",{"children":["$","$L15",null,{"href":"/docs/0.1/updates/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Updates"}]}],["$","li","the-editor",{"children":["$","$L15",null,{"href":"/docs/0.1/the-editor/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"The editor"}]}]]}]]}],["$","div","Making videos",{"children":[["$","p",null,{"className":"mb-1.5 px-2 text-[12px] font-semibold","children":"Making videos"}],["$","ul",null,{"className":"grid list-none gap-0.5 border-l p-0","children":[["$","li","first-video",{"children":["$","$L15",null,{"href":"/docs/0.1/first-video/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Your first video"}]}],["$","li","downloading",{"children":["$","$L15",null,{"href":"/docs/0.1/downloading/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Downloading videos"}]}],["$","li","subtitles",{"children":["$","$L15",null,{"href":"/docs/0.1/subtitles/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Subtitles"}]}],["$","li","translation",{"children":["$","$L15",null,{"href":"/docs/0.1/translation/","aria-current":"page","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors rounded-r-md border-brand bg-brand/10 font-medium text-brand","children":"Translation"}]}],["$","li","style-and-objects",{"children":["$","$L15",null,{"href":"/docs/0.1/style-and-objects/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Style & objects"}]}],["$","li","export",{"children":["$","$L15",null,{"href":"/docs/0.1/export/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Export"}]}]]}]]}],["$","div","Voices",{"children":[["$","p",null,{"className":"mb-1.5 px-2 text-[12px] font-semibold","children":"Voices"}],["$","ul",null,{"className":"grid list-none gap-0.5 border-l p-0","children":[["$","li","characters-and-voices",{"children":["$","$L15",null,{"href":"/docs/0.1/characters-and-voices/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Characters & voices"}]}],"$L2e","$L2f","$L30"]}]]}],"$L31","$L32","$L33"]}]}]
+35:T2ac2,<p>Kroma translates the meaning the way people really talk, not word by word. It uses the right politeness for who&#39;s speaking to whom, common spellings for foreign words, and keeps each line short enough to read, and to say aloud in the time it&#39;s on screen.</p>
+<p>Everything on this page happens in the <strong>Translate</strong> panel, and in <strong>Settings → Translation</strong>.</p>
+<h2 id="choose-a-translator"><a class="anchor" href="#choose-a-translator" aria-hidden="true">#</a>Choose a translator</h2><p>Open <strong>Settings → Translation</strong> (or press the gear at the top of the <strong>Translate</strong> panel) and pick a <strong>Translator</strong>:</p>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Translator</th>
+<th>Cost</th>
+<th>Quality</th>
+<th>Notes for the translator</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><strong>Gemini</strong> (default)</td>
+<td>Free tier · good Khmer</td>
+<td>Good</td>
+<td>Followed</td>
+</tr>
+<tr>
+<td><strong>Google Translate</strong></td>
+<td>Free · no key · basic</td>
+<td>Literal</td>
+<td>Not used</td>
+</tr>
+<tr>
+<td><strong>Claude</strong></td>
+<td>Paid · best Khmer</td>
+<td>The most natural, best with names and tone</td>
+<td>Followed</td>
+</tr>
+</tbody></table></div>
+<ul>
+<li><strong>Gemini</strong>: get a free key from Google AI Studio, no card needed. Under <strong>Model</strong> you can pick another Gemini model. Flash models are fast and free; Pro is better but has a smaller free limit.</li>
+<li><strong>Google Translate</strong>: works straight away. It doesn&#39;t read your notes or the earlier lines, so names and politeness may be off.</li>
+<li><strong>Claude</strong>: paid by use with an Anthropic key. <strong>Model</strong> offers <strong>Opus 5.5 · best Khmer</strong> (default), <strong>Sonnet 5.5 · cheaper</strong> and <strong>Haiku 5.5 · cheapest</strong>.</li>
+</ul>
+<p>Adding keys is covered in <a href="/kroma/docs/0.1/configuration/">Add your keys</a>.</p>
+<h2 id="translate-the-video"><a class="anchor" href="#translate-the-video" aria-hidden="true">#</a>Translate the video</h2><p>In <strong>Translate</strong>:</p>
+<ol>
+<li>Choose <strong>Translate to</strong>.</li>
+<li>Press <strong>Make Khmer subtitles</strong> (the button follows your language, like <strong>Make Thai subtitles</strong>).</li>
+</ol>
+<p>Kroma gets the original lines first (see <a href="/kroma/docs/0.1/subtitles/">Subtitles</a>), then translates them. It sends the lines in batches of 60, each with a few earlier lines so the translator understands the scene. You&#39;ll see <code>Translating with Gemini · 2/6 batches</code>. When it&#39;s done: <strong>Translated 312 lines to Khmer.</strong></p>
+<h3 id="step-by-step"><a class="anchor" href="#step-by-step" aria-hidden="true">#</a>Step by step</h3><p>The <strong>Step by step</strong> section lets you redo just one part. Its bar shows how many lines are done, like <strong>Translated 298 / 312</strong>.</p>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Button</th>
+<th>What it does</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><strong>Translate all</strong></td>
+<td>Translates every line again. Your hand fixes are replaced.</td>
+</tr>
+<tr>
+<td><strong>Translate missing</strong></td>
+<td>Translates only the lines that are still empty.</td>
+</tr>
+</tbody></table></div>
+<h3 id="re-translating-some-lines"><a class="anchor" href="#re-translating-some-lines" aria-hidden="true">#</a>Re-translating some lines</h3><p>There&#39;s no button for one line. To redo a few lines: clear their translation in the <strong>Subtitles</strong> list (select the text and delete it), then press <strong>Translate missing</strong>. The other lines keep your changes.</p>
+<h2 id="languages"><a class="anchor" href="#languages" aria-hidden="true">#</a>Languages</h2><p><strong>Translate to</strong> offers seven languages:</p>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Language</th>
+<th>Shown as</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Khmer (default)</td>
+<td>Khmer · ខ្មែរ</td>
+</tr>
+<tr>
+<td>Thai</td>
+<td>Thai · ไทย</td>
+</tr>
+<tr>
+<td>Vietnamese</td>
+<td>Vietnamese · Tiếng Việt</td>
+</tr>
+<tr>
+<td>Lao</td>
+<td>Lao · ລາວ</td>
+</tr>
+<tr>
+<td>English</td>
+<td>English</td>
+</tr>
+<tr>
+<td>Indonesian</td>
+<td>Indonesian · Bahasa Indonesia</td>
+</tr>
+<tr>
+<td>Malay</td>
+<td>Malay · Bahasa Melayu</td>
+</tr>
+</tbody></table></div>
+<p>When you switch language:</p>
+<ul>
+<li>Lines you already translated stay as they are until you translate again.</li>
+<li>The <strong>Khmer</strong> step in the step bar takes the new language&#39;s name.</li>
+<li>Instant voices switch to the new language&#39;s voice of the same gender. The designed and cloned voices are made for Khmer. See <a href="/kroma/docs/0.1/characters-and-voices/">Characters &amp; voices</a>.</li>
+<li>The social posts are written in that language. See <a href="/kroma/docs/0.1/posting/">Posting</a>.</li>
+</ul>
+<h2 id="notes-for-the-translator"><a class="anchor" href="#notes-for-the-translator" aria-hidden="true">#</a>Notes for the translator</h2><p>The <strong>Notes for the translator</strong> box is the best way to get names and tone right. Write the show&#39;s title, the names, who&#39;s who and how they speak. For example:</p>
+<p><code>Palace drama. 李明 is the hero, write it លី មីង. The emperor speaks formally.</code></p>
+<p>Gemini and Claude read the notes with every batch, and keep names and politeness the same across the whole video. Google Translate ignores them. The notes are saved with the project.</p>
+<h2 id="how-kroma-writes-khmer"><a class="anchor" href="#how-kroma-writes-khmer" aria-hidden="true">#</a>How Kroma writes Khmer</h2><p>Kroma gives the translator a few Khmer rules of its own:</p>
+<ul>
+<li><strong>Politeness</strong>: pronouns that fit who&#39;s speaking to whom, like បង/អូន, លោក, or ព្រះករុណា for royalty in historical dramas.</li>
+<li><strong>Foreign names</strong>: written in Khmer script, by sound.</li>
+<li><strong>Loanwords</strong>: well-known foreign words are spelled the way Cambodians usually write them, never a new spelling. For example: hamburger ហាំប៊ឺហ្គឺ, pizza ភីហ្សា, salad សាឡាត់, coffee កាហ្វេ, chocolate សូកូឡា, calorie កាឡូរី, vitamin វីតាមីន.</li>
+<li><strong>Only Khmer script</strong>: brand names may stay in English letters, but never Thai, Lao, Chinese or other scripts.</li>
+<li><strong>Length</strong>: each line is written to be said in about the time it&#39;s on screen (roughly 5 Khmer syllables a second), because it may be read aloud as a voice-over.</li>
+</ul>
+<p>Thai and Vietnamese get similar rules for polite words and pronouns.</p>
+<h2 id="the-wrong-script-check"><a class="anchor" href="#the-wrong-script-check" aria-hidden="true">#</a>The wrong-script check</h2><p>Translators sometimes slip in a word from another language, like a Thai word inside Khmer, or leave a Chinese word untranslated. Kroma checks every translated line. Latin letters (names, brands), numbers and punctuation are always fine; letters from any other script are not.</p>
+<p>Lines that fail get <strong>one more try</strong>, with a note telling the translator to use only that language&#39;s script. You&#39;ll see <code>Fixing 3 lines that mixed in another script</code>. If the second try is still wrong, Kroma keeps the first answer so you can fix it by hand.</p>
+<p>This check runs for Gemini and Claude. It&#39;s skipped with Google Translate, and also in a run where some lines had to fall back to Google Translate (see below).</p>
+<h2 id="find-and-replace"><a class="anchor" href="#find-and-replace" aria-hidden="true">#</a>Find and replace</h2><p>When the translator spells a name or word wrong all through the video, fix it once:</p>
+<ol>
+<li>Press <strong>Find and replace</strong> at the top of the <strong>Subtitles</strong> list. (If you typed in <strong>Find in subtitles</strong>, that word is filled in for you.)</li>
+<li>Under <strong>Find</strong>, type or paste the wrong word. Kroma shows how many lines have it, like <strong>In 14 lines</strong>.</li>
+<li>Under <strong>Replace with</strong>, type the right word.</li>
+<li>Press <strong>Replace in 14 lines</strong>.</li>
+</ol>
+<p>It only changes the translations, not the original lines, and it matches the exact text you typed. The whole change is one step, so <strong>Undo</strong> brings everything back.</p>
+<p><strong>Remember for future translations</strong> is ticked by default. It adds a line to your notes, like <code>Write &quot;លី មីង&quot;, never &quot;លីមីង&quot;.</code> That way, the next time you translate, Gemini or Claude spells it right from the start.</p>
+<h2 id="when-gemini-is-busy"><a class="anchor" href="#when-gemini-is-busy" aria-hidden="true">#</a>When Gemini is busy</h2><p>Gemini&#39;s free tier allows only a few requests a minute, and a set amount a day. Kroma handles this for you:</p>
+<ol>
+<li>When Gemini says &quot;too many requests&quot;, Kroma waits a little and tries again (<strong>Gemini is busy, retrying in 20 s…</strong>).</li>
+<li>If it stays busy, or the free daily limit is used up, Kroma tries the lighter <strong>Flash-Lite</strong> model.</li>
+<li>Any lines still left are translated with Google Translate (<strong>Gemini is busy: translating 40 lines with Google Translate</strong>).</li>
+</ol>
+<p>At the end you&#39;ll see how many lines used Google Translate: <em>&quot;Gemini was busy, so 40 lines used Google Translate. Press &quot;Translate all&quot; later for Gemini&#39;s better wording.&quot;</em> The free daily limit resets the next day.</p>
+<p>If some lines couldn&#39;t be translated at all, Kroma says <strong>Translated 280 of 312 lines</strong> and asks you to press <strong>Translate missing</strong>.</p>
+<h2 id="common-messages"><a class="anchor" href="#common-messages" aria-hidden="true">#</a>Common messages</h2><div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Message</th>
+<th>What to do</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><em>Add your free Gemini key in Settings → Translation, or choose Google Translate there.</em></td>
+<td>Add a key, or switch translator.</td>
+</tr>
+<tr>
+<td><em>The Gemini API key was refused.</em></td>
+<td>Check the key in <strong>Settings → Translation</strong>.</td>
+</tr>
+<tr>
+<td><em>Gemini&#39;s free daily limit is used up (it resets tomorrow).</em></td>
+<td>Switch to Google Translate, or wait until tomorrow.</td>
+</tr>
+<tr>
+<td><em>Claude is rate limiting this key.</em></td>
+<td>Lower <strong>Parallel requests</strong> in <strong>Settings → Translation</strong>, or wait a little.</td>
+</tr>
+<tr>
+<td><em>Google Translate is busy (too many requests).</em></td>
+<td>Try again in a few minutes, or use Gemini.</td>
+</tr>
+</tbody></table></div>
+<p>More in <a href="/kroma/docs/0.1/troubleshooting/">Troubleshooting</a>.</p>
+18:["$","main",null,{"className":"min-w-0","children":[["$","div",null,{"role":"note","className":"mb-6 flex flex-wrap items-center gap-x-3 gap-y-1 rounded-lg border border-warning/40 bg-warning/10 px-4 py-3 text-[13px]","children":[["$","$L34",null,{"icon":{"name":"triangle-exclamation-point","size":24,"node":[["path",{"d":"m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3","key":"wmoenq"}],["path",{"d":"M12 9v4","key":"juzpu7"}],["path",{"d":"M12 17h.01","key":"p32p05"}]],"aliases":["alert-triangle","triangle-alert"]},"className":"size-4 shrink-0 text-warning"}],["$","span",null,{"children":"You're reading the docs for Kroma 0.1. The latest version is 0.2.x."}],["$","$L15",null,{"href":"/docs/0.2/translation/","className":"font-medium underline underline-offset-2","children":["Go to the latest docs"," →"]}]]}],[["$","p",null,{"className":"text-[12.5px] font-medium tracking-[0.08em] text-brand uppercase","children":"Making videos"}],["$","h1",null,{"className":"mt-2 text-[clamp(28px,4vw,40px)] font-semibold","children":"Translation"}],["$","div",null,{"className":"docs-prose mt-6","dangerouslySetInnerHTML":{"__html":"$35"}}]],"$L36"]}]
+19:["$","aside",null,{"className":"hidden xl:sticky xl:top-[84px] xl:block xl:self-start","children":[["$","p",null,{"className":"text-xs tracking-wider text-muted-foreground uppercase","children":"On this page"}],["$","$L37",null,{"items":[{"depth":2,"id":"choose-a-translator","text":"Choose a translator"},{"depth":2,"id":"translate-the-video","text":"Translate the video"},{"depth":3,"id":"step-by-step","text":"Step by step"},{"depth":3,"id":"re-translating-some-lines","text":"Re-translating some lines"},{"depth":2,"id":"languages","text":"Languages"},{"depth":2,"id":"notes-for-the-translator","text":"Notes for the translator"},{"depth":2,"id":"how-kroma-writes-khmer","text":"How Kroma writes Khmer"},{"depth":2,"id":"the-wrong-script-check","text":"The wrong-script check"},{"depth":2,"id":"find-and-replace","text":"Find and replace"},{"depth":2,"id":"when-gemini-is-busy","text":"When Gemini is busy"},{"depth":2,"id":"common-messages","text":"Common messages"}]}]]}]
+1a:["$","$L38",null,{"children":["$","$20",null,{"name":"Next.MetadataOutlet","children":"$@39"}]}]
+21:["$","meta","12",{"name":"twitter:title","content":"Translation · v0.1 · Docs · Kroma Studio"}]
+22:["$","meta","13",{"name":"twitter:description","content":"Everything about Kroma Studio, from installing it to posting your videos."}]
+23:["$","meta","14",{"name":"twitter:image","content":"https://heang-dev.github.io/kroma/assets/og-docs.png"}]
+24:["$","meta","15",{"name":"twitter:image:alt","content":"The Kroma Studio docs"}]
+25:["$","meta","16",{"name":"twitter:image:width","content":"1200"}]
+26:["$","meta","17",{"name":"twitter:image:height","content":"630"}]
+27:["$","link","18",{"rel":"icon","href":"/kroma/assets/kroma-favicon.png"}]
+28:["$","$L3a","19",{}]
+29:["$","meta",null,{"name":"next-size-adjust","content":""}]
+3b:I[23051,["$2","$3","$4","$5","$14"],"CodeCopy"]
+b:300
+2e:["$","li","voice-library",{"children":["$","$L15",null,{"href":"/docs/0.1/voice-library/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Voice library"}]}]
+2f:["$","li","voice-engine",{"children":["$","$L15",null,{"href":"/docs/0.1/voice-engine/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"The voice engine"}]}]
+30:["$","li","voice-cloning",{"children":["$","$L15",null,{"href":"/docs/0.1/voice-cloning/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Voice cloning"}]}]
+31:["$","div","Publishing",{"children":[["$","p",null,{"className":"mb-1.5 px-2 text-[12px] font-semibold","children":"Publishing"}],["$","ul",null,{"className":"grid list-none gap-0.5 border-l p-0","children":[["$","li","posting",{"children":["$","$L15",null,{"href":"/docs/0.1/posting/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Posting"}]}]]}]]}]
+32:["$","div","Reference",{"children":[["$","p",null,{"className":"mb-1.5 px-2 text-[12px] font-semibold","children":"Reference"}],["$","ul",null,{"className":"grid list-none gap-0.5 border-l p-0","children":[["$","li","keyboard-shortcuts",{"children":["$","$L15",null,{"href":"/docs/0.1/keyboard-shortcuts/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Keyboard shortcuts"}]}],["$","li","projects-and-files",{"children":["$","$L15",null,{"href":"/docs/0.1/projects-and-files/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Projects and files"}]}],["$","li","settings",{"children":["$","$L15",null,{"href":"/docs/0.1/settings/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Settings"}]}],["$","li","troubleshooting",{"children":["$","$L15",null,{"href":"/docs/0.1/troubleshooting/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Troubleshooting"}]}]]}]]}]
+33:["$","div","This version",{"children":[["$","p",null,{"className":"mb-1.5 px-2 text-[12px] font-semibold","children":"This version"}],["$","ul",null,{"className":"grid list-none gap-0.5 border-l p-0","children":[["$","li","release-notes",{"children":["$","$L15",null,{"href":"/docs/0.1/release-notes/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Release notes"}]}],["$","li","upgrade",{"children":["$","$L15",null,{"href":"/docs/0.1/upgrade/","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Upgrade guide"}]}]]}]]}]
+36:[["$","$L3b",null,{"copy":"Copy","copied":"Copied"}],["$","div",null,{"className":"mt-14 grid gap-3 border-t pt-6 sm:grid-cols-2","children":[["$","$L15",null,{"href":"/docs/0.1/subtitles/","className":"group rounded-lg border p-4 no-underline hover:bg-accent/50","children":[["$","span",null,{"className":"flex items-center gap-1.5 text-xs text-muted-foreground","children":[["$","$L34",null,{"icon":{"name":"arrow-left","size":24,"node":[["path",{"d":"m12 19-7-7 7-7","key":"1l729n"}],["path",{"d":"M19 12H5","key":"x3x0zl"}]]},"className":"size-3.5"}]," ","Previous"]}],["$","span",null,{"className":"mt-1 block text-[14px] font-medium","children":"Subtitles"}]]}],["$","$L15",null,{"href":"/docs/0.1/style-and-objects/","className":"group rounded-lg border p-4 text-right no-underline hover:bg-accent/50","children":[["$","span",null,{"className":"flex items-center justify-end gap-1.5 text-xs text-muted-foreground","children":["Next"," ",["$","$L34",null,{"icon":{"name":"arrow-right","size":24,"node":[["path",{"d":"M5 12h14","key":"1ays0h"}],["path",{"d":"m12 5 7 7-7 7","key":"xquz4c"}]]},"className":"size-3.5"}]]}],["$","span",null,{"className":"mt-1 block text-[14px] font-medium","children":"Style & objects"}]]}]]}],["$","a",null,{"href":"https://github.com/Heang-Dev/KROMA.STUDIO/edit/main/website/content/docs/0.1/en/translation.md","target":"_blank","rel":"noreferrer","className":"mt-6 inline-flex items-center gap-1.5 text-[13px] text-muted-foreground no-underline hover:text-foreground","children":[["$","$L34",null,{"icon":{"name":"pencil","size":24,"node":[["path",{"d":"M21.174 6.812a1 1 0 0 0-3.986-3.987L3.842 16.174a2 2 0 0 0-.5.83l-1.321 4.352a.5.5 0 0 0 .623.622l4.353-1.32a2 2 0 0 0 .83-.497z","key":"1a8usu"}],["path",{"d":"m15 5 4 4","key":"1mk7zo"}]]},"className":"size-3.5"}]," ","Edit this page on GitHub"]}]]
+39:null
+2c:true
+b:C
+2b:0
+12:"$undefined"
+f:"$undefined"
+d:"$undefined"
+a:"$undefined"
+2a:"$undefined"
+1b:"$undefined"

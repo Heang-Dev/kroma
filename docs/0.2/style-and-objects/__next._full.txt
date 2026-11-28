@@ -1,0 +1,359 @@
+1:"$Sreact.fragment"
+3:"/kroma/_next/static/chunks/04vt5_qdxg31o.js"
+4:"/kroma/_next/static/chunks/0w3ftlzy945zl.js"
+5:"/kroma/_next/static/chunks/2m9t-wks40qyw.js"
+6:"/kroma/_next/static/chunks/1a4ohd0pkdhou.js"
+7:I[39756,["$3","$4","$5","$6"],"default"]
+8:I[37457,["$3","$4","$5","$6"],"default"]
+10:I[97367,["$3","$4","$5","$6"],"OutletBoundary"]
+11:"$Sreact.suspense"
+13:"ViewportBoundary"
+14:I[97367,["$3","$4","$5","$6"],"$13"]
+16:"MetadataBoundary"
+17:I[97367,["$3","$4","$5","$6"],"$16"]
+19:I[68027,["$3","$4","$5","$6"],"default",1]
+:HL["/kroma/_next/static/chunks/3kygz3hykdx6f.css","style"]
+:HL["/kroma/_next/static/media/07a39a8a4660cc7c-s.p.0r6juujl39pe6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/kroma/_next/static/media/ac3f6c3e4821ab39-s.p.3dytz707x2doa.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/kroma/_next/static/media/ecc70a8daf50308c-s.p.2wf6rvog29rnd.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+c:X
+e:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":["$Lf",null,["$","$L10",null,{"children":["$","$11",null,{"name":"Next.MetadataOutlet","children":"$@12"}]}]]}],"p":false,"v":null}}]]
+d:[["children",{"s":{"n":"slug","t":"d","k":"style-and-objects","s":[]},"h":66048,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$c"},"c":"$Qe"}]]
+b:[["children",{"s":{"n":"version","t":"d","k":"0.2","s":[]},"h":197120,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$c"},"c":"$Qd"}]]
+a:[["children",{"s":"docs","h":131584,"d":{"r":["$","$1","c",{"children":[[["$","script","script-0",{"src":"/kroma/_next/static/chunks/2ffur98r21h0b.js","async":true,"nonce":"$undefined"}]],["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":null},"c":"$Qb"}]]
+0:{"P":null,"c":["","docs","0.2","style-and-objects",""],"q":"","i":false,"t":{"t":{"s":"","h":131600,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/kroma/_next/static/chunks/3kygz3hykdx6f.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/kroma/_next/static/chunks/04vt5_qdxg31o.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/kroma/_next/static/chunks/0w3ftlzy945zl.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/kroma/_next/static/chunks/2m9t-wks40qyw.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/kroma/_next/static/chunks/1a4ohd0pkdhou.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"z61v7q_variable -suo1a_variable","suppressHydrationWarning":true,"children":[["$","head",null,{"children":["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(a){try{let b=document.documentElement,c=location.pathname.slice(a.length)||\"/\",d=\"/km\"===c||c.startsWith(\"/km/\");b.lang=d?\"km\":\"en\";let e=localStorage.getItem(\"kroma-theme\");b.classList.toggle(\"dark\",e?\"dark\"===e:matchMedia(\"(prefers-color-scheme: dark)\").matches);let f=localStorage.getItem(\"kroma-lang\"),g=!1;try{let b=new URL(document.referrer);g=b.origin===location.origin&&(b.pathname+\"/\").startsWith(a+\"/\")}catch{}if(!f||g)return;let h=location.search+location.hash;\"km\"!==f||d?\"en\"===f&&d&&location.replace(a+(c.slice(3)||\"/\")+h):location.replace(a+\"/km\"+(\"/\"===c?\"/\":c)+h)}catch{}})(\"/kroma\")"}}]}],["$","body",null,{"className":"flex min-h-svh flex-col","children":["$L2",["$","div",null,{"className":"flex-1","children":["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],"$L9"]}]]}]]}],"p":false,"v":null},"c":"$Qa"},"h":{"r":["$","$1","h",{"children":[null,["$","$L14",null,{"children":"$L15"}],["$","$L17",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$11",null,{"name":"Next.Metadata","children":"$L18"}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":false,"v":null}},"m":"$undefined","G":["$19",[["$","link","0",{"rel":"stylesheet","href":"/kroma/_next/static/chunks/3kygz3hykdx6f.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"Hf2A-8s-tskzwG8lj9Zm4"}
+1a:I[19738,["$3","$4","$5","$6"],"HeaderBar"]
+1b:I[19738,["$3","$4","$5","$6"],"FooterBar"]
+c:C
+2:["$","$L1a",null,{"stars":0}]
+9:["$","$L1b",null,{"latest":{"version":"0.2.3","date":"2026-11-28T09:36:49Z"}}]
+1c:"/kroma/_next/static/chunks/2ffur98r21h0b.js"
+1d:I[22016,["$3","$4","$5","$6","$1c"],""]
+1e:I[32016,["$3","$4","$5","$6","$1c"],"VersionPicker"]
+1f:I[45613,["$3","$4","$5","$6","$1c"],"DocsNavToggle"]
+f:["$","div",null,{"className":"mx-auto w-[min(1280px,100%-32px)] grid grid-cols-1 gap-6 pt-6 pb-10 lg:gap-10 lg:pt-10 lg:grid-cols-[230px_1fr] xl:grid-cols-[230px_1fr_200px]","children":[["$","aside",null,{"className":"lg:sticky lg:top-[84px] lg:max-h-[calc(100vh-100px)] lg:self-start lg:overflow-y-auto lg:pr-2","children":[["$","$L1d",null,{"href":"/docs/0.2/","className":"mb-3 block text-xs tracking-wider text-muted-foreground uppercase no-underline hover:text-foreground","children":"Documentation"}],["$","$L1e",null,{"versions":[{"version":"0.2","label":"0.2.x","released":"2026-11-28"},{"version":"0.1","label":"0.1.x","released":"2026-11-27"}],"current":"0.2","slug":"style-and-objects","slugsByVersion":{"0.2":["installation","configuration","updates","the-editor","first-video","downloading","subtitles","translation","style-and-objects","export","batch","characters-and-voices","voice-library","voice-engine","voice-cloning","story","posting","keyboard-shortcuts","projects-and-files","settings","notifications","troubleshooting","release-notes","upgrade"],"0.1":["installation","configuration","updates","the-editor","first-video","downloading","subtitles","translation","style-and-objects","export","characters-and-voices","voice-library","voice-engine","voice-cloning","posting","keyboard-shortcuts","projects-and-files","settings","troubleshooting","release-notes","upgrade"]},"lang":"en","latestLabel":"latest"}],["$","$L1f",null,{"current":"Style & objects","label":"Documentation","children":["$","nav",null,{"aria-label":"Documentation","className":"mt-5 grid gap-5","children":[["$","div","Getting started",{"children":[["$","p",null,{"className":"mb-1.5 px-2 text-[12px] font-semibold","children":"Getting started"}],["$","ul",null,{"className":"grid list-none gap-0.5 border-l p-0","children":[["$","li","installation",{"children":["$","$L1d",null,{"href":"/docs/0.2/installation/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Installation"}]}],["$","li","configuration",{"children":["$","$L1d",null,{"href":"/docs/0.2/configuration/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Add your keys"}]}],["$","li","updates",{"children":["$","$L1d",null,{"href":"/docs/0.2/updates/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Updates"}]}],["$","li","the-editor",{"children":["$","$L1d",null,{"href":"/docs/0.2/the-editor/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"The editor"}]}]]}]]}],["$","div","Making videos",{"children":[["$","p",null,{"className":"mb-1.5 px-2 text-[12px] font-semibold","children":"Making videos"}],["$","ul",null,{"className":"grid list-none gap-0.5 border-l p-0","children":[["$","li","first-video",{"children":["$","$L1d",null,{"href":"/docs/0.2/first-video/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Your first video"}]}],["$","li","downloading",{"children":["$","$L1d",null,{"href":"/docs/0.2/downloading/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Downloading videos"}]}],"$L20","$L21","$L22","$L23","$L24"]}]]}],"$L25","$L26","$L27","$L28"]}]}]]}],"$L29","$L2a"]}]
+2d:I[51896,["$3","$4","$5","$6","$1c"],"DocsToc"]
+20:["$","li","subtitles",{"children":["$","$L1d",null,{"href":"/docs/0.2/subtitles/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Subtitles"}]}]
+21:["$","li","translation",{"children":["$","$L1d",null,{"href":"/docs/0.2/translation/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Translation"}]}]
+22:["$","li","style-and-objects",{"children":["$","$L1d",null,{"href":"/docs/0.2/style-and-objects/","aria-current":"page","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors rounded-r-md border-brand bg-brand/10 font-medium text-brand","children":"Style & objects"}]}]
+23:["$","li","export",{"children":["$","$L1d",null,{"href":"/docs/0.2/export/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Export"}]}]
+24:["$","li","batch",{"children":["$","$L1d",null,{"href":"/docs/0.2/batch/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Batch"}]}]
+25:["$","div","Voices",{"children":[["$","p",null,{"className":"mb-1.5 px-2 text-[12px] font-semibold","children":"Voices"}],["$","ul",null,{"className":"grid list-none gap-0.5 border-l p-0","children":[["$","li","characters-and-voices",{"children":["$","$L1d",null,{"href":"/docs/0.2/characters-and-voices/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Characters & voices"}]}],["$","li","voice-library",{"children":["$","$L1d",null,{"href":"/docs/0.2/voice-library/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Voice library"}]}],["$","li","voice-engine",{"children":["$","$L1d",null,{"href":"/docs/0.2/voice-engine/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"The voice engine"}]}],["$","li","voice-cloning",{"children":["$","$L1d",null,{"href":"/docs/0.2/voice-cloning/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Voice cloning"}]}],["$","li","story",{"children":["$","$L1d",null,{"href":"/docs/0.2/story/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Story studio"}]}]]}]]}]
+26:["$","div","Publishing",{"children":[["$","p",null,{"className":"mb-1.5 px-2 text-[12px] font-semibold","children":"Publishing"}],["$","ul",null,{"className":"grid list-none gap-0.5 border-l p-0","children":[["$","li","posting",{"children":["$","$L1d",null,{"href":"/docs/0.2/posting/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Posting"}]}]]}]]}]
+27:["$","div","Reference",{"children":[["$","p",null,{"className":"mb-1.5 px-2 text-[12px] font-semibold","children":"Reference"}],["$","ul",null,{"className":"grid list-none gap-0.5 border-l p-0","children":[["$","li","keyboard-shortcuts",{"children":["$","$L1d",null,{"href":"/docs/0.2/keyboard-shortcuts/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Keyboard shortcuts"}]}],["$","li","projects-and-files",{"children":["$","$L1d",null,{"href":"/docs/0.2/projects-and-files/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Projects and files"}]}],["$","li","settings",{"children":["$","$L1d",null,{"href":"/docs/0.2/settings/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Settings"}]}],["$","li","notifications",{"children":["$","$L1d",null,{"href":"/docs/0.2/notifications/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Notifications"}]}],["$","li","troubleshooting",{"children":["$","$L1d",null,{"href":"/docs/0.2/troubleshooting/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Troubleshooting"}]}]]}]]}]
+28:["$","div","This version",{"children":[["$","p",null,{"className":"mb-1.5 px-2 text-[12px] font-semibold","children":"This version"}],["$","ul",null,{"className":"grid list-none gap-0.5 border-l p-0","children":[["$","li","release-notes",{"children":["$","$L1d",null,{"href":"/docs/0.2/release-notes/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Release notes"}]}],["$","li","upgrade",{"children":["$","$L1d",null,{"href":"/docs/0.2/upgrade/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Upgrade guide"}]}]]}]]}]
+2b:T3864,<p>This page covers how your video looks: its shape, how the subtitles look and move, and the things you place on top of the picture, like a blur over the old subtitles or your logo. The preview in the middle always shows exactly what the export will look like, because both are drawn the same way.</p>
+<h2 id="format"><a class="anchor" href="#format" aria-hidden="true">#</a>Format</h2><p>Open <strong>Style</strong>. At the top, <strong>Format</strong> sets the shape of the finished video:</p>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Format</th>
+<th>For</th>
+<th>Export size</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><strong>16:9</strong></td>
+<td>YouTube, Facebook</td>
+<td>1920 × 1080</td>
+</tr>
+<tr>
+<td><strong>9:16</strong></td>
+<td>TikTok, Reels</td>
+<td>1080 × 1920</td>
+</tr>
+<tr>
+<td><strong>1:1</strong></td>
+<td>Feed</td>
+<td>1080 × 1080</td>
+</tr>
+</tbody></table></div>
+<p>New projects start on <strong>16:9</strong>. If your first video is tall, Kroma switches to <strong>9:16</strong> by itself. The <strong>Export</strong> button at the top right shows the current format, like <strong>Export 9:16</strong>.</p>
+<p>You can export the same project in each format: change the format, export, change it again, export again.</p>
+<h3 id="when-it-doesn-t-fit"><a class="anchor" href="#when-it-doesn-t-fit" aria-hidden="true">#</a>When it doesn&#39;t fit</h3><p>A wide video in a tall format (or the other way round) leaves empty space. <strong>When it doesn&#39;t fit</strong> decides what fills it:</p>
+<ul>
+<li><strong>Blur</strong>: a blurred, slightly darker copy of the video fills the space behind it. This is the usual look for a wide video in a vertical post. It&#39;s the default.</li>
+<li><strong>Bars</strong>: black bars.</li>
+<li><strong>Crop</strong>: the video is enlarged to fill the whole frame, and the edges are cut off.</li>
+</ul>
+<h2 id="subtitle-style"><a class="anchor" href="#subtitle-style" aria-hidden="true">#</a>Subtitle style</h2><p>The <strong>Subtitle style</strong> section changes how every subtitle looks.</p>
+<h3 id="presets"><a class="anchor" href="#presets" aria-hidden="true">#</a>Presets</h3><p><strong>Preset</strong> shows 33 ready-made looks as small tiles, each drawn exactly as it will look in your exported video. Click one to use it. They come in four groups:</p>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Group</th>
+<th>Presets</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><strong>Outlined</strong></td>
+<td><strong>Classic</strong> (white with a black outline), <strong>Yellow</strong>, <strong>TikTok</strong>, <strong>Minimal</strong>, <strong>Soft shadow</strong>, <strong>Cinema</strong>, <strong>Neon</strong>, <strong>Pink pop</strong>, <strong>Lime</strong>, <strong>Orange</strong></td>
+</tr>
+<tr>
+<td><strong>Glow</strong></td>
+<td><strong>Gold glow</strong>, <strong>Fire</strong>, <strong>Ice</strong>, <strong>Magic</strong></td>
+</tr>
+<tr>
+<td><strong>Khmer fonts</strong></td>
+<td><strong>Koulen</strong>, <strong>Poster</strong>, <strong>Moul gold</strong>, <strong>Moul red</strong>, <strong>Comic</strong>, <strong>Battambang</strong>, <strong>Serif</strong>, <strong>Rounded</strong>, <strong>Handwritten</strong>, <strong>Karaoke</strong></td>
+</tr>
+<tr>
+<td><strong>On a box</strong></td>
+<td><strong>Dark box</strong>, <strong>Light box</strong>, <strong>White box</strong>, <strong>Highlight</strong>, <strong>Violet box</strong>, <strong>Red box</strong>, <strong>News</strong>, <strong>Blue box</strong>, <strong>Green box</strong></td>
+</tr>
+</tbody></table></div>
+<p>A preset sets the whole look: the colours, outline, box, shadow and font. Your <strong>Size</strong>, <strong>Position</strong>, <strong>Animation</strong> and <strong>Bilingual</strong> setting stay as they are. You can change anything after picking one; if you change something the preset set, no preset shows as picked.</p>
+<p>Your own saved looks show above the presets, under <strong>My styles</strong> (see <a href="#my-styles">My styles</a>).</p>
+<h3 id="animation"><a class="anchor" href="#animation" aria-hidden="true">#</a>Animation</h3><p><strong>Animation</strong> decides how each line comes in, or how its words follow the voice:</p>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Animation</th>
+<th>What you see</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><strong>None</strong> (default)</td>
+<td>Each line just appears</td>
+</tr>
+<tr>
+<td><strong>Fade in</strong></td>
+<td>Each line fades in</td>
+</tr>
+<tr>
+<td><strong>Pop</strong></td>
+<td>Each line pops in, a little bouncy</td>
+</tr>
+<tr>
+<td><strong>Slide up</strong></td>
+<td>Each line rises into place</td>
+</tr>
+<tr>
+<td><strong>Spoken word</strong></td>
+<td>The word being said lights up (TikTok style). Pick its colour in <strong>Spoken word colour</strong> (yellow by default).</td>
+</tr>
+<tr>
+<td><strong>Word by word</strong></td>
+<td>Words appear as they&#39;re said</td>
+</tr>
+</tbody></table></div>
+<p>Lines come in over about a quarter of a second. For <strong>Spoken word</strong> and <strong>Word by word</strong>, Kroma has no exact timing for each word, so it shares the line&#39;s time between its words by their length. That follows natural speech closely enough for captions.</p>
+<p>The preview and the exported video move the same way.</p>
+<h3 id="font"><a class="anchor" href="#font" aria-hidden="true">#</a>Font</h3><p><strong>Font</strong> sets the letters. Eight fonts come with Kroma, so Khmer always looks right, even on a computer that doesn&#39;t have them:</p>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Font</th>
+<th>Look</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><strong>Kantumruy Pro</strong> (default)</td>
+<td>Clear and modern</td>
+</tr>
+<tr>
+<td><strong>Koulen</strong></td>
+<td>Bold poster letters</td>
+</tr>
+<tr>
+<td><strong>Bayon</strong></td>
+<td>Heavy and loud</td>
+</tr>
+<tr>
+<td><strong>Moul</strong></td>
+<td>Traditional title letters</td>
+</tr>
+<tr>
+<td><strong>Battambang</strong></td>
+<td>Plain and easy to read</td>
+</tr>
+<tr>
+<td><strong>Hanuman</strong></td>
+<td>Serif, like a book</td>
+</tr>
+<tr>
+<td><strong>Dangrek</strong></td>
+<td>Rounded and friendly</td>
+</tr>
+<tr>
+<td><strong>Fasthand</strong></td>
+<td>Handwritten</td>
+</tr>
+</tbody></table></div>
+<h3 id="all-the-settings"><a class="anchor" href="#all-the-settings" aria-hidden="true">#</a>All the settings</h3><div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Setting</th>
+<th>What it does</th>
+<th>Default</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><strong>Size</strong></td>
+<td>Text size, from 2.5% to 10% of the frame&#39;s shorter side</td>
+<td>5.2%</td>
+</tr>
+<tr>
+<td><strong>Position</strong></td>
+<td>How far down the screen the subtitles sit, from 20% to 98% (the bottom of the text sits here)</td>
+<td>90%</td>
+</tr>
+<tr>
+<td><strong>Outline</strong></td>
+<td>Thickness of the outline around each letter, from <strong>Off</strong> to 25</td>
+<td>12</td>
+</tr>
+<tr>
+<td><strong>Shadow</strong></td>
+<td>A soft shadow under the text, from <strong>Off</strong> to 50</td>
+<td>Off</td>
+</tr>
+<tr>
+<td><strong>Shadow colour</strong></td>
+<td>Shown when there&#39;s a shadow. Dark drops a shadow; a bright colour makes a glow</td>
+<td>Black</td>
+</tr>
+<tr>
+<td><strong>Text colour</strong></td>
+<td>The colour of the letters</td>
+<td>White</td>
+</tr>
+<tr>
+<td><strong>Outline colour</strong></td>
+<td>The colour of the outline</td>
+<td>Black</td>
+</tr>
+<tr>
+<td><strong>Bold</strong></td>
+<td>Thicker letters</td>
+<td>On</td>
+</tr>
+<tr>
+<td><strong>Dark box behind the text</strong></td>
+<td>A rounded dark box behind each line, easy to read on busy pictures</td>
+<td>Off</td>
+</tr>
+<tr>
+<td><strong>Bilingual</strong></td>
+<td>Shows the original line (for example the Chinese) above the translation, smaller and in pale yellow</td>
+<td>Off</td>
+</tr>
+</tbody></table></div>
+<p>For the colours, click the swatch to open the colour picker.</p>
+<p>Long lines wrap onto two lines, breaking only between words. When the second line would be very short, Kroma evens the two lines out.</p>
+<p>The style is saved with the project. Once you change it, the <strong>Style</strong> step in the status bar turns green. Projects from before 0.1.13 keep exactly the look they had.</p>
+<h3 id="my-styles"><a class="anchor" href="#my-styles" aria-hidden="true">#</a>My styles</h3><p>Found a look you like? Keep it for every project:</p>
+<ol>
+<li>Under the settings, press <strong>Save as my style</strong>.</li>
+<li>Give it a name (up to 40 characters) and save it.</li>
+</ol>
+<p>It keeps the whole look: font, colours, outline, shadow, size, position and animation. It shows first under <strong>Preset</strong>, in <strong>My styles</strong>, in every project, and in the <strong>Subtitle style</strong> step of <a href="/kroma/docs/0.2/batch/">Batch</a>. Picking it keeps the project&#39;s own <strong>Bilingual</strong> setting.</p>
+<p>When the current look is already saved, the row says so: <em>This look is saved as &quot;…&quot;</em>. To delete one, point at its tile and press its delete button. Projects that use it keep their look.</p>
+<p>My styles are kept in <code>my-styles.json</code> in Kroma&#39;s settings folder.</p>
+<h2 id="hide-original-subtitles"><a class="anchor" href="#hide-original-subtitles" aria-hidden="true">#</a>Hide original subtitles</h2><p>Many videos, especially Chinese dramas, have subtitles burned into the picture. Your new subtitles would sit on top of them and be hard to read. Kroma can find them and blur them for you:</p>
+<ol>
+<li>Open <strong>Objects</strong>.</li>
+<li>Press <strong>Hide original subtitles</strong>. It says <strong>Looking for burned-in subtitles…</strong> while it works.</li>
+</ol>
+<p>Kroma looks at about 30 frames across the video for the strip in the lower part of the picture where text keeps coming back, and puts a blur box exactly over it, for the whole video. The box follows the picture, so it&#39;s in the right place whether the video uses <strong>Blur</strong>, <strong>Bars</strong> or <strong>Crop</strong>.</p>
+<ul>
+<li><strong>Found</strong>: <em>Covered the burned-in subtitles</em> The box is selected, so you can fine-tune it: drag it, drag its corner, or change <strong>Blur</strong> (30 to start with).</li>
+<li><strong>None found</strong>: <em>No burned-in subtitles found</em> Kroma still adds a box where subtitles usually are, so you can move it, or delete it.</li>
+</ul>
+<p>Pressing it again replaces the box it placed before. It works on the first video on the timeline.</p>
+<p>To do this for a whole series, turn on <strong>Hide original subtitles</strong> in <a href="/kroma/docs/0.2/batch/">Batch</a>. Covers made by Kroma keep the hidden subtitles blurred too.</p>
+<h2 id="objects"><a class="anchor" href="#objects" aria-hidden="true">#</a>Objects</h2><p><strong>Objects</strong> lets you place things on top of the video. Your subtitles always stay above them.</p>
+<p>Under <strong>Add to the video</strong>:</p>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Button</th>
+<th>What you get</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><strong>Hide original subtitles</strong></td>
+<td>Finds the burned-in subtitles and blurs them (see above)</td>
+</tr>
+<tr>
+<td><strong>Blur area</strong></td>
+<td>A blur box in the middle of the picture, to hide a watermark, a face or a number plate</td>
+</tr>
+<tr>
+<td><strong>Image</strong></td>
+<td>Your logo or a sponsor&#39;s, from a <code>.png</code>, <code>.jpg</code>, <code>.jpeg</code>, <code>.webp</code> or <code>.gif</code> file. It starts in the top right corner.</td>
+</tr>
+<tr>
+<td><strong>Text</strong></td>
+<td>A short line of text, like a call to action. It starts in the top left, saying &quot;Sponsored by …&quot;.</td>
+</tr>
+</tbody></table></div>
+<p>The buttons are greyed out until there&#39;s a video on the timeline.</p>
+<h3 id="moving-and-resizing"><a class="anchor" href="#moving-and-resizing" aria-hidden="true">#</a>Moving and resizing</h3><p>On the preview:</p>
+<ul>
+<li>Click an object to select it. It gets a dashed white outline.</li>
+<li>Drag it to move it.</li>
+<li>Drag the round handle at its bottom right corner to resize it.</li>
+</ul>
+<p>Images keep their shape when you resize them. For text, making the box taller makes the letters bigger; the width follows the text.</p>
+<h3 id="object-settings"><a class="anchor" href="#object-settings" aria-hidden="true">#</a>Object settings</h3><p>When an object is selected, its settings show at the bottom of the <strong>Objects</strong> panel:</p>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Setting</th>
+<th>For</th>
+<th>What it does</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><strong>Blur</strong></td>
+<td>Blur boxes</td>
+<td>How strong the blur is, from 2 to 40</td>
+</tr>
+<tr>
+<td><strong>Opacity</strong></td>
+<td>Images and text</td>
+<td>How see-through it is, from 10% to 100%</td>
+</tr>
+<tr>
+<td><strong>Text</strong></td>
+<td>Text</td>
+<td>The words to show</td>
+</tr>
+<tr>
+<td><strong>Colours</strong></td>
+<td>Text</td>
+<td>Two swatches: the text colour, then the background colour</td>
+</tr>
+<tr>
+<td><strong>Background</strong></td>
+<td>Text</td>
+<td>A rounded box behind the text. Off, the text gets a thin dark outline instead.</td>
+</tr>
+<tr>
+<td><strong>Bold</strong></td>
+<td>Text</td>
+<td>Thicker letters</td>
+</tr>
+<tr>
+<td><strong>Whole video</strong></td>
+<td>All</td>
+<td>On: shown for the whole video</td>
+</tr>
+</tbody></table></div>
+<h3 id="showing-an-object-for-part-of-the-video"><a class="anchor" href="#showing-an-object-for-part-of-the-video" aria-hidden="true">#</a>Showing an object for part of the video</h3><p>Every object starts out shown for the whole video. To show it only for a while:</p>
+<ol>
+<li>Select the object.</li>
+<li>Turn off <strong>Whole video</strong>. It now starts where the playhead is, and lasts until the end. The switch shows the times, like <em>Shown 00:10 → end</em>.</li>
+<li>Move the playhead and press <strong>Start here</strong> or <strong>End here</strong> under <strong>Timing</strong>.</li>
+</ol>
+<h3 id="the-list-of-objects"><a class="anchor" href="#the-list-of-objects" aria-hidden="true">#</a>The list of objects</h3><p><strong>On the video</strong> lists every object you&#39;ve added. Click a name to select it. Use the eye button to <strong>Hide</strong> or <strong>Show</strong> an object (hidden ones aren&#39;t exported), and the bin to <strong>Delete</strong> it. You can also select an object and press <code>Delete</code>.</p>
+29:["$","main",null,{"className":"min-w-0","children":[false,[["$","p",null,{"className":"text-[12.5px] font-medium tracking-[0.08em] text-brand uppercase","children":"Making videos"}],["$","h1",null,{"className":"mt-2 text-[clamp(28px,4vw,40px)] font-semibold","children":"Style & objects"}],["$","div",null,{"className":"docs-prose mt-6","dangerouslySetInnerHTML":{"__html":"$2b"}}]],"$L2c"]}]
+2a:["$","aside",null,{"className":"hidden xl:sticky xl:top-[84px] xl:block xl:self-start","children":[["$","p",null,{"className":"text-xs tracking-wider text-muted-foreground uppercase","children":"On this page"}],["$","$L2d",null,{"items":[{"depth":2,"id":"format","text":"Format"},{"depth":3,"id":"when-it-doesn-t-fit","text":"When it doesn't fit"},{"depth":2,"id":"subtitle-style","text":"Subtitle style"},{"depth":3,"id":"presets","text":"Presets"},{"depth":3,"id":"animation","text":"Animation"},{"depth":3,"id":"font","text":"Font"},{"depth":3,"id":"all-the-settings","text":"All the settings"},{"depth":3,"id":"my-styles","text":"My styles"},{"depth":2,"id":"hide-original-subtitles","text":"Hide original subtitles"},{"depth":2,"id":"objects","text":"Objects"},{"depth":3,"id":"moving-and-resizing","text":"Moving and resizing"},{"depth":3,"id":"object-settings","text":"Object settings"},{"depth":3,"id":"showing-an-object-for-part-of-the-video","text":"Showing an object for part of the video"},{"depth":3,"id":"the-list-of-objects","text":"The list of objects"}]}]]}]
+2e:I[23051,["$3","$4","$5","$6","$1c"],"CodeCopy"]
+2f:I[5014,["$3","$4","$5","$6","$1c"],"default"]
+2c:[["$","$L2e",null,{"copy":"Copy","copied":"Copied"}],["$","div",null,{"className":"mt-14 grid gap-3 border-t pt-6 sm:grid-cols-2","children":[["$","$L1d",null,{"href":"/docs/0.2/translation/","className":"group rounded-lg border p-4 no-underline hover:bg-accent/50","children":[["$","span",null,{"className":"flex items-center gap-1.5 text-xs text-muted-foreground","children":[["$","$L2f",null,{"ref":"$undefined","icon":{"name":"arrow-left","size":24,"node":[["path",{"d":"m12 19-7-7 7-7","key":"1l729n"}],["path",{"d":"M19 12H5","key":"x3x0zl"}]]},"className":"size-3.5"}]," ","Previous"]}],["$","span",null,{"className":"mt-1 block text-[14px] font-medium","children":"Translation"}]]}],["$","$L1d",null,{"href":"/docs/0.2/export/","className":"group rounded-lg border p-4 text-right no-underline hover:bg-accent/50","children":[["$","span",null,{"className":"flex items-center justify-end gap-1.5 text-xs text-muted-foreground","children":["Next"," ",["$","$L2f",null,{"ref":"$undefined","icon":{"name":"arrow-right","size":24,"node":[["path",{"d":"M5 12h14","key":"1ays0h"}],["path",{"d":"m12 5 7 7-7 7","key":"xquz4c"}]]},"className":"size-3.5"}]]}],["$","span",null,{"className":"mt-1 block text-[14px] font-medium","children":"Export"}]]}]]}],["$","a",null,{"href":"https://github.com/Heang-Dev/KROMA.STUDIO/edit/main/website/content/docs/0.2/en/style-and-objects.md","target":"_blank","rel":"noreferrer","className":"mt-6 inline-flex items-center gap-1.5 text-[13px] text-muted-foreground no-underline hover:text-foreground","children":[["$","$L2f",null,{"ref":"$undefined","icon":{"name":"pencil","size":24,"node":[["path",{"d":"M21.174 6.812a1 1 0 0 0-3.986-3.987L3.842 16.174a2 2 0 0 0-.5.83l-1.321 4.352a.5.5 0 0 0 .623.622l4.353-1.32a2 2 0 0 0 .83-.497z","key":"1a8usu"}],["path",{"d":"m15 5 4 4","key":"1mk7zo"}]]},"className":"size-3.5"}]," ","Edit this page on GitHub"]}]]
+15:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+30:I[27201,["$3","$4","$5","$6"],"IconMark"]
+12:null
+18:[["$","title","0",{"children":"Style & objects · v0.2 · Docs · Kroma Studio"}],["$","meta","1",{"name":"description","content":"Download videos from YouTube, Bilibili, Douyin and 1,000+ sites, translate the subtitles to Khmer, give every character a voice, and post to YouTube, Facebook and TikTok. A free desktop app for macOS, Windows and Linux."}],["$","meta","2",{"property":"og:title","content":"Style & objects · v0.2 · Docs · Kroma Studio"}],["$","meta","3",{"property":"og:description","content":"Everything about Kroma Studio, from installing it to posting your videos."}],["$","meta","4",{"property":"og:site_name","content":"Kroma Studio"}],["$","meta","5",{"property":"og:locale","content":"en_US"}],["$","meta","6",{"property":"og:image","content":"https://heang-dev.github.io/kroma/assets/og-docs.png"}],["$","meta","7",{"property":"og:image:width","content":"1200"}],["$","meta","8",{"property":"og:image:height","content":"630"}],["$","meta","9",{"property":"og:image:alt","content":"The Kroma Studio docs"}],["$","meta","10",{"property":"og:type","content":"website"}],["$","meta","11",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","12",{"name":"twitter:title","content":"Style & objects · v0.2 · Docs · Kroma Studio"}],["$","meta","13",{"name":"twitter:description","content":"Everything about Kroma Studio, from installing it to posting your videos."}],["$","meta","14",{"name":"twitter:image","content":"https://heang-dev.github.io/kroma/assets/og-docs.png"}],["$","meta","15",{"name":"twitter:image:alt","content":"The Kroma Studio docs"}],["$","meta","16",{"name":"twitter:image:width","content":"1200"}],["$","meta","17",{"name":"twitter:image:height","content":"630"}],["$","link","18",{"rel":"icon","href":"/kroma/assets/kroma-favicon.png"}],["$","$L30","19",{}]]

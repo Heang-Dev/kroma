@@ -1,0 +1,230 @@
+1:"$Sreact.fragment"
+3:"/kroma/_next/static/chunks/04vt5_qdxg31o.js"
+4:"/kroma/_next/static/chunks/0w3ftlzy945zl.js"
+5:"/kroma/_next/static/chunks/2m9t-wks40qyw.js"
+6:"/kroma/_next/static/chunks/1a4ohd0pkdhou.js"
+7:I[39756,["$3","$4","$5","$6"],"default"]
+8:I[37457,["$3","$4","$5","$6"],"default"]
+10:I[97367,["$3","$4","$5","$6"],"OutletBoundary"]
+11:"$Sreact.suspense"
+13:"ViewportBoundary"
+14:I[97367,["$3","$4","$5","$6"],"$13"]
+16:"MetadataBoundary"
+17:I[97367,["$3","$4","$5","$6"],"$16"]
+19:I[68027,["$3","$4","$5","$6"],"default",1]
+:HL["/kroma/_next/static/chunks/3kygz3hykdx6f.css","style"]
+:HL["/kroma/_next/static/media/07a39a8a4660cc7c-s.p.0r6juujl39pe6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/kroma/_next/static/media/ac3f6c3e4821ab39-s.p.3dytz707x2doa.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/kroma/_next/static/media/ecc70a8daf50308c-s.p.2wf6rvog29rnd.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+c:X
+e:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":["$Lf",null,["$","$L10",null,{"children":["$","$11",null,{"name":"Next.MetadataOutlet","children":"$@12"}]}]]}],"p":false,"v":null}}]]
+d:[["children",{"s":{"n":"slug","t":"d","k":"configuration","s":[]},"h":66048,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$c"},"c":"$Qe"}]]
+b:[["children",{"s":{"n":"version","t":"d","k":"0.2","s":[]},"h":197120,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$c"},"c":"$Qd"}]]
+a:[["children",{"s":"docs","h":131584,"d":{"r":["$","$1","c",{"children":[[["$","script","script-0",{"src":"/kroma/_next/static/chunks/2ffur98r21h0b.js","async":true,"nonce":"$undefined"}]],["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":null},"c":"$Qb"}]]
+0:{"P":null,"c":["","docs","0.2","configuration",""],"q":"","i":false,"t":{"t":{"s":"","h":131600,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/kroma/_next/static/chunks/3kygz3hykdx6f.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/kroma/_next/static/chunks/04vt5_qdxg31o.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/kroma/_next/static/chunks/0w3ftlzy945zl.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/kroma/_next/static/chunks/2m9t-wks40qyw.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/kroma/_next/static/chunks/1a4ohd0pkdhou.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"z61v7q_variable -suo1a_variable","suppressHydrationWarning":true,"children":[["$","head",null,{"children":["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(a){try{let b=document.documentElement,c=location.pathname.slice(a.length)||\"/\",d=\"/km\"===c||c.startsWith(\"/km/\");b.lang=d?\"km\":\"en\";let e=localStorage.getItem(\"kroma-theme\");b.classList.toggle(\"dark\",e?\"dark\"===e:matchMedia(\"(prefers-color-scheme: dark)\").matches);let f=localStorage.getItem(\"kroma-lang\"),g=!1;try{let b=new URL(document.referrer);g=b.origin===location.origin&&(b.pathname+\"/\").startsWith(a+\"/\")}catch{}if(!f||g)return;let h=location.search+location.hash;\"km\"!==f||d?\"en\"===f&&d&&location.replace(a+(c.slice(3)||\"/\")+h):location.replace(a+\"/km\"+(\"/\"===c?\"/\":c)+h)}catch{}})(\"/kroma\")"}}]}],["$","body",null,{"className":"flex min-h-svh flex-col","children":["$L2",["$","div",null,{"className":"flex-1","children":["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],"$L9"]}]]}]]}],"p":false,"v":null},"c":"$Qa"},"h":{"r":["$","$1","h",{"children":[null,["$","$L14",null,{"children":"$L15"}],["$","$L17",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$11",null,{"name":"Next.Metadata","children":"$L18"}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":false,"v":null}},"m":"$undefined","G":["$19",[["$","link","0",{"rel":"stylesheet","href":"/kroma/_next/static/chunks/3kygz3hykdx6f.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"Hf2A-8s-tskzwG8lj9Zm4"}
+1a:I[19738,["$3","$4","$5","$6"],"HeaderBar"]
+1b:I[19738,["$3","$4","$5","$6"],"FooterBar"]
+c:C
+2:["$","$L1a",null,{"stars":0}]
+9:["$","$L1b",null,{"latest":{"version":"0.2.3","date":"2026-11-28T09:36:49Z"}}]
+1c:"/kroma/_next/static/chunks/2ffur98r21h0b.js"
+1d:I[22016,["$3","$4","$5","$6","$1c"],""]
+1e:I[32016,["$3","$4","$5","$6","$1c"],"VersionPicker"]
+1f:I[45613,["$3","$4","$5","$6","$1c"],"DocsNavToggle"]
+f:["$","div",null,{"className":"mx-auto w-[min(1280px,100%-32px)] grid grid-cols-1 gap-6 pt-6 pb-10 lg:gap-10 lg:pt-10 lg:grid-cols-[230px_1fr] xl:grid-cols-[230px_1fr_200px]","children":[["$","aside",null,{"className":"lg:sticky lg:top-[84px] lg:max-h-[calc(100vh-100px)] lg:self-start lg:overflow-y-auto lg:pr-2","children":[["$","$L1d",null,{"href":"/docs/0.2/","className":"mb-3 block text-xs tracking-wider text-muted-foreground uppercase no-underline hover:text-foreground","children":"Documentation"}],["$","$L1e",null,{"versions":[{"version":"0.2","label":"0.2.x","released":"2026-11-28"},{"version":"0.1","label":"0.1.x","released":"2026-11-27"}],"current":"0.2","slug":"configuration","slugsByVersion":{"0.2":["installation","configuration","updates","the-editor","first-video","downloading","subtitles","translation","style-and-objects","export","batch","characters-and-voices","voice-library","voice-engine","voice-cloning","story","posting","keyboard-shortcuts","projects-and-files","settings","notifications","troubleshooting","release-notes","upgrade"],"0.1":["installation","configuration","updates","the-editor","first-video","downloading","subtitles","translation","style-and-objects","export","characters-and-voices","voice-library","voice-engine","voice-cloning","posting","keyboard-shortcuts","projects-and-files","settings","troubleshooting","release-notes","upgrade"]},"lang":"en","latestLabel":"latest"}],["$","$L1f",null,{"current":"Add your keys","label":"Documentation","children":["$","nav",null,{"aria-label":"Documentation","className":"mt-5 grid gap-5","children":[["$","div","Getting started",{"children":[["$","p",null,{"className":"mb-1.5 px-2 text-[12px] font-semibold","children":"Getting started"}],["$","ul",null,{"className":"grid list-none gap-0.5 border-l p-0","children":[["$","li","installation",{"children":["$","$L1d",null,{"href":"/docs/0.2/installation/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Installation"}]}],["$","li","configuration",{"children":["$","$L1d",null,{"href":"/docs/0.2/configuration/","aria-current":"page","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors rounded-r-md border-brand bg-brand/10 font-medium text-brand","children":"Add your keys"}]}],["$","li","updates",{"children":["$","$L1d",null,{"href":"/docs/0.2/updates/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Updates"}]}],["$","li","the-editor",{"children":["$","$L1d",null,{"href":"/docs/0.2/the-editor/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"The editor"}]}]]}]]}],["$","div","Making videos",{"children":[["$","p",null,{"className":"mb-1.5 px-2 text-[12px] font-semibold","children":"Making videos"}],["$","ul",null,{"className":"grid list-none gap-0.5 border-l p-0","children":[["$","li","first-video",{"children":["$","$L1d",null,{"href":"/docs/0.2/first-video/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Your first video"}]}],["$","li","downloading",{"children":["$","$L1d",null,{"href":"/docs/0.2/downloading/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Downloading videos"}]}],["$","li","subtitles",{"children":"$L20"}],"$L21","$L22","$L23","$L24"]}]]}],"$L25","$L26","$L27","$L28"]}]}]]}],"$L29","$L2a"]}]
+2d:I[51896,["$3","$4","$5","$6","$1c"],"DocsToc"]
+20:["$","$L1d",null,{"href":"/docs/0.2/subtitles/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Subtitles"}]
+21:["$","li","translation",{"children":["$","$L1d",null,{"href":"/docs/0.2/translation/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Translation"}]}]
+22:["$","li","style-and-objects",{"children":["$","$L1d",null,{"href":"/docs/0.2/style-and-objects/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Style & objects"}]}]
+23:["$","li","export",{"children":["$","$L1d",null,{"href":"/docs/0.2/export/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Export"}]}]
+24:["$","li","batch",{"children":["$","$L1d",null,{"href":"/docs/0.2/batch/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Batch"}]}]
+25:["$","div","Voices",{"children":[["$","p",null,{"className":"mb-1.5 px-2 text-[12px] font-semibold","children":"Voices"}],["$","ul",null,{"className":"grid list-none gap-0.5 border-l p-0","children":[["$","li","characters-and-voices",{"children":["$","$L1d",null,{"href":"/docs/0.2/characters-and-voices/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Characters & voices"}]}],["$","li","voice-library",{"children":["$","$L1d",null,{"href":"/docs/0.2/voice-library/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Voice library"}]}],["$","li","voice-engine",{"children":["$","$L1d",null,{"href":"/docs/0.2/voice-engine/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"The voice engine"}]}],["$","li","voice-cloning",{"children":["$","$L1d",null,{"href":"/docs/0.2/voice-cloning/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Voice cloning"}]}],["$","li","story",{"children":["$","$L1d",null,{"href":"/docs/0.2/story/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Story studio"}]}]]}]]}]
+26:["$","div","Publishing",{"children":[["$","p",null,{"className":"mb-1.5 px-2 text-[12px] font-semibold","children":"Publishing"}],["$","ul",null,{"className":"grid list-none gap-0.5 border-l p-0","children":[["$","li","posting",{"children":["$","$L1d",null,{"href":"/docs/0.2/posting/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Posting"}]}]]}]]}]
+27:["$","div","Reference",{"children":[["$","p",null,{"className":"mb-1.5 px-2 text-[12px] font-semibold","children":"Reference"}],["$","ul",null,{"className":"grid list-none gap-0.5 border-l p-0","children":[["$","li","keyboard-shortcuts",{"children":["$","$L1d",null,{"href":"/docs/0.2/keyboard-shortcuts/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Keyboard shortcuts"}]}],["$","li","projects-and-files",{"children":["$","$L1d",null,{"href":"/docs/0.2/projects-and-files/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Projects and files"}]}],["$","li","settings",{"children":["$","$L1d",null,{"href":"/docs/0.2/settings/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Settings"}]}],["$","li","notifications",{"children":["$","$L1d",null,{"href":"/docs/0.2/notifications/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Notifications"}]}],["$","li","troubleshooting",{"children":["$","$L1d",null,{"href":"/docs/0.2/troubleshooting/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Troubleshooting"}]}]]}]]}]
+28:["$","div","This version",{"children":[["$","p",null,{"className":"mb-1.5 px-2 text-[12px] font-semibold","children":"This version"}],["$","ul",null,{"className":"grid list-none gap-0.5 border-l p-0","children":[["$","li","release-notes",{"children":["$","$L1d",null,{"href":"/docs/0.2/release-notes/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Release notes"}]}],["$","li","upgrade",{"children":["$","$L1d",null,{"href":"/docs/0.2/upgrade/","aria-current":"$undefined","className":"-ml-px block border-l py-1 pl-3 text-[13px] no-underline transition-colors border-transparent text-muted-foreground hover:border-muted-foreground hover:text-foreground","children":"Upgrade guide"}]}]]}]]}]
+2b:T303a,<p>Kroma uses online AI services to listen to videos, translate them and write your posts. You use them with <strong>your own keys</strong>. An API key is a long password that a service gives you, so it knows the requests come from your account. You pay Kroma nothing. You only pay what a service charges, and most of them are free to start.</p>
+<h2 id="the-short-version"><a class="anchor" href="#the-short-version" aria-hidden="true">#</a>The short version</h2><p>For most people, one free key is enough:</p>
+<ol>
+<li>Get a free <strong>Gemini</strong> key at <a href="https://aistudio.google.com/apikey" target="_blank" rel="noreferrer">Google AI Studio</a>.</li>
+<li>In Kroma, open <strong>Settings → Translation</strong>, choose <strong>Gemini</strong>, paste the key and click <strong>Save</strong>.</li>
+</ol>
+<p>That one key covers translation, speech-to-text, finding characters, finding names for the series glossary, and writing social posts. Everything below is optional.</p>
+<h2 id="what-happens-the-first-time-you-open-kroma"><a class="anchor" href="#what-happens-the-first-time-you-open-kroma" aria-hidden="true">#</a>What happens the first time you open Kroma</h2><p>The very first time you open Kroma, it opens <strong>Settings → Translation</strong> for you. After that it opens where you work. Add a key, or choose <strong>Google Translate</strong> (no key needed), then click <strong>Back to app</strong> at the top left or press <code>Esc</code> to go to the editor.</p>
+<p>You can come back any time with the <strong>Settings</strong> button at the bottom of the left rail, or <code>⌘ ,</code> on a Mac (<code>Ctrl+,</code> on Windows and Linux).</p>
+<h2 id="which-service-does-what"><a class="anchor" href="#which-service-does-what" aria-hidden="true">#</a>Which service does what</h2><div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Service</th>
+<th>Used for</th>
+<th>Cost</th>
+<th>Key</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Gemini</td>
+<td>Translation, speech-to-text, characters, glossary names, posts</td>
+<td>Free tier</td>
+<td><a href="https://aistudio.google.com/apikey" target="_blank" rel="noreferrer">Google AI Studio</a></td>
+</tr>
+<tr>
+<td>Google Translate</td>
+<td>Translation only</td>
+<td>Free</td>
+<td>No key</td>
+</tr>
+<tr>
+<td>Claude</td>
+<td>Translation, characters, glossary names, posts</td>
+<td>Paid by use</td>
+<td><a href="https://platform.claude.com/settings/keys" target="_blank" rel="noreferrer">Claude Console</a></td>
+</tr>
+<tr>
+<td>Groq</td>
+<td>Speech-to-text</td>
+<td>Free to start</td>
+<td><a href="https://console.groq.com/keys" target="_blank" rel="noreferrer">Groq Console</a></td>
+</tr>
+<tr>
+<td>OpenAI</td>
+<td>Speech-to-text</td>
+<td>Paid</td>
+<td><a href="https://platform.openai.com/api-keys" target="_blank" rel="noreferrer">OpenAI</a></td>
+</tr>
+<tr>
+<td>Microsoft voices</td>
+<td>Instant voice-over</td>
+<td>Free</td>
+<td>No key</td>
+</tr>
+<tr>
+<td>Kroma&#39;s voice engine</td>
+<td>Cloned and designed voices</td>
+<td>Free (runs on your computer or Colab)</td>
+<td>Optional token (Colab)</td>
+</tr>
+<tr>
+<td>Upload-Post</td>
+<td>Posting to YouTube, Facebook and TikTok</td>
+<td>Free plan</td>
+<td><a href="https://app.upload-post.com/api-keys" target="_blank" rel="noreferrer">Upload-Post</a></td>
+</tr>
+</tbody></table></div>
+<h2 id="translation"><a class="anchor" href="#translation" aria-hidden="true">#</a>Translation</h2><p>Open <strong>Settings → Translation</strong>. Under <strong>Translator</strong>, choose who turns the subtitles into Khmer (or your chosen language):</p>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Translator</th>
+<th>What the app says</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><strong>Gemini</strong></td>
+<td>Free tier · good Khmer</td>
+<td>The default. Also writes social posts.</td>
+</tr>
+<tr>
+<td><strong>Google Translate</strong></td>
+<td>Free · no key · basic</td>
+<td>Works straight away. Translations are literal and don&#39;t use your notes or earlier lines, so names and politeness may be off. Can&#39;t write social posts.</td>
+</tr>
+<tr>
+<td><strong>Claude</strong></td>
+<td>Paid · best Khmer</td>
+<td>The most natural Khmer, best with names and tone.</td>
+</tr>
+</tbody></table></div>
+<h3 id="gemini"><a class="anchor" href="#gemini" aria-hidden="true">#</a>Gemini</h3><ul>
+<li><strong>API key</strong>: click <strong>Get a key</strong> to open Google AI Studio. No card is needed.</li>
+<li><strong>Model</strong>: Kroma lists the models your key can use, and new versions appear by themselves. The default is <code>gemini-flash-latest</code>, which Google keeps pointed at its current Flash model. Flash models are fast and free. Pro is better but has a smaller free limit.</li>
+</ul>
+<p>The free tier limits how many requests you can send per minute. When that happens, Kroma waits and tries again. If Gemini stays busy, or your free daily limit runs out, Kroma switches to the lighter Flash-Lite model. Lines Gemini still couldn&#39;t translate are done by Google Translate, and Kroma tells you how many.</p>
+<p>Google may use free-tier requests to improve its models. Keep that in mind for private videos.</p>
+<h3 id="claude"><a class="anchor" href="#claude" aria-hidden="true">#</a>Claude</h3><ul>
+<li><strong>API key</strong>: starts with <code>sk-ant-</code>. Click <strong>Get a key</strong> to open the Claude Console. You pay Anthropic for what you use.</li>
+<li><strong>Model</strong>: <strong>Opus 5.5 · best Khmer</strong> (the default), <strong>Sonnet 5.5 · cheaper</strong>, or <strong>Haiku 5.5 · cheapest</strong>.</li>
+</ul>
+<p>If you choose Gemini but have only a Claude key, Kroma uses Claude for characters and posts.</p>
+<h3 id="speed"><a class="anchor" href="#speed" aria-hidden="true">#</a>Speed</h3><p><strong>Parallel requests</strong> sets how many batches run at once for translation and speech-to-text: <strong>2</strong>, <strong>4</strong> (the default), <strong>6</strong> or <strong>8</strong>. Higher is faster. Lower it if a service says you&#39;re sending too much.</p>
+<h2 id="speech-to-text"><a class="anchor" href="#speech-to-text" aria-hidden="true">#</a>Speech to Text</h2><p>Speech-to-text turns the video&#39;s speech into timed lines. Kroma only needs it when the video didn&#39;t come with the site&#39;s own subtitles. Open <strong>Settings → Speech to Text</strong> and choose a service:</p>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Service</th>
+<th>What the app says</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><strong>Gemini</strong></td>
+<td>Your Gemini key · accurate</td>
+<td>The default. Uses the key from Settings → Translation, so there&#39;s nothing else to set up. Very accurate, with punctuation, but takes about a minute for every 2 minutes of speech.</td>
+</tr>
+<tr>
+<td><strong>Groq</strong></td>
+<td>Free key · fastest</td>
+<td>Runs Whisper large-v3. A whole movie in about a minute. Keys start with <code>gsk_</code>.</td>
+</tr>
+<tr>
+<td><strong>OpenAI</strong></td>
+<td>Paid · Whisper</td>
+<td>Uses the <code>whisper-1</code> model. Keys start with <code>sk-</code>.</td>
+</tr>
+</tbody></table></div>
+<p>For long movies, Groq is much faster than Gemini.</p>
+<p>With Groq or OpenAI, an <strong>Advanced</strong> card shows the <strong>Endpoint</strong> and <strong>Model</strong>. You can point Kroma at any OpenAI-compatible transcription service there. Most people never need to change these.</p>
+<h2 id="voice-engine-optional"><a class="anchor" href="#voice-engine-optional" aria-hidden="true">#</a>Voice Engine (optional)</h2><p>The instant voices from Microsoft need no key. For cloned voices (made from a short recording) and designed voices (storyteller, news anchor and so on), Kroma uses its own voice engine, built into the app. In <strong>Settings → Voice Engine</strong>, press <strong>Install voice engine</strong> once (about 2 GB), then <strong>Start engine</strong>. To use a free Google Colab GPU instead, switch <strong>Where it runs</strong> to <strong>Google Colab</strong> and enter its <strong>Engine address</strong> and <strong>Token</strong>. The status row shows whether the engine is on. See <a href="/kroma/docs/0.2/voice-engine/">Voice engine</a>.</p>
+<h2 id="posting-optional"><a class="anchor" href="#posting-optional" aria-hidden="true">#</a>Posting (optional)</h2><p>To post to YouTube, Facebook and TikTok in one click, add an <strong>Upload-Post</strong> key in <strong>Settings → Posting</strong>, then press <strong>Connect</strong> to sign in to each platform. YouTube and Facebook work on Upload-Post&#39;s free plan (10 posts a month). TikTok needs their Basic plan. See <a href="/kroma/docs/0.2/posting/">Posting</a>.</p>
+<h2 id="downloads-and-folders"><a class="anchor" href="#downloads-and-folders" aria-hidden="true">#</a>Downloads and folders</h2><p>Not keys, but worth setting once:</p>
+<ul>
+<li><strong>Settings → Downloads → Use my logins from</strong>: some sites, like Bilibili, only give 1080p, or only play some videos, when you&#39;re signed in. Choose the browser you&#39;re signed in with: Chrome, Safari, Firefox, Edge or Brave. Your system may ask to allow access. Safari also needs Full Disk Access. See <a href="/kroma/docs/0.2/downloading/">Downloading</a>.</li>
+<li><strong>Settings → Folders</strong>: where exports and downloads go. By default it&#39;s your Movies folder (Mac) or Videos folder (Windows, Linux), then <strong>Kroma Studio → Exports</strong> and <strong>Kroma Studio → downloads</strong>. See <a href="/kroma/docs/0.2/settings/">Settings</a>.</li>
+</ul>
+<h2 id="saving-replacing-and-removing-a-key"><a class="anchor" href="#saving-replacing-and-removing-a-key" aria-hidden="true">#</a>Saving, replacing and removing a key</h2><p>Every key field works the same way:</p>
+<ol>
+<li>Paste the key and click <strong>Save</strong>. A green <strong>Saved</strong> badge appears next to the label.</li>
+<li>Kroma never shows a saved key again, not even to you. To change it, click <strong>Replace</strong>, paste the new one and click <strong>Save</strong> (or <strong>Cancel</strong>).</li>
+<li>To delete it, click <strong>Remove</strong>.</li>
+</ol>
+<p>Settings save as soon as you change them. There&#39;s no separate Save button for the page.</p>
+<h2 id="how-your-keys-are-kept-safe"><a class="anchor" href="#how-your-keys-are-kept-safe" aria-hidden="true">#</a>How your keys are kept safe</h2><ul>
+<li>Keys are stored in Kroma&#39;s <code>settings.json</code> file, encrypted with your system&#39;s keychain (the macOS Keychain, Windows&#39; data protection, or the Linux keyring). On a Linux computer with no keyring available, they&#39;re stored without encryption.</li>
+<li>Each key is only sent to its own service. Your Gemini key only goes to Google, your Groq key only to Groq, and so on.</li>
+<li>Kroma has no server of its own. Nothing goes through Kroma.</li>
+<li>Keys stay saved through updates. If a new version of Kroma can&#39;t read a key from the Mac&#39;s keychain, the key is kept, and <strong>Settings</strong> says <em>A key is saved, but this version of Kroma can&#39;t read it from the keychain</em>. Paste it again, or choose <strong>Always Allow</strong> when your Mac asks.</li>
+</ul>
+<h2 id="if-a-key-doesn-t-work"><a class="anchor" href="#if-a-key-doesn-t-work" aria-hidden="true">#</a>If a key doesn&#39;t work</h2><p>Common messages and what they mean:</p>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Message</th>
+<th>What to do</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>&quot;Add your free Gemini key in Settings → Translation, or choose Google Translate there.&quot;</td>
+<td>No Gemini key is saved. Add one, or switch translator.</td>
+</tr>
+<tr>
+<td>&quot;Add your speech-to-text API key in Settings → Speech to Text (Groq is free to start).&quot;</td>
+<td>You chose Groq or OpenAI but saved no key for it.</td>
+</tr>
+<tr>
+<td>&quot;The speech-to-text API key was refused. Check it in Settings.&quot;</td>
+<td>The key is wrong or was deleted. Copy it again from the service.</td>
+</tr>
+<tr>
+<td>&quot;Writing posts needs an AI: add a free Gemini key (or a Claude key) in Settings → Translation.&quot;</td>
+<td>Google Translate can&#39;t write posts. Add a Gemini or Claude key.</td>
+</tr>
+</tbody></table></div>
+<p>More help is in <a href="/kroma/docs/0.2/troubleshooting/">Troubleshooting</a>.</p>
+29:["$","main",null,{"className":"min-w-0","children":[false,[["$","p",null,{"className":"text-[12.5px] font-medium tracking-[0.08em] text-brand uppercase","children":"Getting started"}],["$","h1",null,{"className":"mt-2 text-[clamp(28px,4vw,40px)] font-semibold","children":"Add your keys"}],["$","div",null,{"className":"docs-prose mt-6","dangerouslySetInnerHTML":{"__html":"$2b"}}]],"$L2c"]}]
+2a:["$","aside",null,{"className":"hidden xl:sticky xl:top-[84px] xl:block xl:self-start","children":[["$","p",null,{"className":"text-xs tracking-wider text-muted-foreground uppercase","children":"On this page"}],["$","$L2d",null,{"items":[{"depth":2,"id":"the-short-version","text":"The short version"},{"depth":2,"id":"what-happens-the-first-time-you-open-kroma","text":"What happens the first time you open Kroma"},{"depth":2,"id":"which-service-does-what","text":"Which service does what"},{"depth":2,"id":"translation","text":"Translation"},{"depth":3,"id":"gemini","text":"Gemini"},{"depth":3,"id":"claude","text":"Claude"},{"depth":3,"id":"speed","text":"Speed"},{"depth":2,"id":"speech-to-text","text":"Speech to Text"},{"depth":2,"id":"voice-engine-optional","text":"Voice Engine (optional)"},{"depth":2,"id":"posting-optional","text":"Posting (optional)"},{"depth":2,"id":"downloads-and-folders","text":"Downloads and folders"},{"depth":2,"id":"saving-replacing-and-removing-a-key","text":"Saving, replacing and removing a key"},{"depth":2,"id":"how-your-keys-are-kept-safe","text":"How your keys are kept safe"},{"depth":2,"id":"if-a-key-doesn-t-work","text":"If a key doesn't work"}]}]]}]
+2e:I[23051,["$3","$4","$5","$6","$1c"],"CodeCopy"]
+2f:I[5014,["$3","$4","$5","$6","$1c"],"default"]
+2c:[["$","$L2e",null,{"copy":"Copy","copied":"Copied"}],["$","div",null,{"className":"mt-14 grid gap-3 border-t pt-6 sm:grid-cols-2","children":[["$","$L1d",null,{"href":"/docs/0.2/installation/","className":"group rounded-lg border p-4 no-underline hover:bg-accent/50","children":[["$","span",null,{"className":"flex items-center gap-1.5 text-xs text-muted-foreground","children":[["$","$L2f",null,{"ref":"$undefined","icon":{"name":"arrow-left","size":24,"node":[["path",{"d":"m12 19-7-7 7-7","key":"1l729n"}],["path",{"d":"M19 12H5","key":"x3x0zl"}]]},"className":"size-3.5"}]," ","Previous"]}],["$","span",null,{"className":"mt-1 block text-[14px] font-medium","children":"Installation"}]]}],["$","$L1d",null,{"href":"/docs/0.2/updates/","className":"group rounded-lg border p-4 text-right no-underline hover:bg-accent/50","children":[["$","span",null,{"className":"flex items-center justify-end gap-1.5 text-xs text-muted-foreground","children":["Next"," ",["$","$L2f",null,{"ref":"$undefined","icon":{"name":"arrow-right","size":24,"node":[["path",{"d":"M5 12h14","key":"1ays0h"}],["path",{"d":"m12 5 7 7-7 7","key":"xquz4c"}]]},"className":"size-3.5"}]]}],["$","span",null,{"className":"mt-1 block text-[14px] font-medium","children":"Updates"}]]}]]}],["$","a",null,{"href":"https://github.com/Heang-Dev/KROMA.STUDIO/edit/main/website/content/docs/0.2/en/configuration.md","target":"_blank","rel":"noreferrer","className":"mt-6 inline-flex items-center gap-1.5 text-[13px] text-muted-foreground no-underline hover:text-foreground","children":[["$","$L2f",null,{"ref":"$undefined","icon":{"name":"pencil","size":24,"node":[["path",{"d":"M21.174 6.812a1 1 0 0 0-3.986-3.987L3.842 16.174a2 2 0 0 0-.5.83l-1.321 4.352a.5.5 0 0 0 .623.622l4.353-1.32a2 2 0 0 0 .83-.497z","key":"1a8usu"}],["path",{"d":"m15 5 4 4","key":"1mk7zo"}]]},"className":"size-3.5"}]," ","Edit this page on GitHub"]}]]
+15:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+30:I[27201,["$3","$4","$5","$6"],"IconMark"]
+12:null
+18:[["$","title","0",{"children":"Add your keys · v0.2 · Docs · Kroma Studio"}],["$","meta","1",{"name":"description","content":"Download videos from YouTube, Bilibili, Douyin and 1,000+ sites, translate the subtitles to Khmer, give every character a voice, and post to YouTube, Facebook and TikTok. A free desktop app for macOS, Windows and Linux."}],["$","meta","2",{"property":"og:title","content":"Add your keys · v0.2 · Docs · Kroma Studio"}],["$","meta","3",{"property":"og:description","content":"Everything about Kroma Studio, from installing it to posting your videos."}],["$","meta","4",{"property":"og:site_name","content":"Kroma Studio"}],["$","meta","5",{"property":"og:locale","content":"en_US"}],["$","meta","6",{"property":"og:image","content":"https://heang-dev.github.io/kroma/assets/og-docs.png"}],["$","meta","7",{"property":"og:image:width","content":"1200"}],["$","meta","8",{"property":"og:image:height","content":"630"}],["$","meta","9",{"property":"og:image:alt","content":"The Kroma Studio docs"}],["$","meta","10",{"property":"og:type","content":"website"}],["$","meta","11",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","12",{"name":"twitter:title","content":"Add your keys · v0.2 · Docs · Kroma Studio"}],["$","meta","13",{"name":"twitter:description","content":"Everything about Kroma Studio, from installing it to posting your videos."}],["$","meta","14",{"name":"twitter:image","content":"https://heang-dev.github.io/kroma/assets/og-docs.png"}],["$","meta","15",{"name":"twitter:image:alt","content":"The Kroma Studio docs"}],["$","meta","16",{"name":"twitter:image:width","content":"1200"}],["$","meta","17",{"name":"twitter:image:height","content":"630"}],["$","link","18",{"rel":"icon","href":"/kroma/assets/kroma-favicon.png"}],["$","$L30","19",{}]]
