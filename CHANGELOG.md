@@ -4,6 +4,14 @@ Every Kroma Studio release, newest first, written for the people who use Kroma.
 
 Each version's section is that release's notes: it's written here first, before the release, and the GitHub release on [Heang-Dev/kroma](https://github.com/Heang-Dev/kroma/releases) uses it word for word. The same notes appear on the website's [Changelog](https://heang-dev.github.io/kroma/changelog/).
 
+## 0.2.1 — 2026-11-28
+
+Notifications you hear and see, even when your Mac hides them.
+
+- **The notification sound always plays.** On the Mac, Kroma now plays the sound you chose in **Settings → Notifications** itself, inside Kroma and while you're in another app, even when macOS mutes Kroma's notifications. You never hear it twice.
+- **Unread count on the Dock icon.** Kroma's icon shows how many notifications you haven't seen, so finished or failed work stands out even without banners. It bounces once when something fails while you're in another app.
+- **Help when banners don't pop up.** **Settings → Notifications → Not seeing them?** explains the alert style (**Banners** or **Alerts**) and Focus, and **Notification log** shows what Kroma sent and whether your computer showed it.
+
 ## 0.2.0 — 2026-11-28
 
 Tools for whole series: hide the original subtitles automatically, animated captions, one spelling for every name, your own styles, and numbered episode covers.
