@@ -7,6 +7,6 @@ The website, its docs and the app are all edited in **`../KROMA.STUDIO`** (`Hean
 - **Every release** (patch, minor or major) updates the changelog, **first**: the version's section goes into `CHANGELOG.md` in `../KROMA.STUDIO` before the version is tagged. That section is the release's notes on this repo's Releases, and the site is republished so its Changelog shows it.
 - **Minor or major releases** (0.1.x → 0.2.0) also update the docs: a new docs version and a full review of the site. Patches never change the docs.
 
-Only two files here change by hand:
-- `CHANGELOG.md`: a copy of `../KROMA.STUDIO/CHANGELOG.md`, copied over at every release. Never edit it here; edit the one in `KROMA.STUDIO` and copy it.
+Only these files change by hand:
+- `CHANGELOG.md` and `CHANGELOG.km.md` (its Khmer translation): copies of the ones in `../KROMA.STUDIO`, copied over at every release. Never edit them here; edit the ones in `KROMA.STUDIO` and copy them.
 - `README.md`: update it at minor and major releases: its feature text, its screenshots, and any docs links that name a version.
