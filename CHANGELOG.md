@@ -4,6 +4,16 @@ Every Kroma Studio release, newest first, written for the people who use Kroma.
 
 Each version's section is that release's notes: it's written here first, before the release, and the GitHub release on [Heang-Dev/kroma](https://github.com/Heang-Dev/kroma/releases) uses it word for word. The same notes appear on the website's [Changelog](https://heang-dev.github.io/kroma/changelog/).
 
+## 0.1.11 — 2026-11-28
+
+Your API keys stay saved through updates, Kroma opens where you work, and notifications can make a sound.
+
+- **API keys no longer disappear after an update.** If a new version of Kroma can't read a saved key from the Mac's keychain, the key is kept instead of being lost, and **Settings** says so. Paste it again, or choose **Always Allow** when your Mac asks. If your keys went missing after an earlier update, paste them once more in **Settings → Translation**, **Speech to Text** and **Posting**.
+- **Kroma opens where you work.** **Settings → Translation** now opens only the very first time you start Kroma, not after every restart or update.
+- **Notification sounds.** In **Settings → Notifications**, choose a sound for **When work is done** and **When something fails** (on the Mac, from its own sounds), and press **Play** to hear it. Notices shown inside Kroma play the sound too.
+- **Not seeing notifications?** **Settings → Notifications → Not seeing them?** opens your system's notification settings, where you can allow Kroma Studio and its sound.
+- The notification bell now sits after **New**, **Open** and **Save** in the title bar.
+
 ## 0.1.10 — 2026-11-27
 
 **Batch: process many videos at once**
